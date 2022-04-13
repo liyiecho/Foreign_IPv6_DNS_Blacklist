@@ -1178,7 +1178,6 @@
 ||35955mm.com^$dnstype=AAAA
 ||35955n.com^$dnstype=AAAA
 ||360289.com^$dnstype=AAAA
-||3603765.com^$dnstype=AAAA
 ||36060555.com^$dnstype=AAAA
 ||362665.com^$dnstype=AAAA
 ||3630685.com^$dnstype=AAAA
