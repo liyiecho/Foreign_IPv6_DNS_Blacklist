@@ -20,6 +20,6 @@ jobs:
            branch: main
            commit_options: '--no-verify --signoff'
            repository: .
-           commit_user_name: ''
-           commit_user_email: ''
+           commit_user_name: My GitHub Actions Bot
+           commit_user_email: my-github-actions-bot@example.org
            push_options: '--force'
