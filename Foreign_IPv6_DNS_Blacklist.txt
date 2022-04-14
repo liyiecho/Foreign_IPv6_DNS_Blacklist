@@ -2643,7 +2643,6 @@
 ||99135.com^$dnstype=AAAA
 ||9918811.com^$dnstype=AAAA
 ||9938153.com^$dnstype=AAAA
-||9949469.com^$dnstype=AAAA
 ||9960.com^$dnstype=AAAA
 ||9960cp1.com^$dnstype=AAAA
 ||9960xl.com^$dnstype=AAAA
@@ -5588,6 +5587,7 @@
 ||biz.tm^$dnstype=AAAA
 ||bizhat.com^$dnstype=AAAA
 ||bizimama.com^$dnstype=AAAA
+||bizographics.com^$dnstype=AAAA
 ||bizppurio.com^$dnstype=AAAA
 ||biztech.ro^$dnstype=AAAA
 ||bizzapp.com^$dnstype=AAAA
@@ -8740,6 +8740,7 @@
 ||dbgjd.com^$dnstype=AAAA
 ||dbr.ee^$dnstype=AAAA
 ||dbw9999.com^$dnstype=AAAA
+||dc-msedge.net^$dnstype=AAAA
 ||dc0031.com^$dnstype=AAAA
 ||dc0062.com^$dnstype=AAAA
 ||dc0063.com^$dnstype=AAAA
@@ -13142,6 +13143,7 @@
 ||gputechconf.com^$dnstype=AAAA
 ||gqfx.com^$dnstype=AAAA
 ||gqueues.com^$dnstype=AAAA
+||gr-assets.com^$dnstype=AAAA
 ||gr.jp^$dnstype=AAAA
 ||gr8domain.biz^$dnstype=AAAA
 ||gr8name.biz^$dnstype=AAAA
@@ -16682,6 +16684,7 @@
 ||kzeng.info^$dnstype=AAAA
 ||kzqzb.com^$dnstype=AAAA
 ||kzsxy.org^$dnstype=AAAA
+||l-msedge.net^$dnstype=AAAA
 ||la-conjugaison.fr^$dnstype=AAAA
 ||la-forum.org^$dnstype=AAAA
 ||la4065.com^$dnstype=AAAA
@@ -23197,6 +23200,7 @@
 ||scasino.com^$dnstype=AAAA
 ||sccycles.cl^$dnstype=AAAA
 ||scdn.co^$dnstype=AAAA
+||scene7.com^$dnstype=AAAA
 ||scenesource.me^$dnstype=AAAA
 ||sceper.ws^$dnstype=AAAA
 ||scgpbl.cn^$dnstype=AAAA
