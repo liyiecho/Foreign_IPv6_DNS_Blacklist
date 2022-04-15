@@ -2239,7 +2239,6 @@
 ||8524952.com^$dnstype=AAAA
 ||8545.com^$dnstype=AAAA
 ||855126.com^$dnstype=AAAA
-||8562475.com^$dnstype=AAAA
 ||8567820.com^$dnstype=AAAA
 ||8580368.com^$dnstype=AAAA
 ||858244.com^$dnstype=AAAA
@@ -6768,7 +6767,6 @@
 ||ca998.com^$dnstype=AAAA
 ||caa-ins.org^$dnstype=AAAA
 ||cabet066.com^$dnstype=AAAA
-||cabet097.com^$dnstype=AAAA
 ||cabet100.com^$dnstype=AAAA
 ||cabet120.com^$dnstype=AAAA
 ||cabet125.com^$dnstype=AAAA
