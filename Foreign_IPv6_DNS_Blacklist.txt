@@ -13392,7 +13392,6 @@
 ||hackyourconsole.com^$dnstype=AAAA
 ||hagyomany.ro^$dnstype=AAAA
 ||hahlo.com^$dnstype=AAAA
-||haichuangyipin.com^$dnstype=AAAA
 ||haima888.com^$dnstype=AAAA
 ||half.com^$dnstype=AAAA
 ||half.tv^$dnstype=AAAA
@@ -17589,7 +17588,6 @@
 ||macangmonastery.org^$dnstype=AAAA
 ||macau-focus.com^$dnstype=AAAA
 ||macau-jc.com^$dnstype=AAAA
-||macau-slot.com^$dnstype=AAAA
 ||macaubusiness.com^$dnstype=AAAA
 ||macbook.co^$dnstype=AAAA
 ||macbook.wang^$dnstype=AAAA
