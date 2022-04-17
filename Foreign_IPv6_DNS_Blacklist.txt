@@ -559,7 +559,6 @@
 ||17xtv.net^$dnstype=AAAA
 ||18-luck.com^$dnstype=AAAA
 ||1800704.com^$dnstype=AAAA
-||18123.com^$dnstype=AAAA
 ||18123cpz.com^$dnstype=AAAA
 ||1818.net^$dnstype=AAAA
 ||1818558.com^$dnstype=AAAA
@@ -6776,7 +6775,6 @@
 ||cabet226.com^$dnstype=AAAA
 ||cabet228.com^$dnstype=AAAA
 ||cabet258.com^$dnstype=AAAA
-||cabet265.com^$dnstype=AAAA
 ||cabet266.com^$dnstype=AAAA
 ||cabet274.com^$dnstype=AAAA
 ||cabet343.com^$dnstype=AAAA
@@ -29299,7 +29297,6 @@
 ||y869.com^$dnstype=AAAA
 ||ya997.com^$dnstype=AAAA
 ||yabo260.com^$dnstype=AAAA
-||yabo808.com^$dnstype=AAAA
 ||yaboxxx126.com^$dnstype=AAAA
 ||yaboxxx998.com^$dnstype=AAAA
 ||yacy.net^$dnstype=AAAA
