@@ -15973,6 +15973,7 @@
 ||jiduvpn.com^$dnstype=AAAA
 ||jiedaibao10g.com^$dnstype=AAAA
 ||jiehua.cz^$dnstype=AAAA
+||jiepang.com^$dnstype=AAAA
 ||jiezhi888.com^$dnstype=AAAA
 ||jigglegifs.com^$dnstype=AAAA
 ||jigong1024.com^$dnstype=AAAA
@@ -24730,7 +24731,6 @@
 ||sumrando.com^$dnstype=AAAA
 ||sun.com^$dnstype=AAAA
 ||sun0000.com^$dnstype=AAAA
-||sun0002.com^$dnstype=AAAA
 ||sun0003.com^$dnstype=AAAA
 ||sun0004.com^$dnstype=AAAA
 ||sun0006.com^$dnstype=AAAA
