@@ -1820,7 +1820,6 @@
 ||666365.am^$dnstype=AAAA
 ||666365.bet^$dnstype=AAAA
 ||666365.tv^$dnstype=AAAA
-||6664398.com^$dnstype=AAAA
 ||666622222.com^$dnstype=AAAA
 ||666623333.com^$dnstype=AAAA
 ||666624444.com^$dnstype=AAAA
@@ -23012,6 +23011,7 @@
 ||s-cute.com^$dnstype=AAAA
 ||s-dragon.org^$dnstype=AAAA
 ||s-microsoft.com^$dnstype=AAAA
+||s-msn.com^$dnstype=AAAA
 ||s-nbcnews.com^$dnstype=AAAA
 ||s-onetag.com^$dnstype=AAAA
 ||s-xoom.com^$dnstype=AAAA
