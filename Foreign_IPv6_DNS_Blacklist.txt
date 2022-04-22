@@ -12660,7 +12660,6 @@
 ||ghostpath.com^$dnstype=AAAA
 ||ghostvpn.com^$dnstype=AAAA
 ||ghst.net^$dnstype=AAAA
-||ghtrht.com^$dnstype=AAAA
 ||ghut.org^$dnstype=AAAA
 ||giantessnight.com^$dnstype=AAAA
 ||giantrobotfactory.com^$dnstype=AAAA
@@ -20474,6 +20473,7 @@
 ||openmaps.org^$dnstype=AAAA
 ||openmine.cl^$dnstype=AAAA
 ||openobservatory.org^$dnstype=AAAA
+||opensea.io^$dnstype=AAAA
 ||opensource.google^$dnstype=AAAA
 ||opensourceinsight.dev^$dnstype=AAAA
 ||opensourceinsights.dev^$dnstype=AAAA
