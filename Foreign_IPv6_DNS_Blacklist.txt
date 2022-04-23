@@ -2178,7 +2178,6 @@
 ||8270060.com^$dnstype=AAAA
 ||8278z.com^$dnstype=AAAA
 ||828360.com^$dnstype=AAAA
-||8284204.com^$dnstype=AAAA
 ||828681.com^$dnstype=AAAA
 ||828689.com^$dnstype=AAAA
 ||828968.com^$dnstype=AAAA
@@ -10469,7 +10468,6 @@
 ||eulam.com^$dnstype=AAAA
 ||euphotravel.com^$dnstype=AAAA
 ||eurashe.be^$dnstype=AAAA
-||eurasia-montpellier.org^$dnstype=AAAA
 ||eurasianet.org^$dnstype=AAAA
 ||eurekaselect.com^$dnstype=AAAA
 ||eurekavpt.com^$dnstype=AAAA
