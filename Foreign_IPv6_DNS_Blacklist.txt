@@ -9752,7 +9752,6 @@
 ||dyvip18.com^$dnstype=AAAA
 ||dyvip70.com^$dnstype=AAAA
 ||dyvip888.com^$dnstype=AAAA
-||dyx.com^$dnstype=AAAA
 ||dzb086.com^$dnstype=AAAA
 ||dzb088.com^$dnstype=AAAA
 ||dzbapp.com^$dnstype=AAAA
