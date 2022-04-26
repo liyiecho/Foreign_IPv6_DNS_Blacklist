@@ -7893,6 +7893,7 @@
 ||codecademy.com^$dnstype=AAAA
 ||codecampo.com^$dnstype=AAAA
 ||codefarmer.cf^$dnstype=AAAA
+||codeforaliving.io^$dnstype=AAAA
 ||codeger.com^$dnstype=AAAA
 ||codeguru.com^$dnstype=AAAA
 ||codei.sh^$dnstype=AAAA
@@ -12152,6 +12153,7 @@
 ||fun702.com^$dnstype=AAAA
 ||fun712.com^$dnstype=AAAA
 ||fun737.com^$dnstype=AAAA
+||fun767.com^$dnstype=AAAA
 ||fun7733.com^$dnstype=AAAA
 ||fun78.com^$dnstype=AAAA
 ||fun780.com^$dnstype=AAAA
@@ -12513,7 +12515,6 @@
 ||germandeli.com^$dnstype=AAAA
 ||germany-webproxy.de^$dnstype=AAAA
 ||gerritcodereview.com^$dnstype=AAAA
-||gesgxsj.com^$dnstype=AAAA
 ||gesundteam.se^$dnstype=AAAA
 ||get-a-fuck-tonight.com^$dnstype=AAAA
 ||get-express-vpn.com^$dnstype=AAAA
@@ -22849,7 +22850,6 @@
 ||rockethub.com^$dnstype=AAAA
 ||rocketreading123.com^$dnstype=AAAA
 ||rocketvpn.net^$dnstype=AAAA
-||rockpays.com^$dnstype=AAAA
 ||rocksdb.com^$dnstype=AAAA
 ||rocksdb.net^$dnstype=AAAA
 ||rocksdb.org^$dnstype=AAAA
@@ -24451,9 +24451,11 @@
 ||stackexchange.com^$dnstype=AAAA
 ||stackmod.blog^$dnstype=AAAA
 ||stackoverflow.blog^$dnstype=AAAA
+||stackoverflow.co^$dnstype=AAAA
 ||stackoverflow.com^$dnstype=AAAA
 ||stackoverflow.email^$dnstype=AAAA
 ||stackoverflowbusiness.com^$dnstype=AAAA
+||stackoverflowcareers.com^$dnstype=AAAA
 ||stackpath.com^$dnstype=AAAA
 ||stackpath.dev^$dnstype=AAAA
 ||stackpathcdn.com^$dnstype=AAAA
