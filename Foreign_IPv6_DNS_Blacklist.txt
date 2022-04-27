@@ -322,7 +322,6 @@
 ||118702000.com^$dnstype=AAAA
 ||11871117.com^$dnstype=AAAA
 ||11871128.com^$dnstype=AAAA
-||1188556.com^$dnstype=AAAA
 ||118888vip.com^$dnstype=AAAA
 ||1192951.com^$dnstype=AAAA
 ||119sihu.com^$dnstype=AAAA
@@ -20037,6 +20036,7 @@
 ||ntdca.com^$dnstype=AAAA
 ||ntdcantonese.com^$dnstype=AAAA
 ||ntdimg.com^$dnstype=AAAA
+||ntdtv-dc.com^$dnstype=AAAA
 ||ntdtv.ca^$dnstype=AAAA
 ||ntdtv.com^$dnstype=AAAA
 ||ntdtv.cz^$dnstype=AAAA
