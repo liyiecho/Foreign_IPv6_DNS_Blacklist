@@ -522,6 +522,7 @@
 ||17-js.com^$dnstype=AAAA
 ||170525.com^$dnstype=AAAA
 ||171gifs.com^$dnstype=AAAA
+||1731788.com^$dnstype=AAAA
 ||173js.cn^$dnstype=AAAA
 ||173ng.com^$dnstype=AAAA
 ||1748097.com^$dnstype=AAAA
@@ -2501,7 +2502,6 @@
 ||9599001.net^$dnstype=AAAA
 ||95992222.net^$dnstype=AAAA
 ||95992222gg.com^$dnstype=AAAA
-||95993333.com^$dnstype=AAAA
 ||95993333a.com^$dnstype=AAAA
 ||95994499.com^$dnstype=AAAA
 ||9599888.cc^$dnstype=AAAA
