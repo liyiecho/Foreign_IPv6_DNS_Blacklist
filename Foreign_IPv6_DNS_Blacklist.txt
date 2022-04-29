@@ -14222,6 +14222,7 @@
 ||howtoforge.com^$dnstype=AAAA
 ||howtohackfacebook-account.com^$dnstype=AAAA
 ||hoxx.com^$dnstype=AAAA
+||hoyo.link^$dnstype=AAAA
 ||hoyolab.com^$dnstype=AAAA
 ||hoyoverse.com^$dnstype=AAAA
 ||hp-imagine.com^$dnstype=AAAA
@@ -20473,6 +20474,7 @@
 ||openobservatory.org^$dnstype=AAAA
 ||opensea.io^$dnstype=AAAA
 ||opensource.google^$dnstype=AAAA
+||opensource.guide^$dnstype=AAAA
 ||opensourceinsight.dev^$dnstype=AAAA
 ||opensourceinsights.dev^$dnstype=AAAA
 ||openssl.org^$dnstype=AAAA
