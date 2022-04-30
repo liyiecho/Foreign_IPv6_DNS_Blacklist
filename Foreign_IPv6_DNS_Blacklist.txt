@@ -13266,7 +13266,6 @@
 ||gtblmdc.com^$dnstype=AAAA
 ||gtbxtv.com^$dnstype=AAAA
 ||gtdollar.com^$dnstype=AAAA
-||gtjtht.com^$dnstype=AAAA
 ||gtloli.com^$dnstype=AAAA
 ||gtloli.net^$dnstype=AAAA
 ||gtricks.com^$dnstype=AAAA
@@ -29013,7 +29012,6 @@
 ||xinaomen2.com^$dnstype=AAAA
 ||xinbao.de^$dnstype=AAAA
 ||xinbao6.net^$dnstype=AAAA
-||xinbao6.top^$dnstype=AAAA
 ||xinbet.net^$dnstype=AAAA
 ||xindelu.com^$dnstype=AAAA
 ||xing.com^$dnstype=AAAA
