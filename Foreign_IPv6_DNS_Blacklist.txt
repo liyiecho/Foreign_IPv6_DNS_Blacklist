@@ -974,6 +974,7 @@
 ||2819201.com^$dnstype=AAAA
 ||28365365.com^$dnstype=AAAA
 ||2858567.com^$dnstype=AAAA
+||2885.com^$dnstype=AAAA
 ||28858855.com^$dnstype=AAAA
 ||288x.com^$dnstype=AAAA
 ||288ysb.com^$dnstype=AAAA
@@ -1108,7 +1109,6 @@
 ||3308yh.com^$dnstype=AAAA
 ||3308yh.net^$dnstype=AAAA
 ||3311869.com^$dnstype=AAAA
-||3313dd.com^$dnstype=AAAA
 ||331486.com^$dnstype=AAAA
 ||331487.com^$dnstype=AAAA
 ||331491.com^$dnstype=AAAA
@@ -11847,6 +11847,7 @@
 ||freeinchina.org^$dnstype=AAAA
 ||freeiz.com^$dnstype=AAAA
 ||freejav.org^$dnstype=AAAA
+||freejavbt.com^$dnstype=AAAA
 ||freekazakhs.org^$dnstype=AAAA
 ||freekidstories.org^$dnstype=AAAA
 ||freekwonpyong.org^$dnstype=AAAA
@@ -15734,6 +15735,7 @@
 ||jav-onlines.com^$dnstype=AAAA
 ||jav.com^$dnstype=AAAA
 ||jav.guru^$dnstype=AAAA
+||jav.land^$dnstype=AAAA
 ||jav.place^$dnstype=AAAA
 ||jav007.com^$dnstype=AAAA
 ||jav01.cc^$dnstype=AAAA
@@ -16128,6 +16130,10 @@
 ||joys999.com^$dnstype=AAAA
 ||jp-sex.com^$dnstype=AAAA
 ||jp.net^$dnstype=AAAA
+||jpg4.biz^$dnstype=AAAA
+||jpg4.info^$dnstype=AAAA
+||jpg4.pw^$dnstype=AAAA
+||jpg4us.net^$dnstype=AAAA
 ||jpn.com^$dnstype=AAAA
 ||jpn.org^$dnstype=AAAA
 ||jpolrisk.com^$dnstype=AAAA
@@ -16170,6 +16176,7 @@
 ||jstor.org^$dnstype=AAAA
 ||jtassetcompensation.com^$dnstype=AAAA
 ||jtfx.mobi^$dnstype=AAAA
+||jtube.space^$dnstype=AAAA
 ||jtvnw.net^$dnstype=AAAA
 ||jtw007.com^$dnstype=AAAA
 ||ju11.net^$dnstype=AAAA
@@ -16213,6 +16220,7 @@
 ||justduckit.com^$dnstype=AAAA
 ||justforex.com^$dnstype=AAAA
 ||justfreevpn.com^$dnstype=AAAA
+||justhd.xyz^$dnstype=AAAA
 ||justhideme.com^$dnstype=AAAA
 ||justicefortenzin.org^$dnstype=AAAA
 ||justicewillprevail.com^$dnstype=AAAA
@@ -16764,7 +16772,6 @@
 ||lanterncn.org^$dnstype=AAAA
 ||lanternes-thai.com^$dnstype=AAAA
 ||lantosfoundation.org^$dnstype=AAAA
-||laod.org^$dnstype=AAAA
 ||laodi.cf^$dnstype=AAAA
 ||laogai.it^$dnstype=AAAA
 ||laogai.org^$dnstype=AAAA
@@ -19821,6 +19828,7 @@
 ||ninjacloak.com^$dnstype=AAAA
 ||ninjaproxy.ninja^$dnstype=AAAA
 ||ninjaweb.xyz^$dnstype=AAAA
+||ninpu.cyou^$dnstype=AAAA
 ||nintendium.com^$dnstype=AAAA
 ||nintendo-europe-sales.com^$dnstype=AAAA
 ||nintendo-europe.com^$dnstype=AAAA
@@ -21624,6 +21632,7 @@
 ||pornimg.xyz^$dnstype=AAAA
 ||pornjog.com^$dnstype=AAAA
 ||pornkai.com^$dnstype=AAAA
+||pornlulu.com^$dnstype=AAAA
 ||pornmaki.com^$dnstype=AAAA
 ||pornmaxim.com^$dnstype=AAAA
 ||pornmd.com^$dnstype=AAAA
@@ -26584,6 +26593,7 @@
 ||u2xtv.com^$dnstype=AAAA
 ||u666999.com^$dnstype=AAAA
 ||u78929.com^$dnstype=AAAA
+||u9a9.com^$dnstype=AAAA
 ||u9un.com^$dnstype=AAAA
 ||uab.cat^$dnstype=AAAA
 ||ub0.cc^$dnstype=AAAA
@@ -29224,6 +29234,7 @@
 ||xvideo.com^$dnstype=AAAA
 ||xvideo.org^$dnstype=AAAA
 ||xvideos-cdn.com^$dnstype=AAAA
+||xvideos-dl.top^$dnstype=AAAA
 ||xvideos.com^$dnstype=AAAA
 ||xvideos.es^$dnstype=AAAA
 ||xvideos.jp^$dnstype=AAAA
