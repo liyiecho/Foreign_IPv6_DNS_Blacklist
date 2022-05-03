@@ -943,7 +943,6 @@
 ||2646s.com^$dnstype=AAAA
 ||2646t.com^$dnstype=AAAA
 ||2646u.com^$dnstype=AAAA
-||2646w.com^$dnstype=AAAA
 ||2646x.com^$dnstype=AAAA
 ||2646y.com^$dnstype=AAAA
 ||2646z.com^$dnstype=AAAA
