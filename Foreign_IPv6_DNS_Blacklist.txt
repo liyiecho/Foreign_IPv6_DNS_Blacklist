@@ -2151,7 +2151,6 @@
 ||80sf.com^$dnstype=AAAA
 ||810127.com^$dnstype=AAAA
 ||81100888.com^$dnstype=AAAA
-||8121283.com^$dnstype=AAAA
 ||8130592.com^$dnstype=AAAA
 ||8138138.com^$dnstype=AAAA
 ||815126.com^$dnstype=AAAA
