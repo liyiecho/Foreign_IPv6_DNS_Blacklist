@@ -1423,6 +1423,7 @@
 ||4hu63.com^$dnstype=AAAA
 ||4irc.com^$dnstype=AAAA
 ||4jok.com^$dnstype=AAAA
+||4kup.net^$dnstype=AAAA
 ||4musclemen.com^$dnstype=AAAA
 ||4mydomain.com^$dnstype=AAAA
 ||4myminicard.com^$dnstype=AAAA
@@ -6793,7 +6794,6 @@
 ||cabet258.com^$dnstype=AAAA
 ||cabet266.com^$dnstype=AAAA
 ||cabet274.com^$dnstype=AAAA
-||cabet343.com^$dnstype=AAAA
 ||cabet352.com^$dnstype=AAAA
 ||cabet354.com^$dnstype=AAAA
 ||cabet356.com^$dnstype=AAAA
@@ -7198,6 +7198,7 @@
 ||celticnorse.com^$dnstype=AAAA
 ||cencoastbmw.com^$dnstype=AAAA
 ||cenews.eu^$dnstype=AAAA
+||cenkei.com^$dnstype=AAAA
 ||centerforhumanreprod.com^$dnstype=AAAA
 ||centos.org^$dnstype=AAAA
 ||central64.com^$dnstype=AAAA
@@ -7703,6 +7704,7 @@
 ||clipfish.de^$dnstype=AAAA
 ||cliphunter.com^$dnstype=AAAA
 ||clips4sale.com^$dnstype=AAAA
+||clipsex.asia^$dnstype=AAAA
 ||clipsyndicate.com^$dnstype=AAAA
 ||cliti.com^$dnstype=AAAA
 ||cljkkuqf.com^$dnstype=AAAA
@@ -9409,6 +9411,7 @@
 ||doomdns.com^$dnstype=AAAA
 ||dooprime.net^$dnstype=AAAA
 ||doorbrowse.com^$dnstype=AAAA
+||dopaminegirl.com^$dnstype=AAAA
 ||dorcel.com^$dnstype=AAAA
 ||dorcelclub.com^$dnstype=AAAA
 ||dorceltv.com^$dnstype=AAAA
@@ -11455,6 +11458,7 @@
 ||flushingcn.com^$dnstype=AAAA
 ||flutter.dev^$dnstype=AAAA
 ||flutterapp.com^$dnstype=AAAA
+||flydiv.com^$dnstype=AAAA
 ||flyercenter.com^$dnstype=AAAA
 ||flyflv.com^$dnstype=AAAA
 ||flyingcloudproductions.com^$dnstype=AAAA
@@ -16094,6 +16098,8 @@
 ||jojoex.com^$dnstype=AAAA
 ||jojos.tw^$dnstype=AAAA
 ||jokerlu.com^$dnstype=AAAA
+||jokerlu1.cc^$dnstype=AAAA
+||jokerlu1.info^$dnstype=AAAA
 ||jollytime.com^$dnstype=AAAA
 ||jom2u.com^$dnstype=AAAA
 ||jomego.com^$dnstype=AAAA
@@ -17479,6 +17485,8 @@
 ||lsmusic.us^$dnstype=AAAA
 ||lsmwebcast.com^$dnstype=AAAA
 ||lsnzxzy1.com^$dnstype=AAAA
+||lspimg.com^$dnstype=AAAA
+||lss55.com^$dnstype=AAAA
 ||lsxszzg.com^$dnstype=AAAA
 ||lt003.com^$dnstype=AAAA
 ||lt012.com^$dnstype=AAAA
@@ -18857,6 +18865,7 @@
 ||mrcatfcat.com^$dnstype=AAAA
 ||mrcatlove.com^$dnstype=AAAA
 ||mrcboy.com^$dnstype=AAAA
+||mrcong.com^$dnstype=AAAA
 ||mrface.com^$dnstype=AAAA
 ||mrgreen.com^$dnstype=AAAA
 ||mrskin.com^$dnstype=AAAA
@@ -20068,6 +20077,7 @@
 ||nude.tv^$dnstype=AAAA
 ||nudeflix.com^$dnstype=AAAA
 ||nudes.cz^$dnstype=AAAA
+||nudevietnam.com^$dnstype=AAAA
 ||nudevista.com^$dnstype=AAAA
 ||nudezz.com^$dnstype=AAAA
 ||nuexpo.com^$dnstype=AAAA
@@ -23854,6 +23864,7 @@
 ||sis.xxx^$dnstype=AAAA
 ||sis001.com^$dnstype=AAAA
 ||sis001.us^$dnstype=AAAA
+||sisisl.com^$dnstype=AAAA
 ||sismonda.com^$dnstype=AAAA
 ||sitcomsonline.com^$dnstype=AAAA
 ||sitcup.net^$dnstype=AAAA
@@ -26503,6 +26514,7 @@
 ||twitvid.com^$dnstype=AAAA
 ||twitzap.com^$dnstype=AAAA
 ||twiyia.com^$dnstype=AAAA
+||twlegs.com^$dnstype=AAAA
 ||twmail.cc^$dnstype=AAAA
 ||twnextdigital.com^$dnstype=AAAA
 ||twnic.tw^$dnstype=AAAA
@@ -28993,6 +29005,7 @@
 ||xiaobaiwu.com^$dnstype=AAAA
 ||xiaobingss.com^$dnstype=AAAA
 ||xiaod.in^$dnstype=AAAA
+||xiaogirls.com^$dnstype=AAAA
 ||xiaohouzi.club^$dnstype=AAAA
 ||xiaojiadianmovie.asia^$dnstype=AAAA
 ||xiaolan.me^$dnstype=AAAA
@@ -29038,6 +29051,7 @@
 ||xinlingcihang.com^$dnstype=AAAA
 ||xinlingfamen.net^$dnstype=AAAA
 ||xinlingfamen.org^$dnstype=AAAA
+||xinmeitulu.com^$dnstype=AAAA
 ||xinmicredit.com^$dnstype=AAAA
 ||xinsheng.net^$dnstype=AAAA
 ||xinshengming.com^$dnstype=AAAA
