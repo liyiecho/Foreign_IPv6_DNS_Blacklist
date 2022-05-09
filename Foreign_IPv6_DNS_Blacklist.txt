@@ -374,6 +374,7 @@
 ||128100.xyz^$dnstype=AAAA
 ||128888.com^$dnstype=AAAA
 ||128sihu.com^$dnstype=AAAA
+||129676.com^$dnstype=AAAA
 ||12bet.com^$dnstype=AAAA
 ||12bet.tv^$dnstype=AAAA
 ||12diasdepresentesdeitunes.com^$dnstype=AAAA
@@ -16805,7 +16806,6 @@
 ||jz888.com^$dnstype=AAAA
 ||jzbet666.net^$dnstype=AAAA
 ||jzplay.com^$dnstype=AAAA
-||jzplay518.com^$dnstype=AAAA
 ||k-doujin.net^$dnstype=AAAA
 ||k12223.com^$dnstype=AAAA
 ||k2299.com^$dnstype=AAAA
