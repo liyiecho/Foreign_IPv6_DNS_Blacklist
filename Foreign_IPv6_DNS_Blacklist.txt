@@ -834,7 +834,6 @@
 ||21271166.com^$dnstype=AAAA
 ||213.com^$dnstype=AAAA
 ||2138cc.com^$dnstype=AAAA
-||2158524.com^$dnstype=AAAA
 ||2184813.com^$dnstype=AAAA
 ||219xx.com^$dnstype=AAAA
 ||21andy.com^$dnstype=AAAA
@@ -3457,6 +3456,7 @@
 ||allgirlsallowed.org^$dnstype=AAAA
 ||allgravure.com^$dnstype=AAAA
 ||allhorsesex.com^$dnstype=AAAA
+||alliancesages.com^$dnstype=AAAA
 ||alliehaze.com^$dnstype=AAAA
 ||allinfa.com^$dnstype=AAAA
 ||allinternal.com^$dnstype=AAAA
@@ -4599,7 +4599,6 @@
 ||avstry.com^$dnstype=AAAA
 ||avt-global.com^$dnstype=AAAA
 ||avtb01.com^$dnstype=AAAA
-||avtb388.com^$dnstype=AAAA
 ||avtby.com^$dnstype=AAAA
 ||avwife.com^$dnstype=AAAA
 ||avxde.org^$dnstype=AAAA
@@ -8677,6 +8676,7 @@
 ||cumshot.com^$dnstype=AAAA
 ||cumteenporn.com^$dnstype=AAAA
 ||cunhua.mba^$dnstype=AAAA
+||cuntempire.com^$dnstype=AAAA
 ||cuny.edu^$dnstype=AAAA
 ||cup888.tv^$dnstype=AAAA
 ||cups.org^$dnstype=AAAA
@@ -10295,6 +10295,7 @@
 ||ec21.com^$dnstype=AAAA
 ||ecademy.com^$dnstype=AAAA
 ||ecbuystore.net^$dnstype=AAAA
+||ecchi.xxx^$dnstype=AAAA
 ||ecgapp.net^$dnstype=AAAA
 ||echainhost.com^$dnstype=AAAA
 ||echo-balancer.org^$dnstype=AAAA
@@ -10651,6 +10652,7 @@
 ||ero-anime.net^$dnstype=AAAA
 ||ero-guide.com^$dnstype=AAAA
 ||ero-kawa.com^$dnstype=AAAA
+||ero-labs.com^$dnstype=AAAA
 ||ero-video.net^$dnstype=AAAA
 ||erocool.com^$dnstype=AAAA
 ||erocool.me^$dnstype=AAAA
@@ -10667,6 +10669,10 @@
 ||erogazou-pinkline.com^$dnstype=AAAA
 ||erogazoufactory.com^$dnstype=AAAA
 ||erohentai.net^$dnstype=AAAA
+||erolabs.cloud^$dnstype=AAAA
+||erolabs.com^$dnstype=AAAA
+||erolabs.games^$dnstype=AAAA
+||erolabs.net^$dnstype=AAAA
 ||erolord.com^$dnstype=AAAA
 ||eromanga-kingdom.com^$dnstype=AAAA
 ||eromangadouzin.com^$dnstype=AAAA
@@ -12831,6 +12837,7 @@
 ||gdeb.com^$dnstype=AAAA
 ||gdgdocs.org^$dnstype=AAAA
 ||gdot.me^$dnstype=AAAA
+||gdsrx888.com^$dnstype=AAAA
 ||gdssecurity.com^$dnstype=AAAA
 ||gdthing.com^$dnstype=AAAA
 ||gdzf.org^$dnstype=AAAA
@@ -14494,6 +14501,7 @@
 ||hkwesi77.xyz^$dnstype=AAAA
 ||hl168.com^$dnstype=AAAA
 ||hl8.com^$dnstype=AAAA
+||hlbelygl.com^$dnstype=AAAA
 ||hlc19.com^$dnstype=AAAA
 ||hllm.cc^$dnstype=AAAA
 ||hllm.net^$dnstype=AAAA
@@ -16550,6 +16558,7 @@
 ||jiumau.com^$dnstype=AAAA
 ||jiuping.net^$dnstype=AAAA
 ||jiuyaoyouxi.com^$dnstype=AAAA
+||jiuzhouyihuo.com^$dnstype=AAAA
 ||jixiangcai.com^$dnstype=AAAA
 ||jizzboom.com^$dnstype=AAAA
 ||jizzbunker.com^$dnstype=AAAA
@@ -22020,6 +22029,8 @@
 ||pinip.net^$dnstype=AAAA
 ||pinkape.net^$dnstype=AAAA
 ||pinkclips.mobi^$dnstype=AAAA
+||pinkcore.com^$dnstype=AAAA
+||pinkcore.net^$dnstype=AAAA
 ||pinko.it^$dnstype=AAAA
 ||pinkpussy.tv^$dnstype=AAAA
 ||pinkrod.com^$dnstype=AAAA
@@ -22302,6 +22313,7 @@
 ||pori.hk^$dnstype=AAAA
 ||poringa.net^$dnstype=AAAA
 ||pormhub.com^$dnstype=AAAA
+||porn-images-xxx.com^$dnstype=AAAA
 ||porn-star.com^$dnstype=AAAA
 ||porn-w.org^$dnstype=AAAA
 ||porn-wanted.com^$dnstype=AAAA
@@ -30554,6 +30566,7 @@
 ||yao.cl^$dnstype=AAAA
 ||yaoihavenreborn.com^$dnstype=AAAA
 ||yaoluba.com^$dnstype=AAAA
+||yaoyaomumu.com^$dnstype=AAAA
 ||yaptube.com^$dnstype=AAAA
 ||yarininsuyu.com^$dnstype=AAAA
 ||yarnpkg.com^$dnstype=AAAA
