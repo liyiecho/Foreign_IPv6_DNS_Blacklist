@@ -991,7 +991,6 @@
 ||2819201.com^$dnstype=AAAA
 ||28365365.com^$dnstype=AAAA
 ||2858567.com^$dnstype=AAAA
-||2885.com^$dnstype=AAAA
 ||28858855.com^$dnstype=AAAA
 ||288x.com^$dnstype=AAAA
 ||288ysb.com^$dnstype=AAAA
@@ -12837,7 +12836,6 @@
 ||gdeb.com^$dnstype=AAAA
 ||gdgdocs.org^$dnstype=AAAA
 ||gdot.me^$dnstype=AAAA
-||gdsrx888.com^$dnstype=AAAA
 ||gdssecurity.com^$dnstype=AAAA
 ||gdthing.com^$dnstype=AAAA
 ||gdzf.org^$dnstype=AAAA
@@ -15011,6 +15009,7 @@
 ||hx399.com^$dnstype=AAAA
 ||hxc10.vip^$dnstype=AAAA
 ||hxcpp15.com^$dnstype=AAAA
+||hxcpp22.com^$dnstype=AAAA
 ||hxcpp8.com^$dnstype=AAAA
 ||hxcsxs.pro^$dnstype=AAAA
 ||hxcuc3.com^$dnstype=AAAA
@@ -16515,6 +16514,7 @@
 ||jinbushe.org^$dnstype=AAAA
 ||jing1155.com^$dnstype=AAAA
 ||jing444444.com^$dnstype=AAAA
+||jingbets.com^$dnstype=AAAA
 ||jingjibao.me^$dnstype=AAAA
 ||jingking.net^$dnstype=AAAA
 ||jingling.me^$dnstype=AAAA
