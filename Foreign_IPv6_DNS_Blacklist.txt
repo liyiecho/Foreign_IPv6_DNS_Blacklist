@@ -1128,6 +1128,7 @@
 ||3308yh.com^$dnstype=AAAA
 ||3308yh.net^$dnstype=AAAA
 ||3311869.com^$dnstype=AAAA
+||3313dd.com^$dnstype=AAAA
 ||331486.com^$dnstype=AAAA
 ||331487.com^$dnstype=AAAA
 ||331491.com^$dnstype=AAAA
@@ -10800,6 +10801,7 @@
 ||europrojekti.eu^$dnstype=AAAA
 ||europroxy.eu^$dnstype=AAAA
 ||eurorgb.com^$dnstype=AAAA
+||evaelfie.com^$dnstype=AAAA
 ||evangelion.hk^$dnstype=AAAA
 ||evanotty.com^$dnstype=AAAA
 ||eve222.com^$dnstype=AAAA
@@ -24671,6 +24673,7 @@
 ||signalusers.org^$dnstype=AAAA
 ||signbucks.com^$dnstype=AAAA
 ||signify.net^$dnstype=AAAA
+||sijie.wang^$dnstype=AAAA
 ||sijihuisuo.club^$dnstype=AAAA
 ||sijihuisuo.com^$dnstype=AAAA
 ||sikucyclopedia.com^$dnstype=AAAA
@@ -25813,6 +25816,7 @@
 ||sweethouse.ch^$dnstype=AAAA
 ||sweetim.com^$dnstype=AAAA
 ||sweetkiss.me^$dnstype=AAAA
+||sweetmlif.net^$dnstype=AAAA
 ||sweetpacks-search.com^$dnstype=AAAA
 ||sweetsinner.com^$dnstype=AAAA
 ||swegold.com^$dnstype=AAAA
