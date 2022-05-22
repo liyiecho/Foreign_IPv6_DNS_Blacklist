@@ -5701,6 +5701,7 @@
 ||bitbank.cc^$dnstype=AAAA
 ||bitbankgroup.com^$dnstype=AAAA
 ||bitbay.net^$dnstype=AAAA
+||bitbucket.io^$dnstype=AAAA
 ||bitbucket.org^$dnstype=AAAA
 ||bitchmomporn.com^$dnstype=AAAA
 ||bitchute.com^$dnstype=AAAA
@@ -7380,6 +7381,7 @@
 ||cencoastbmw.com^$dnstype=AAAA
 ||cenews.eu^$dnstype=AAAA
 ||cenkei.com^$dnstype=AAAA
+||censorship.ai^$dnstype=AAAA
 ||centerforhumanreprod.com^$dnstype=AAAA
 ||centos.org^$dnstype=AAAA
 ||central64.com^$dnstype=AAAA
@@ -16320,6 +16322,7 @@
 ||javhdfree.net^$dnstype=AAAA
 ||javhdonline.com^$dnstype=AAAA
 ||javhdporn.com^$dnstype=AAAA
+||javhdporn.net^$dnstype=AAAA
 ||javher.com^$dnstype=AAAA
 ||javhihi.com^$dnstype=AAAA
 ||javhip.com^$dnstype=AAAA
@@ -18691,6 +18694,8 @@
 ||meirifuli.org^$dnstype=AAAA
 ||meirixiaochao.com^$dnstype=AAAA
 ||meiyu7.com^$dnstype=AAAA
+||meizhong.blog^$dnstype=AAAA
+||meizhong.report^$dnstype=AAAA
 ||melbournetibetan.com^$dnstype=AAAA
 ||melon365.com^$dnstype=AAAA
 ||melonstube.com^$dnstype=AAAA
@@ -20149,6 +20154,7 @@
 ||netpas.net^$dnstype=AAAA
 ||netpornsex.com^$dnstype=AAAA
 ||nets.hk^$dnstype=AAAA
+||netsarang.com^$dnstype=AAAA
 ||netsee.co^$dnstype=AAAA
 ||netsneak.com^$dnstype=AAAA
 ||nettoyeur.tk^$dnstype=AAAA
@@ -25025,6 +25031,7 @@
 ||soirt4.fun^$dnstype=AAAA
 ||sokamonline.com^$dnstype=AAAA
 ||sokmil.com^$dnstype=AAAA
+||solana.com^$dnstype=AAAA
 ||solarcity.com^$dnstype=AAAA
 ||soldier.ga^$dnstype=AAAA
 ||solfa.org^$dnstype=AAAA
@@ -27891,6 +27898,7 @@
 ||uscirf.gov^$dnstype=AAAA
 ||uscis.gov^$dnstype=AAAA
 ||uscnpm.com^$dnstype=AAAA
+||uscnpm.org^$dnstype=AAAA
 ||uscreditcardguide.com^$dnstype=AAAA
 ||uscti.org^$dnstype=AAAA
 ||usdehua.com^$dnstype=AAAA
