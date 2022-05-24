@@ -10693,6 +10693,7 @@
 ||erotictube.me^$dnstype=AAAA
 ||eroxia.com^$dnstype=AAAA
 ||eroyakuba.com^$dnstype=AAAA
+||err.sh^$dnstype=AAAA
 ||errotica-archives.com^$dnstype=AAAA
 ||ertk.net^$dnstype=AAAA
 ||ertopen.com^$dnstype=AAAA
@@ -15034,6 +15035,7 @@
 ||hymnal.net^$dnstype=AAAA
 ||hymzw.net^$dnstype=AAAA
 ||hyper.co^$dnstype=AAAA
+||hyper.is^$dnstype=AAAA
 ||hyperrate.com^$dnstype=AAAA
 ||hyperscan.io^$dnstype=AAAA
 ||hypestat.com^$dnstype=AAAA
@@ -16287,6 +16289,7 @@
 ||javbus5.com^$dnstype=AAAA
 ||javcc.cc^$dnstype=AAAA
 ||javcc.com^$dnstype=AAAA
+||javcdn.cc^$dnstype=AAAA
 ||javcloud.com^$dnstype=AAAA
 ||javcn.net^$dnstype=AAAA
 ||javconnect.com^$dnstype=AAAA
@@ -16418,6 +16421,8 @@
 ||jdao.tk^$dnstype=AAAA
 ||jdb48.com^$dnstype=AAAA
 ||jdb88.com^$dnstype=AAAA
+||jdbimgs.com^$dnstype=AAAA
+||jdbstatic.com^$dnstype=AAAA
 ||jdjcc.org^$dnstype=AAAA
 ||jdlingyu.moe^$dnstype=AAAA
 ||jdpavds.com^$dnstype=AAAA
@@ -20319,6 +20324,7 @@
 ||ngeo.com^$dnstype=AAAA
 ||nginx.com^$dnstype=AAAA
 ||nginx.org^$dnstype=AAAA
+||nginxconfig.io^$dnstype=AAAA
 ||ngodupdongchung.com^$dnstype=AAAA
 ||nguyentandung.org^$dnstype=AAAA
 ||nhance.com^$dnstype=AAAA
@@ -25458,6 +25464,7 @@
 ||static-economist.com^$dnstype=AAAA
 ||static-nike.com^$dnstype=AAAA
 ||static-verizon.com^$dnstype=AAAA
+||static.fun^$dnstype=AAAA
 ||statically.io^$dnstype=AAAA
 ||staticflickr.com^$dnstype=AAAA
 ||statkit.com^$dnstype=AAAA
@@ -26788,6 +26795,7 @@
 ||tistory.com^$dnstype=AAAA
 ||titanfall.com^$dnstype=AAAA
 ||titantv.com^$dnstype=AAAA
+||title.sh^$dnstype=AAAA
 ||titsintops.com^$dnstype=AAAA
 ||tiyu118.com^$dnstype=AAAA
 ||tiyupro.com^$dnstype=AAAA
@@ -27313,6 +27321,7 @@
 ||turbobit.net^$dnstype=AAAA
 ||turbohide.com^$dnstype=AAAA
 ||turboimagehost.com^$dnstype=AAAA
+||turborepo.org^$dnstype=AAAA
 ||turboschool.com^$dnstype=AAAA
 ||turbotwitter.com^$dnstype=AAAA
 ||turbovpn.co^$dnstype=AAAA
@@ -27538,6 +27547,8 @@
 ||twylah.com^$dnstype=AAAA
 ||tx.me^$dnstype=AAAA
 ||tx2600.net^$dnstype=AAAA
+||tx5254.com^$dnstype=AAAA
+||tx5ptbp7.com^$dnstype=AAAA
 ||tx69.net^$dnstype=AAAA
 ||tx8588.com^$dnstype=AAAA
 ||txcloud.net^$dnstype=AAAA
@@ -27547,6 +27558,7 @@
 ||txsvpn.org^$dnstype=AAAA
 ||txvia.com^$dnstype=AAAA
 ||txvip888.com^$dnstype=AAAA
+||txvlog.com^$dnstype=AAAA
 ||txxx.com^$dnstype=AAAA
 ||ty060.com^$dnstype=AAAA
 ||ty308.com^$dnstype=AAAA
@@ -28155,6 +28167,12 @@
 ||vercel-dns.com^$dnstype=AAAA
 ||vercel-status.com^$dnstype=AAAA
 ||vercel.app^$dnstype=AAAA
+||vercel.blog^$dnstype=AAAA
+||vercel.events^$dnstype=AAAA
+||vercel.live^$dnstype=AAAA
+||vercel.pub^$dnstype=AAAA
+||vercel.sh^$dnstype=AAAA
+||vercel.store^$dnstype=AAAA
 ||verily.com^$dnstype=AAAA
 ||verilylifesciences.com^$dnstype=AAAA
 ||verilystudyhub.com^$dnstype=AAAA
@@ -30587,6 +30605,7 @@
 ||yasegg.com^$dnstype=AAAA
 ||yastatic.net^$dnstype=AAAA
 ||yatong.info^$dnstype=AAAA
+||yavtube.com^$dnstype=AAAA
 ||yayabay.com^$dnstype=AAAA
 ||yayabay.net^$dnstype=AAAA
 ||yaymicro.com^$dnstype=AAAA
