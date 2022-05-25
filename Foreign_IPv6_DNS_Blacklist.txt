@@ -21044,6 +21044,7 @@
 ||omnitek.tv^$dnstype=AAAA
 ||omniture.com^$dnstype=AAAA
 ||omny.fm^$dnstype=AAAA
+||omobi.cc^$dnstype=AAAA
 ||omoplanet.com^$dnstype=AAAA
 ||omscr.com^$dnstype=AAAA
 ||omtrdc.net^$dnstype=AAAA
