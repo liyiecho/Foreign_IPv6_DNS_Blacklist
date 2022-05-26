@@ -22704,6 +22704,7 @@
 ||prostudiobeatscybersale.com^$dnstype=AAAA
 ||proteinalactea.com^$dnstype=AAAA
 ||protempproducts.com^$dnstype=AAAA
+||proton.me^$dnstype=AAAA
 ||protonmail.ch^$dnstype=AAAA
 ||protonmail.com^$dnstype=AAAA
 ||protonstatus.com^$dnstype=AAAA
