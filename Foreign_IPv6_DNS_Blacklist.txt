@@ -11411,6 +11411,7 @@
 ||fatew.com^$dnstype=AAAA
 ||fatrat.com^$dnstype=AAAA
 ||fatstube.com^$dnstype=AAAA
+||fau11.com^$dnstype=AAAA
 ||favebook.com^$dnstype=AAAA
 ||faviconkit.com^$dnstype=AAAA
 ||favjapaneseporn.com^$dnstype=AAAA
@@ -17092,6 +17093,7 @@
 ||kk766.net^$dnstype=AAAA
 ||kk98.net^$dnstype=AAAA
 ||kkbox.com^$dnstype=AAAA
+||kkff2484.live^$dnstype=AAAA
 ||kkk16.net^$dnstype=AAAA
 ||kkk633.net^$dnstype=AAAA
 ||kkkapk.com^$dnstype=AAAA
@@ -27557,6 +27559,7 @@
 ||txdirectv.com^$dnstype=AAAA
 ||txingvpn.com^$dnstype=AAAA
 ||txmao.xyz^$dnstype=AAAA
+||txqzz34r.com^$dnstype=AAAA
 ||txsvpn.org^$dnstype=AAAA
 ||txvia.com^$dnstype=AAAA
 ||txvip888.com^$dnstype=AAAA
