@@ -20316,6 +20316,7 @@
 ||nflxvideo.net^$dnstype=AAAA
 ||nforce.com^$dnstype=AAAA
 ||nfoxo.com^$dnstype=AAAA
+||nfsc.global^$dnstype=AAAA
 ||nfscdict.com^$dnstype=AAAA
 ||nfsworld.com^$dnstype=AAAA
 ||ng.mil^$dnstype=AAAA
