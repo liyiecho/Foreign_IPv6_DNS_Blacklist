@@ -608,6 +608,7 @@
 ||1898275.com^$dnstype=AAAA
 ||18986319.com^$dnstype=AAAA
 ||18acg.vip^$dnstype=AAAA
+||18av.pro^$dnstype=AAAA
 ||18av.tv^$dnstype=AAAA
 ||18avbook.com^$dnstype=AAAA
 ||18avday.com^$dnstype=AAAA
@@ -938,6 +939,7 @@
 ||2573751.com^$dnstype=AAAA
 ||2576740.com^$dnstype=AAAA
 ||258799.com^$dnstype=AAAA
+||258porn.com^$dnstype=AAAA
 ||25u.com^$dnstype=AAAA
 ||2610417.com^$dnstype=AAAA
 ||26260808.com^$dnstype=AAAA
@@ -3244,6 +3246,7 @@
 ||airav.co^$dnstype=AAAA
 ||airav.me^$dnstype=AAAA
 ||airav.vip^$dnstype=AAAA
+||airav.wiki^$dnstype=AAAA
 ||airav.work^$dnstype=AAAA
 ||airconsole.com^$dnstype=AAAA
 ||aircrack-ng.org^$dnstype=AAAA
@@ -4555,6 +4558,7 @@
 ||avgigi.com^$dnstype=AAAA
 ||avgle.com^$dnstype=AAAA
 ||avgo78.org^$dnstype=AAAA
+||avgod.club^$dnstype=AAAA
 ||avgthreatlabs.com^$dnstype=AAAA
 ||avh.world^$dnstype=AAAA
 ||avhaha.com^$dnstype=AAAA
@@ -13041,6 +13045,7 @@
 ||ggg268.com^$dnstype=AAAA
 ||ggg36.net^$dnstype=AAAA
 ||ggg626.net^$dnstype=AAAA
+||ggjav.com^$dnstype=AAAA
 ||ggoogle.com^$dnstype=AAAA
 ||ggpht.com^$dnstype=AAAA
 ||ggso.co^$dnstype=AAAA
@@ -15902,6 +15907,7 @@
 ||iqqtv.net^$dnstype=AAAA
 ||iqqtv.vip^$dnstype=AAAA
 ||iqqtv.xyz^$dnstype=AAAA
+||iqucai.com^$dnstype=AAAA
 ||ir3177.com^$dnstype=AAAA
 ||iranx.net^$dnstype=AAAA
 ||irdeto.com^$dnstype=AAAA
@@ -16319,6 +16325,7 @@
 ||javfor.me^$dnstype=AAAA
 ||javfree.me^$dnstype=AAAA
 ||javfull.net^$dnstype=AAAA
+||javhaven.com^$dnstype=AAAA
 ||javhay.net^$dnstype=AAAA
 ||javhd.com^$dnstype=AAAA
 ||javhd.pro^$dnstype=AAAA
@@ -16345,6 +16352,7 @@
 ||javmoo.net^$dnstype=AAAA
 ||javmoo.xyz^$dnstype=AAAA
 ||javmost.com^$dnstype=AAAA
+||javmost.xyz^$dnstype=AAAA
 ||javmuch.com^$dnstype=AAAA
 ||javocado.com^$dnstype=AAAA
 ||javpee.com^$dnstype=AAAA
@@ -18306,6 +18314,7 @@
 ||magictea.xyz^$dnstype=AAAA
 ||magzter.com^$dnstype=AAAA
 ||mahabodhi.org^$dnstype=AAAA
+||mahajantech.com^$dnstype=AAAA
 ||maiahoje.pt^$dnstype=AAAA
 ||maicloud.io^$dnstype=AAAA
 ||maicloud.me^$dnstype=AAAA
@@ -27410,6 +27419,7 @@
 ||twatter.com^$dnstype=AAAA
 ||twaud.io^$dnstype=AAAA
 ||twavi.com^$dnstype=AAAA
+||twavking.com^$dnstype=AAAA
 ||twavtv.com^$dnstype=AAAA
 ||twazzup.com^$dnstype=AAAA
 ||twbbs.org^$dnstype=AAAA
@@ -30132,6 +30142,7 @@
 ||xinbao6.net^$dnstype=AAAA
 ||xinbet.net^$dnstype=AAAA
 ||xindelu.com^$dnstype=AAAA
+||xinfhw.com^$dnstype=AAAA
 ||xing.com^$dnstype=AAAA
 ||xingdaili.com^$dnstype=AAAA
 ||xinghun580.com^$dnstype=AAAA
@@ -30142,6 +30153,7 @@
 ||xinhaunet.com^$dnstype=AAAA
 ||xinhuanet.org^$dnstype=AAAA
 ||xinhuangyule88899.com^$dnstype=AAAA
+||xinjiangpolicefiles.org^$dnstype=AAAA
 ||xinjiecloud.com^$dnstype=AAAA
 ||xinlingcihang.com^$dnstype=AAAA
 ||xinlingfamen.net^$dnstype=AAAA
@@ -30271,6 +30283,7 @@
 ||xnxx-cdn.com^$dnstype=AAAA
 ||xnxx-teens.com^$dnstype=AAAA
 ||xnxx.com^$dnstype=AAAA
+||xnxx.tv^$dnstype=AAAA
 ||xnxx.xxx^$dnstype=AAAA
 ||xnxxarabsex.com^$dnstype=AAAA
 ||xnxxcomvideos.com^$dnstype=AAAA
