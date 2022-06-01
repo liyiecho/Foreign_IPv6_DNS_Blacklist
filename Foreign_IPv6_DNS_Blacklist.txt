@@ -17602,6 +17602,7 @@
 ||lenkino.xxx^$dnstype=AAAA
 ||lenoircityschools.net^$dnstype=AAAA
 ||lenovoappspot.com^$dnstype=AAAA
+||lens.google^$dnstype=AAAA
 ||lens.hk^$dnstype=AAAA
 ||lentelopolis.ml^$dnstype=AAAA
 ||lenwhite.com^$dnstype=AAAA
@@ -31256,6 +31257,7 @@
 ||ziddu.com^$dnstype=AAAA
 ||zillionk.com^$dnstype=AAAA
 ||zim.vn^$dnstype=AAAA
+||zimuku.net^$dnstype=AAAA
 ||zimuzu.com^$dnstype=AAAA
 ||zind.cloud^$dnstype=AAAA
 ||zindagi.ca^$dnstype=AAAA
