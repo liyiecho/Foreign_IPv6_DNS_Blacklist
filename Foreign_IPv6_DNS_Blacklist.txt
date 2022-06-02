@@ -30324,6 +30324,7 @@
 ||xnxx.net^$dnstype=AAAA
 ||xnxx.tv^$dnstype=AAAA
 ||xnxx.xxx^$dnstype=AAAA
+||xnxx3.com^$dnstype=AAAA
 ||xnxxarabsex.com^$dnstype=AAAA
 ||xnxxcomvideos.com^$dnstype=AAAA
 ||xnxxmovies.com^$dnstype=AAAA
