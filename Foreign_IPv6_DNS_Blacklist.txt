@@ -3752,6 +3752,7 @@
 ||amxj8899.com^$dnstype=AAAA
 ||amyh8588.com^$dnstype=AAAA
 ||amytele.com^$dnstype=AAAA
+||amzn.asia^$dnstype=AAAA
 ||amzn.com^$dnstype=AAAA
 ||amznl.com^$dnstype=AAAA
 ||anaconda.cloud^$dnstype=AAAA
