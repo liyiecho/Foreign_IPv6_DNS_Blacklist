@@ -9434,6 +9434,7 @@
 ||dirtymilfclub.com^$dnstype=AAAA
 ||dirtyrhino.com^$dnstype=AAAA
 ||discfan.net^$dnstype=AAAA
+||disco-api.com^$dnstype=AAAA
 ||discoins.com^$dnstype=AAAA
 ||disconnect.me^$dnstype=AAAA
 ||discord-activities.com^$dnstype=AAAA
@@ -9460,6 +9461,7 @@
 ||discountbeatsbydre-us.com^$dnstype=AAAA
 ||discountbeatsstore.com^$dnstype=AAAA
 ||discoverhongkong.com^$dnstype=AAAA
+||discoveryplus.com^$dnstype=AAAA
 ||discreetmilf.com^$dnstype=AAAA
 ||discuss4u.com^$dnstype=AAAA
 ||discussionsapple.com^$dnstype=AAAA
@@ -14310,6 +14312,7 @@
 ||hidive.com^$dnstype=AAAA
 ||hidrive.com^$dnstype=AAAA
 ||hifacebook.info^$dnstype=AAAA
+||hifixxx.fun^$dnstype=AAAA
 ||higfw.com^$dnstype=AAAA
 ||higginbotham.name^$dnstype=AAAA
 ||highbolt.net^$dnstype=AAAA
@@ -15460,6 +15463,7 @@
 ||imgspice.com^$dnstype=AAAA
 ||imgur.com^$dnstype=AAAA
 ||imgurinc.com^$dnstype=AAAA
+||imhentai.xxx^$dnstype=AAAA
 ||imianmian.com^$dnstype=AAAA
 ||imilfs.com^$dnstype=AAAA
 ||imkev.com^$dnstype=AAAA
@@ -17535,6 +17539,7 @@
 ||leagueoflegendsscripts.com^$dnstype=AAAA
 ||leaguesharp.info^$dnstype=AAAA
 ||leaguoflegends.com^$dnstype=AAAA
+||leakxxx.com^$dnstype=AAAA
 ||leanwork.pt^$dnstype=AAAA
 ||learningandteachinghub.com^$dnstype=AAAA
 ||learningocean.com^$dnstype=AAAA
@@ -19901,6 +19906,8 @@
 ||mypornstarblogs.com^$dnstype=AAAA
 ||mypornstarbook.net^$dnstype=AAAA
 ||mypornstation.com^$dnstype=AAAA
+||mypornvid.fun^$dnstype=AAAA
+||mypornwap.fun^$dnstype=AAAA
 ||mypostcard.com^$dnstype=AAAA
 ||mypress-release.biz^$dnstype=AAAA
 ||myprivacy.com^$dnstype=AAAA
@@ -22394,6 +22401,7 @@
 ||porn555.com^$dnstype=AAAA
 ||porn5f.co^$dnstype=AAAA
 ||porn5f.live^$dnstype=AAAA
+||porn7.net^$dnstype=AAAA
 ||porn7.xxx^$dnstype=AAAA
 ||porn87.com^$dnstype=AAAA
 ||porn99.net^$dnstype=AAAA
@@ -22449,6 +22457,7 @@
 ||pornky.com^$dnstype=AAAA
 ||pornlulu.com^$dnstype=AAAA
 ||pornmaki.com^$dnstype=AAAA
+||pornmaster.fun^$dnstype=AAAA
 ||pornmate.com^$dnstype=AAAA
 ||pornmaturetube.com^$dnstype=AAAA
 ||pornmaxim.com^$dnstype=AAAA
