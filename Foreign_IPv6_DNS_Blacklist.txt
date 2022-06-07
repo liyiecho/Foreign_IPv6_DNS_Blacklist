@@ -5625,6 +5625,7 @@
 ||bigcharts.com^$dnstype=AAAA
 ||bigcocker.com^$dnstype=AAAA
 ||bigdat4.ml^$dnstype=AAAA
+||bigdick.com^$dnstype=AAAA
 ||bigfile.to^$dnstype=AAAA
 ||bigfishgames.com^$dnstype=AAAA
 ||bigfools.com^$dnstype=AAAA
@@ -14318,6 +14319,7 @@
 ||highbolt.net^$dnstype=AAAA
 ||highdefinitionbeatsbydre.com^$dnstype=AAAA
 ||highpeakspureearth.com^$dnstype=AAAA
+||highporn.net^$dnstype=AAAA
 ||highresolutiontechnologies.com^$dnstype=AAAA
 ||highrockmedia.com^$dnstype=AAAA
 ||highspeedvpn.com^$dnstype=AAAA
@@ -14363,6 +14365,7 @@
 ||hitomi.la^$dnstype=AAAA
 ||hitremixes.com^$dnstype=AAAA
 ||hitun.io^$dnstype=AAAA
+||hitxhot.com^$dnstype=AAAA
 ||hiveminds.net^$dnstype=AAAA
 ||hizb-ut-tahrir.info^$dnstype=AAAA
 ||hizb-ut-tahrir.org^$dnstype=AAAA
@@ -16675,6 +16678,7 @@
 ||joeswall.com^$dnstype=AAAA
 ||johnbevere.org^$dnstype=AAAA
 ||johntool.com^$dnstype=AAAA
+||johren.games^$dnstype=AAAA
 ||johren.net^$dnstype=AAAA
 ||joi18.com^$dnstype=AAAA
 ||joinbbs.net^$dnstype=AAAA
@@ -17009,6 +17013,7 @@
 ||kelloggcareers.com^$dnstype=AAAA
 ||kelloggs.com^$dnstype=AAAA
 ||kelloggsfamilyrewards.com^$dnstype=AAAA
+||kemono.party^$dnstype=AAAA
 ||kendatire.com^$dnstype=AAAA
 ||kendes.nl^$dnstype=AAAA
 ||kendincos.net^$dnstype=AAAA
@@ -18022,6 +18027,15 @@
 ||logme.in^$dnstype=AAAA
 ||logmein.com^$dnstype=AAAA
 ||logular.com^$dnstype=AAAA
+||loibus.cc^$dnstype=AAAA
+||loibus.com^$dnstype=AAAA
+||loibus.link^$dnstype=AAAA
+||loibus.top^$dnstype=AAAA
+||loibus100.top^$dnstype=AAAA
+||loibus101.top^$dnstype=AAAA
+||loibus202.top^$dnstype=AAAA
+||loibus505.top^$dnstype=AAAA
+||loibus606.top^$dnstype=AAAA
 ||loixtv.com^$dnstype=AAAA
 ||lol-europe.com^$dnstype=AAAA
 ||lolclub.org^$dnstype=AAAA
@@ -18032,6 +18046,7 @@
 ||loli.help^$dnstype=AAAA
 ||loli.net^$dnstype=AAAA
 ||lolisz.com^$dnstype=AAAA
+||lolita.bet^$dnstype=AAAA
 ||lolitw.com^$dnstype=AAAA
 ||lolo.pro^$dnstype=AAAA
 ||lolpcs.com^$dnstype=AAAA
@@ -19974,6 +19989,7 @@
 ||mzed.com^$dnstype=AAAA
 ||n-tv.de^$dnstype=AAAA
 ||n0vadesktop.com^$dnstype=AAAA
+||n15zev3w.shop^$dnstype=AAAA
 ||n1g.org^$dnstype=AAAA
 ||n24.de^$dnstype=AAAA
 ||n2646.com^$dnstype=AAAA
@@ -28178,6 +28194,7 @@
 ||vaultify.info^$dnstype=AAAA
 ||vaultify.net^$dnstype=AAAA
 ||vaultproject.io^$dnstype=AAAA
+||vbejeyv.shop^$dnstype=AAAA
 ||vbet.com^$dnstype=AAAA
 ||vcanedge.com^$dnstype=AAAA
 ||vcc-hof.com^$dnstype=AAAA
