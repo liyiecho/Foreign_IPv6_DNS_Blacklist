@@ -1785,6 +1785,7 @@
 ||62877.com^$dnstype=AAAA
 ||628776.com^$dnstype=AAAA
 ||6297991.com^$dnstype=AAAA
+||62fh1bnj.me^$dnstype=AAAA
 ||6325701.com^$dnstype=AAAA
 ||633.com^$dnstype=AAAA
 ||633872.com^$dnstype=AAAA
@@ -5544,6 +5545,7 @@
 ||betwin999.com^$dnstype=AAAA
 ||beurettesvideo.com^$dnstype=AAAA
 ||bewww.net^$dnstype=AAAA
+||bexjt5wz.xyz^$dnstype=AAAA
 ||bextbuy.com^$dnstype=AAAA
 ||beyerdynamic.com^$dnstype=AAAA
 ||beyondcore.com^$dnstype=AAAA
@@ -6559,6 +6561,7 @@
 ||bs6898.com^$dnstype=AAAA
 ||bs919.com^$dnstype=AAAA
 ||bsdrp.net^$dnstype=AAAA
+||bsersd.xyz^$dnstype=AAAA
 ||bssess.com^$dnstype=AAAA
 ||bst218.com^$dnstype=AAAA
 ||bst5588.com^$dnstype=AAAA
@@ -6810,6 +6813,7 @@
 ||bv866.com^$dnstype=AAAA
 ||bvaff.com^$dnstype=AAAA
 ||bvdinfo.com^$dnstype=AAAA
+||bvfce6wz.xyz^$dnstype=AAAA
 ||bvin.com^$dnstype=AAAA
 ||bvpn.com^$dnstype=AAAA
 ||bw1199.com^$dnstype=AAAA
@@ -11460,6 +11464,7 @@
 ||favotter.net^$dnstype=AAAA
 ||favstar.fm^$dnstype=AAAA
 ||fawanghuihui.org^$dnstype=AAAA
+||fawgaf.xyz^$dnstype=AAAA
 ||faxiannews.com^$dnstype=AAAA
 ||fayaa.com^$dnstype=AAAA
 ||faycbok.com^$dnstype=AAAA
@@ -15493,6 +15498,7 @@
 ||impp.mn^$dnstype=AAAA
 ||improv4business.com^$dnstype=AAAA
 ||impulsoti.com^$dnstype=AAAA
+||imsrbx.xyz^$dnstype=AAAA
 ||imstagram.com^$dnstype=AAAA
 ||imsystem.site^$dnstype=AAAA
 ||imtagram.com^$dnstype=AAAA
@@ -16983,6 +16989,7 @@
 ||kazakisfamily.com^$dnstype=AAAA
 ||kba-tx.org^$dnstype=AAAA
 ||kbc.be^$dnstype=AAAA
+||kbdxlesx.xyz^$dnstype=AAAA
 ||kcai228.com^$dnstype=AAAA
 ||kcai229.com^$dnstype=AAAA
 ||kcai332.com^$dnstype=AAAA
@@ -17147,6 +17154,7 @@
 ||kk766.net^$dnstype=AAAA
 ||kk98.net^$dnstype=AAAA
 ||kkbox.com^$dnstype=AAAA
+||kkfcc03.com^$dnstype=AAAA
 ||kkff2484.live^$dnstype=AAAA
 ||kkk16.net^$dnstype=AAAA
 ||kkk633.net^$dnstype=AAAA
@@ -19660,6 +19668,7 @@
 ||mtvav.com^$dnstype=AAAA
 ||mtvnservices.com^$dnstype=AAAA
 ||mtw.tl^$dnstype=AAAA
+||mu6bce1c.xyz^$dnstype=AAAA
 ||mua6sf.net^$dnstype=AAAA
 ||muadness.com^$dnstype=AAAA
 ||mubi.com^$dnstype=AAAA
@@ -20877,6 +20886,7 @@
 ||nuvo.net^$dnstype=AAAA
 ||nuzcom.com^$dnstype=AAAA
 ||nvdst.com^$dnstype=AAAA
+||nverxs.xyz^$dnstype=AAAA
 ||nvidia.asia^$dnstype=AAAA
 ||nvidia.be^$dnstype=AAAA
 ||nvidia.ch^$dnstype=AAAA
@@ -26217,6 +26227,7 @@
 ||tcsofbc.org^$dnstype=AAAA
 ||tcsovi.org^$dnstype=AAAA
 ||tcstudents.org^$dnstype=AAAA
+||tctsx28d.xyz^$dnstype=AAAA
 ||tcy789.com^$dnstype=AAAA
 ||td.com^$dnstype=AAAA
 ||tdesktop.com^$dnstype=AAAA
@@ -27689,6 +27700,7 @@
 ||typesquare.com^$dnstype=AAAA
 ||typography.com^$dnstype=AAAA
 ||typora.io^$dnstype=AAAA
+||tytng189.com^$dnstype=AAAA
 ||tz605.com^$dnstype=AAAA
 ||u15.info^$dnstype=AAAA
 ||u2646.com^$dnstype=AAAA
@@ -28862,6 +28874,7 @@
 ||vraiesagesse.net^$dnstype=AAAA
 ||vrbangers.com^$dnstype=AAAA
 ||vrchat.net^$dnstype=AAAA
+||vrfdgswx.xyz^$dnstype=AAAA
 ||vriendenvantibet.be^$dnstype=AAAA
 ||vrmtr.com^$dnstype=AAAA
 ||vrporn.com^$dnstype=AAAA
@@ -28956,7 +28969,9 @@
 ||vwincn.com^$dnstype=AAAA
 ||vworldc.com^$dnstype=AAAA
 ||vwp123.com^$dnstype=AAAA
+||vxnbbrs.xyz^$dnstype=AAAA
 ||vxrl.org^$dnstype=AAAA
+||vxxsred.xyz^$dnstype=AAAA
 ||vyohyke.fi^$dnstype=AAAA
 ||vyprfanqiang.com^$dnstype=AAAA
 ||vyprofficial.com^$dnstype=AAAA
@@ -29886,6 +29901,7 @@
 ||wuwei.ca^$dnstype=AAAA
 ||wuxiapple.com^$dnstype=AAAA
 ||wuyanblog.com^$dnstype=AAAA
+||wvm0agb4.me^$dnstype=AAAA
 ||wvw-82737.com^$dnstype=AAAA
 ||ww2464.com^$dnstype=AAAA
 ||ww316.net^$dnstype=AAAA
@@ -30504,6 +30520,7 @@
 ||xxxaporn.com^$dnstype=AAAA
 ||xxxbolivianas.com^$dnstype=AAAA
 ||xxxbunker.com^$dnstype=AAAA
+||xxxccc4.com^$dnstype=AAAA
 ||xxxdessert.com^$dnstype=AAAA
 ||xxxdinotube.com^$dnstype=AAAA
 ||xxxfk.com^$dnstype=AAAA
@@ -30741,6 +30758,9 @@
 ||yeswegays.com^$dnstype=AAAA
 ||yewtu.be^$dnstype=AAAA
 ||yeyeclub.com^$dnstype=AAAA
+||yeyuehuachao11.com^$dnstype=AAAA
+||yeyuehuachao12.com^$dnstype=AAAA
+||yeyuehuachao13.com^$dnstype=AAAA
 ||yf188.org^$dnstype=AAAA
 ||yf676.org^$dnstype=AAAA
 ||yf888.net^$dnstype=AAAA
