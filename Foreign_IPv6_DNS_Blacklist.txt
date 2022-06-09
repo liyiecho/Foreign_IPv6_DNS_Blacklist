@@ -111,6 +111,7 @@
 ||02802.com^$dnstype=AAAA
 ||028cym.com^$dnstype=AAAA
 ||02902.com^$dnstype=AAAA
+||02weqj32.com^$dnstype=AAAA
 ||0304game.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA
 ||030xpj.com^$dnstype=AAAA
@@ -970,6 +971,7 @@
 ||2647315.com^$dnstype=AAAA
 ||264755.cc^$dnstype=AAAA
 ||2655896.com^$dnstype=AAAA
+||265sdwe3.com^$dnstype=AAAA
 ||265vip.com^$dnstype=AAAA
 ||266660.com^$dnstype=AAAA
 ||2666682.com^$dnstype=AAAA
@@ -14714,6 +14716,7 @@
 ||hothk.com^$dnstype=AAAA
 ||hotindianbabe.com^$dnstype=AAAA
 ||hotindianxxxsex.com^$dnstype=AAAA
+||hotladyhere.com^$dnstype=AAAA
 ||hotlegsandfeet.com^$dnstype=AAAA
 ||hotmail.co^$dnstype=AAAA
 ||hotmail.com^$dnstype=AAAA
@@ -15334,6 +15337,7 @@
 ||igcd.net^$dnstype=AAAA
 ||igcdn.com^$dnstype=AAAA
 ||ige.es^$dnstype=AAAA
+||igetnaughty.com^$dnstype=AAAA
 ||igfw.net^$dnstype=AAAA
 ||igfw.tech^$dnstype=AAAA
 ||igg.biz^$dnstype=AAAA
@@ -17270,6 +17274,7 @@
 ||ks9444.com^$dnstype=AAAA
 ||ks9666.com^$dnstype=AAAA
 ||kscisco.com^$dnstype=AAAA
+||ksd235qw.com^$dnstype=AAAA
 ||ksdl.org^$dnstype=AAAA
 ||ksescortclub.com^$dnstype=AAAA
 ||ksforfree.ml^$dnstype=AAAA
@@ -29157,6 +29162,7 @@
 ||wballiance.com^$dnstype=AAAA
 ||wbd.ms^$dnstype=AAAA
 ||wbet1111.com^$dnstype=AAAA
+||wbvm4s.com^$dnstype=AAAA
 ||wby118.com^$dnstype=AAAA
 ||wbyl058.com^$dnstype=AAAA
 ||wc990.com^$dnstype=AAAA
