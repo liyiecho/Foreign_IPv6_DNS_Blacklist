@@ -14177,6 +14177,7 @@
 ||hentai-foundry.com^$dnstype=AAAA
 ||hentai-fun.com^$dnstype=AAAA
 ||hentai-image.com^$dnstype=AAAA
+||hentai-img.com^$dnstype=AAAA
 ||hentai-moon.com^$dnstype=AAAA
 ||hentai.as^$dnstype=AAAA
 ||hentai.io^$dnstype=AAAA
@@ -14208,6 +14209,7 @@
 ||hentairead.com^$dnstype=AAAA
 ||hentairon.net^$dnstype=AAAA
 ||hentaistream.com^$dnstype=AAAA
+||hentaisub.info^$dnstype=AAAA
 ||hentaitk.com^$dnstype=AAAA
 ||hentaitube.online^$dnstype=AAAA
 ||hentaitube.tv^$dnstype=AAAA
