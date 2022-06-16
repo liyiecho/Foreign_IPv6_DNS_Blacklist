@@ -21748,6 +21748,7 @@
 ||path.com^$dnstype=AAAA
 ||pathtosharepoint.com^$dnstype=AAAA
 ||patreon.com^$dnstype=AAAA
+||patreonusercontent.com^$dnstype=AAAA
 ||patriademarti.com^$dnstype=AAAA
 ||patrickemaher.com^$dnstype=AAAA
 ||patrulator.ro^$dnstype=AAAA
