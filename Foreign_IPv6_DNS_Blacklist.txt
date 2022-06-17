@@ -14373,6 +14373,7 @@
 ||himalaya2020.com^$dnstype=AAAA
 ||himalayan-foundation.org^$dnstype=AAAA
 ||himalayanglacier.com^$dnstype=AAAA
+||himalayawashingtondc.org^$dnstype=AAAA
 ||himemix.com^$dnstype=AAAA
 ||himemix.net^$dnstype=AAAA
 ||hindawi.com^$dnstype=AAAA
