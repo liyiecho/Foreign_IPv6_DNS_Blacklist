@@ -4314,6 +4314,7 @@
 ||asian-max.com^$dnstype=AAAA
 ||asianage.com^$dnstype=AAAA
 ||asianboygay.com^$dnstype=AAAA
+||asiancamly.com^$dnstype=AAAA
 ||asianclassics.org^$dnstype=AAAA
 ||asianclub.tv^$dnstype=AAAA
 ||asiancorrespondent.com^$dnstype=AAAA
@@ -4828,6 +4829,7 @@
 ||babesaround.com^$dnstype=AAAA
 ||babesbang.com^$dnstype=AAAA
 ||babesnetwork.com^$dnstype=AAAA
+||babesofindia.com^$dnstype=AAAA
 ||babesource.com^$dnstype=AAAA
 ||babosas.com^$dnstype=AAAA
 ||babson.edu^$dnstype=AAAA
@@ -7117,6 +7119,7 @@
 ||campfirenow.com^$dnstype=AAAA
 ||campushp.com^$dnstype=AAAA
 ||campuslondon.com^$dnstype=AAAA
+||camrabbit.com^$dnstype=AAAA
 ||cams.com^$dnstype=AAAA
 ||camsoda.com^$dnstype=AAAA
 ||camsoda1.com^$dnstype=AAAA
@@ -8518,6 +8521,7 @@
 ||crates.io^$dnstype=AAAA
 ||cravedelibar.com^$dnstype=AAAA
 ||crazedtechs.com^$dnstype=AAAA
+||crazylivecams.com^$dnstype=AAAA
 ||crazymike.tw^$dnstype=AAAA
 ||crazys.cc^$dnstype=AAAA
 ||crazyshit.com^$dnstype=AAAA
@@ -9024,7 +9028,6 @@
 ||datasheets360.com^$dnstype=AAAA
 ||datawav.club^$dnstype=AAAA
 ||datibike.com^$dnstype=AAAA
-||dato.porn^$dnstype=AAAA
 ||daum.net^$dnstype=AAAA
 ||davecushing.ca^$dnstype=AAAA
 ||david-kilgour.com^$dnstype=AAAA
@@ -11381,6 +11384,7 @@
 ||falunpilipinas.net^$dnstype=AAAA
 ||falunthai.org^$dnstype=AAAA
 ||falunworld.net^$dnstype=AAAA
+||fameregistry.com^$dnstype=AAAA
 ||familyfed.org^$dnstype=AAAA
 ||familyhealth.xyz^$dnstype=AAAA
 ||familyradio.com^$dnstype=AAAA
@@ -11636,6 +11640,7 @@
 ||ferrini.mx^$dnstype=AAAA
 ||fescebook.com^$dnstype=AAAA
 ||fesebook.com^$dnstype=AAAA
+||fetishfishcams.com^$dnstype=AAAA
 ||fetishpapa.com^$dnstype=AAAA
 ||fetishshrine.com^$dnstype=AAAA
 ||fetlife.com^$dnstype=AAAA
@@ -12523,6 +12528,7 @@
 ||fuckgfw.org^$dnstype=AAAA
 ||fuckingawesome.com^$dnstype=AAAA
 ||fuckingfreemovies.com^$dnstype=AAAA
+||fuckmypakistanigf.com^$dnstype=AAAA
 ||fucksexhub.com^$dnstype=AAAA
 ||fuckteenvids.com^$dnstype=AAAA
 ||fuckthathussy.com^$dnstype=AAAA
@@ -13624,6 +13630,7 @@
 ||gorggals.com^$dnstype=AAAA
 ||goseasbox.com^$dnstype=AAAA
 ||gosen.jp^$dnstype=AAAA
+||goshemalecams.com^$dnstype=AAAA
 ||gosigmalogistics.com^$dnstype=AAAA
 ||gospelherald.com^$dnstype=AAAA
 ||gosq.co^$dnstype=AAAA
@@ -16343,7 +16350,6 @@
 ||jav-1080.com^$dnstype=AAAA
 ||jav-720p.com^$dnstype=AAAA
 ||jav-onlines.com^$dnstype=AAAA
-||jav.adult^$dnstype=AAAA
 ||jav.com^$dnstype=AAAA
 ||jav.guru^$dnstype=AAAA
 ||jav.land^$dnstype=AAAA
@@ -17834,7 +17840,6 @@
 ||licensebuttons.net^$dnstype=AAAA
 ||liceosantaclara.cl^$dnstype=AAAA
 ||lidecheng.com^$dnstype=AAAA
-||liebelib.porn^$dnstype=AAAA
 ||liecut.net^$dnstype=AAAA
 ||liejournal.com^$dnstype=AAAA
 ||lifaner.com^$dnstype=AAAA
@@ -17962,6 +17967,7 @@
 ||lithium.com^$dnstype=AAAA
 ||litquake.org^$dnstype=AAAA
 ||little-gang.jp^$dnstype=AAAA
+||littleasians.com^$dnstype=AAAA
 ||litv.tv^$dnstype=AAAA
 ||liu-xiaobo.org^$dnstype=AAAA
 ||liudejun.com^$dnstype=AAAA
@@ -21931,6 +21937,7 @@
 ||pcij.org^$dnstype=AAAA
 ||pcloud.com^$dnstype=AAAA
 ||pcre.org^$dnstype=AAAA
+||pctlwm.com^$dnstype=AAAA
 ||pdetails.com^$dnstype=AAAA
 ||pdf.new^$dnstype=AAAA
 ||pdncommunity.com^$dnstype=AAAA
@@ -23087,6 +23094,7 @@
 ||pvp.im^$dnstype=AAAA
 ||pvp.net^$dnstype=AAAA
 ||pvp.tv^$dnstype=AAAA
+||pvt.sexy^$dnstype=AAAA
 ||pvue1.com^$dnstype=AAAA
 ||pvue2.com^$dnstype=AAAA
 ||pvzfcs7.com^$dnstype=AAAA
@@ -23328,6 +23336,8 @@
 ||ra8949.com^$dnstype=AAAA
 ||ra89gz.com^$dnstype=AAAA
 ||rabb.it^$dnstype=AAAA
+||rabbitscams.com^$dnstype=AAAA
+||rabbitscams.sex^$dnstype=AAAA
 ||rabbitsreviews.com^$dnstype=AAAA
 ||rac3480.org^$dnstype=AAAA
 ||racefortibet.org^$dnstype=AAAA
@@ -24497,6 +24507,7 @@
 ||sex-hay.pro^$dnstype=AAAA
 ||sex-kontakte.at^$dnstype=AAAA
 ||sex.com^$dnstype=AAAA
+||sex.sex^$dnstype=AAAA
 ||sex.xxx^$dnstype=AAAA
 ||sex0098.com^$dnstype=AAAA
 ||sex021.net^$dnstype=AAAA
@@ -24658,6 +24669,7 @@
 ||shahvani.com^$dnstype=AAAA
 ||shahvani.site^$dnstype=AAAA
 ||shahvatsaraa.com^$dnstype=AAAA
+||shakethesnake.com^$dnstype=AAAA
 ||shakfu.com^$dnstype=AAAA
 ||shalong14.com^$dnstype=AAAA
 ||shalong365.com^$dnstype=AAAA
@@ -25731,6 +25743,7 @@
 ||streamingfast.net^$dnstype=AAAA
 ||streamingthe.net^$dnstype=AAAA
 ||streamking.org^$dnstype=AAAA
+||streamlatina.com^$dnstype=AAAA
 ||streamroot.io^$dnstype=AAAA
 ||streamsb.net^$dnstype=AAAA
 ||streamsex.com^$dnstype=AAAA
@@ -26456,6 +26469,7 @@
 ||tg9000.net^$dnstype=AAAA
 ||tgcom24.it^$dnstype=AAAA
 ||tgfcer.com^$dnstype=AAAA
+||tgirlpostop.com^$dnstype=AAAA
 ||tgpasia.com^$dnstype=AAAA
 ||tgraph.io^$dnstype=AAAA
 ||tgstat.com^$dnstype=AAAA
@@ -26553,6 +26567,7 @@
 ||thegatewaypundit.com^$dnstype=AAAA
 ||thegay.com^$dnstype=AAAA
 ||thegay.porn^$dnstype=AAAA
+||thegayoffice.com^$dnstype=AAAA
 ||thegeorgiascene.com^$dnstype=AAAA
 ||thegioitinhoc.vn^$dnstype=AAAA
 ||thegithubshop.com^$dnstype=AAAA
@@ -27089,6 +27104,7 @@
 ||topbeatsbydrdreoutlet.com^$dnstype=AAAA
 ||topbeatsdealer.com^$dnstype=AAAA
 ||topbeatsforsale.com^$dnstype=AAAA
+||topchats.com^$dnstype=AAAA
 ||topescortbabes.com^$dnstype=AAAA
 ||topface.com^$dnstype=AAAA
 ||topfreepornvideos.com^$dnstype=AAAA
@@ -30177,7 +30193,6 @@
 ||xeon.com^$dnstype=AAAA
 ||xeper.org^$dnstype=AAAA
 ||xephi.fr^$dnstype=AAAA
-||xero.porn^$dnstype=AAAA
 ||xerotica.com^$dnstype=AAAA
 ||xeztv.tv^$dnstype=AAAA
 ||xf115.com^$dnstype=AAAA
