@@ -5580,6 +5580,7 @@
 ||bg919.com^$dnstype=AAAA
 ||bg9444.com^$dnstype=AAAA
 ||bgabbin.com^$dnstype=AAAA
+||bgme.me^$dnstype=AAAA
 ||bgov.com^$dnstype=AAAA
 ||bgproxy.org^$dnstype=AAAA
 ||bgvpn.com^$dnstype=AAAA
@@ -5897,6 +5898,7 @@
 ||blmdc66.com^$dnstype=AAAA
 ||blmdc7.com^$dnstype=AAAA
 ||blockbuster.com^$dnstype=AAAA
+||blockcast.it^$dnstype=AAAA
 ||blockcn.com^$dnstype=AAAA
 ||blockedbyhk.com^$dnstype=AAAA
 ||blockedinchina.net^$dnstype=AAAA
@@ -6690,6 +6692,7 @@
 ||busayari.com^$dnstype=AAAA
 ||business-humanrights.org^$dnstype=AAAA
 ||business-standard.com^$dnstype=AAAA
+||business.page^$dnstype=AAAA
 ||business.site^$dnstype=AAAA
 ||businesscatalyst.com^$dnstype=AAAA
 ||businessfocus.io^$dnstype=AAAA
@@ -9020,6 +9023,7 @@
 ||data.com^$dnstype=AAAA
 ||datadefiner.com^$dnstype=AAAA
 ||datafilehost.com^$dnstype=AAAA
+||datalabour.com^$dnstype=AAAA
 ||datalak3.ml^$dnstype=AAAA
 ||dataliberation.org^$dnstype=AAAA
 ||datalore.io^$dnstype=AAAA
@@ -9769,6 +9773,7 @@
 ||doublehop.me^$dnstype=AAAA
 ||doublemoney.site^$dnstype=AAAA
 ||doubmirror.cf^$dnstype=AAAA
+||douchi.space^$dnstype=AAAA
 ||dougscripts.com^$dnstype=AAAA
 ||douhokanko.net^$dnstype=AAAA
 ||doujin-eromanga.com^$dnstype=AAAA
@@ -10424,6 +10429,7 @@
 ||edoors.com^$dnstype=AAAA
 ||edsby.com^$dnstype=AAAA
 ||edu-research.org^$dnstype=AAAA
+||edu.ci^$dnstype=AAAA
 ||edu.hk^$dnstype=AAAA
 ||edu.kw^$dnstype=AAAA
 ||edu.sa^$dnstype=AAAA
@@ -13322,6 +13328,7 @@
 ||go2free.xyz^$dnstype=AAAA
 ||go365.cf^$dnstype=AAAA
 ||go365.ml^$dnstype=AAAA
+||go5.dev^$dnstype=AAAA
 ||goagent.biz^$dnstype=AAAA
 ||goagentplus.com^$dnstype=AAAA
 ||goalinn.com^$dnstype=AAAA
@@ -18667,6 +18674,7 @@
 ||masterpassteststore.com^$dnstype=AAAA
 ||mastodon.cloud^$dnstype=AAAA
 ||mastodon.host^$dnstype=AAAA
+||mastodon.online^$dnstype=AAAA
 ||mastodon.social^$dnstype=AAAA
 ||mastodon.xyz^$dnstype=AAAA
 ||mastodont.cat^$dnstype=AAAA
@@ -18867,6 +18875,7 @@
 ||merakigo.com^$dnstype=AAAA
 ||mercaderias.cl^$dnstype=AAAA
 ||mercari.com^$dnstype=AAAA
+||mercari.jp^$dnstype=AAAA
 ||mercatox.com^$dnstype=AAAA
 ||mercdn.net^$dnstype=AAAA
 ||mercurynews.com^$dnstype=AAAA
@@ -19248,6 +19257,7 @@
 ||mirar.xxx^$dnstype=AAAA
 ||miro.com^$dnstype=AAAA
 ||miroguide.com^$dnstype=AAAA
+||mirror.xyz^$dnstype=AAAA
 ||mirrorbooks.com^$dnstype=AAAA
 ||mirrormedia.mg^$dnstype=AAAA
 ||mirrormediagroup.com^$dnstype=AAAA
@@ -19535,6 +19545,7 @@
 ||morazzia.com^$dnstype=AAAA
 ||morbell.com^$dnstype=AAAA
 ||moreheadphones.com^$dnstype=AAAA
+||moresci.sale^$dnstype=AAAA
 ||morganclaypool.com^$dnstype=AAAA
 ||morlive.com^$dnstype=AAAA
 ||morningstar.com^$dnstype=AAAA
@@ -19705,6 +19716,7 @@
 ||mssi.pw^$dnstype=AAAA
 ||mssm.edu^$dnstype=AAAA
 ||mstdn.io^$dnstype=AAAA
+||mstdn.social^$dnstype=AAAA
 ||msturing.org^$dnstype=AAAA
 ||msudalosti.com^$dnstype=AAAA
 ||msunlimitedcloudsummit.com^$dnstype=AAAA
@@ -20848,6 +20860,7 @@
 ||nradio.me^$dnstype=AAAA
 ||nrk.no^$dnstype=AAAA
 ||nroute.pro^$dnstype=AAAA
+||ns.ci^$dnstype=AAAA
 ||ns01.biz^$dnstype=AAAA
 ||ns01.gq^$dnstype=AAAA
 ||ns01.info^$dnstype=AAAA
@@ -21021,6 +21034,7 @@
 ||o365weve-dev.com^$dnstype=AAAA
 ||o365weve-ppe.com^$dnstype=AAAA
 ||o365weve.com^$dnstype=AAAA
+||o3o.ca^$dnstype=AAAA
 ||o8919.com^$dnstype=AAAA
 ||oakland.edu^$dnstype=AAAA
 ||oakville.ca^$dnstype=AAAA
@@ -21700,6 +21714,7 @@
 ||paper-replika.com^$dnstype=AAAA
 ||paper.li^$dnstype=AAAA
 ||paperb.us^$dnstype=AAAA
+||paperclip.tk^$dnstype=AAAA
 ||paperxtv.site^$dnstype=AAAA
 ||paradisehill.cc^$dnstype=AAAA
 ||paradisehill.tv^$dnstype=AAAA
@@ -25028,6 +25043,7 @@
 ||slandr.net^$dnstype=AAAA
 ||slantedeyes.com^$dnstype=AAAA
 ||slashdot.org^$dnstype=AAAA
+||slashine.onl^$dnstype=AAAA
 ||slate.com^$dnstype=AAAA
 ||slate.fr^$dnstype=AAAA
 ||slaytizle.com^$dnstype=AAAA
@@ -25437,6 +25453,7 @@
 ||sprint.com^$dnstype=AAAA
 ||sprint0.net^$dnstype=AAAA
 ||sprite.org^$dnstype=AAAA
+||sprite.page^$dnstype=AAAA
 ||sproutcore.com^$dnstype=AAAA
 ||sproxy.info^$dnstype=AAAA
 ||sproxy.net^$dnstype=AAAA
