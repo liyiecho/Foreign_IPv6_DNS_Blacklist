@@ -7628,6 +7628,7 @@
 ||chickteases.com^$dnstype=AAAA
 ||chiemtinhviet.com^$dnstype=AAAA
 ||chihair-straightener.com^$dnstype=AAAA
+||chikiporn.com^$dnstype=AAAA
 ||childrenyoutube.com^$dnstype=AAAA
 ||chillidoghosting.com^$dnstype=AAAA
 ||chillingo.com^$dnstype=AAAA
@@ -14234,6 +14235,7 @@
 ||hentaiverse.org^$dnstype=AAAA
 ||hentaivideoworld.com^$dnstype=AAAA
 ||hentaiworld.tv^$dnstype=AAAA
+||hentaixxxvids.com^$dnstype=AAAA
 ||hentaizilla.com^$dnstype=AAAA
 ||heptio.com^$dnstype=AAAA
 ||heqinglian.net^$dnstype=AAAA
@@ -14258,6 +14260,7 @@
 ||herokussl.com^$dnstype=AAAA
 ||herrbischoff.com^$dnstype=AAAA
 ||herringnetwork.com^$dnstype=AAAA
+||hetzner.cloud^$dnstype=AAAA
 ||hetzner.com^$dnstype=AAAA
 ||heungkongdiscuss.com^$dnstype=AAAA
 ||hex.win^$dnstype=AAAA
@@ -22624,6 +22627,7 @@
 ||porntea.com^$dnstype=AAAA
 ||porntitan.com^$dnstype=AAAA
 ||porntrex.com^$dnstype=AAAA
+||porntry.com^$dnstype=AAAA
 ||porntube.com^$dnstype=AAAA
 ||porntube24.com^$dnstype=AAAA
 ||porntubenews.com^$dnstype=AAAA
@@ -25761,6 +25765,7 @@
 ||streamingthe.net^$dnstype=AAAA
 ||streamking.org^$dnstype=AAAA
 ||streamlatina.com^$dnstype=AAAA
+||streamporn.cc^$dnstype=AAAA
 ||streamroot.io^$dnstype=AAAA
 ||streamsb.net^$dnstype=AAAA
 ||streamsex.com^$dnstype=AAAA
