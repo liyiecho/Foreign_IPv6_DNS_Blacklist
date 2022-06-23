@@ -19738,6 +19738,7 @@
 ||mtvav.com^$dnstype=AAAA
 ||mtvnservices.com^$dnstype=AAAA
 ||mtw.tl^$dnstype=AAAA
+||mtzfile.pw^$dnstype=AAAA
 ||mu6bce1c.xyz^$dnstype=AAAA
 ||mua6sf.net^$dnstype=AAAA
 ||muadness.com^$dnstype=AAAA
