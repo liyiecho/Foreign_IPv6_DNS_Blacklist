@@ -10952,6 +10952,7 @@
 ||expo-peru.com^$dnstype=AAAA
 ||expo.com^$dnstype=AAAA
 ||expofutures.com^$dnstype=AAAA
+||exporntoons.net^$dnstype=AAAA
 ||exprescomputers.eu^$dnstype=AAAA
 ||express-vpn-links.com^$dnstype=AAAA
 ||express-vpn.com^$dnstype=AAAA
@@ -12970,6 +12971,7 @@
 ||genesis2013.com^$dnstype=AAAA
 ||genius.com^$dnstype=AAAA
 ||genmirror.com^$dnstype=AAAA
+||genshin-porn.com^$dnstype=AAAA
 ||genshinimpact.com^$dnstype=AAAA
 ||genshinlab.com^$dnstype=AAAA
 ||gentoo.org^$dnstype=AAAA
@@ -14199,6 +14201,7 @@
 ||hentai-img.com^$dnstype=AAAA
 ||hentai-moon.com^$dnstype=AAAA
 ||hentai.as^$dnstype=AAAA
+||hentai.game^$dnstype=AAAA
 ||hentai.io^$dnstype=AAAA
 ||hentai.ms^$dnstype=AAAA
 ||hentai.to^$dnstype=AAAA
@@ -18682,6 +18685,7 @@
 ||mastodon.xyz^$dnstype=AAAA
 ||mastodont.cat^$dnstype=AAAA
 ||mastovitaazbuka.com^$dnstype=AAAA
+||mat6tube.com^$dnstype=AAAA
 ||matainja.com^$dnstype=AAAA
 ||material.io^$dnstype=AAAA
 ||matevpn.com^$dnstype=AAAA
@@ -24009,6 +24013,7 @@
 ||rutor.org^$dnstype=AAAA
 ||rutracker.net^$dnstype=AAAA
 ||rutube.ru^$dnstype=AAAA
+||ruvideos.net^$dnstype=AAAA
 ||ruvpn.top^$dnstype=AAAA
 ||ruyiseek.com^$dnstype=AAAA
 ||rv55.com^$dnstype=AAAA
@@ -24836,6 +24841,7 @@
 ||showyourdick.org^$dnstype=AAAA
 ||shp.ee^$dnstype=AAAA
 ||shrib.com^$dnstype=AAAA
+||shufflesex.com^$dnstype=AAAA
 ||shuihu.ca^$dnstype=AAAA
 ||shush.se^$dnstype=AAAA
 ||shutterstock.com^$dnstype=AAAA
@@ -27799,6 +27805,7 @@
 ||tycgj.fans^$dnstype=AAAA
 ||tycool.com^$dnstype=AAAA
 ||tycylc.fans^$dnstype=AAAA
+||tyler-brown.com^$dnstype=AAAA
 ||tylerclary.com^$dnstype=AAAA
 ||typecho.org^$dnstype=AAAA
 ||typeisbeautiful.com^$dnstype=AAAA
@@ -29243,6 +29250,7 @@
 ||watchout.tw^$dnstype=AAAA
 ||watchtowerdocuments.com^$dnstype=AAAA
 ||water-and-power.com^$dnstype=AAAA
+||waterdamagesandiego.org^$dnstype=AAAA
 ||watersex.com^$dnstype=AAAA
 ||waterstudy.org^$dnstype=AAAA
 ||watter.cc^$dnstype=AAAA
