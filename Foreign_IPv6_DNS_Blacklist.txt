@@ -7330,7 +7330,9 @@
 ||cc.com^$dnstype=AAAA
 ||cc.st^$dnstype=AAAA
 ||cc1505.com^$dnstype=AAAA
+||cc18.biz^$dnstype=AAAA
 ||cc18.tv^$dnstype=AAAA
+||cc18tv.com^$dnstype=AAAA
 ||cc353.com^$dnstype=AAAA
 ||cc36.net^$dnstype=AAAA
 ||cc383.net^$dnstype=AAAA
@@ -22536,6 +22538,7 @@
 ||porndisk.com^$dnstype=AAAA
 ||porndoe.com^$dnstype=AAAA
 ||porndoepremium.com^$dnstype=AAAA
+||porndr.com^$dnstype=AAAA
 ||pornerbros.com^$dnstype=AAAA
 ||pornfacebook.com^$dnstype=AAAA
 ||pornfidelity.com^$dnstype=AAAA
@@ -24475,6 +24478,7 @@
 ||senzuritv.net^$dnstype=AAAA
 ||seondlife.com^$dnstype=AAAA
 ||sephora.com^$dnstype=AAAA
+||seqing.one^$dnstype=AAAA
 ||seqingx.com^$dnstype=AAAA
 ||sequence.com^$dnstype=AAAA
 ||serajeymonastery.org^$dnstype=AAAA
