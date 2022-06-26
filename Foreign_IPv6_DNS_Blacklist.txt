@@ -758,6 +758,7 @@
 ||1jsa22.vip^$dnstype=AAAA
 ||1kan.com^$dnstype=AAAA
 ||1lib.ch^$dnstype=AAAA
+||1lib.domains^$dnstype=AAAA
 ||1lib.net^$dnstype=AAAA
 ||1lib.nl^$dnstype=AAAA
 ||1lib.org^$dnstype=AAAA
@@ -1466,6 +1467,7 @@
 ||4mydomain.com^$dnstype=AAAA
 ||4myminicard.com^$dnstype=AAAA
 ||4pig.com^$dnstype=AAAA
+||4porn.com^$dnstype=AAAA
 ||4proxy.de^$dnstype=AAAA
 ||4pu.com^$dnstype=AAAA
 ||4rbtv.com^$dnstype=AAAA
@@ -16791,6 +16793,7 @@
 ||joysporn.com^$dnstype=AAAA
 ||jp-sex.com^$dnstype=AAAA
 ||jp.net^$dnstype=AAAA
+||jp1lib.org^$dnstype=AAAA
 ||jpg4.biz^$dnstype=AAAA
 ||jpg4.info^$dnstype=AAAA
 ||jpg4.pw^$dnstype=AAAA
@@ -17268,6 +17271,7 @@
 ||komica.org^$dnstype=AAAA
 ||komica2.net^$dnstype=AAAA
 ||komicolle.org^$dnstype=AAAA
+||kompoz.com^$dnstype=AAAA
 ||kompoz2.com^$dnstype=AAAA
 ||kompozer.net^$dnstype=AAAA
 ||konachan.com^$dnstype=AAAA
@@ -22549,6 +22553,7 @@
 ||porngames.games^$dnstype=AAAA
 ||porngladiator.com^$dnstype=AAAA
 ||porngo.com^$dnstype=AAAA
+||pornhat.com^$dnstype=AAAA
 ||pornhb.com^$dnstype=AAAA
 ||pornhd.com^$dnstype=AAAA
 ||pornhits.com^$dnstype=AAAA
@@ -26679,6 +26684,7 @@
 ||thepiratebay.org^$dnstype=AAAA
 ||theplatform.com^$dnstype=AAAA
 ||thepolicy.us^$dnstype=AAAA
+||thepornbet.com^$dnstype=AAAA
 ||theporndude.com^$dnstype=AAAA
 ||thepornlist.com^$dnstype=AAAA
 ||thepornscat.com^$dnstype=AAAA
