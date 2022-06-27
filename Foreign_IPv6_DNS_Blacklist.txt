@@ -1499,6 +1499,7 @@
 ||5062941.com^$dnstype=AAAA
 ||50655.com^$dnstype=AAAA
 ||507678.com^$dnstype=AAAA
+||50dh.app^$dnstype=AAAA
 ||50na50.net^$dnstype=AAAA
 ||50webs.com^$dnstype=AAAA
 ||51.ca^$dnstype=AAAA
@@ -6914,6 +6915,7 @@
 ||byt707.com^$dnstype=AAAA
 ||byt909.com^$dnstype=AAAA
 ||byte.co^$dnstype=AAAA
+||byteoversea.com^$dnstype=AAAA
 ||bytes.com^$dnstype=AAAA
 ||bytextv.com^$dnstype=AAAA
 ||bytick.com^$dnstype=AAAA
@@ -11882,6 +11884,8 @@
 ||flirt4free.com^$dnstype=AAAA
 ||flirtyhoookup.com^$dnstype=AAAA
 ||flitto.com^$dnstype=AAAA
+||fljmh.com^$dnstype=AAAA
+||fljmh1.com^$dnstype=AAAA
 ||fljsq.cn^$dnstype=AAAA
 ||fll.cc^$dnstype=AAAA
 ||flnet.org^$dnstype=AAAA
@@ -16366,6 +16370,7 @@
 ||jasoncoyne.com^$dnstype=AAAA
 ||jav-1080.com^$dnstype=AAAA
 ||jav-720p.com^$dnstype=AAAA
+||jav-legend.com^$dnstype=AAAA
 ||jav-onlines.com^$dnstype=AAAA
 ||jav.com^$dnstype=AAAA
 ||jav.guru^$dnstype=AAAA
@@ -19785,11 +19790,13 @@
 ||murmur.tw^$dnstype=AAAA
 ||murmurcn.com^$dnstype=AAAA
 ||muryouav.net^$dnstype=AAAA
+||muscdn.com^$dnstype=AAAA
 ||musemagazine.it^$dnstype=AAAA
 ||musescore.com^$dnstype=AAAA
 ||mushroomtube.com^$dnstype=AAAA
 ||mushymush.tv^$dnstype=AAAA
 ||musicade.net^$dnstype=AAAA
+||musical.ly^$dnstype=AAAA
 ||musically.com^$dnstype=AAAA
 ||musicbay.net^$dnstype=AAAA
 ||musicimagine.com^$dnstype=AAAA
@@ -25359,6 +25366,7 @@
 ||soylent.com^$dnstype=AAAA
 ||soylentnews.org^$dnstype=AAAA
 ||soytwitter.com^$dnstype=AAAA
+||sp.cool^$dnstype=AAAA
 ||sp5178.com^$dnstype=AAAA
 ||sp5178.net^$dnstype=AAAA
 ||sp667.com^$dnstype=AAAA
@@ -26952,7 +26960,11 @@
 ||tigerdirect.com^$dnstype=AAAA
 ||tigerpvp.ga^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
+||tik-tokapi.com^$dnstype=AAAA
+||tiktok.com^$dnstype=AAAA
 ||tiktokcdn-us.com^$dnstype=AAAA
+||tiktokcdn.com^$dnstype=AAAA
+||tiktokv.com^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
 ||timcok.com^$dnstype=AAAA
 ||timdir.com^$dnstype=AAAA
@@ -31144,6 +31156,7 @@
 ||youx.xxx^$dnstype=AAAA
 ||youxu.info^$dnstype=AAAA
 ||youyoutube.com^$dnstype=AAAA
+||youyu.services^$dnstype=AAAA
 ||yoyoav.net^$dnstype=AAAA
 ||yoyovpn.com^$dnstype=AAAA
 ||ypmate.com^$dnstype=AAAA
