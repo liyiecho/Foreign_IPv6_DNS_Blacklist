@@ -3042,6 +3042,7 @@
 ||adam4adam.com^$dnstype=AAAA
 ||adameve.com^$dnstype=AAAA
 ||adana123.site^$dnstype=AAAA
+||adanaatikhaber.com^$dnstype=AAAA
 ||adaptivecards.io^$dnstype=AAAA
 ||adbecrsl.com^$dnstype=AAAA
 ||adbkm.com^$dnstype=AAAA
@@ -4475,6 +4476,7 @@
 ||attwirelessinternet.com^$dnstype=AAAA
 ||attwirelessonline.com^$dnstype=AAAA
 ||attwirelesssolutions.com^$dnstype=AAAA
+||atube.xxx^$dnstype=AAAA
 ||atv98.com^$dnstype=AAAA
 ||atypi.org^$dnstype=AAAA
 ||au1.ca^$dnstype=AAAA
@@ -4630,24 +4632,6 @@
 ||avsox.host^$dnstype=AAAA
 ||avsp2p.com^$dnstype=AAAA
 ||avstar.me^$dnstype=AAAA
-||avstar01.com^$dnstype=AAAA
-||avstar01.me^$dnstype=AAAA
-||avstar02.com^$dnstype=AAAA
-||avstar02.me^$dnstype=AAAA
-||avstar03.com^$dnstype=AAAA
-||avstar03.me^$dnstype=AAAA
-||avstar04.com^$dnstype=AAAA
-||avstar04.me^$dnstype=AAAA
-||avstar05.com^$dnstype=AAAA
-||avstar05.me^$dnstype=AAAA
-||avstar06.com^$dnstype=AAAA
-||avstar06.me^$dnstype=AAAA
-||avstar07.com^$dnstype=AAAA
-||avstar07.me^$dnstype=AAAA
-||avstar08.com^$dnstype=AAAA
-||avstar08.me^$dnstype=AAAA
-||avstar09.com^$dnstype=AAAA
-||avstar09.me^$dnstype=AAAA
 ||avstry.com^$dnstype=AAAA
 ||avt-global.com^$dnstype=AAAA
 ||avtb01.com^$dnstype=AAAA
@@ -5110,6 +5094,7 @@
 ||bdj98.com^$dnstype=AAAA
 ||bdn.dev^$dnstype=AAAA
 ||bdsmforall.com^$dnstype=AAAA
+||bdsmland.org^$dnstype=AAAA
 ||bdsmlibrary.com^$dnstype=AAAA
 ||bdsmstreak.com^$dnstype=AAAA
 ||bdsmtv.cc^$dnstype=AAAA
@@ -8544,6 +8529,7 @@
 ||creaders.net^$dnstype=AAAA
 ||creadersnet.com^$dnstype=AAAA
 ||creamasia.com^$dnstype=AAAA
+||creamlemon.info^$dnstype=AAAA
 ||creampietubeporn.com^$dnstype=AAAA
 ||createspace.com^$dnstype=AAAA
 ||creativecloud.com^$dnstype=AAAA
@@ -16322,6 +16308,7 @@
 ||jads.co^$dnstype=AAAA
 ||jadult.net^$dnstype=AAAA
 ||jafa888.com^$dnstype=AAAA
+||jafgrown.com^$dnstype=AAAA
 ||jagex.com^$dnstype=AAAA
 ||jahangiri.us^$dnstype=AAAA
 ||jahproxy.net^$dnstype=AAAA
@@ -16439,7 +16426,9 @@
 ||javfinder.sh^$dnstype=AAAA
 ||javfor.me^$dnstype=AAAA
 ||javfree.me^$dnstype=AAAA
+||javfuck.net^$dnstype=AAAA
 ||javfull.net^$dnstype=AAAA
+||javhard.net^$dnstype=AAAA
 ||javhaven.com^$dnstype=AAAA
 ||javhay.net^$dnstype=AAAA
 ||javhd.com^$dnstype=AAAA
@@ -16474,9 +16463,12 @@
 ||javpub.me^$dnstype=AAAA
 ||javpush.com^$dnstype=AAAA
 ||javqd.com^$dnstype=AAAA
+||javscat.net^$dnstype=AAAA
+||javscatting.com^$dnstype=AAAA
 ||javscreens.com^$dnstype=AAAA
 ||javseeds.com^$dnstype=AAAA
 ||javseen.com^$dnstype=AAAA
+||javsex.asia^$dnstype=AAAA
 ||javsharing.com^$dnstype=AAAA
 ||javsin.com^$dnstype=AAAA
 ||javstore.net^$dnstype=AAAA
@@ -16486,6 +16478,7 @@
 ||javtorrent.re^$dnstype=AAAA
 ||javtube.com^$dnstype=AAAA
 ||javvan.cc^$dnstype=AAAA
+||javvids.com^$dnstype=AAAA
 ||javwide.com^$dnstype=AAAA
 ||javwide.tv^$dnstype=AAAA
 ||javynow.com^$dnstype=AAAA
@@ -22490,6 +22483,7 @@
 ||poofreesky.gq^$dnstype=AAAA
 ||poojaescorts.in^$dnstype=AAAA
 ||poolwo.com^$dnstype=AAAA
+||poop-pee.online^$dnstype=AAAA
 ||poow.ga^$dnstype=AAAA
 ||popbox.com^$dnstype=AAAA
 ||popcap.com^$dnstype=AAAA
@@ -22577,6 +22571,7 @@
 ||pornicom.com^$dnstype=AAAA
 ||pornid.xxx^$dnstype=AAAA
 ||pornimg.xyz^$dnstype=AAAA
+||pornjav.org^$dnstype=AAAA
 ||pornjizz.co^$dnstype=AAAA
 ||pornjog.com^$dnstype=AAAA
 ||pornkai.com^$dnstype=AAAA
@@ -23112,6 +23107,7 @@
 ||purevpn.org^$dnstype=AAAA
 ||purextc.com^$dnstype=AAAA
 ||purifymind.com^$dnstype=AAAA
+||puripuriunkomura.com^$dnstype=AAAA
 ||puritan.com^$dnstype=AAAA
 ||purplelotus.org^$dnstype=AAAA
 ||pursuestar.com^$dnstype=AAAA
@@ -24291,6 +24287,8 @@
 ||scanbc.com^$dnstype=AAAA
 ||scandalplanet.com^$dnstype=AAAA
 ||scasino.com^$dnstype=AAAA
+||scat-japan.com^$dnstype=AAAA
+||scatvids.club^$dnstype=AAAA
 ||sccycles.cl^$dnstype=AAAA
 ||scdn.co^$dnstype=AAAA
 ||scene7.com^$dnstype=AAAA
@@ -24793,6 +24791,8 @@
 ||shireyishunjian.vip^$dnstype=AAAA
 ||shit.com^$dnstype=AAAA
 ||shitaotv.org^$dnstype=AAAA
+||shithd.com^$dnstype=AAAA
+||shitjav.com^$dnstype=AAAA
 ||shittytube.com^$dnstype=AAAA
 ||shixiao.org^$dnstype=AAAA
 ||shixudong.ml^$dnstype=AAAA
