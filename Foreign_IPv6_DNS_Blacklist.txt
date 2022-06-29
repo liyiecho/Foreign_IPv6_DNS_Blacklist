@@ -14071,6 +14071,7 @@
 ||hd25.tk^$dnstype=AAAA
 ||hd36.win^$dnstype=AAAA
 ||hd95996.com^$dnstype=AAAA
+||hdb1.app^$dnstype=AAAA
 ||hdd2.host^$dnstype=AAAA
 ||hddirectv.com^$dnstype=AAAA
 ||hdgaytube.xxx^$dnstype=AAAA
@@ -14078,6 +14079,8 @@
 ||hdjavonline.com^$dnstype=AAAA
 ||hdlt.me^$dnstype=AAAA
 ||hdmbox.com^$dnstype=AAAA
+||hdouban.com^$dnstype=AAAA
+||hdouban2.com^$dnstype=AAAA
 ||hdouga.com^$dnstype=AAAA
 ||hdpornfree.xxx^$dnstype=AAAA
 ||hdpornfull.com^$dnstype=AAAA
@@ -15498,6 +15501,7 @@
 ||imagination.cf^$dnstype=AAAA
 ||imagineecommerce.com^$dnstype=AAAA
 ||imanhua.com^$dnstype=AAAA
+||imaypb.com^$dnstype=AAAA
 ||imb.org^$dnstype=AAAA
 ||imbell.com^$dnstype=AAAA
 ||imdb.com^$dnstype=AAAA
@@ -21232,6 +21236,7 @@
 ||onbeatsbydresale.com^$dnstype=AAAA
 ||onceuponacrimebooks.com^$dnstype=AAAA
 ||one.one^$dnstype=AAAA
+||one889.app^$dnstype=AAAA
 ||one88bet.com^$dnstype=AAAA
 ||oneapi.com^$dnstype=AAAA
 ||onebigfluke.com^$dnstype=AAAA
@@ -24666,6 +24671,7 @@
 ||sgapi00.com^$dnstype=AAAA
 ||sgforums.com^$dnstype=AAAA
 ||sgod.ga^$dnstype=AAAA
+||sgp1.fun^$dnstype=AAAA
 ||sgreenvpn.com^$dnstype=AAAA
 ||sgwin123.com^$dnstype=AAAA
 ||sgwritings.com^$dnstype=AAAA
@@ -25519,6 +25525,7 @@
 ||ss36507.com^$dnstype=AAAA
 ||ss36508.com^$dnstype=AAAA
 ||ss66088.com^$dnstype=AAAA
+||ss7.app^$dnstype=AAAA
 ||ss733.net^$dnstype=AAAA
 ||ss9874.com^$dnstype=AAAA
 ||ss99066.com^$dnstype=AAAA
@@ -30633,6 +30640,7 @@
 ||xx316.net^$dnstype=AAAA
 ||xx3641.com^$dnstype=AAAA
 ||xx383.net^$dnstype=AAAA
+||xx9.app^$dnstype=AAAA
 ||xxbay.com^$dnstype=AAAA
 ||xxbbx.com^$dnstype=AAAA
 ||xxeronetxx.info^$dnstype=AAAA
