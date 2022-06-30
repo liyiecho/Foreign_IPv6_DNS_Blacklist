@@ -10047,6 +10047,7 @@
 ||dx3303.com^$dnstype=AAAA
 ||dx7711.com^$dnstype=AAAA
 ||dx7722.com^$dnstype=AAAA
+||dx9527.cc^$dnstype=AAAA
 ||dxiong.com^$dnstype=AAAA
 ||dy606.com^$dnstype=AAAA
 ||dy9907.com^$dnstype=AAAA
@@ -17910,6 +17911,7 @@
 ||limbopro.xyz^$dnstype=AAAA
 ||limejs.com^$dnstype=AAAA
 ||limelight.com^$dnstype=AAAA
+||limertw.cc^$dnstype=AAAA
 ||limeteensex.com^$dnstype=AAAA
 ||limetorrents.cc^$dnstype=AAAA
 ||limevpn.com^$dnstype=AAAA
@@ -28289,6 +28291,7 @@
 ||v66612.com^$dnstype=AAAA
 ||v6ss.xyz^$dnstype=AAAA
 ||v78929.com^$dnstype=AAAA
+||v7hds.com^$dnstype=AAAA
 ||v8.dev^$dnstype=AAAA
 ||v8293.com^$dnstype=AAAA
 ||v86v.com^$dnstype=AAAA
@@ -30193,6 +30196,7 @@
 ||xart.com^$dnstype=AAAA
 ||xartfan.com^$dnstype=AAAA
 ||xavduf.com^$dnstype=AAAA
+||xb18.me^$dnstype=AAAA
 ||xb606.net^$dnstype=AAAA
 ||xbabe.com^$dnstype=AAAA
 ||xbahis33.com^$dnstype=AAAA
