@@ -8438,6 +8438,7 @@
 ||corriere.it^$dnstype=AAAA
 ||cortanaanalytics.com^$dnstype=AAAA
 ||cortanaskills.com^$dnstype=AAAA
+||cortexrpg.com^$dnstype=AAAA
 ||corumcollege.com^$dnstype=AAAA
 ||cos-moe.com^$dnstype=AAAA
 ||cosersuki.net^$dnstype=AAAA
