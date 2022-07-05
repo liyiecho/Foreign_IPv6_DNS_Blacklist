@@ -516,6 +516,7 @@
 ||1686220.com^$dnstype=AAAA
 ||1688000008.com^$dnstype=AAAA
 ||168801.net^$dnstype=AAAA
+||16885858.com^$dnstype=AAAA
 ||1688620.com^$dnstype=AAAA
 ||168bet9.com^$dnstype=AAAA
 ||1690.com^$dnstype=AAAA
@@ -3187,6 +3188,7 @@
 ||afcp09.com^$dnstype=AAAA
 ||afewmomentswith.com^$dnstype=AAAA
 ||aff365sal.com^$dnstype=AAAA
+||affect3dstore.com^$dnstype=AAAA
 ||affsal365.com^$dnstype=AAAA
 ||afftb388.com^$dnstype=AAAA
 ||affyun.org^$dnstype=AAAA
@@ -9113,6 +9115,7 @@
 ||dd5278.loan^$dnstype=AAAA
 ||dd935.net^$dnstype=AAAA
 ||dd9871.com^$dnstype=AAAA
+||ddd-smart.net^$dnstype=AAAA
 ||ddd626.net^$dnstype=AAAA
 ||ddd836.net^$dnstype=AAAA
 ||ddex.io^$dnstype=AAAA
@@ -9777,6 +9780,7 @@
 ||doujin-moe.us^$dnstype=AAAA
 ||doujinantena.com^$dnstype=AAAA
 ||doujincafe.com^$dnstype=AAAA
+||doujinnomori.com^$dnstype=AAAA
 ||doujins.com^$dnstype=AAAA
 ||doujinshi.org^$dnstype=AAAA
 ||douwriteright.com^$dnstype=AAAA
@@ -24015,6 +24019,7 @@
 ||rukor.org^$dnstype=AAAA
 ||rule-34.net^$dnstype=AAAA
 ||rule34.xxx^$dnstype=AAAA
+||rule34video.com^$dnstype=AAAA
 ||ruleporn.com^$dnstype=AAAA
 ||rumah123.com^$dnstype=AAAA
 ||rumahsabiq.com^$dnstype=AAAA
@@ -30506,6 +30511,7 @@
 ||xn--90wwvt03e.com^$dnstype=AAAA
 ||xn--9pr62r24a.com^$dnstype=AAAA
 ||xn--9trs65b.com^$dnstype=AAAA
+||xn--cck4d8b3009a.com^$dnstype=AAAA
 ||xn--czq75pvv1aj5c.org^$dnstype=AAAA
 ||xn--d4ty0ojsqzfd.com^$dnstype=AAAA
 ||xn--fiq681d48s.org^$dnstype=AAAA
@@ -30525,6 +30531,7 @@
 ||xn--pearsonenespaol-brb.com^$dnstype=AAAA
 ||xn--q41am8x.com^$dnstype=AAAA
 ||xn--qoq462m.com^$dnstype=AAAA
+||xn--r8jwklh769h2mc880dk1o431a.com^$dnstype=AAAA
 ||xn--rdt-0na.no^$dnstype=AAAA
 ||xn--rs8h.tk^$dnstype=AAAA
 ||xn--tkry91n.com^$dnstype=AAAA
