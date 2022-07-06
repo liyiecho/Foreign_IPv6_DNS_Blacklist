@@ -2503,6 +2503,7 @@
 ||91cqmm.com^$dnstype=AAAA
 ||91cy.app^$dnstype=AAAA
 ||91dizhi.com^$dnstype=AAAA
+||91fans.org^$dnstype=AAAA
 ||91gay.me^$dnstype=AAAA
 ||91one.xyz^$dnstype=AAAA
 ||91pic.net^$dnstype=AAAA
@@ -8019,6 +8020,7 @@
 ||cloudmosa.com^$dnstype=AAAA
 ||cloudn.me^$dnstype=AAAA
 ||cloudpn.top^$dnstype=AAAA
+||cloudproxy.app^$dnstype=AAAA
 ||cloudrobotics.com^$dnstype=AAAA
 ||cloudss.pw^$dnstype=AAAA
 ||cloudtv.bz^$dnstype=AAAA
@@ -18225,6 +18227,7 @@
 ||lsg368.com^$dnstype=AAAA
 ||lsj.xyz^$dnstype=AAAA
 ||lsj1080.com^$dnstype=AAAA
+||lsj2.shop^$dnstype=AAAA
 ||lsm.org^$dnstype=AAAA
 ||lsmchinese.org^$dnstype=AAAA
 ||lsmkorean.org^$dnstype=AAAA
