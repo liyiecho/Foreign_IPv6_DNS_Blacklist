@@ -16494,6 +16494,7 @@
 ||javtag.com^$dnstype=AAAA
 ||javtag.net^$dnstype=AAAA
 ||javtasty.com^$dnstype=AAAA
+||javtorrent.me^$dnstype=AAAA
 ||javtorrent.re^$dnstype=AAAA
 ||javtube.com^$dnstype=AAAA
 ||javvan.cc^$dnstype=AAAA
