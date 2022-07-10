@@ -2111,6 +2111,7 @@
 ||7585832.com^$dnstype=AAAA
 ||7589330.com^$dnstype=AAAA
 ||7589942.com^$dnstype=AAAA
+||75m.co^$dnstype=AAAA
 ||76034.wang^$dnstype=AAAA
 ||7611567.com^$dnstype=AAAA
 ||762125.cc^$dnstype=AAAA
@@ -12967,6 +12968,7 @@
 ||geinoueroch.com^$dnstype=AAAA
 ||gekikame.com^$dnstype=AAAA
 ||gelbooru.com^$dnstype=AAAA
+||gelbooru.me^$dnstype=AAAA
 ||gemfire.net^$dnstype=AAAA
 ||gemfury.com^$dnstype=AAAA
 ||gen.tr^$dnstype=AAAA
@@ -14803,6 +14805,7 @@
 ||hottv.cc^$dnstype=AAAA
 ||hottystop.com^$dnstype=AAAA
 ||hotvpn.com^$dnstype=AAAA
+||hotzxgirl.com^$dnstype=AAAA
 ||hougaige.com^$dnstype=AAAA
 ||hourlyhost.com^$dnstype=AAAA
 ||houseoffreedom.org^$dnstype=AAAA
