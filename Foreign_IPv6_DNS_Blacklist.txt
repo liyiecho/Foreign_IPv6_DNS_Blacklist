@@ -13187,6 +13187,7 @@
 ||gigscity.com^$dnstype=AAAA
 ||giize.com^$dnstype=AAAA
 ||gimpyd.com^$dnstype=AAAA
+||gimy.cc^$dnstype=AAAA
 ||gingerpeople.com^$dnstype=AAAA
 ||ginmon.de^$dnstype=AAAA
 ||ginx.com^$dnstype=AAAA
