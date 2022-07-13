@@ -641,6 +641,7 @@
 ||18comic2.biz^$dnstype=AAAA
 ||18comic3.biz^$dnstype=AAAA
 ||18comic4.biz^$dnstype=AAAA
+||18commic.com^$dnstype=AAAA
 ||18gal.xyz^$dnstype=AAAA
 ||18girlssex.com^$dnstype=AAAA
 ||18h.tv^$dnstype=AAAA
@@ -824,6 +825,7 @@
 ||20206003.com^$dnstype=AAAA
 ||20206006.com^$dnstype=AAAA
 ||2021hkcharter.com^$dnstype=AAAA
+||2022.dev^$dnstype=AAAA
 ||2047.name^$dnstype=AAAA
 ||2049bbs.xyz^$dnstype=AAAA
 ||20539546.com^$dnstype=AAAA
@@ -2795,7 +2797,9 @@
 ||9bis.com^$dnstype=AAAA
 ||9bis.net^$dnstype=AAAA
 ||9cache.com^$dnstype=AAAA
+||9cao9.com^$dnstype=AAAA
 ||9cash.net^$dnstype=AAAA
+||9ccms.me^$dnstype=AAAA
 ||9cdn.net^$dnstype=AAAA
 ||9fabet.com^$dnstype=AAAA
 ||9fyt.com^$dnstype=AAAA
@@ -4333,6 +4337,7 @@
 ||asiangirlsnextdoor.com^$dnstype=AAAA
 ||asianinvestor.net^$dnstype=AAAA
 ||asianlawcaucus.org^$dnstype=AAAA
+||asianporn.rest^$dnstype=AAAA
 ||asianporn.sexy^$dnstype=AAAA
 ||asianpornmovies.com^$dnstype=AAAA
 ||asianpornmovies.org^$dnstype=AAAA
@@ -6488,6 +6493,7 @@
 ||brazzerstveurope.com^$dnstype=AAAA
 ||brcparticipate.com^$dnstype=AAAA
 ||brdteengal.com^$dnstype=AAAA
+||breached.to^$dnstype=AAAA
 ||break.com^$dnstype=AAAA
 ||breakblack.net^$dnstype=AAAA
 ||breakdown.me^$dnstype=AAAA
@@ -7609,6 +7615,7 @@
 ||chenpokongvip.com^$dnstype=AAAA
 ||cherryasia.com^$dnstype=AAAA
 ||cherrynudes.com^$dnstype=AAAA
+||cherrypai.com^$dnstype=AAAA
 ||cherrypimps.com^$dnstype=AAAA
 ||cherrypornhd.com^$dnstype=AAAA
 ||cherrysave.com^$dnstype=AAAA
@@ -7726,6 +7733,7 @@
 ||chinese-hermit.net^$dnstype=AAAA
 ||chinese-leaders.org^$dnstype=AAAA
 ||chinese-memorial.org^$dnstype=AAAA
+||chinese-porn-videos.com^$dnstype=AAAA
 ||chineseconferenceinterpreters.com^$dnstype=AAAA
 ||chinesedaily.com^$dnstype=AAAA
 ||chinesedailynews.com^$dnstype=AAAA
@@ -9465,6 +9473,7 @@
 ||dirtyasiantube.com^$dnstype=AAAA
 ||dirtydoglinks.com^$dnstype=AAAA
 ||dirtyfarmer.com^$dnstype=AAAA
+||dirtyleague.com^$dnstype=AAAA
 ||dirtymilfclub.com^$dnstype=AAAA
 ||dirtyrhino.com^$dnstype=AAAA
 ||discfan.net^$dnstype=AAAA
@@ -16361,6 +16370,7 @@
 ||janxtv.site^$dnstype=AAAA
 ||japan-forward.com^$dnstype=AAAA
 ||japan-whores.com^$dnstype=AAAA
+||japan18tube.com^$dnstype=AAAA
 ||japanbeast.com^$dnstype=AAAA
 ||japancupid.com^$dnstype=AAAA
 ||japanese.xxx^$dnstype=AAAA
@@ -16425,6 +16435,7 @@
 ||javcloud.com^$dnstype=AAAA
 ||javcn.net^$dnstype=AAAA
 ||javconnect.com^$dnstype=AAAA
+||javday.tv^$dnstype=AAAA
 ||javdb.com^$dnstype=AAAA
 ||javdb4.com^$dnstype=AAAA
 ||javdoe.com^$dnstype=AAAA
@@ -16580,6 +16591,7 @@
 ||jennandnick.com^$dnstype=AAAA
 ||jeongfamily.net^$dnstype=AAAA
 ||jepic.org^$dnstype=AAAA
+||jerkmate.com^$dnstype=AAAA
 ||jeromecohen.net^$dnstype=AAAA
 ||jerryxiao.cc^$dnstype=AAAA
 ||jessewilkinson.com^$dnstype=AAAA
@@ -19309,6 +19321,7 @@
 ||miss-no1.com^$dnstype=AAAA
 ||miss148.com^$dnstype=AAAA
 ||missav.com^$dnstype=AAAA
+||misshotgirls.com^$dnstype=AAAA
 ||mississippimiracleclay.com^$dnstype=AAAA
 ||missrissa.net^$dnstype=AAAA
 ||misstibet.com^$dnstype=AAAA
