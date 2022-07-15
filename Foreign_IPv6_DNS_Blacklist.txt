@@ -671,6 +671,7 @@
 ||18porno.tv^$dnstype=AAAA
 ||18pornsex.com^$dnstype=AAAA
 ||18pps.co^$dnstype=AAAA
+||18push.com^$dnstype=AAAA
 ||18qiu.com^$dnstype=AAAA
 ||18qt.com^$dnstype=AAAA
 ||18schoolgirlz.me^$dnstype=AAAA
@@ -2016,6 +2017,7 @@
 ||6parknews.com^$dnstype=AAAA
 ||6sextube.com^$dnstype=AAAA
 ||6te.net^$dnstype=AAAA
+||6twseb.com^$dnstype=AAAA
 ||6up.bet^$dnstype=AAAA
 ||6up.com^$dnstype=AAAA
 ||6xxxvideos.com^$dnstype=AAAA
@@ -11715,6 +11717,10 @@
 ||fhreports.net^$dnstype=AAAA
 ||fhy123.org^$dnstype=AAAA
 ||fhyuan.net^$dnstype=AAAA
+||fi11.com^$dnstype=AAAA
+||fi11av1.com^$dnstype=AAAA
+||fi11sm34.com^$dnstype=AAAA
+||fi11tv1.com^$dnstype=AAAA
 ||fi22.cc^$dnstype=AAAA
 ||fiberprox.eu^$dnstype=AAAA
 ||ficeboock.com^$dnstype=AAAA
@@ -16492,6 +16498,7 @@
 ||javhuge.com^$dnstype=AAAA
 ||javjunkies.com^$dnstype=AAAA
 ||javl10.com^$dnstype=AAAA
+||javlands.net^$dnstype=AAAA
 ||javli6.com^$dnstype=AAAA
 ||javlibrary.com^$dnstype=AAAA
 ||javmany.com^$dnstype=AAAA
@@ -17202,6 +17209,8 @@
 ||kimaspen.com^$dnstype=AAAA
 ||kimmert.com^$dnstype=AAAA
 ||kimo.com^$dnstype=AAAA
+||kimogirl.cc^$dnstype=AAAA
+||kimosex.com^$dnstype=AAAA
 ||kimosong.com^$dnstype=AAAA
 ||kimsufi.com^$dnstype=AAAA
 ||kinapharma.com^$dnstype=AAAA
@@ -18908,6 +18917,7 @@
 ||meltingsource.com^$dnstype=AAAA
 ||meltoday.com^$dnstype=AAAA
 ||memcpy.io^$dnstype=AAAA
+||meme111.com^$dnstype=AAAA
 ||memehk.com^$dnstype=AAAA
 ||memes.com^$dnstype=AAAA
 ||memes.tw^$dnstype=AAAA
@@ -19345,6 +19355,7 @@
 ||mist.vip^$dnstype=AAAA
 ||mit.edu^$dnstype=AAAA
 ||mit.net^$dnstype=AAAA
+||mitao.bar^$dnstype=AAAA
 ||mitao520.com^$dnstype=AAAA
 ||mitao95.com^$dnstype=AAAA
 ||mitaotang.jp^$dnstype=AAAA
@@ -30568,6 +30579,7 @@
 ||xn--jlqz7wnvax2ocxskuz.com^$dnstype=AAAA
 ||xn--mgbtd2a1dpq.my^$dnstype=AAAA
 ||xn--mts47c3w9b1qr.net^$dnstype=AAAA
+||xn--mtswd61ejxq.com^$dnstype=AAAA
 ||xn--ngstr-lra8j.com^$dnstype=AAAA
 ||xn--noss43i.com^$dnstype=AAAA
 ||xn--octt84bmki.com^$dnstype=AAAA
@@ -30580,6 +30592,7 @@
 ||xn--rs8h.tk^$dnstype=AAAA
 ||xn--tkry91n.com^$dnstype=AAAA
 ||xn--ubt498knmf.com^$dnstype=AAAA
+||xn--uis17aj9kmuf.com^$dnstype=AAAA
 ||xn--xsq421m.com^$dnstype=AAAA
 ||xn--xsq605n.com^$dnstype=AAAA
 ||xn--xsq959n.com^$dnstype=AAAA
@@ -30719,6 +30732,7 @@
 ||xx383.net^$dnstype=AAAA
 ||xx9.app^$dnstype=AAAA
 ||xxbay.com^$dnstype=AAAA
+||xxbb9.com^$dnstype=AAAA
 ||xxbbx.com^$dnstype=AAAA
 ||xxeronetxx.info^$dnstype=AAAA
 ||xxfoxh.com^$dnstype=AAAA
