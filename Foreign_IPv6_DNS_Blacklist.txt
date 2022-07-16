@@ -11719,7 +11719,6 @@
 ||fhyuan.net^$dnstype=AAAA
 ||fi11.com^$dnstype=AAAA
 ||fi11av1.com^$dnstype=AAAA
-||fi11sm34.com^$dnstype=AAAA
 ||fi11tv1.com^$dnstype=AAAA
 ||fi22.cc^$dnstype=AAAA
 ||fiberprox.eu^$dnstype=AAAA
@@ -16411,6 +16410,7 @@
 ||jav-legend.com^$dnstype=AAAA
 ||jav-onlines.com^$dnstype=AAAA
 ||jav.com^$dnstype=AAAA
+||jav.dog^$dnstype=AAAA
 ||jav.guru^$dnstype=AAAA
 ||jav.land^$dnstype=AAAA
 ||jav.place^$dnstype=AAAA
