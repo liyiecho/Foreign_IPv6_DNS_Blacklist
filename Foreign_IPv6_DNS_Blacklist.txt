@@ -9630,6 +9630,7 @@
 ||dmmapis.com^$dnstype=AAAA
 ||dmmbus.cam^$dnstype=AAAA
 ||dmmbus.com^$dnstype=AAAA
+||dmmrex.com^$dnstype=AAAA
 ||dmyoutube.com^$dnstype=AAAA
 ||dnaindia.com^$dnstype=AAAA
 ||dnaspaces.io^$dnstype=AAAA
@@ -28754,6 +28755,7 @@
 ||viu.com^$dnstype=AAAA
 ||viu.tv^$dnstype=AAAA
 ||vivahentai4u.net^$dnstype=AAAA
+||vivaldi.com^$dnstype=AAAA
 ||vivaldi.net^$dnstype=AAAA
 ||vivatube.com^$dnstype=AAAA
 ||vivianchan.com^$dnstype=AAAA
