@@ -2517,6 +2517,7 @@
 ||91px.cc^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
 ||91se.fun^$dnstype=AAAA
+||91sesex.xyz^$dnstype=AAAA
 ||91stw.net^$dnstype=AAAA
 ||91tianlu.com^$dnstype=AAAA
 ||91vpnn.com^$dnstype=AAAA
@@ -3143,6 +3144,7 @@
 ||adult-sex-games.com^$dnstype=AAAA
 ||adult.com^$dnstype=AAAA
 ||adult168.com^$dnstype=AAAA
+||adultblogranking.com^$dnstype=AAAA
 ||adultcamweb.com^$dnstype=AAAA
 ||adultdvdmarketplace.com^$dnstype=AAAA
 ||adultdvdtalk.com^$dnstype=AAAA
@@ -10765,6 +10767,7 @@
 ||erodougazo.com^$dnstype=AAAA
 ||erodoujinlog.com^$dnstype=AAAA
 ||erodoujinworld.com^$dnstype=AAAA
+||eroero69.work^$dnstype=AAAA
 ||erogames.com^$dnstype=AAAA
 ||erogazo-jp.net^$dnstype=AAAA
 ||erogazo-ngo.com^$dnstype=AAAA
@@ -13003,6 +13006,7 @@
 ||generated.photos^$dnstype=AAAA
 ||genesis2013.com^$dnstype=AAAA
 ||genius.com^$dnstype=AAAA
+||genkai-hounyo.com^$dnstype=AAAA
 ||genmirror.com^$dnstype=AAAA
 ||genshin-porn.com^$dnstype=AAAA
 ||genshinimpact.com^$dnstype=AAAA
@@ -15437,6 +15441,7 @@
 ||igfw.tech^$dnstype=AAAA
 ||igg.biz^$dnstype=AAAA
 ||igi-global.com^$dnstype=AAAA
+||igkbroker.com^$dnstype=AAAA
 ||igmarkets.com^$dnstype=AAAA
 ||igmarkets.fr^$dnstype=AAAA
 ||igmg.de^$dnstype=AAAA
@@ -17954,6 +17959,7 @@
 ||like.com^$dnstype=AAAA
 ||likemov.cc^$dnstype=AAAA
 ||likes-pie.com^$dnstype=AAAA
+||likeseiyu.com^$dnstype=AAAA
 ||likeso.ml^$dnstype=AAAA
 ||likeswater.com^$dnstype=AAAA
 ||liketwice.com^$dnstype=AAAA
@@ -22619,6 +22625,7 @@
 ||porndoe.com^$dnstype=AAAA
 ||porndoepremium.com^$dnstype=AAAA
 ||porndr.com^$dnstype=AAAA
+||porndude2.com^$dnstype=AAAA
 ||pornerbros.com^$dnstype=AAAA
 ||pornfacebook.com^$dnstype=AAAA
 ||pornfidelity.com^$dnstype=AAAA
@@ -22627,6 +22634,7 @@
 ||pornfun.com^$dnstype=AAAA
 ||porngals4.com^$dnstype=AAAA
 ||porngames.games^$dnstype=AAAA
+||porngeek.com^$dnstype=AAAA
 ||porngladiator.com^$dnstype=AAAA
 ||porngo.com^$dnstype=AAAA
 ||pornhat.com^$dnstype=AAAA
@@ -22707,6 +22715,7 @@
 ||pornsake.com^$dnstype=AAAA
 ||pornscum.com^$dnstype=AAAA
 ||pornsharing.com^$dnstype=AAAA
+||pornsites.com^$dnstype=AAAA
 ||pornsocket.com^$dnstype=AAAA
 ||pornsoldiers.com^$dnstype=AAAA
 ||pornsos.com^$dnstype=AAAA
@@ -26783,6 +26792,7 @@
 ||thepolicy.us^$dnstype=AAAA
 ||thepornbet.com^$dnstype=AAAA
 ||theporndude.com^$dnstype=AAAA
+||theporndude.vip^$dnstype=AAAA
 ||thepornlist.com^$dnstype=AAAA
 ||thepornscat.com^$dnstype=AAAA
 ||theportalwiki.com^$dnstype=AAAA
@@ -30577,6 +30587,7 @@
 ||xn--gogl-1nd42e.com^$dnstype=AAAA
 ||xn--gtvz22d.wang^$dnstype=AAAA
 ||xn--hb4aw0g.com^$dnstype=AAAA
+||xn--hckl3e1e8a8ajin0czf.net^$dnstype=AAAA
 ||xn--i2ru8q2qg.com^$dnstype=AAAA
 ||xn--jlqz7wnvax2ocxskuz.com^$dnstype=AAAA
 ||xn--mgbtd2a1dpq.my^$dnstype=AAAA
@@ -30595,6 +30606,8 @@
 ||xn--tkry91n.com^$dnstype=AAAA
 ||xn--ubt498knmf.com^$dnstype=AAAA
 ||xn--uis17aj9kmuf.com^$dnstype=AAAA
+||xn--x-qeu1ji09tzlg.biz^$dnstype=AAAA
+||xn--x-qeu1ji09tzlg.net^$dnstype=AAAA
 ||xn--xsq421m.com^$dnstype=AAAA
 ||xn--xsq605n.com^$dnstype=AAAA
 ||xn--xsq959n.com^$dnstype=AAAA
