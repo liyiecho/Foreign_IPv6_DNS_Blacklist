@@ -2489,7 +2489,6 @@
 ||90983a.com^$dnstype=AAAA
 ||90983b.com^$dnstype=AAAA
 ||90983c.com^$dnstype=AAAA
-||90seconds.asia^$dnstype=AAAA
 ||9101010.com^$dnstype=AAAA
 ||911776.com^$dnstype=AAAA
 ||911776b.com^$dnstype=AAAA
@@ -3300,7 +3299,6 @@
 ||airmax360.com^$dnstype=AAAA
 ||airmay.com^$dnstype=AAAA
 ||airport-gov-cn.com^$dnstype=AAAA
-||airport.brussels^$dnstype=AAAA
 ||airport.com^$dnstype=AAAA
 ||airsextube.com^$dnstype=AAAA
 ||airsupportapp.com^$dnstype=AAAA
@@ -3532,7 +3530,6 @@
 ||alohatube.com^$dnstype=AAAA
 ||alotporn.com^$dnstype=AAAA
 ||alpes-himalaya.com^$dnstype=AAAA
-||alphabet.asia^$dnstype=AAAA
 ||alphabet.be^$dnstype=AAAA
 ||alphabet.biz^$dnstype=AAAA
 ||alphabet.ch^$dnstype=AAAA
@@ -3760,7 +3757,6 @@
 ||amxj8899.com^$dnstype=AAAA
 ||amyh8588.com^$dnstype=AAAA
 ||amytele.com^$dnstype=AAAA
-||amzn.asia^$dnstype=AAAA
 ||amzn.com^$dnstype=AAAA
 ||amznl.com^$dnstype=AAAA
 ||anaconda.cloud^$dnstype=AAAA
@@ -4046,7 +4042,6 @@
 ||apple.ch^$dnstype=AAAA
 ||apple.co^$dnstype=AAAA
 ||apple.ee^$dnstype=AAAA
-||apple.hamburg^$dnstype=AAAA
 ||apple.hr^$dnstype=AAAA
 ||apple.is^$dnstype=AAAA
 ||apple.it^$dnstype=AAAA
@@ -4068,9 +4063,7 @@
 ||applebk.net^$dnstype=AAAA
 ||applecarbon.com^$dnstype=AAAA
 ||applecard.tv^$dnstype=AAAA
-||applecare.berlin^$dnstype=AAAA
 ||applecare.cc^$dnstype=AAAA
-||applecare.hamburg^$dnstype=AAAA
 ||applecare.wang^$dnstype=AAAA
 ||applecensorship.com^$dnstype=AAAA
 ||applecentar.rs^$dnstype=AAAA
@@ -4096,9 +4089,7 @@
 ||applehongkong.com^$dnstype=AAAA
 ||appleid-applemx.com^$dnstype=AAAA
 ||appleid-iclou.com^$dnstype=AAAA
-||appleid.berlin^$dnstype=AAAA
 ||appleid.com^$dnstype=AAAA
-||appleid.hamburg^$dnstype=AAAA
 ||appleimac.com^$dnstype=AAAA
 ||appleinclegal.com^$dnstype=AAAA
 ||appleinsider.com^$dnstype=AAAA
@@ -4109,16 +4100,12 @@
 ||applelink.com^$dnstype=AAAA
 ||applemagickeyboard.com^$dnstype=AAAA
 ||applemasters.info^$dnstype=AAAA
-||applemusic.berlin^$dnstype=AAAA
 ||applemusic.co^$dnstype=AAAA
 ||applemusic.com^$dnstype=AAAA
-||applemusic.hamburg^$dnstype=AAAA
 ||applemusic.wang^$dnstype=AAAA
 ||applemusicconnect.com^$dnstype=AAAA
 ||applemusicfestival.com^$dnstype=AAAA
 ||applemx-icloud.com^$dnstype=AAAA
-||applenews.berlin^$dnstype=AAAA
-||applenews.hamburg^$dnstype=AAAA
 ||applenews.tv^$dnstype=AAAA
 ||applenewsformat.com^$dnstype=AAAA
 ||appleone.audio^$dnstype=AAAA
@@ -4137,15 +4124,12 @@
 ||appleonline.net^$dnstype=AAAA
 ||appleoriginalproductions.com^$dnstype=AAAA
 ||appleos.tv^$dnstype=AAAA
-||applepay.berlin^$dnstype=AAAA
-||applepay.hamburg^$dnstype=AAAA
 ||applepay.info^$dnstype=AAAA
 ||applepay.rs^$dnstype=AAAA
 ||applepay.tv^$dnstype=AAAA
 ||applepaycash.net^$dnstype=AAAA
 ||applepaycash.tv^$dnstype=AAAA
 ||applepaymerchantsupplies.info^$dnstype=AAAA
-||applepaysupplies.berlin^$dnstype=AAAA
 ||applepaysupplies.com^$dnstype=AAAA
 ||applepaysupplies.info^$dnstype=AAAA
 ||applepaysupplies.net^$dnstype=AAAA
@@ -7986,7 +7970,6 @@
 ||clips4sale.com^$dnstype=AAAA
 ||clipsaoyai.com^$dnstype=AAAA
 ||clipseksi.com^$dnstype=AAAA
-||clipsex.asia^$dnstype=AAAA
 ||clipsyndicate.com^$dnstype=AAAA
 ||cliti.com^$dnstype=AAAA
 ||cljkkuqf.com^$dnstype=AAAA
@@ -9366,7 +9349,6 @@
 ||diamondgirlstudio.com^$dnstype=AAAA
 ||dianapost.com^$dnstype=AAAA
 ||dianzidesigns.com^$dnstype=AAAA
-||diao.asia^$dnstype=AAAA
 ||diaosisou.com^$dnstype=AAAA
 ||diaoyuislands.org^$dnstype=AAAA
 ||diariolacosta.com^$dnstype=AAAA
@@ -9527,7 +9509,6 @@
 ||disney-plus.net^$dnstype=AAAA
 ||disney-studio.com^$dnstype=AAAA
 ||disney-studio.net^$dnstype=AAAA
-||disney.asia^$dnstype=AAAA
 ||disney.be^$dnstype=AAAA
 ||disney.ch^$dnstype=AAAA
 ||disney.com^$dnstype=AAAA
@@ -12363,7 +12344,6 @@
 ||freepac.pw^$dnstype=AAAA
 ||freepanchenlama.org^$dnstype=AAAA
 ||freeporn.com^$dnstype=AAAA
-||freeporno.asia^$dnstype=AAAA
 ||freepornofreeporn.com^$dnstype=AAAA
 ||freepornq.com^$dnstype=AAAA
 ||freeproxies.org^$dnstype=AAAA
@@ -13486,7 +13466,6 @@
 ||google.az^$dnstype=AAAA
 ||google.ba^$dnstype=AAAA
 ||google.be^$dnstype=AAAA
-||google.berlin^$dnstype=AAAA
 ||google.bf^$dnstype=AAAA
 ||google.bg^$dnstype=AAAA
 ||google.bi^$dnstype=AAAA
@@ -16233,7 +16212,6 @@
 ||itunes.co^$dnstype=AAAA
 ||itunes.com^$dnstype=AAAA
 ||itunes.org^$dnstype=AAAA
-||itunes.rio^$dnstype=AAAA
 ||itunes12days.com^$dnstype=AAAA
 ||itunesessentials.com^$dnstype=AAAA
 ||itunesfestivals.com^$dnstype=AAAA
@@ -16243,7 +16221,6 @@
 ||itunesmatch.com^$dnstype=AAAA
 ||itunesparty.com^$dnstype=AAAA
 ||itunesradio.com^$dnstype=AAAA
-||itunesradio.rio^$dnstype=AAAA
 ||itunesradio.tv^$dnstype=AAAA
 ||itunesstore.co^$dnstype=AAAA
 ||itunesu.com^$dnstype=AAAA
@@ -16527,7 +16504,6 @@
 ||javscreens.com^$dnstype=AAAA
 ||javseeds.com^$dnstype=AAAA
 ||javseen.com^$dnstype=AAAA
-||javsex.asia^$dnstype=AAAA
 ||javsharing.com^$dnstype=AAAA
 ||javsin.com^$dnstype=AAAA
 ||javstore.net^$dnstype=AAAA
@@ -19007,7 +18983,6 @@
 ||metrolife.ca^$dnstype=AAAA
 ||metronominal.xyz^$dnstype=AAAA
 ||metropolismag.com^$dnstype=AAAA
-||metropolitana.tokyo^$dnstype=AAAA
 ||metropouloslaw.com^$dnstype=AAAA
 ||metropulsa.org^$dnstype=AAAA
 ||mewe.com^$dnstype=AAAA
@@ -19065,7 +19040,6 @@
 ||microsoft-sap-events.com^$dnstype=AAAA
 ||microsoft-sbs-domains.com^$dnstype=AAAA
 ||microsoft.be^$dnstype=AAAA
-||microsoft.cat^$dnstype=AAAA
 ||microsoft.ch^$dnstype=AAAA
 ||microsoft.ee^$dnstype=AAAA
 ||microsoft.io^$dnstype=AAAA
@@ -19362,7 +19336,6 @@
 ||mist.vip^$dnstype=AAAA
 ||mit.edu^$dnstype=AAAA
 ||mit.net^$dnstype=AAAA
-||mitao.bar^$dnstype=AAAA
 ||mitao520.com^$dnstype=AAAA
 ||mitao95.com^$dnstype=AAAA
 ||mitaotang.jp^$dnstype=AAAA
@@ -21051,7 +21024,6 @@
 ||nuzcom.com^$dnstype=AAAA
 ||nvdst.com^$dnstype=AAAA
 ||nverxs.xyz^$dnstype=AAAA
-||nvidia.asia^$dnstype=AAAA
 ||nvidia.be^$dnstype=AAAA
 ||nvidia.ch^$dnstype=AAAA
 ||nvidia.com^$dnstype=AAAA
@@ -24479,7 +24451,6 @@
 ||searchtruth.com^$dnstype=AAAA
 ||sears.com^$dnstype=AAAA
 ||searx.me^$dnstype=AAAA
-||seasidestory.tokyo^$dnstype=AAAA
 ||seasol.org^$dnstype=AAAA
 ||seatguru.com^$dnstype=AAAA
 ||seatosummit.com^$dnstype=AAAA
@@ -28510,7 +28481,6 @@
 ||verilystudyhub.com^$dnstype=AAAA
 ||verilystudywatch.com^$dnstype=AAAA
 ||verilystudywatch.org^$dnstype=AAAA
-||verisign.asia^$dnstype=AAAA
 ||verisign.biz^$dnstype=AAAA
 ||verisign.ch^$dnstype=AAAA
 ||verisign.com^$dnstype=AAAA
@@ -30897,7 +30867,6 @@
 ||yahoo.be^$dnstype=AAAA
 ||yahoo.bt^$dnstype=AAAA
 ||yahoo.ca^$dnstype=AAAA
-||yahoo.cat^$dnstype=AAAA
 ||yahoo.ch^$dnstype=AAAA
 ||yahoo.cn^$dnstype=AAAA
 ||yahoo.com^$dnstype=AAAA
@@ -31221,7 +31190,6 @@
 ||youtube.at^$dnstype=AAAA
 ||youtube.be^$dnstype=AAAA
 ||youtube.ca^$dnstype=AAAA
-||youtube.cat^$dnstype=AAAA
 ||youtube.ch^$dnstype=AAAA
 ||youtube.cl^$dnstype=AAAA
 ||youtube.co^$dnstype=AAAA
