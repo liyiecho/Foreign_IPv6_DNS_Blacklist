@@ -4595,6 +4595,7 @@
 ||avh.world^$dnstype=AAAA
 ||avhaha.com^$dnstype=AAAA
 ||avhd101.com^$dnstype=AAAA
+||avhome.one^$dnstype=AAAA
 ||avia88.com^$dnstype=AAAA
 ||avidemux.org^$dnstype=AAAA
 ||avinetworks.com^$dnstype=AAAA
@@ -22787,6 +22788,7 @@
 ||pp337.net^$dnstype=AAAA
 ||pp5789.com^$dnstype=AAAA
 ||pp59.net^$dnstype=AAAA
+||pp6.info^$dnstype=AAAA
 ||pp699.net^$dnstype=AAAA
 ||pp9444.com^$dnstype=AAAA
 ||ppaypal.com^$dnstype=AAAA
