@@ -11450,6 +11450,7 @@
 ||fanwall.org^$dnstype=AAAA
 ||fanyue.info^$dnstype=AAAA
 ||fap69.com^$dnstype=AAAA
+||fapcat.com^$dnstype=AAAA
 ||fapdu.com^$dnstype=AAAA
 ||faphouse.com^$dnstype=AAAA
 ||fapporn.me^$dnstype=AAAA
@@ -14391,6 +14392,7 @@
 ||hidive.com^$dnstype=AAAA
 ||hidrive.com^$dnstype=AAAA
 ||hifacebook.info^$dnstype=AAAA
+||hifiporn.fun^$dnstype=AAAA
 ||hifixxx.fun^$dnstype=AAAA
 ||higfw.com^$dnstype=AAAA
 ||higginbotham.name^$dnstype=AAAA
@@ -15639,6 +15641,7 @@
 ||indiangilma.com^$dnstype=AAAA
 ||indiangirlsclub.com^$dnstype=AAAA
 ||indianhiddencams.com^$dnstype=AAAA
+||indianpornfast.com^$dnstype=AAAA
 ||indianporngirls.com^$dnstype=AAAA
 ||indianpornvideo.org^$dnstype=AAAA
 ||indiansexpussy.com^$dnstype=AAAA
@@ -24786,6 +24789,7 @@
 ||shanghaiist.com^$dnstype=AAAA
 ||shanghainationalparty.com^$dnstype=AAAA
 ||shanmao.tv^$dnstype=AAAA
+||shanxivideo.com^$dnstype=AAAA
 ||shapeservices.com^$dnstype=AAAA
 ||sharebee.com^$dnstype=AAAA
 ||sharecool.org^$dnstype=AAAA
@@ -28586,6 +28590,7 @@
 ||videosz.com^$dnstype=AAAA
 ||videouri.com^$dnstype=AAAA
 ||videovor.com^$dnstype=AAAA
+||videoxxxporn.biz^$dnstype=AAAA
 ||videoyoutube.com^$dnstype=AAAA
 ||vidinfo.org^$dnstype=AAAA
 ||vidly.com^$dnstype=AAAA
