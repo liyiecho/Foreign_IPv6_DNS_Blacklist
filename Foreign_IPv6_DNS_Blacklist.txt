@@ -7214,6 +7214,7 @@
 ||carsoug.com^$dnstype=AAAA
 ||carstagram.com^$dnstype=AAAA
 ||carterregulatorygroup.com^$dnstype=AAAA
+||cartoon18.com^$dnstype=AAAA
 ||cartoonmovement.com^$dnstype=AAAA
 ||cartoonpornonly.com^$dnstype=AAAA
 ||cartoonpornvideos.com^$dnstype=AAAA
@@ -12592,6 +12593,7 @@
 ||fullcoveronline.com^$dnstype=AAAA
 ||fullerconsideration.com^$dnstype=AAAA
 ||fullhdxxx.com^$dnstype=AAAA
+||fullsexmovs.com^$dnstype=AAAA
 ||fulltiltpoker.com^$dnstype=AAAA
 ||fulltubemovies.com^$dnstype=AAAA
 ||fulton555.com^$dnstype=AAAA
@@ -22613,15 +22615,18 @@
 ||porngeek.com^$dnstype=AAAA
 ||porngladiator.com^$dnstype=AAAA
 ||porngo.com^$dnstype=AAAA
+||porngub.com^$dnstype=AAAA
 ||pornhat.com^$dnstype=AAAA
 ||pornhb.com^$dnstype=AAAA
 ||pornhd.com^$dnstype=AAAA
 ||pornhits.com^$dnstype=AAAA
 ||pornhost.com^$dnstype=AAAA
+||pornhub-deutsch.net^$dnstype=AAAA
 ||pornhub.com^$dnstype=AAAA
 ||pornhub.it^$dnstype=AAAA
 ||pornhub.net^$dnstype=AAAA
 ||pornhub.org^$dnstype=AAAA
+||pornhubapparel.com^$dnstype=AAAA
 ||pornhubcasino.com^$dnstype=AAAA
 ||pornhubdeutsch.net^$dnstype=AAAA
 ||pornhublive.com^$dnstype=AAAA
@@ -24889,6 +24894,8 @@
 ||shopdrebeats.com^$dnstype=AAAA
 ||shopdurex.com^$dnstype=AAAA
 ||shopee.com^$dnstype=AAAA
+||shopee.id^$dnstype=AAAA
+||shopee.io^$dnstype=AAAA
 ||shopee.tw^$dnstype=AAAA
 ||shopeemobile.com^$dnstype=AAAA
 ||shopfacebook.com^$dnstype=AAAA
@@ -26562,6 +26569,9 @@
 ||tesco.com^$dnstype=AAAA
 ||tesco.net^$dnstype=AAAA
 ||tesla.com^$dnstype=AAAA
+||tesla.services^$dnstype=AAAA
+||teslaenergy.services^$dnstype=AAAA
+||teslazta.net^$dnstype=AAAA
 ||test-ipv6.com^$dnstype=AAAA
 ||testonfox.com^$dnstype=AAAA
 ||tew.org^$dnstype=AAAA
