@@ -761,7 +761,10 @@
 ||1jsa22.vip^$dnstype=AAAA
 ||1kan.com^$dnstype=AAAA
 ||1lib.ch^$dnstype=AAAA
+||1lib.cloud^$dnstype=AAAA
 ||1lib.domains^$dnstype=AAAA
+||1lib.education^$dnstype=AAAA
+||1lib.limited^$dnstype=AAAA
 ||1lib.net^$dnstype=AAAA
 ||1lib.nl^$dnstype=AAAA
 ||1lib.org^$dnstype=AAAA
@@ -4259,6 +4262,7 @@
 ||arphic.com^$dnstype=AAAA
 ||arrowsoftruth.org^$dnstype=AAAA
 ||art.sy^$dnstype=AAAA
+||art1lib.com^$dnstype=AAAA
 ||art4tibet1998.org^$dnstype=AAAA
 ||artchina.tw^$dnstype=AAAA
 ||artcomix.com^$dnstype=AAAA
@@ -4736,7 +4740,9 @@
 ||b-ok.as^$dnstype=AAAA
 ||b-ok.asia^$dnstype=AAAA
 ||b-ok.cc^$dnstype=AAAA
+||b-ok.global^$dnstype=AAAA
 ||b-ok.lat^$dnstype=AAAA
+||b-ok.org^$dnstype=AAAA
 ||b0775xpj.com^$dnstype=AAAA
 ||b0ne.com^$dnstype=AAAA
 ||b1000.com^$dnstype=AAAA
@@ -6368,6 +6374,7 @@
 ||bookclubgirl.com^$dnstype=AAAA
 ||bookdepository.com^$dnstype=AAAA
 ||bookepub.com^$dnstype=AAAA
+||bookfi.net^$dnstype=AAAA
 ||booking.com^$dnstype=AAAA
 ||booklive.jp^$dnstype=AAAA
 ||bookmark.xxx^$dnstype=AAAA
@@ -6376,6 +6383,12 @@
 ||bookonsky.net^$dnstype=AAAA
 ||booksamillion.com^$dnstype=AAAA
 ||booksamillioninc.com^$dnstype=AAAA
+||booksc.me^$dnstype=AAAA
+||booksc.org^$dnstype=AAAA
+||booksc.xyz^$dnstype=AAAA
+||bookshome.info^$dnstype=AAAA
+||bookshome.net^$dnstype=AAAA
+||bookshome.world^$dnstype=AAAA
 ||booksinprint.com^$dnstype=AAAA
 ||bookstagram.com^$dnstype=AAAA
 ||booloo.com^$dnstype=AAAA
@@ -9166,6 +9179,7 @@
 ||de-almeida.org^$dnstype=AAAA
 ||de-sci.org^$dnstype=AAAA
 ||de.tl^$dnstype=AAAA
+||de1lib.org^$dnstype=AAAA
 ||deadline.com^$dnstype=AAAA
 ||deadspacegame.com^$dnstype=AAAA
 ||deaftone.com^$dnstype=AAAA
@@ -9591,6 +9605,7 @@
 ||djs999.com^$dnstype=AAAA
 ||djyimg.com^$dnstype=AAAA
 ||dkbeatsbydre.com^$dnstype=AAAA
+||dkcloud.cc^$dnstype=AAAA
 ||dkk37.com^$dnstype=AAAA
 ||dkn.tv^$dnstype=AAAA
 ||dkr.com^$dnstype=AAAA
@@ -14559,6 +14574,7 @@
 ||hk01.com^$dnstype=AAAA
 ||hk1282sec.com^$dnstype=AAAA
 ||hk148forum.com^$dnstype=AAAA
+||hk1lib.org^$dnstype=AAAA
 ||hk32168.com^$dnstype=AAAA
 ||hk522.ga^$dnstype=AAAA
 ||hkacg.com^$dnstype=AAAA
@@ -14823,6 +14839,7 @@
 ||hotnewhiphop.com^$dnstype=AAAA
 ||hotntubes.com^$dnstype=AAAA
 ||hotnudegirls.net^$dnstype=AAAA
+||hotporn.today^$dnstype=AAAA
 ||hotpornshow.com^$dnstype=AAAA
 ||hotporntubes.com^$dnstype=AAAA
 ||hotpot.hk^$dnstype=AAAA
@@ -17915,6 +17932,9 @@
 ||libraryofmoria.com^$dnstype=AAAA
 ||libredns.gr^$dnstype=AAAA
 ||libreswan.org^$dnstype=AAAA
+||libsolutions.app^$dnstype=AAAA
+||libsolutions.domains^$dnstype=AAAA
+||libsolutions.net^$dnstype=AAAA
 ||libsyn.com^$dnstype=AAAA
 ||licdn.com^$dnstype=AAAA
 ||licensebuttons.net^$dnstype=AAAA
@@ -18429,6 +18449,7 @@
 ||m989m989.com^$dnstype=AAAA
 ||m9909.com^$dnstype=AAAA
 ||m9955.com^$dnstype=AAAA
+||ma1lib.org^$dnstype=AAAA
 ||ma8009.com^$dnstype=AAAA
 ||maaii.com^$dnstype=AAAA
 ||maasstadbv.com^$dnstype=AAAA
@@ -19743,6 +19764,7 @@
 ||mrcong.com^$dnstype=AAAA
 ||mrface.com^$dnstype=AAAA
 ||mrgreen.com^$dnstype=AAAA
+||mrporngeek.com^$dnstype=AAAA
 ||mrskin.com^$dnstype=AAAA
 ||mrslove.com^$dnstype=AAAA
 ||mrstiff.com^$dnstype=AAAA
@@ -24769,6 +24791,7 @@
 ||sfx.ms^$dnstype=AAAA
 ||sg120.me^$dnstype=AAAA
 ||sg138app.com^$dnstype=AAAA
+||sg1lib.org^$dnstype=AAAA
 ||sg5.vip^$dnstype=AAAA
 ||sg505.com^$dnstype=AAAA
 ||sg60.vip^$dnstype=AAAA
@@ -24837,6 +24860,7 @@
 ||shanghainationalparty.com^$dnstype=AAAA
 ||shanmao.tv^$dnstype=AAAA
 ||shanxivideo.com^$dnstype=AAAA
+||shapelcounset.xyz^$dnstype=AAAA
 ||shapeservices.com^$dnstype=AAAA
 ||sharebee.com^$dnstype=AAAA
 ||sharecool.org^$dnstype=AAAA
@@ -25057,6 +25081,8 @@
 ||sing68.com^$dnstype=AAAA
 ||singaporeair.com^$dnstype=AAAA
 ||singfortibet.com^$dnstype=AAAA
+||singlelogin.app^$dnstype=AAAA
+||singlelogin.me^$dnstype=AAAA
 ||singtao.ca^$dnstype=AAAA
 ||singtao.com^$dnstype=AAAA
 ||singtaobooks.com^$dnstype=AAAA
@@ -26820,9 +26846,11 @@
 ||theplatform.com^$dnstype=AAAA
 ||thepolicy.us^$dnstype=AAAA
 ||thepornbet.com^$dnstype=AAAA
+||theporndude.cc^$dnstype=AAAA
 ||theporndude.com^$dnstype=AAAA
 ||theporndude.vip^$dnstype=AAAA
 ||thepornlist.com^$dnstype=AAAA
+||thepornmap.com^$dnstype=AAAA
 ||thepornscat.com^$dnstype=AAAA
 ||theportalwiki.com^$dnstype=AAAA
 ||theprint.in^$dnstype=AAAA
@@ -30470,6 +30498,7 @@
 ||xiaobaiwu.com^$dnstype=AAAA
 ||xiaobingss.com^$dnstype=AAAA
 ||xiaod.in^$dnstype=AAAA
+||xiaofu.me^$dnstype=AAAA
 ||xiaogirls.com^$dnstype=AAAA
 ||xiaohouzi.club^$dnstype=AAAA
 ||xiaojiadianmovie.asia^$dnstype=AAAA
@@ -30757,6 +30786,7 @@
 ||xvideos2.com^$dnstype=AAAA
 ||xvideoscom.me^$dnstype=AAAA
 ||xvideoshd.net^$dnstype=AAAA
+||xvideosjingxiang.com^$dnstype=AAAA
 ||xvidz.xyz^$dnstype=AAAA
 ||xvidzz.com^$dnstype=AAAA
 ||xvinlink.com^$dnstype=AAAA
@@ -31631,6 +31661,9 @@
 ||zkgsxf.com^$dnstype=AAAA
 ||zkiz.com^$dnstype=AAAA
 ||zl66.me^$dnstype=AAAA
+||zlib.life^$dnstype=AAAA
+||zlibcdn.com^$dnstype=AAAA
+||zlibcdn2.com^$dnstype=AAAA
 ||zlvc.net^$dnstype=AAAA
 ||zmw.cn^$dnstype=AAAA
 ||zndsk.com^$dnstype=AAAA
