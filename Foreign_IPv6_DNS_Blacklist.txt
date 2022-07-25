@@ -1137,6 +1137,7 @@
 ||327hk.com^$dnstype=AAAA
 ||32853333.com^$dnstype=AAAA
 ||3288js.com^$dnstype=AAAA
+||32bm.cc^$dnstype=AAAA
 ||32red.com^$dnstype=AAAA
 ||32thing.com^$dnstype=AAAA
 ||32top.xyz^$dnstype=AAAA
@@ -1542,6 +1543,7 @@
 ||51luoben.com^$dnstype=AAAA
 ||51luoli.info^$dnstype=AAAA
 ||51mh.app^$dnstype=AAAA
+||51pincha.cc^$dnstype=AAAA
 ||51sa36.com^$dnstype=AAAA
 ||51smt2.xyz^$dnstype=AAAA
 ||51wanqiu.net^$dnstype=AAAA
@@ -16289,6 +16291,7 @@
 ||ivpncup.me^$dnstype=AAAA
 ||ivy2.nu^$dnstype=AAAA
 ||ivyseeds.com^$dnstype=AAAA
+||iw8j.cc^$dnstype=AAAA
 ||iwancai.com^$dnstype=AAAA
 ||iwank.tv^$dnstype=AAAA
 ||iwant-in.net^$dnstype=AAAA
@@ -16633,6 +16636,7 @@
 ||jeongfamily.net^$dnstype=AAAA
 ||jepic.org^$dnstype=AAAA
 ||jerkmate.com^$dnstype=AAAA
+||jerkmatelive.org^$dnstype=AAAA
 ||jeromecohen.net^$dnstype=AAAA
 ||jerryxiao.cc^$dnstype=AAAA
 ||jessewilkinson.com^$dnstype=AAAA
@@ -24906,6 +24910,7 @@
 ||shenyunshop.com^$dnstype=AAAA
 ||shenzhoufilm.com^$dnstype=AAAA
 ||shenzhouzhengdao.org^$dnstype=AAAA
+||shequ8.cam^$dnstype=AAAA
 ||sherabgyaltsen.com^$dnstype=AAAA
 ||sherig.org^$dnstype=AAAA
 ||sheshaft.com^$dnstype=AAAA
@@ -29033,6 +29038,7 @@
 ||voy.com^$dnstype=AAAA
 ||voyantic.com^$dnstype=AAAA
 ||voyeurhit.com^$dnstype=AAAA
+||voyeurhouse.com^$dnstype=AAAA
 ||voyeurstyle.com^$dnstype=AAAA
 ||voyeurweb.com^$dnstype=AAAA
 ||vozchina.org^$dnstype=AAAA
@@ -29486,6 +29492,7 @@
 ||wearehairy.com^$dnstype=AAAA
 ||wearn.com^$dnstype=AAAA
 ||weathtown.com^$dnstype=AAAA
+||weav.xyz^$dnstype=AAAA
 ||web-instagram.net^$dnstype=AAAA
 ||web.app^$dnstype=AAAA
 ||web.dev^$dnstype=AAAA
@@ -30346,6 +30353,7 @@
 ||xandr.com^$dnstype=AAAA
 ||xanga.com^$dnstype=AAAA
 ||xanimeporn.com^$dnstype=AAAA
+||xapplist.com^$dnstype=AAAA
 ||xart.com^$dnstype=AAAA
 ||xartfan.com^$dnstype=AAAA
 ||xavduf.com^$dnstype=AAAA
@@ -30510,6 +30518,7 @@
 ||xiaowei11.com^$dnstype=AAAA
 ||xiaowei3.com^$dnstype=AAAA
 ||xiaoxiaose.com^$dnstype=AAAA
+||xiaoyaoge.xyz^$dnstype=AAAA
 ||xiasi.net^$dnstype=AAAA
 ||xiaxiaoqiang.net^$dnstype=AAAA
 ||xiefox.com^$dnstype=AAAA
