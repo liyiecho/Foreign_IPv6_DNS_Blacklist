@@ -4382,6 +4382,7 @@
 ||asproex.com^$dnstype=AAAA
 ||asproexapi.com^$dnstype=AAAA
 ||asredas.com^$dnstype=AAAA
+||asrockind.com^$dnstype=AAAA
 ||ass4all.com^$dnstype=AAAA
 ||assembla.com^$dnstype=AAAA
 ||assetsadobe.com^$dnstype=AAAA
@@ -4855,6 +4856,7 @@
 ||badoo.co^$dnstype=AAAA
 ||badoo.com^$dnstype=AAAA
 ||badsexygirl.com^$dnstype=AAAA
+||badteenspunished.com^$dnstype=AAAA
 ||badvirtue.com^$dnstype=AAAA
 ||bag-glasses1.com^$dnstype=AAAA
 ||bagbackpack.com^$dnstype=AAAA
@@ -6425,6 +6427,7 @@
 ||bounceme.net^$dnstype=AAAA
 ||boundhub.com^$dnstype=AAAA
 ||boundless-sky.com^$dnstype=AAAA
+||bountyhunterporn.com^$dnstype=AAAA
 ||bowenpress.com^$dnstype=AAAA
 ||bowsersinsidestory.com^$dnstype=AAAA
 ||box.com^$dnstype=AAAA
@@ -8770,6 +8773,7 @@
 ||cumfox.com^$dnstype=AAAA
 ||cumlouder.com^$dnstype=AAAA
 ||cumshot.com^$dnstype=AAAA
+||cumswappingsis.com^$dnstype=AAAA
 ||cumteenporn.com^$dnstype=AAAA
 ||cunhua.mba^$dnstype=AAAA
 ||cuntempire.com^$dnstype=AAAA
@@ -8900,6 +8904,7 @@
 ||dabus.xyz^$dnstype=AAAA
 ||dacebook.com^$dnstype=AAAA
 ||dadazim.com^$dnstype=AAAA
+||daddyslilangel.com^$dnstype=AAAA
 ||dadi360.com^$dnstype=AAAA
 ||dafa00093.com^$dnstype=AAAA
 ||dafa365.com^$dnstype=AAAA
@@ -9300,6 +9305,7 @@
 ||destiny.to^$dnstype=AAAA
 ||destroy-china.jp^$dnstype=AAAA
 ||detaliczny.com^$dnstype=AAAA
+||detentiongirls.com^$dnstype=AAAA
 ||detnews.com^$dnstype=AAAA
 ||detroitnews.com^$dnstype=AAAA
 ||dettol-prize.com^$dnstype=AAAA
@@ -9915,6 +9921,7 @@
 ||drgan.net^$dnstype=AAAA
 ||driade.com^$dnstype=AAAA
 ||dribbble.com^$dnstype=AAAA
+||driverxxx.com^$dnstype=AAAA
 ||drkogyi.com^$dnstype=AAAA
 ||drliui.com^$dnstype=AAAA
 ||drmario-world.com^$dnstype=AAAA
@@ -11435,6 +11442,7 @@
 ||familyradio.com^$dnstype=AAAA
 ||familysimulator.io^$dnstype=AAAA
 ||familystrokes.com^$dnstype=AAAA
+||familyswap.xxx^$dnstype=AAAA
 ||famous-nudes.com^$dnstype=AAAA
 ||famousfootwear.com^$dnstype=AAAA
 ||famousnudes.com^$dnstype=AAAA
@@ -14804,6 +14812,7 @@
 ||hot-sex-tube.com^$dnstype=AAAA
 ||hot1024.win^$dnstype=AAAA
 ||hot2.gq^$dnstype=AAAA
+||hot2048.com^$dnstype=AAAA
 ||hot8.tv^$dnstype=AAAA
 ||hotair.com^$dnstype=AAAA
 ||hotasianbabes.com^$dnstype=AAAA
@@ -19709,6 +19718,7 @@
 ||moviesmobile.net^$dnstype=AAAA
 ||moviesneek.com^$dnstype=AAAA
 ||mowrygrimson.com^$dnstype=AAAA
+||moxing.mobi^$dnstype=AAAA
 ||moyu4.com^$dnstype=AAAA
 ||moyuv5.com^$dnstype=AAAA
 ||moyuvpn.net^$dnstype=AAAA
@@ -21029,8 +21039,11 @@
 ||nu-bay.com^$dnstype=AAAA
 ||nu.nl^$dnstype=AAAA
 ||nubilefilms.com^$dnstype=AAAA
+||nubiles-casting.com^$dnstype=AAAA
 ||nubiles-porn.com^$dnstype=AAAA
 ||nubiles.net^$dnstype=AAAA
+||nubileset.com^$dnstype=AAAA
+||nubilesunscripted.com^$dnstype=AAAA
 ||nude-art-erotic.com^$dnstype=AAAA
 ||nude-gals.com^$dnstype=AAAA
 ||nude-share.com^$dnstype=AAAA
@@ -22199,6 +22212,7 @@
 ||petergarner.net^$dnstype=AAAA
 ||peteryounghk.com^$dnstype=AAAA
 ||petiteamateurteen.com^$dnstype=AAAA
+||petiteballerinasfucked.com^$dnstype=AAAA
 ||petitehdporn.com^$dnstype=AAAA
 ||petiteteenager.com^$dnstype=AAAA
 ||petoto.cl^$dnstype=AAAA
@@ -22937,6 +22951,7 @@
 ||primevideo.org^$dnstype=AAAA
 ||primevideo.tv^$dnstype=AAAA
 ||princeofnewyork.com^$dnstype=AAAA
+||princesscum.com^$dnstype=AAAA
 ||printeron.com^$dnstype=AAAA
 ||printersetupsupport.com^$dnstype=AAAA
 ||printfriendly.com^$dnstype=AAAA
@@ -25276,6 +25291,7 @@
 ||smartsimcha.com^$dnstype=AAAA
 ||smartsource.com^$dnstype=AAAA
 ||smartydns.com^$dnstype=AAAA
+||smashed.xxx^$dnstype=AAAA
 ||smashinn.com^$dnstype=AAAA
 ||smathis.com^$dnstype=AAAA
 ||smchbooks.com^$dnstype=AAAA
@@ -25876,6 +25892,7 @@
 ||stephaniered.com^$dnstype=AAAA
 ||stephenborgelt.com^$dnstype=AAAA
 ||stepmaturesex.com^$dnstype=AAAA
+||stepsiblingscaught.com^$dnstype=AAAA
 ||stepstone.de^$dnstype=AAAA
 ||steutura.com^$dnstype=AAAA
 ||stevekaneshow.com^$dnstype=AAAA
@@ -26516,6 +26533,7 @@
 ||tdna.me^$dnstype=AAAA
 ||tdworks.com^$dnstype=AAAA
 ||te.rs^$dnstype=AAAA
+||teacherfucksteens.com^$dnstype=AAAA
 ||teachmefisting.com^$dnstype=AAAA
 ||teachparentstech.org^$dnstype=AAAA
 ||teamamericany.com^$dnstype=AAAA
@@ -28388,6 +28406,7 @@
 ||uun98.com^$dnstype=AAAA
 ||uun99.com^$dnstype=AAAA
 ||uupdump.net^$dnstype=AAAA
+||uus75.com^$dnstype=AAAA
 ||uushare.com^$dnstype=AAAA
 ||uuu711.net^$dnstype=AAAA
 ||uuuvx.com^$dnstype=AAAA
@@ -31241,6 +31260,7 @@
 ||youneed.win^$dnstype=AAAA
 ||younger19.com^$dnstype=AAAA
 ||youngerbabes.com^$dnstype=AAAA
+||youngermommy.com^$dnstype=AAAA
 ||youngfatties.com^$dnstype=AAAA
 ||youngheaven.com^$dnstype=AAAA
 ||youngleafs.com^$dnstype=AAAA
