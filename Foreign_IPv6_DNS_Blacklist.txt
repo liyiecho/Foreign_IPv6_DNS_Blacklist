@@ -210,6 +210,7 @@
 ||098ld.com^$dnstype=AAAA
 ||099529.com^$dnstype=AAAA
 ||0cgdklr5sfwj.com^$dnstype=AAAA
+||0dzn.com^$dnstype=AAAA
 ||0emm.com^$dnstype=AAAA
 ||0fees.us^$dnstype=AAAA
 ||0js333.com^$dnstype=AAAA
@@ -533,6 +534,7 @@
 ||17-js.com^$dnstype=AAAA
 ||170525.com^$dnstype=AAAA
 ||171gifs.com^$dnstype=AAAA
+||171xx.com^$dnstype=AAAA
 ||1731788.com^$dnstype=AAAA
 ||173js.cn^$dnstype=AAAA
 ||173ng.com^$dnstype=AAAA
@@ -561,6 +563,7 @@
 ||178letou.com^$dnstype=AAAA
 ||178yl99.com^$dnstype=AAAA
 ||17916512.cn^$dnstype=AAAA
+||179na.com^$dnstype=AAAA
 ||17avav.xyz^$dnstype=AAAA
 ||17bifa.com^$dnstype=AAAA
 ||17mh.app^$dnstype=AAAA
@@ -684,6 +687,7 @@
 ||18xl.biz^$dnstype=AAAA
 ||18xl.in^$dnstype=AAAA
 ||18xl.org^$dnstype=AAAA
+||18yiren.tv^$dnstype=AAAA
 ||1901792.com^$dnstype=AAAA
 ||1901999.com^$dnstype=AAAA
 ||1905999.com^$dnstype=AAAA
@@ -1470,6 +1474,7 @@
 ||4hu61.com^$dnstype=AAAA
 ||4irc.com^$dnstype=AAAA
 ||4jok.com^$dnstype=AAAA
+||4kporn.xxx^$dnstype=AAAA
 ||4kup.net^$dnstype=AAAA
 ||4musclemen.com^$dnstype=AAAA
 ||4mydomain.com^$dnstype=AAAA
@@ -1583,6 +1588,7 @@
 ||5288js.com^$dnstype=AAAA
 ||5299.tv^$dnstype=AAAA
 ||52avq.cc^$dnstype=AAAA
+||52fuliji.cc^$dnstype=AAAA
 ||52gsz.com^$dnstype=AAAA
 ||52hy11.com^$dnstype=AAAA
 ||52hyse.com^$dnstype=AAAA
@@ -1942,6 +1948,7 @@
 ||66go.vip^$dnstype=AAAA
 ||66hbo.com^$dnstype=AAAA
 ||66van.com^$dnstype=AAAA
+||66wwmm.com^$dnstype=AAAA
 ||66xbgg.com^$dnstype=AAAA
 ||6719577.com^$dnstype=AAAA
 ||6723119.com^$dnstype=AAAA
@@ -2241,6 +2248,7 @@
 ||8185818.com^$dnstype=AAAA
 ||818pb.com^$dnstype=AAAA
 ||8199884.com^$dnstype=AAAA
+||81jia.tv^$dnstype=AAAA
 ||82080666app.com^$dnstype=AAAA
 ||822522.com^$dnstype=AAAA
 ||822776.com^$dnstype=AAAA
@@ -2507,6 +2515,7 @@
 ||918454.co^$dnstype=AAAA
 ||91app.tv^$dnstype=AAAA
 ||91av.us^$dnstype=AAAA
+||91avfuli.com^$dnstype=AAAA
 ||91avv.cc^$dnstype=AAAA
 ||91cdn.cc^$dnstype=AAAA
 ||91cqmm.com^$dnstype=AAAA
@@ -2516,10 +2525,13 @@
 ||91gay.me^$dnstype=AAAA
 ||91one.xyz^$dnstype=AAAA
 ||91pic.net^$dnstype=AAAA
+||91porn.best^$dnstype=AAAA
 ||91porn.com^$dnstype=AAAA
 ||91porn005.me^$dnstype=AAAA
+||91porny.com^$dnstype=AAAA
 ||91px.cc^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
+||91rb.net^$dnstype=AAAA
 ||91se.fun^$dnstype=AAAA
 ||91sesex.xyz^$dnstype=AAAA
 ||91stw.net^$dnstype=AAAA
@@ -2831,6 +2843,7 @@
 ||9to5terminal.com^$dnstype=AAAA
 ||9to5toys.com^$dnstype=AAAA
 ||9xbuddy.com^$dnstype=AAAA
+||9zipai.net^$dnstype=AAAA
 ||a-e-t.org^$dnstype=AAAA
 ||a-hentai.tv^$dnstype=AAAA
 ||a-msedge.net^$dnstype=AAAA
@@ -3016,6 +3029,7 @@
 ||acgnx.se^$dnstype=AAAA
 ||acgpy.com^$dnstype=AAAA
 ||acgpy.net^$dnstype=AAAA
+||acgww.cyou^$dnstype=AAAA
 ||achat-followers-instagram.com^$dnstype=AAAA
 ||acheter-followers-instagram.com^$dnstype=AAAA
 ||acheterdesfollowersinstagram.com^$dnstype=AAAA
@@ -5670,6 +5684,9 @@
 ||bijakids.com^$dnstype=AAAA
 ||bikeinn.com^$dnstype=AAAA
 ||bild.de^$dnstype=AAAA
+||bilibili230.com^$dnstype=AAAA
+||bilibili301.xyz^$dnstype=AAAA
+||bilibili306.xyz^$dnstype=AAAA
 ||bilifl.com^$dnstype=AAAA
 ||biliworld.com^$dnstype=AAAA
 ||bill-safe.com^$dnstype=AAAA
@@ -6370,6 +6387,7 @@
 ||boobsrealm.com^$dnstype=AAAA
 ||boobstagram.com^$dnstype=AAAA
 ||boodigo.com^$dnstype=AAAA
+||book18.org^$dnstype=AAAA
 ||book4you.org^$dnstype=AAAA
 ||bookbao.com^$dnstype=AAAA
 ||bookbao8.com^$dnstype=AAAA
@@ -6915,6 +6933,8 @@
 ||byethost7.com^$dnstype=AAAA
 ||byethost9.com^$dnstype=AAAA
 ||byinter.net^$dnstype=AAAA
+||byjav.me^$dnstype=AAAA
+||byjhd.com^$dnstype=AAAA
 ||bypass.pw^$dnstype=AAAA
 ||bypasscensorship.org^$dnstype=AAAA
 ||bypasskey.com^$dnstype=AAAA
@@ -7116,6 +7136,7 @@
 ||cam4.jp^$dnstype=AAAA
 ||cam4.sg^$dnstype=AAAA
 ||camaleonjuguetes.cl^$dnstype=AAAA
+||cambb.xxx^$dnstype=AAAA
 ||cambiaip.org^$dnstype=AAAA
 ||cambridge.org^$dnstype=AAAA
 ||cambridgedigital.net^$dnstype=AAAA
@@ -7130,6 +7151,7 @@
 ||camelphat.com^$dnstype=AAAA
 ||camelspaceeffect.com^$dnstype=AAAA
 ||cameraboys.com^$dnstype=AAAA
+||camfinder.com^$dnstype=AAAA
 ||camfrog.com^$dnstype=AAAA
 ||camfrogcdn.com^$dnstype=AAAA
 ||camgirlvideos.org^$dnstype=AAAA
@@ -8435,6 +8457,7 @@
 ||coolder.com^$dnstype=AAAA
 ||coolery.com^$dnstype=AAAA
 ||coolinet.com^$dnstype=AAAA
+||coolinet.net^$dnstype=AAAA
 ||cooliphonecasesstore.com^$dnstype=AAAA
 ||cooljsq.com^$dnstype=AAAA
 ||coolmac.tw^$dnstype=AAAA
@@ -8823,6 +8846,7 @@
 ||cwcb.com^$dnstype=AAAA
 ||cweb-pix.com^$dnstype=AAAA
 ||cwyuni.tw^$dnstype=AAAA
+||cy22.tv^$dnstype=AAAA
 ||cya888.com^$dnstype=AAAA
 ||cyaontheroad.com^$dnstype=AAAA
 ||cybatron.net^$dnstype=AAAA
@@ -9435,6 +9459,7 @@
 ||dilber.se^$dnstype=AAAA
 ||dilcdn.com^$dnstype=AAAA
 ||dilidili.wang^$dnstype=AAAA
+||dinotube.com^$dnstype=AAAA
 ||dinsound.net^$dnstype=AAAA
 ||dio66.net^$dnstype=AAAA
 ||dio999.net^$dnstype=AAAA
@@ -10810,6 +10835,7 @@
 ||eroterest.net^$dnstype=AAAA
 ||eroticbeauties.net^$dnstype=AAAA
 ||eroticbeauty.com^$dnstype=AAAA
+||eroticbeautyhub.com^$dnstype=AAAA
 ||eroticsaloon.net^$dnstype=AAAA
 ||erotictube.me^$dnstype=AAAA
 ||eroxia.com^$dnstype=AAAA
@@ -10937,6 +10963,7 @@
 ||everestkw.com^$dnstype=AAAA
 ||evergage.com^$dnstype=AAAA
 ||evergreenvpn.com^$dnstype=AAAA
+||everia.club^$dnstype=AAAA
 ||everipedia.org^$dnstype=AAAA
 ||evernote.com^$dnstype=AAAA
 ||everyicap.com^$dnstype=AAAA
@@ -11440,6 +11467,7 @@
 ||familyfed.org^$dnstype=AAAA
 ||familyhealth.xyz^$dnstype=AAAA
 ||familyradio.com^$dnstype=AAAA
+||familysexsimulator.com^$dnstype=AAAA
 ||familysimulator.io^$dnstype=AAAA
 ||familystrokes.com^$dnstype=AAAA
 ||familyswap.xxx^$dnstype=AAAA
@@ -11492,9 +11520,11 @@
 ||fapdu.com^$dnstype=AAAA
 ||faphouse.com^$dnstype=AAAA
 ||fapnado.com^$dnstype=AAAA
+||fappeningthots.com^$dnstype=AAAA
 ||fapporn.me^$dnstype=AAAA
 ||faproxy.com^$dnstype=AAAA
 ||fapster.xxx^$dnstype=AAAA
+||fapvid.com^$dnstype=AAAA
 ||fapxl.com^$dnstype=AAAA
 ||faqserv.com^$dnstype=AAAA
 ||farfetch-apps.com^$dnstype=AAAA
@@ -11804,6 +11834,7 @@
 ||findmespot.com^$dnstype=AAAA
 ||findmybeats.com^$dnstype=AAAA
 ||findmyipad.com^$dnstype=AAAA
+||findsav.com^$dnstype=AAAA
 ||findtubes.com^$dnstype=AAAA
 ||findyourlimits.com^$dnstype=AAAA
 ||findyoutube.com^$dnstype=AAAA
@@ -12616,6 +12647,7 @@
 ||fuli06.com^$dnstype=AAAA
 ||fuli09.com^$dnstype=AAAA
 ||fuli833.com^$dnstype=AAAA
+||fulib711.shop^$dnstype=AAAA
 ||fuliba.mobi^$dnstype=AAAA
 ||fuliba.net^$dnstype=AAAA
 ||fulibl.cc^$dnstype=AAAA
@@ -12718,6 +12750,7 @@
 ||funtude.com^$dnstype=AAAA
 ||fuq.com^$dnstype=AAAA
 ||fuqizy.com^$dnstype=AAAA
+||fuqqt.com^$dnstype=AAAA
 ||furbo.org^$dnstype=AAAA
 ||furhhdl.org^$dnstype=AAAA
 ||furinkan.com^$dnstype=AAAA
@@ -15032,6 +15065,8 @@
 ||hs.vc^$dnstype=AAAA
 ||hs8881.com^$dnstype=AAAA
 ||hsbpartners.com^$dnstype=AAAA
+||hsex.men^$dnstype=AAAA
+||hsex.tv^$dnstype=AAAA
 ||hsfacebook.com^$dnstype=AAAA
 ||hshsxkj.com^$dnstype=AAAA
 ||hsj3.com^$dnstype=AAAA
@@ -15543,6 +15578,7 @@
 ||ilovejeep.com^$dnstype=AAAA
 ||ilovelongtoes.com^$dnstype=AAAA
 ||iloveprettylolimm.com^$dnstype=AAAA
+||ilovexs.com^$dnstype=AAAA
 ||iltk.org^$dnstype=AAAA
 ||ilvpn.com^$dnstype=AAAA
 ||ilyagram.org^$dnstype=AAAA
@@ -16381,6 +16417,7 @@
 ||j9512.com^$dnstype=AAAA
 ||j9513.com^$dnstype=AAAA
 ||j9987.com^$dnstype=AAAA
+||jable.org^$dnstype=AAAA
 ||jable.tv^$dnstype=AAAA
 ||jackav.net^$dnstype=AAAA
 ||jackjia.com^$dnstype=AAAA
@@ -16645,6 +16682,7 @@
 ||jeongfamily.net^$dnstype=AAAA
 ||jepic.org^$dnstype=AAAA
 ||jerkmate.com^$dnstype=AAAA
+||jerkmate.tv^$dnstype=AAAA
 ||jerkmatelive.org^$dnstype=AAAA
 ||jeromecohen.net^$dnstype=AAAA
 ||jerryxiao.cc^$dnstype=AAAA
@@ -16774,6 +16812,8 @@
 ||jitsi.org^$dnstype=AAAA
 ||jiumau.com^$dnstype=AAAA
 ||jiuping.net^$dnstype=AAAA
+||jiuse904.com^$dnstype=AAAA
+||jiuse905.com^$dnstype=AAAA
 ||jiuyaoyouxi.com^$dnstype=AAAA
 ||jiuzhouyihuo.com^$dnstype=AAAA
 ||jixiangcai.com^$dnstype=AAAA
@@ -18106,6 +18146,7 @@
 ||livechatinc.com^$dnstype=AAAA
 ||livecoding.tv^$dnstype=AAAA
 ||livecoin.net^$dnstype=AAAA
+||livedoor.blog^$dnstype=AAAA
 ||livedoor.jp^$dnstype=AAAA
 ||livedrive.com^$dnstype=AAAA
 ||livefilestore.com^$dnstype=AAAA
@@ -18199,15 +18240,7 @@
 ||logme.in^$dnstype=AAAA
 ||logmein.com^$dnstype=AAAA
 ||logular.com^$dnstype=AAAA
-||loibus.cc^$dnstype=AAAA
-||loibus.com^$dnstype=AAAA
-||loibus.link^$dnstype=AAAA
-||loibus.top^$dnstype=AAAA
-||loibus100.top^$dnstype=AAAA
-||loibus101.top^$dnstype=AAAA
-||loibus202.top^$dnstype=AAAA
-||loibus505.top^$dnstype=AAAA
-||loibus606.top^$dnstype=AAAA
+||loholidayhk.com^$dnstype=AAAA
 ||loixtv.com^$dnstype=AAAA
 ||lol-europe.com^$dnstype=AAAA
 ||lolclub.org^$dnstype=AAAA
@@ -18217,6 +18250,8 @@
 ||lolhentai.net^$dnstype=AAAA
 ||loli.help^$dnstype=AAAA
 ||loli.net^$dnstype=AAAA
+||lolibus.cc^$dnstype=AAAA
+||lolibus.top^$dnstype=AAAA
 ||lolislove.info^$dnstype=AAAA
 ||lolisz.com^$dnstype=AAAA
 ||lolita.bet^$dnstype=AAAA
@@ -20225,6 +20260,7 @@
 ||naiadsystems.com^$dnstype=AAAA
 ||nailedhard.com^$dnstype=AAAA
 ||naitik.net^$dnstype=AAAA
+||naizitv.top^$dnstype=AAAA
 ||naked.com^$dnstype=AAAA
 ||nakedasiansex.com^$dnstype=AAAA
 ||nakedhosting.com^$dnstype=AAAA
@@ -20251,6 +20287,7 @@
 ||namulo.net^$dnstype=AAAA
 ||namulo.org^$dnstype=AAAA
 ||nan-net.com^$dnstype=AAAA
+||nanonamad.com^$dnstype=AAAA
 ||nanopellets.com^$dnstype=AAAA
 ||nanrenfuli.com^$dnstype=AAAA
 ||nanyang.com^$dnstype=AAAA
@@ -20971,6 +21008,7 @@
 ||noyavpn.com^$dnstype=AAAA
 ||noypf.com^$dnstype=AAAA
 ||nozakikun.tv^$dnstype=AAAA
+||nozomi.la^$dnstype=AAAA
 ||npackd.org^$dnstype=AAAA
 ||npm.community^$dnstype=AAAA
 ||npmjs.com^$dnstype=AAAA
@@ -21543,6 +21581,7 @@
 ||oreilly.com^$dnstype=AAAA
 ||oreilly.review^$dnstype=AAAA
 ||oreillystatic.com^$dnstype=AAAA
+||oreno3d.com^$dnstype=AAAA
 ||orevo-zagreb.hr^$dnstype=AAAA
 ||orextv.com^$dnstype=AAAA
 ||orfonline.org^$dnstype=AAAA
@@ -22259,6 +22298,7 @@
 ||photojojo.com^$dnstype=AAAA
 ||photolia.net^$dnstype=AAAA
 ||photonicssociety.org^$dnstype=AAAA
+||photos18.com^$dnstype=AAAA
 ||photoshop.com^$dnstype=AAAA
 ||photoshopvip.net^$dnstype=AAAA
 ||photoslike.me^$dnstype=AAAA
@@ -22334,6 +22374,7 @@
 ||pincong.org^$dnstype=AAAA
 ||pincong.rocks^$dnstype=AAAA
 ||ping.fm^$dnstype=AAAA
+||pingguotv.xyz^$dnstype=AAAA
 ||pingproxy.com^$dnstype=AAAA
 ||pingsky.ir^$dnstype=AAAA
 ||pingxiangpuer.com^$dnstype=AAAA
@@ -22647,6 +22688,7 @@
 ||porn7.net^$dnstype=AAAA
 ||porn7.xxx^$dnstype=AAAA
 ||porn87.com^$dnstype=AAAA
+||porn91.org^$dnstype=AAAA
 ||porn93.cc^$dnstype=AAAA
 ||porn99.net^$dnstype=AAAA
 ||pornacho.com^$dnstype=AAAA
@@ -22665,6 +22707,7 @@
 ||porndao.com^$dnstype=AAAA
 ||porndex.com^$dnstype=AAAA
 ||porndig.com^$dnstype=AAAA
+||porndiscounts.com^$dnstype=AAAA
 ||porndisk.com^$dnstype=AAAA
 ||porndoe.com^$dnstype=AAAA
 ||porndoepremium.com^$dnstype=AAAA
@@ -22689,6 +22732,7 @@
 ||pornhd.com^$dnstype=AAAA
 ||pornhd3x.tv^$dnstype=AAAA
 ||pornhits.com^$dnstype=AAAA
+||pornhoho.com^$dnstype=AAAA
 ||pornhost.com^$dnstype=AAAA
 ||pornhub-deutsch.net^$dnstype=AAAA
 ||pornhub.com^$dnstype=AAAA
@@ -23234,6 +23278,7 @@
 ||pullstring.net^$dnstype=AAAA
 ||pulsacijazivota.com^$dnstype=AAAA
 ||punchbowl.com^$dnstype=AAAA
+||punishbang.com^$dnstype=AAAA
 ||punishtube.com^$dnstype=AAAA
 ||punishworld.com^$dnstype=AAAA
 ||punked.us^$dnstype=AAAA
@@ -23476,6 +23521,7 @@
 ||quitccp.org^$dnstype=AAAA
 ||quiz.directory^$dnstype=AAAA
 ||qukun8.xyz^$dnstype=AAAA
+||qumingwz.com^$dnstype=AAAA
 ||quoine.com^$dnstype=AAAA
 ||quora.com^$dnstype=AAAA
 ||quora.fr^$dnstype=AAAA
@@ -24693,6 +24739,7 @@
 ||sevenload.com^$dnstype=AAAA
 ||seventhousand.net^$dnstype=AAAA
 ||severreal.org^$dnstype=AAAA
+||sevgikurtulmaz.com^$dnstype=AAAA
 ||sex-11.com^$dnstype=AAAA
 ||sex-gif.org^$dnstype=AAAA
 ||sex-hay.pro^$dnstype=AAAA
@@ -24724,6 +24771,7 @@
 ||sexbunker.com^$dnstype=AAAA
 ||sexcord.com^$dnstype=AAAA
 ||sexdelivery.com^$dnstype=AAAA
+||sexemulator.com^$dnstype=AAAA
 ||sexfilm4free.com^$dnstype=AAAA
 ||sexfilmstube.com^$dnstype=AAAA
 ||sexfind.com^$dnstype=AAAA
@@ -25919,6 +25967,7 @@
 ||stmartins.edu^$dnstype=AAAA
 ||sto.cc^$dnstype=AAAA
 ||stockagainstphotography.com^$dnstype=AAAA
+||stocking-tease.com^$dnstype=AAAA
 ||stockintl.ca^$dnstype=AAAA
 ||stockton.edu^$dnstype=AAAA
 ||stoican.eu^$dnstype=AAAA
@@ -26178,6 +26227,7 @@
 ||surgitools.net^$dnstype=AAAA
 ||suroot.com^$dnstype=AAAA
 ||surrenderat20.net^$dnstype=AAAA
+||suruga-ya.com^$dnstype=AAAA
 ||surveycake.com^$dnstype=AAAA
 ||surveyinb.com^$dnstype=AAAA
 ||survivalmom.com^$dnstype=AAAA
@@ -26218,6 +26268,7 @@
 ||sweetkiss.me^$dnstype=AAAA
 ||sweetmlif.net^$dnstype=AAAA
 ||sweetpacks-search.com^$dnstype=AAAA
+||sweetsext.com^$dnstype=AAAA
 ||sweetsinner.com^$dnstype=AAAA
 ||swegold.com^$dnstype=AAAA
 ||swell.cl^$dnstype=AAAA
@@ -26600,6 +26651,7 @@
 ||teleconomiser.com^$dnstype=AAAA
 ||telega.one^$dnstype=AAAA
 ||telegra.ph^$dnstype=AAAA
+||telegram-porn.com^$dnstype=AAAA
 ||telegram.dog^$dnstype=AAAA
 ||telegram.im^$dnstype=AAAA
 ||telegram.me^$dnstype=AAAA
@@ -26868,6 +26920,7 @@
 ||thepiratebay.org^$dnstype=AAAA
 ||theplatform.com^$dnstype=AAAA
 ||thepolicy.us^$dnstype=AAAA
+||thepornbest.com^$dnstype=AAAA
 ||thepornbet.com^$dnstype=AAAA
 ||theporndude.cc^$dnstype=AAAA
 ||theporndude.com^$dnstype=AAAA
@@ -26955,6 +27008,7 @@
 ||thinkwithgoogle.com^$dnstype=AAAA
 ||thirdmovies.com^$dnstype=AAAA
 ||thisav.com^$dnstype=AAAA
+||thisav.org^$dnstype=AAAA
 ||thisav.tw^$dnstype=AAAA
 ||thisischen.com^$dnstype=AAAA
 ||thisispolaris.com^$dnstype=AAAA
@@ -27310,6 +27364,7 @@
 ||tonec.com^$dnstype=AAAA
 ||tongbao918.com^$dnstype=AAAA
 ||tongbo8888.com^$dnstype=AAAA
+||tonicmovies.com^$dnstype=AAAA
 ||tono-oka.jp^$dnstype=AAAA
 ||tonyhuangphotography.com^$dnstype=AAAA
 ||tonyskansascity.com^$dnstype=AAAA
@@ -27647,6 +27702,7 @@
 ||tube88.com^$dnstype=AAAA
 ||tube8zoo.com^$dnstype=AAAA
 ||tube911.com^$dnstype=AAAA
+||tubebdsm.com^$dnstype=AAAA
 ||tubecaptain.com^$dnstype=AAAA
 ||tubecup.com^$dnstype=AAAA
 ||tubedupe.com^$dnstype=AAAA
@@ -27663,6 +27719,7 @@
 ||tubeon.com^$dnstype=AAAA
 ||tubepleasure.com^$dnstype=AAAA
 ||tubepornclassic.com^$dnstype=AAAA
+||tubepornstars.com^$dnstype=AAAA
 ||tubepornup.com^$dnstype=AAAA
 ||tubeprox.com^$dnstype=AAAA
 ||tuberb.com^$dnstype=AAAA
@@ -27867,6 +27924,7 @@
 ||twiends.com^$dnstype=AAAA
 ||twifan.com^$dnstype=AAAA
 ||twiffo.com^$dnstype=AAAA
+||twifuli.com^$dnstype=AAAA
 ||twiggit.org^$dnstype=AAAA
 ||twilightparadox.com^$dnstype=AAAA
 ||twilightsex.com^$dnstype=AAAA
@@ -28406,7 +28464,6 @@
 ||uun98.com^$dnstype=AAAA
 ||uun99.com^$dnstype=AAAA
 ||uupdump.net^$dnstype=AAAA
-||uus75.com^$dnstype=AAAA
 ||uushare.com^$dnstype=AAAA
 ||uuu711.net^$dnstype=AAAA
 ||uuuvx.com^$dnstype=AAAA
@@ -29629,6 +29686,7 @@
 ||weirdhentai.com^$dnstype=AAAA
 ||weisuo.ws^$dnstype=AAAA
 ||weiyuksj.com^$dnstype=AAAA
+||weknowporn.com^$dnstype=AAAA
 ||welcometopurgatory.ca^$dnstype=AAAA
 ||wellmaturetube.com^$dnstype=AAAA
 ||wellplacedpixels.com^$dnstype=AAAA
@@ -30232,6 +30290,7 @@
 ||wuwei.ca^$dnstype=AAAA
 ||wuxiapple.com^$dnstype=AAAA
 ||wuyanblog.com^$dnstype=AAAA
+||wuyefuli.org^$dnstype=AAAA
 ||wvm0agb4.me^$dnstype=AAAA
 ||wvw-82737.com^$dnstype=AAAA
 ||ww2464.com^$dnstype=AAAA
@@ -30421,6 +30480,8 @@
 ||xcams4u.com^$dnstype=AAAA
 ||xcegwjimj.com^$dnstype=AAAA
 ||xcg123.com^$dnstype=AAAA
+||xchina.co^$dnstype=AAAA
+||xchina.fun^$dnstype=AAAA
 ||xcity.jp^$dnstype=AAAA
 ||xclicks.net^$dnstype=AAAA
 ||xcream.net^$dnstype=AAAA
@@ -30773,6 +30834,7 @@
 ||xsoh.casa^$dnstype=AAAA
 ||xsrxpwvg.com^$dnstype=AAAA
 ||xsvc.xyz^$dnstype=AAAA
+||xsvod.xyz^$dnstype=AAAA
 ||xsz-av.com^$dnstype=AAAA
 ||xtb.com^$dnstype=AAAA
 ||xtremeinn.com^$dnstype=AAAA
@@ -30910,6 +30972,7 @@
 ||xxxvideosex.org^$dnstype=AAAA
 ||xxxvideoszoo.com^$dnstype=AAAA
 ||xxxvogue.net^$dnstype=AAAA
+||xxxxvideo.uno^$dnstype=AAAA
 ||xxxy.biz^$dnstype=AAAA
 ||xxxy.info^$dnstype=AAAA
 ||xxxymovies.com^$dnstype=AAAA
