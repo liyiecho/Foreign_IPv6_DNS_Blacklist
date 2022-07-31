@@ -3470,6 +3470,8 @@
 ||alforattv.net^$dnstype=AAAA
 ||algogator.com^$dnstype=AAAA
 ||alhayat.com^$dnstype=AAAA
+||alhs.link^$dnstype=AAAA
+||alhs.xyz^$dnstype=AAAA
 ||ali3215.com^$dnstype=AAAA
 ||aliengu.com^$dnstype=AAAA
 ||alifaan.ovh^$dnstype=AAAA
@@ -14314,6 +14316,7 @@
 ||hentaiclub.net^$dnstype=AAAA
 ||hentaicore.org^$dnstype=AAAA
 ||hentaidude.com^$dnstype=AAAA
+||hentaiera.com^$dnstype=AAAA
 ||hentaifox.com^$dnstype=AAAA
 ||hentaigamer.org^$dnstype=AAAA
 ||hentaigasm.com^$dnstype=AAAA
@@ -22716,6 +22719,7 @@
 ||pornerbros.com^$dnstype=AAAA
 ||pornfacebook.com^$dnstype=AAAA
 ||pornfidelity.com^$dnstype=AAAA
+||pornfind.org^$dnstype=AAAA
 ||pornfromczech.com^$dnstype=AAAA
 ||pornfu.tv^$dnstype=AAAA
 ||pornfun.com^$dnstype=AAAA
@@ -25754,6 +25758,7 @@
 ||ssh91.com^$dnstype=AAAA
 ||sshagan.net^$dnstype=AAAA
 ||sshs.cc^$dnstype=AAAA
+||sshs.club^$dnstype=AAAA
 ||sshs.pw^$dnstype=AAAA
 ||sshs.xyz^$dnstype=AAAA
 ||sskyn.com^$dnstype=AAAA
