@@ -2238,6 +2238,7 @@
 ||80sf.com^$dnstype=AAAA
 ||810127.com^$dnstype=AAAA
 ||81100888.com^$dnstype=AAAA
+||8111y.top^$dnstype=AAAA
 ||8130592.com^$dnstype=AAAA
 ||8138138.com^$dnstype=AAAA
 ||815126.com^$dnstype=AAAA
@@ -4692,6 +4693,7 @@
 ||awebproxy.com^$dnstype=AAAA
 ||aweencore.com^$dnstype=AAAA
 ||awetv.com^$dnstype=AAAA
+||awflapp.top^$dnstype=AAAA
 ||awk.so^$dnstype=AAAA
 ||awn1.icu^$dnstype=AAAA
 ||aws-iot-hackathon.com^$dnstype=AAAA
@@ -4774,6 +4776,7 @@
 ||azurespeed.com^$dnstype=AAAA
 ||azurestackvalidation.com^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
+||b-cdn.net^$dnstype=AAAA
 ||b-ok.as^$dnstype=AAAA
 ||b-ok.asia^$dnstype=AAAA
 ||b-ok.cc^$dnstype=AAAA
@@ -5473,6 +5476,7 @@
 ||belshire.com^$dnstype=AAAA
 ||bemywife.cc^$dnstype=AAAA
 ||benarnews.org^$dnstype=AAAA
+||benaughty.fun^$dnstype=AAAA
 ||benchprep.org^$dnstype=AAAA
 ||bengmugenr.com^$dnstype=AAAA
 ||benjamingolub.com^$dnstype=AAAA
@@ -10903,6 +10907,7 @@
 ||erosintl.com^$dnstype=AAAA
 ||erotelki.org^$dnstype=AAAA
 ||eroterest.net^$dnstype=AAAA
+||erothots.co^$dnstype=AAAA
 ||eroticbeauties.net^$dnstype=AAAA
 ||eroticbeauty.com^$dnstype=AAAA
 ||eroticbeautyhub.com^$dnstype=AAAA
@@ -14286,6 +14291,7 @@
 ||hboasia.com^$dnstype=AAAA
 ||hbogo.com^$dnstype=AAAA
 ||hbogoasia.com^$dnstype=AAAA
+||hbogoasia.id^$dnstype=AAAA
 ||hbomax.com^$dnstype=AAAA
 ||hbomaxcdn.com^$dnstype=AAAA
 ||hbonow.com^$dnstype=AAAA
@@ -15253,6 +15259,7 @@
 ||https443.org^$dnstype=AAAA
 ||httpsfacebook.com^$dnstype=AAAA
 ||httpwwwfacebook.com^$dnstype=AAAA
+||htyj-bj.com^$dnstype=AAAA
 ||hu188.net^$dnstype=AAAA
 ||hu1u.com^$dnstype=AAAA
 ||hua-yue.net^$dnstype=AAAA
@@ -16301,7 +16308,9 @@
 ||iqq.life^$dnstype=AAAA
 ||iqq.one^$dnstype=AAAA
 ||iqq1.net^$dnstype=AAAA
+||iqq2.cc^$dnstype=AAAA
 ||iqq2.net^$dnstype=AAAA
+||iqq3.cc^$dnstype=AAAA
 ||iqq3.net^$dnstype=AAAA
 ||iqqtv.me^$dnstype=AAAA
 ||iqqtv.net^$dnstype=AAAA
@@ -19759,6 +19768,7 @@
 ||modelhub.com^$dnstype=AAAA
 ||modelmediaus.com^$dnstype=AAAA
 ||modeloswebcambogota.com^$dnstype=AAAA
+||modeltv.com^$dnstype=AAAA
 ||modernchinastudies.org^$dnstype=AAAA
 ||mododns.com^$dnstype=AAAA
 ||modrinth.com^$dnstype=AAAA
@@ -19769,6 +19779,7 @@
 ||moeacg.cc^$dnstype=AAAA
 ||moebox.moe^$dnstype=AAAA
 ||moeerolibrary.com^$dnstype=AAAA
+||moefuns.co^$dnstype=AAAA
 ||moefuns.com^$dnstype=AAAA
 ||moefuns.vip^$dnstype=AAAA
 ||moeimg.net^$dnstype=AAAA
@@ -22109,6 +22120,7 @@
 ||palestineremix.com^$dnstype=AAAA
 ||palevo.com^$dnstype=AAAA
 ||palgrave.com^$dnstype=AAAA
+||pali.ltd^$dnstype=AAAA
 ||paljorpublications.com^$dnstype=AAAA
 ||pallabs.com^$dnstype=AAAA
 ||palmislife.com^$dnstype=AAAA
@@ -24516,6 +24528,7 @@
 ||rukoebxx.com^$dnstype=AAAA
 ||rukor.org^$dnstype=AAAA
 ||rule-34.net^$dnstype=AAAA
+||rule34.world^$dnstype=AAAA
 ||rule34.xxx^$dnstype=AAAA
 ||rule34.xyz^$dnstype=AAAA
 ||rule34video.com^$dnstype=AAAA
@@ -24933,6 +24946,7 @@
 ||sebastianbarrios.cl^$dnstype=AAAA
 ||seby.io^$dnstype=AAAA
 ||secomtrust.net^$dnstype=AAAA
+||secret-flirt-hub.com^$dnstype=AAAA
 ||secretbrowser.net^$dnstype=AAAA
 ||secretchina.com^$dnstype=AAAA
 ||secretgarden.no^$dnstype=AAAA
@@ -25220,6 +25234,7 @@
 ||sgwin123.com^$dnstype=AAAA
 ||sgwritings.com^$dnstype=AAAA
 ||sgzhan.com^$dnstype=AAAA
+||sh-xuxingda.com^$dnstype=AAAA
 ||sh22.us^$dnstype=AAAA
 ||sh223.cf^$dnstype=AAAA
 ||sha0001.com^$dnstype=AAAA
