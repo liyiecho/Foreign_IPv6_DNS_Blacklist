@@ -6041,6 +6041,7 @@
 ||blogspot.ug^$dnstype=AAAA
 ||blogtd.net^$dnstype=AAAA
 ||blogtd.org^$dnstype=AAAA
+||blogterest.net^$dnstype=AAAA
 ||bloguje.cz^$dnstype=AAAA
 ||blogunions.com^$dnstype=AAAA
 ||blogvirals.com^$dnstype=AAAA
@@ -7918,6 +7919,7 @@
 ||chwr7s8u.com^$dnstype=AAAA
 ||chyl168.com^$dnstype=AAAA
 ||chyoa.com^$dnstype=AAAA
+||ci-en.net^$dnstype=AAAA
 ||ci77.net^$dnstype=AAAA
 ||ci88.net^$dnstype=AAAA
 ||ciattackers.com^$dnstype=AAAA
@@ -9724,6 +9726,7 @@
 ||dlive.tv^$dnstype=AAAA
 ||dlsite.com^$dnstype=AAAA
 ||dlsite.jp^$dnstype=AAAA
+||dlsitestudio.com^$dnstype=AAAA
 ||dlyoutube.com^$dnstype=AAAA
 ||dm258.com^$dnstype=AAAA
 ||dm530.net^$dnstype=AAAA
@@ -16770,6 +16773,7 @@
 ||javlibrary.com^$dnstype=AAAA
 ||javmany.com^$dnstype=AAAA
 ||javme.me^$dnstype=AAAA
+||javmix.tv^$dnstype=AAAA
 ||javmobile.net^$dnstype=AAAA
 ||javmodel.com^$dnstype=AAAA
 ||javmoo.com^$dnstype=AAAA
@@ -17583,6 +17587,7 @@
 ||klxsw.com^$dnstype=AAAA
 ||kmarry.me^$dnstype=AAAA
 ||kmart.com^$dnstype=AAAA
+||kmc-av.com^$dnstype=AAAA
 ||kmeiju.net^$dnstype=AAAA
 ||kmov.com^$dnstype=AAAA
 ||kmqlms.com^$dnstype=AAAA
@@ -21826,6 +21831,7 @@
 ||opior.com^$dnstype=AAAA
 ||oportuna.cl^$dnstype=AAAA
 ||oppai-doga.info^$dnstype=AAAA
+||oppainorakuen.com^$dnstype=AAAA
 ||oppapers.com^$dnstype=AAAA
 ||oppc.tk^$dnstype=AAAA
 ||opposix.com^$dnstype=AAAA
@@ -27992,6 +27998,7 @@
 ||trimleng.com^$dnstype=AAAA
 ||trimondi.de^$dnstype=AAAA
 ||trinita.tv^$dnstype=AAAA
+||triokini.com^$dnstype=AAAA
 ||trionworlds.com^$dnstype=AAAA
 ||tripodadvisors.com^$dnstype=AAAA
 ||trips-edu.nl^$dnstype=AAAA
@@ -28582,6 +28589,7 @@
 ||ugcloud.ca^$dnstype=AAAA
 ||ugg.com^$dnstype=AAAA
 ||ugo.com^$dnstype=AAAA
+||uguisupapa.net^$dnstype=AAAA
 ||uhdwallpapers.org^$dnstype=AAAA
 ||uhostjobs.com^$dnstype=AAAA
 ||uhrp.org^$dnstype=AAAA
@@ -29922,6 +29930,7 @@
 ||wapedia.mobi^$dnstype=AAAA
 ||waplog.com^$dnstype=AAAA
 ||waqn.com^$dnstype=AAAA
+||waranlov.com^$dnstype=AAAA
 ||warehouse333.com^$dnstype=AAAA
 ||wariolandshakeit.com^$dnstype=AAAA
 ||wariowarediy.com^$dnstype=AAAA
@@ -31195,6 +31204,7 @@
 ||xn--gtvz22d.wang^$dnstype=AAAA
 ||xn--hb4aw0g.com^$dnstype=AAAA
 ||xn--hckl3e1e8a8ajin0czf.net^$dnstype=AAAA
+||xn--hhr917d3fecva.xyz^$dnstype=AAAA
 ||xn--i2ru8q2qg.com^$dnstype=AAAA
 ||xn--jlqz7wnvax2ocxskuz.com^$dnstype=AAAA
 ||xn--m1abbbgjah.lol^$dnstype=AAAA
