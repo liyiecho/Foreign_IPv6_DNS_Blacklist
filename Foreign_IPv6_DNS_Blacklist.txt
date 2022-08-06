@@ -23892,6 +23892,7 @@
 ||r10s.com^$dnstype=AAAA
 ||r1665.com^$dnstype=AAAA
 ||r18.com^$dnstype=AAAA
+||r18av.com^$dnstype=AAAA
 ||r18lu.com^$dnstype=AAAA
 ||r2646.com^$dnstype=AAAA
 ||r78929.com^$dnstype=AAAA
