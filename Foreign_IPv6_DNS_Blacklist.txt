@@ -2476,6 +2476,7 @@
 ||8dice168.com^$dnstype=AAAA
 ||8dy.me^$dnstype=AAAA
 ||8fig.net^$dnstype=AAAA
+||8kcosplay.com^$dnstype=AAAA
 ||8mei.vip^$dnstype=AAAA
 ||8muses.com^$dnstype=AAAA
 ||8muses.io^$dnstype=AAAA
@@ -22806,6 +22807,7 @@
 ||playboyplus.com^$dnstype=AAAA
 ||playboytubes.com^$dnstype=AAAA
 ||playbydurex.com^$dnstype=AAAA
+||playcover.io^$dnstype=AAAA
 ||player.fm^$dnstype=AAAA
 ||playerjs.io^$dnstype=AAAA
 ||playersdiner.com^$dnstype=AAAA
@@ -28916,6 +28918,7 @@
 ||uwpcommunitytoolkit.com^$dnstype=AAAA
 ||uxdesign.cc^$dnstype=AAAA
 ||uxdict.io^$dnstype=AAAA
+||uxxxporn.com^$dnstype=AAAA
 ||uybbb.com^$dnstype=AAAA
 ||uyghur-j.org^$dnstype=AAAA
 ||uyghuraa.org^$dnstype=AAAA
