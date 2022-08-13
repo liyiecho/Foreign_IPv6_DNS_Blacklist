@@ -4595,6 +4595,7 @@
 ||auricularesbeatsbaratosshop.com^$dnstype=AAAA
 ||auricularesbeatsmarkt.com^$dnstype=AAAA
 ||aurora-pro.com^$dnstype=AAAA
+||auroraoss.com^$dnstype=AAAA
 ||ausbeatsbydrdre.com^$dnstype=AAAA
 ||ausnz.net^$dnstype=AAAA
 ||ausnznet.com^$dnstype=AAAA
@@ -8387,6 +8388,9 @@
 ||colegialasdeverdad.com^$dnstype=AAAA
 ||colegialasreales.com^$dnstype=AAAA
 ||colgate.com^$dnstype=AAAA
+||collabora.com^$dnstype=AAAA
+||collabora.org^$dnstype=AAAA
+||collaboraoffice.com^$dnstype=AAAA
 ||collarme.com^$dnstype=AAAA
 ||collateralmurder.com^$dnstype=AAAA
 ||collateralmurder.org^$dnstype=AAAA
@@ -32043,6 +32047,7 @@
 ||ying168.com^$dnstype=AAAA
 ||yingeli.net^$dnstype=AAAA
 ||yingmang.com^$dnstype=AAAA
+||yingpianqu.com^$dnstype=AAAA
 ||yingsuoss.com^$dnstype=AAAA
 ||yinhehyvip.com^$dnstype=AAAA
 ||yinlei.org^$dnstype=AAAA
