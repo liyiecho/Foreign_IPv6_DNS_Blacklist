@@ -4756,6 +4756,7 @@
 ||awseducate.com^$dnstype=AAAA
 ||awseducate.net^$dnstype=AAAA
 ||awseducate.org^$dnstype=AAAA
+||awsglobalaccelerator.com^$dnstype=AAAA
 ||awsloft-johannesburg.com^$dnstype=AAAA
 ||awsloft-stockholm.com^$dnstype=AAAA
 ||awssecworkshops.com^$dnstype=AAAA
