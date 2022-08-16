@@ -645,6 +645,8 @@
 ||18comic3.biz^$dnstype=AAAA
 ||18comic4.biz^$dnstype=AAAA
 ||18commic.com^$dnstype=AAAA
+||18doujin.com^$dnstype=AAAA
+||18exgfs.com^$dnstype=AAAA
 ||18gal.xyz^$dnstype=AAAA
 ||18girlssex.com^$dnstype=AAAA
 ||18h.tv^$dnstype=AAAA
@@ -921,6 +923,7 @@
 ||2349391.com^$dnstype=AAAA
 ||234k7.com^$dnstype=AAAA
 ||234wnsr.com^$dnstype=AAAA
+||2371tom.com^$dnstype=AAAA
 ||2378.com^$dnstype=AAAA
 ||237yu.com^$dnstype=AAAA
 ||240.net^$dnstype=AAAA
@@ -1478,6 +1481,7 @@
 ||4freeproxy.com^$dnstype=AAAA
 ||4gtv.tv^$dnstype=AAAA
 ||4hu.com^$dnstype=AAAA
+||4hu.tv^$dnstype=AAAA
 ||4hu54.com^$dnstype=AAAA
 ||4hu55.com^$dnstype=AAAA
 ||4hu60.com^$dnstype=AAAA
@@ -1716,6 +1720,7 @@
 ||58756.com^$dnstype=AAAA
 ||58880244.com^$dnstype=AAAA
 ||5899767.com^$dnstype=AAAA
+||58avgo.com^$dnstype=AAAA
 ||58vod.me^$dnstype=AAAA
 ||58ybet.com^$dnstype=AAAA
 ||5911221.com^$dnstype=AAAA
@@ -2495,6 +2500,7 @@
 ||8pen.xyz^$dnstype=AAAA
 ||8proxy.com^$dnstype=AAAA
 ||8qi8.com^$dnstype=AAAA
+||8sp.biz^$dnstype=AAAA
 ||8teenxxx.com^$dnstype=AAAA
 ||8thstreetlatinas.com^$dnstype=AAAA
 ||8xxx.net^$dnstype=AAAA
@@ -4881,6 +4887,7 @@
 ||b6687.com^$dnstype=AAAA
 ||b6797.com^$dnstype=AAAA
 ||b6812.com^$dnstype=AAAA
+||b6b33.com^$dnstype=AAAA
 ||b7688.com^$dnstype=AAAA
 ||b778.com^$dnstype=AAAA
 ||b7869.com^$dnstype=AAAA
@@ -6543,6 +6550,7 @@
 ||botstop.com^$dnstype=AAAA
 ||bottomlinestudios.net^$dnstype=AAAA
 ||botxtv.site^$dnstype=AAAA
+||boulx.com^$dnstype=AAAA
 ||bounceme.net^$dnstype=AAAA
 ||boundhub.com^$dnstype=AAAA
 ||boundless-sky.com^$dnstype=AAAA
@@ -7455,6 +7463,7 @@
 ||cathnews.com^$dnstype=AAAA
 ||catholic.com^$dnstype=AAAA
 ||catholicherald.com^$dnstype=AAAA
+||catmiimi.com^$dnstype=AAAA
 ||cato.org^$dnstype=AAAA
 ||catpro.io^$dnstype=AAAA
 ||catsoncrack.com^$dnstype=AAAA
@@ -9810,6 +9819,7 @@
 ||dlive.tv^$dnstype=AAAA
 ||dlsite.com^$dnstype=AAAA
 ||dlsite.jp^$dnstype=AAAA
+||dlsitenews.com^$dnstype=AAAA
 ||dlsitestudio.com^$dnstype=AAAA
 ||dlyoutube.com^$dnstype=AAAA
 ||dm258.com^$dnstype=AAAA
@@ -10011,6 +10021,7 @@
 ||doujin-night.com^$dnstype=AAAA
 ||doujinantena.com^$dnstype=AAAA
 ||doujincafe.com^$dnstype=AAAA
+||doujinfree.com^$dnstype=AAAA
 ||doujinnomori.com^$dnstype=AAAA
 ||doujins.com^$dnstype=AAAA
 ||doujinshi.org^$dnstype=AAAA
@@ -10650,6 +10661,7 @@
 ||edgecastcdn.net^$dnstype=AAAA
 ||edgedatg.com^$dnstype=AAAA
 ||edgefonts.net^$dnstype=AAAA
+||edgemeplease.com^$dnstype=AAAA
 ||edgesuite.net^$dnstype=AAAA
 ||edialogue.org^$dnstype=AAAA
 ||edicypages.com^$dnstype=AAAA
@@ -10726,6 +10738,7 @@
 ||ehornbill.com^$dnstype=AAAA
 ||ehrenreich.ca^$dnstype=AAAA
 ||ehtracker.org^$dnstype=AAAA
+||ehv.cc^$dnstype=AAAA
 ||ehviewer.com^$dnstype=AAAA
 ||ehwiki.org^$dnstype=AAAA
 ||eic-av.com^$dnstype=AAAA
@@ -10972,6 +10985,8 @@
 ||ero-guide.com^$dnstype=AAAA
 ||ero-kawa.com^$dnstype=AAAA
 ||ero-labs.com^$dnstype=AAAA
+||ero-manga-platinum.net^$dnstype=AAAA
+||ero-mangalife.com^$dnstype=AAAA
 ||ero-video.net^$dnstype=AAAA
 ||erocool.com^$dnstype=AAAA
 ||erocool.me^$dnstype=AAAA
@@ -10980,6 +10995,7 @@
 ||erodaizensyu.com^$dnstype=AAAA
 ||erodougazo.com^$dnstype=AAAA
 ||erodoujinlog.com^$dnstype=AAAA
+||erodoujinshi-world.com^$dnstype=AAAA
 ||erodoujinworld.com^$dnstype=AAAA
 ||eroelog.com^$dnstype=AAAA
 ||eroero69.work^$dnstype=AAAA
@@ -10991,10 +11007,6 @@
 ||erogazou-pinkline.com^$dnstype=AAAA
 ||erogazoufactory.com^$dnstype=AAAA
 ||erohentai.net^$dnstype=AAAA
-||erolabs.cloud^$dnstype=AAAA
-||erolabs.com^$dnstype=AAAA
-||erolabs.games^$dnstype=AAAA
-||erolabs.net^$dnstype=AAAA
 ||erolord.com^$dnstype=AAAA
 ||eromanga-cafe.com^$dnstype=AAAA
 ||eromanga-kingdom.com^$dnstype=AAAA
@@ -13201,7 +13213,9 @@
 ||gaxycloud.ml^$dnstype=AAAA
 ||gay-needed.com^$dnstype=AAAA
 ||gay-porns.com^$dnstype=AAAA
+||gay.bingo^$dnstype=AAAA
 ||gay.de^$dnstype=AAAA
+||gay0day.com^$dnstype=AAAA
 ||gay104.com^$dnstype=AAAA
 ||gay1069.cf^$dnstype=AAAA
 ||gay69.tv^$dnstype=AAAA
@@ -17249,6 +17263,7 @@
 ||johren.games^$dnstype=AAAA
 ||johren.net^$dnstype=AAAA
 ||joi18.com^$dnstype=AAAA
+||joiasmr.com^$dnstype=AAAA
 ||joinbbs.net^$dnstype=AAAA
 ||joinclubhouse.com^$dnstype=AAAA
 ||joinmaidez.com^$dnstype=AAAA
@@ -18716,6 +18731,7 @@
 ||loveofkuanyin.com^$dnstype=AAAA
 ||loveparents.org^$dnstype=AAAA
 ||loverslab.com^$dnstype=AAAA
+||lovesexbody.com^$dnstype=AAAA
 ||lovesexdurex.com^$dnstype=AAAA
 ||lovethiscity.com^$dnstype=AAAA
 ||lovetvshow.com^$dnstype=AAAA
@@ -18927,6 +18943,7 @@
 ||macgn.com^$dnstype=AAAA
 ||mach-os.com^$dnstype=AAAA
 ||mach-os.net^$dnstype=AAAA
+||machigle-sp.com^$dnstype=AAAA
 ||machogaytube.com^$dnstype=AAAA
 ||machos.net^$dnstype=AAAA
 ||machotube.tv^$dnstype=AAAA
@@ -19394,6 +19411,7 @@
 ||meilizhongguo.biz^$dnstype=AAAA
 ||meirifuli.org^$dnstype=AAAA
 ||meirixiaochao.com^$dnstype=AAAA
+||meitula.net^$dnstype=AAAA
 ||meiyu7.com^$dnstype=AAAA
 ||meizhong.blog^$dnstype=AAAA
 ||meizhong.report^$dnstype=AAAA
@@ -20455,6 +20473,7 @@
 ||myav.tv^$dnstype=AAAA
 ||myav123.com^$dnstype=AAAA
 ||myavfun.com^$dnstype=AAAA
+||myavok.com^$dnstype=AAAA
 ||myavsuper.com^$dnstype=AAAA
 ||myball369.com^$dnstype=AAAA
 ||myball7.com^$dnstype=AAAA
@@ -20946,6 +20965,7 @@
 ||new-3lunch.net^$dnstype=AAAA
 ||new-akiba.com^$dnstype=AAAA
 ||new-av.com^$dnstype=AAAA
+||new-jero.net^$dnstype=AAAA
 ||new-redtube.com^$dnstype=AAAA
 ||new3dcomics.com^$dnstype=AAAA
 ||new96.ca^$dnstype=AAAA
@@ -21569,6 +21589,8 @@
 ||nuexpo.com^$dnstype=AAAA
 ||nuget.org^$dnstype=AAAA
 ||nugettest.org^$dnstype=AAAA
+||nuita.net^$dnstype=AAAA
+||nuki-dokoro.com^$dnstype=AAAA
 ||nukistream.com^$dnstype=AAAA
 ||numbr.com^$dnstype=AAAA
 ||nunuyy.cc^$dnstype=AAAA
@@ -22121,6 +22143,7 @@
 ||osfoora.com^$dnstype=AAAA
 ||osikko.jp^$dnstype=AAAA
 ||osilo.net^$dnstype=AAAA
+||osiri-suki-club.com^$dnstype=AAAA
 ||osm.org^$dnstype=AAAA
 ||osmfoundation.org^$dnstype=AAAA
 ||osorhan.com^$dnstype=AAAA
@@ -23403,6 +23426,7 @@
 ||pornvideotube.online^$dnstype=AAAA
 ||pornvisit.com^$dnstype=AAAA
 ||pornwatchers.com^$dnstype=AAAA
+||pornwebmasters.com^$dnstype=AAAA
 ||pornwhite.com^$dnstype=AAAA
 ||pornworms.com^$dnstype=AAAA
 ||pornxs.com^$dnstype=AAAA
@@ -23527,6 +23551,7 @@
 ||prestige-av.com^$dnstype=AAAA
 ||prestigecasino.com^$dnstype=AAAA
 ||prestigein.com^$dnstype=AAAA
+||pretty-ass.xyz^$dnstype=AAAA
 ||prettynubiles.com^$dnstype=AAAA
 ||prettysimpleimages.com^$dnstype=AAAA
 ||prettyteentube.com^$dnstype=AAAA
@@ -24884,6 +24909,7 @@
 ||safasti.com^$dnstype=AAAA
 ||safasti.net^$dnstype=AAAA
 ||safe-inet.com^$dnstype=AAAA
+||safebooru.org^$dnstype=AAAA
 ||safecart.com^$dnstype=AAAA
 ||safechat.com^$dnstype=AAAA
 ||safecloud.cc^$dnstype=AAAA
@@ -26896,6 +26922,7 @@
 ||sustainability.google^$dnstype=AAAA
 ||sustainthesound.com^$dnstype=AAAA
 ||susuky.net^$dnstype=AAAA
+||suxib.com^$dnstype=AAAA
 ||suyangg.com^$dnstype=AAAA
 ||svaboda.org^$dnstype=AAAA
 ||svc.ms^$dnstype=AAAA
@@ -27170,6 +27197,7 @@
 ||tartsandcrafts.ca^$dnstype=AAAA
 ||tasci.biz^$dnstype=AAAA
 ||tastyblacks.com^$dnstype=AAAA
+||tati-log.com^$dnstype=AAAA
 ||tatuarte.cl^$dnstype=AAAA
 ||taup.net^$dnstype=AAAA
 ||taweet.com^$dnstype=AAAA
@@ -27216,6 +27244,7 @@
 ||tbet88.com^$dnstype=AAAA
 ||tbgs.tw^$dnstype=AAAA
 ||tbheritage.com^$dnstype=AAAA
+||tbib.org^$dnstype=AAAA
 ||tbicn.org^$dnstype=AAAA
 ||tbjyt.org^$dnstype=AAAA
 ||tblop.com^$dnstype=AAAA
@@ -29070,6 +29099,7 @@
 ||upyouxtv.com^$dnstype=AAAA
 ||ur7s.com^$dnstype=AAAA
 ||uraban.me^$dnstype=AAAA
+||urasma.com^$dnstype=AAAA
 ||urasob.com^$dnstype=AAAA
 ||urast.com^$dnstype=AAAA
 ||urban14.net^$dnstype=AAAA
@@ -31539,6 +31569,7 @@
 ||xnxx-sex-videos.com^$dnstype=AAAA
 ||xnxx-teens.com^$dnstype=AAAA
 ||xnxx.com^$dnstype=AAAA
+||xnxx.health^$dnstype=AAAA
 ||xnxx.net^$dnstype=AAAA
 ||xnxx.tv^$dnstype=AAAA
 ||xnxx.xxx^$dnstype=AAAA
@@ -32488,6 +32519,7 @@
 ||zeriamerikes.com^$dnstype=AAAA
 ||zeroak.com^$dnstype=AAAA
 ||zerocensorship.com^$dnstype=AAAA
+||zerochan.net^$dnstype=AAAA
 ||zerohedge.com^$dnstype=AAAA
 ||zeronet.io^$dnstype=AAAA
 ||zerossl.com^$dnstype=AAAA
@@ -32496,6 +32528,7 @@
 ||zetaboards.com^$dnstype=AAAA
 ||zetagalleries.com^$dnstype=AAAA
 ||zetify.com^$dnstype=AAAA
+||zettai-ero.com^$dnstype=AAAA
 ||zeutch.com^$dnstype=AAAA
 ||zevandeliza.com^$dnstype=AAAA
 ||zff.co^$dnstype=AAAA
