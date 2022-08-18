@@ -11982,6 +11982,7 @@
 ||festinhasbrasil.com^$dnstype=AAAA
 ||fetish-bb.com^$dnstype=AAAA
 ||fetishbank.net^$dnstype=AAAA
+||fetishdreamz.com^$dnstype=AAAA
 ||fetishfishcams.com^$dnstype=AAAA
 ||fetishpapa.com^$dnstype=AAAA
 ||fetishpornfilms.com^$dnstype=AAAA
@@ -22146,6 +22147,7 @@
 ||openvpn.net^$dnstype=AAAA
 ||openvpn.org^$dnstype=AAAA
 ||openvpn.se^$dnstype=AAAA
+||openweathermap.org^$dnstype=AAAA
 ||openweave.io^$dnstype=AAAA
 ||openwebster.com^$dnstype=AAAA
 ||openwrt.org^$dnstype=AAAA
@@ -29166,6 +29168,7 @@
 ||unix100.com^$dnstype=AAAA
 ||unknownproxy.com^$dnstype=AAAA
 ||unknownspace.org^$dnstype=AAAA
+||unkoscene.com^$dnstype=AAAA
 ||unlocator.com^$dnstype=AAAA
 ||unlock-iceland.com^$dnstype=AAAA
 ||unlocklimitlesslearning.com^$dnstype=AAAA
