@@ -8379,6 +8379,7 @@
 ||codecampo.com^$dnstype=AAAA
 ||codefarmer.cf^$dnstype=AAAA
 ||codeforaliving.io^$dnstype=AAAA
+||codeforces.com^$dnstype=AAAA
 ||codeger.com^$dnstype=AAAA
 ||codeguru.com^$dnstype=AAAA
 ||codei.sh^$dnstype=AAAA
@@ -16431,6 +16432,7 @@
 ||inyt.com^$dnstype=AAAA
 ||ioe.com^$dnstype=AAAA
 ||ioffergift.com^$dnstype=AAAA
+||ioinformatics.org^$dnstype=AAAA
 ||ionic.cf^$dnstype=AAAA
 ||iop.org^$dnstype=AAAA
 ||ios-icloud.com^$dnstype=AAAA
