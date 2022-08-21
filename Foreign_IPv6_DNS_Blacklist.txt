@@ -5803,6 +5803,9 @@
 ||biguz.net^$dnstype=AAAA
 ||biitii.com^$dnstype=AAAA
 ||bijakids.com^$dnstype=AAAA
+||bikaa.xyz^$dnstype=AAAA
+||bikac.xyz^$dnstype=AAAA
+||bikaios.xyz^$dnstype=AAAA
 ||bikeinn.com^$dnstype=AAAA
 ||bild.de^$dnstype=AAAA
 ||bilibili230.com^$dnstype=AAAA
@@ -22959,7 +22962,10 @@
 ||piaproxy.net^$dnstype=AAAA
 ||piavpn.com^$dnstype=AAAA
 ||picaacg.com^$dnstype=AAAA
+||picacg2022.com^$dnstype=AAAA
+||picacn.xyz^$dnstype=AAAA
 ||picacomic.com^$dnstype=AAAA
+||picacomic.xyz^$dnstype=AAAA
 ||picacomiccn.com^$dnstype=AAAA
 ||picasa.com^$dnstype=AAAA
 ||picasaweb.com^$dnstype=AAAA
@@ -30757,6 +30763,7 @@
 ||wiiugamepad.com^$dnstype=AAAA
 ||wiivc.net^$dnstype=AAAA
 ||wikaba.com^$dnstype=AAAA
+||wikawika.xyz^$dnstype=AAAA
 ||wiki2.org^$dnstype=AAAA
 ||wiki22.ml^$dnstype=AAAA
 ||wiki22.tk^$dnstype=AAAA
