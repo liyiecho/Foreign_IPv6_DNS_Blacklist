@@ -24639,6 +24639,7 @@
 ||reform-apple.com^$dnstype=AAAA
 ||regabri.cl^$dnstype=AAAA
 ||regardschine.com^$dnstype=AAAA
+||regex101.com^$dnstype=AAAA
 ||regfs.cf^$dnstype=AAAA
 ||reginacn.com^$dnstype=AAAA
 ||regionalwifi.net^$dnstype=AAAA
@@ -32301,6 +32302,7 @@
 ||yinhehyvip.com^$dnstype=AAAA
 ||yinlei.org^$dnstype=AAAA
 ||yinling2.top^$dnstype=AAAA
+||yinmh.com^$dnstype=AAAA
 ||yinwowo.com^$dnstype=AAAA
 ||yippy.com^$dnstype=AAAA
 ||yipub.com^$dnstype=AAAA
