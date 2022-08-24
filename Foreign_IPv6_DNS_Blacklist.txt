@@ -14700,7 +14700,9 @@
 ||hentai247.net^$dnstype=AAAA
 ||hentai2read.com^$dnstype=AAAA
 ||hentai2w.com^$dnstype=AAAA
+||hentai44.com^$dnstype=AAAA
 ||hentai4manga.com^$dnstype=AAAA
+||hentai69.online^$dnstype=AAAA
 ||hentaiaction.net^$dnstype=AAAA
 ||hentaiathome.net^$dnstype=AAAA
 ||hentaibar.com^$dnstype=AAAA
@@ -21673,6 +21675,7 @@
 ||nsatc.net^$dnstype=AAAA
 ||nsfw.xxx^$dnstype=AAAA
 ||nsfwgifs.com^$dnstype=AAAA
+||nsfwmemes.com^$dnstype=AAAA
 ||nsimg.net^$dnstype=AAAA
 ||nsl-node.ml^$dnstype=AAAA
 ||nsnai.com^$dnstype=AAAA
@@ -22283,6 +22286,7 @@
 ||orxtv.com^$dnstype=AAAA
 ||orzdream.com^$dnstype=AAAA
 ||orzistic.org^$dnstype=AAAA
+||orzqwq.com^$dnstype=AAAA
 ||osakihsieh.tw^$dnstype=AAAA
 ||osapublishing.org^$dnstype=AAAA
 ||oscaro.com^$dnstype=AAAA
@@ -25466,6 +25470,7 @@
 ||sendvid.com^$dnstype=AAAA
 ||seneporno.com^$dnstype=AAAA
 ||seniorexpress.org^$dnstype=AAAA
+||senpaiheat.com^$dnstype=AAAA
 ||sensolnet.com^$dnstype=AAAA
 ||sensortower.com^$dnstype=AAAA
 ||sensorynetworks.com^$dnstype=AAAA
@@ -29792,6 +29797,7 @@
 ||vipstudiocali.com^$dnstype=AAAA
 ||viptlc6088.com^$dnstype=AAAA
 ||vipvpn.hu^$dnstype=AAAA
+||viralcum.com^$dnstype=AAAA
 ||viralporn.com^$dnstype=AAAA
 ||virbuzz.com^$dnstype=AAAA
 ||virginia.edu^$dnstype=AAAA
@@ -30967,6 +30973,7 @@
 ||wizproxy.com^$dnstype=AAAA
 ||wjbk.org^$dnstype=AAAA
 ||wjbookny.com^$dnstype=AAAA
+||wjcodes.com^$dnstype=AAAA
 ||wjlife.com^$dnstype=AAAA
 ||wjsnr.com^$dnstype=AAAA
 ||wkek.net^$dnstype=AAAA
