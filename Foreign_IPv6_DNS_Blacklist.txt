@@ -11037,6 +11037,7 @@
 ||ero-guide.com^$dnstype=AAAA
 ||ero-kawa.com^$dnstype=AAAA
 ||ero-labs.com^$dnstype=AAAA
+||ero-labs.net^$dnstype=AAAA
 ||ero-manga-platinum.net^$dnstype=AAAA
 ||ero-mangalife.com^$dnstype=AAAA
 ||ero-video.net^$dnstype=AAAA
@@ -11059,6 +11060,10 @@
 ||erogazou-pinkline.com^$dnstype=AAAA
 ||erogazoufactory.com^$dnstype=AAAA
 ||erohentai.net^$dnstype=AAAA
+||erolabs.cloud^$dnstype=AAAA
+||erolabs.com^$dnstype=AAAA
+||erolabs.game^$dnstype=AAAA
+||erolabs.net^$dnstype=AAAA
 ||erolord.com^$dnstype=AAAA
 ||eromanga-ace.com^$dnstype=AAAA
 ||eromanga-cafe.com^$dnstype=AAAA
@@ -16026,7 +16031,19 @@
 ||ilievi.ml^$dnstype=AAAA
 ||ilife.wang^$dnstype=AAAA
 ||illianacomputerrecycling.com^$dnstype=AAAA
+||illusion111.com^$dnstype=AAAA
+||illusionas.com^$dnstype=AAAA
+||illusionchn.com^$dnstype=AAAA
 ||illusionfactory.com^$dnstype=AAAA
+||illusiongw.com^$dnstype=AAAA
+||illusionh.com^$dnstype=AAAA
+||illusionl.com^$dnstype=AAAA
+||illusionn2.com^$dnstype=AAAA
+||illusionn3.com^$dnstype=AAAA
+||illusionn4.com^$dnstype=AAAA
+||illusionn5.com^$dnstype=AAAA
+||illusiony.com^$dnstype=AAAA
+||illusionze.com^$dnstype=AAAA
 ||ilmortodelmese.com^$dnstype=AAAA
 ||iloli.ml^$dnstype=AAAA
 ||ilongman.com^$dnstype=AAAA
@@ -18859,6 +18876,7 @@
 ||lovemyanime.net^$dnstype=AAAA
 ||loveofkuanyin.com^$dnstype=AAAA
 ||loveparents.org^$dnstype=AAAA
+||lovepartners.life^$dnstype=AAAA
 ||loverslab.com^$dnstype=AAAA
 ||lovesexbody.com^$dnstype=AAAA
 ||lovesexdurex.com^$dnstype=AAAA
@@ -20907,6 +20925,7 @@
 ||narod.ru^$dnstype=AAAA
 ||narutopixxx.com^$dnstype=AAAA
 ||nasa.gov^$dnstype=AAAA
+||nasty.singles^$dnstype=AAAA
 ||nastyvideotube.com^$dnstype=AAAA
 ||nasxtv.site^$dnstype=AAAA
 ||nat.moe^$dnstype=AAAA
@@ -21308,6 +21327,7 @@
 ||nijifeti.com^$dnstype=AAAA
 ||nijigen-daiaru.com^$dnstype=AAAA
 ||nijinchu.com^$dnstype=AAAA
+||nijioma.blog^$dnstype=AAAA
 ||nike-air-max.com^$dnstype=AAAA
 ||nike-dunksb.com^$dnstype=AAAA
 ||nike-fr.com^$dnstype=AAAA
@@ -21713,6 +21733,7 @@
 ||nubilesunscripted.com^$dnstype=AAAA
 ||nude-art-erotic.com^$dnstype=AAAA
 ||nude-gals.com^$dnstype=AAAA
+||nude-pics.org^$dnstype=AAAA
 ||nude-share.com^$dnstype=AAAA
 ||nude.tv^$dnstype=AAAA
 ||nudecelebforum.com^$dnstype=AAAA
@@ -22105,6 +22126,7 @@
 ||onlyiphone5case.com^$dnstype=AAAA
 ||onlyjizz.com^$dnstype=AAAA
 ||onlyleaks.me^$dnstype=AAAA
+||onlynudes.org^$dnstype=AAAA
 ||onlypost.com^$dnstype=AAAA
 ||onlytweets.com^$dnstype=AAAA
 ||onmanorama.com^$dnstype=AAAA
@@ -23042,6 +23064,7 @@
 ||pifpafarabia.com^$dnstype=AAAA
 ||pigav.com^$dnstype=AAAA
 ||pigflying.net^$dnstype=AAAA
+||pikabu.monster^$dnstype=AAAA
 ||pikkupiironki.com^$dnstype=AAAA
 ||pikkur.com^$dnstype=AAAA
 ||piliapp.com^$dnstype=AAAA
@@ -23423,6 +23446,7 @@
 ||porndroids.com^$dnstype=AAAA
 ||porndude2.com^$dnstype=AAAA
 ||porndudecasting.com^$dnstype=AAAA
+||pornelephant.com^$dnstype=AAAA
 ||pornerbros.com^$dnstype=AAAA
 ||pornfacebook.com^$dnstype=AAAA
 ||pornfidelity.com^$dnstype=AAAA
@@ -24906,6 +24930,7 @@
 ||roskam.nl^$dnstype=AAAA
 ||rostones.com^$dnstype=AAAA
 ||rotten.com^$dnstype=AAAA
+||rou.video^$dnstype=AAAA
 ||roucdn.link^$dnstype=AAAA
 ||roughman.net^$dnstype=AAAA
 ||roupacaipira.com^$dnstype=AAAA
@@ -27293,6 +27318,7 @@
 ||tagprice.com^$dnstype=AAAA
 ||tagwalk.com^$dnstype=AAAA
 ||tagxedo.com^$dnstype=AAAA
+||taiav.com^$dnstype=AAAA
 ||tail-f.com^$dnstype=AAAA
 ||tailf.com^$dnstype=AAAA
 ||tailwindtraders.com^$dnstype=AAAA
