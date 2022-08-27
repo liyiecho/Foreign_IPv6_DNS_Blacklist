@@ -7276,6 +7276,7 @@
 ||calgonit.com^$dnstype=AAAA
 ||calibre-ebook.com^$dnstype=AAAA
 ||call-3u8633.com^$dnstype=AAAA
+||callabitch.org^$dnstype=AAAA
 ||callersbane.com^$dnstype=AAAA
 ||callhulu.com^$dnstype=AAAA
 ||calstate.edu^$dnstype=AAAA
@@ -20194,6 +20195,7 @@
 ||moneydj.com^$dnstype=AAAA
 ||moneyhome.biz^$dnstype=AAAA
 ||moneynet.tw^$dnstype=AAAA
+||moneyswift.online^$dnstype=AAAA
 ||moneywithfacebook.com^$dnstype=AAAA
 ||mongodb.com^$dnstype=AAAA
 ||mongodb.org^$dnstype=AAAA
@@ -25120,6 +25122,7 @@
 ||safevpn.net^$dnstype=AAAA
 ||saffrontech.com^$dnstype=AAAA
 ||sagepub.com^$dnstype=AAAA
+||sagernet.org^$dnstype=AAAA
 ||sahabatsetiasmartone.com^$dnstype=AAAA
 ||sahajayoga.ie^$dnstype=AAAA
 ||sahvow.tv^$dnstype=AAAA
@@ -28337,6 +28340,7 @@
 ||topbeatsforsale.com^$dnstype=AAAA
 ||topcartoonsites.com^$dnstype=AAAA
 ||topchats.com^$dnstype=AAAA
+||topcoder.com^$dnstype=AAAA
 ||toperoticartsites.com^$dnstype=AAAA
 ||topescortbabes.com^$dnstype=AAAA
 ||topface.com^$dnstype=AAAA
@@ -29346,6 +29350,7 @@
 ||us52.cf^$dnstype=AAAA
 ||usa-beatsbydreheadphonesonsale.net^$dnstype=AAAA
 ||usacn.com^$dnstype=AAAA
+||usaco.org^$dnstype=AAAA
 ||usahealth.xyz^$dnstype=AAAA
 ||usaip.eu^$dnstype=AAAA
 ||usasialaw.org^$dnstype=AAAA
