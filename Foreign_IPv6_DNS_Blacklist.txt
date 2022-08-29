@@ -26808,6 +26808,7 @@
 ||steamgames.com^$dnstype=AAAA
 ||steamoe.com^$dnstype=AAAA
 ||steampowered.com^$dnstype=AAAA
+||steamserver.net^$dnstype=AAAA
 ||steamstatic.com^$dnstype=AAAA
 ||steamunlocked.net^$dnstype=AAAA
 ||steamusercontent.com^$dnstype=AAAA
