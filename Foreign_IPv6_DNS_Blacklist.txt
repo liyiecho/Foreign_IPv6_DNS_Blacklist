@@ -8292,7 +8292,6 @@
 ||cmule.org^$dnstype=AAAA
 ||cmx.im^$dnstype=AAAA
 ||cn-proxy.com^$dnstype=AAAA
-||cn.com^$dnstype=AAAA
 ||cn1069.org^$dnstype=AAAA
 ||cn1lib.org^$dnstype=AAAA
 ||cn42.ga^$dnstype=AAAA
@@ -15276,6 +15275,7 @@
 ||hostens.com^$dnstype=AAAA
 ||hostingbulk.com^$dnstype=AAAA
 ||hostingerapp.com^$dnstype=AAAA
+||hostloc.com^$dnstype=AAAA
 ||hoststool.net^$dnstype=AAAA
 ||hostux.net^$dnstype=AAAA
 ||hostzi.com^$dnstype=AAAA
