@@ -16153,7 +16153,6 @@
 ||in-the-band.net^$dnstype=AAAA
 ||in.com^$dnstype=AAAA
 ||in.gr^$dnstype=AAAA
-||in.th^$dnstype=AAAA
 ||in01.icu^$dnstype=AAAA
 ||in04.icu^$dnstype=AAAA
 ||in05.icu^$dnstype=AAAA
@@ -17376,8 +17375,12 @@
 ||jm-madeira.pt^$dnstype=AAAA
 ||jm607.com^$dnstype=AAAA
 ||jmara.net^$dnstype=AAAA
+||jmcomic.me^$dnstype=AAAA
 ||jmcomic.mobi^$dnstype=AAAA
+||jmcomic.moe^$dnstype=AAAA
 ||jmcomic.xyz^$dnstype=AAAA
+||jmcomic1.city^$dnstype=AAAA
+||jmcomic1.me^$dnstype=AAAA
 ||jmcomic1.mobi^$dnstype=AAAA
 ||jmlr.org^$dnstype=AAAA
 ||jmscult.com^$dnstype=AAAA
