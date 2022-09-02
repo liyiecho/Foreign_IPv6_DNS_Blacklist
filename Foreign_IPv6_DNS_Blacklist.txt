@@ -10763,6 +10763,7 @@
 ||eesti.ee^$dnstype=AAAA
 ||eevpn.com^$dnstype=AAAA
 ||eff.org^$dnstype=AAAA
+||effecthub.com^$dnstype=AAAA
 ||effers.com^$dnstype=AAAA
 ||effies.com^$dnstype=AAAA
 ||efhc.mx^$dnstype=AAAA
