@@ -22825,6 +22825,7 @@
 ||pccwglobal.com^$dnstype=AAAA
 ||pccwsolutions.com^$dnstype=AAAA
 ||pchi.me^$dnstype=AAAA
+||pchomeec.tw^$dnstype=AAAA
 ||pcij.org^$dnstype=AAAA
 ||pcloud.com^$dnstype=AAAA
 ||pcre.org^$dnstype=AAAA
