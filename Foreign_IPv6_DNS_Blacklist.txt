@@ -1482,6 +1482,7 @@
 ||4club.com^$dnstype=AAAA
 ||4dq.com^$dnstype=AAAA
 ||4ebaytraders.com^$dnstype=AAAA
+||4everland.io^$dnstype=AAAA
 ||4everproxy.com^$dnstype=AAAA
 ||4freeproxy.com^$dnstype=AAAA
 ||4gtv.tv^$dnstype=AAAA
@@ -3966,6 +3967,7 @@
 ||anonvpn.io^$dnstype=AAAA
 ||anonymise.us^$dnstype=AAAA
 ||anonymitynetwork.com^$dnstype=AAAA
+||anonymize.com^$dnstype=AAAA
 ||anonymize.net^$dnstype=AAAA
 ||anonymizer.com^$dnstype=AAAA
 ||anonymous-proxies.net^$dnstype=AAAA
@@ -4318,6 +4320,7 @@
 ||arabxnxx.org^$dnstype=AAAA
 ||arabysexy.com^$dnstype=AAAA
 ||arabysexy.mobi^$dnstype=AAAA
+||aragon.network^$dnstype=AAAA
 ||arapurayil.com^$dnstype=AAAA
 ||aravas.io^$dnstype=AAAA
 ||arcadewank.com^$dnstype=AAAA
@@ -4772,6 +4775,7 @@
 ||awc7.com^$dnstype=AAAA
 ||awebproxy.com^$dnstype=AAAA
 ||aweencore.com^$dnstype=AAAA
+||awempire.com^$dnstype=AAAA
 ||awetv.com^$dnstype=AAAA
 ||awflapp.top^$dnstype=AAAA
 ||awk.so^$dnstype=AAAA
@@ -7132,6 +7136,7 @@
 ||c3344.com^$dnstype=AAAA
 ||c3j.fun^$dnstype=AAAA
 ||c4288.com^$dnstype=AAAA
+||c4rex.co^$dnstype=AAAA
 ||c4story.com^$dnstype=AAAA
 ||c5007.com^$dnstype=AAAA
 ||c6396.com^$dnstype=AAAA
@@ -7678,6 +7683,7 @@
 ||cetsedu.org^$dnstype=AAAA
 ||cevin.me^$dnstype=AAAA
 ||cex.io^$dnstype=AAAA
+||cf-ipfs.com^$dnstype=AAAA
 ||cf.gs^$dnstype=AAAA
 ||cf0009.com^$dnstype=AAAA
 ||cf7.com^$dnstype=AAAA
@@ -8829,6 +8835,7 @@
 ||crucial.com^$dnstype=AAAA
 ||cruisecritic.com^$dnstype=AAAA
 ||crunchyroll.com^$dnstype=AAAA
+||crustwebsites.net^$dnstype=AAAA
 ||crv2000.com^$dnstype=AAAA
 ||crwdcntrl.net^$dnstype=AAAA
 ||cryptocat.com^$dnstype=AAAA
@@ -9952,6 +9959,8 @@
 ||docker.com^$dnstype=AAAA
 ||docker.io^$dnstype=AAAA
 ||dockerizer.com^$dnstype=AAAA
+||docleradn.com^$dnstype=AAAA
+||doclercdn.com^$dnstype=AAAA
 ||docs.com^$dnstype=AAAA
 ||docs.new^$dnstype=AAAA
 ||docs.rs^$dnstype=AAAA
@@ -11153,6 +11162,7 @@
 ||etaireia.gr^$dnstype=AAAA
 ||etaiwannews.com^$dnstype=AAAA
 ||eternal-group.com^$dnstype=AAAA
+||eternum.io^$dnstype=AAAA
 ||etet22.com^$dnstype=AAAA
 ||etherdelta.com^$dnstype=AAAA
 ||ethereum.foundation^$dnstype=AAAA
@@ -12237,6 +12247,7 @@
 ||flckr.com^$dnstype=AAAA
 ||fldsolar.com^$dnstype=AAAA
 ||flecheinthepeche.fr^$dnstype=AAAA
+||fleek.co^$dnstype=AAAA
 ||fleshbot.com^$dnstype=AAAA
 ||fleursdeslettres.com^$dnstype=AAAA
 ||flgg.us^$dnstype=AAAA
@@ -16511,6 +16522,7 @@
 ||ipconceal.com^$dnstype=AAAA
 ||ipdisguiser.com^$dnstype=AAAA
 ||ipfire.org^$dnstype=AAAA
+||ipfs-gateway.cloud^$dnstype=AAAA
 ||ipfs.io^$dnstype=AAAA
 ||ipfspin.com^$dnstype=AAAA
 ||ipge.com^$dnstype=AAAA
@@ -16565,6 +16577,7 @@
 ||ipkmedia.com^$dnstype=AAAA
 ||ipleadership.org^$dnstype=AAAA
 ||iplogger.org^$dnstype=AAAA
+||ipns.co^$dnstype=AAAA
 ||ipobar.com^$dnstype=AAAA
 ||ipod.ch^$dnstype=AAAA
 ||ipod.co^$dnstype=AAAA
@@ -17426,6 +17439,7 @@
 ||jonward.com^$dnstype=AAAA
 ||jorn.net^$dnstype=AAAA
 ||jornaldiario.com^$dnstype=AAAA
+||jorropo.net^$dnstype=AAAA
 ||jos.com^$dnstype=AAAA
 ||joshinweb.jp^$dnstype=AAAA
 ||joshuarue.com^$dnstype=AAAA
@@ -18122,6 +18136,7 @@
 ||lagrandeepoque.com^$dnstype=AAAA
 ||lagranepoca.com^$dnstype=AAAA
 ||lahauntedhouse.com^$dnstype=AAAA
+||lain.la^$dnstype=AAAA
 ||lain.li^$dnstype=AAAA
 ||laintranet.es^$dnstype=AAAA
 ||lakeballs.fi^$dnstype=AAAA
@@ -18543,6 +18558,7 @@
 ||libraryinformationtechnology.com^$dnstype=AAAA
 ||librarylovefest.com^$dnstype=AAAA
 ||libraryofmoria.com^$dnstype=AAAA
+||libredd.it^$dnstype=AAAA
 ||libredns.gr^$dnstype=AAAA
 ||libreswan.org^$dnstype=AAAA
 ||libsolutions.app^$dnstype=AAAA
@@ -18805,6 +18821,7 @@
 ||logular.com^$dnstype=AAAA
 ||loholidayhk.com^$dnstype=AAAA
 ||loixtv.com^$dnstype=AAAA
+||lokinet.org^$dnstype=AAAA
 ||lol-europe.com^$dnstype=AAAA
 ||lolclub.org^$dnstype=AAAA
 ||lolespor.com^$dnstype=AAAA
@@ -19639,6 +19656,7 @@
 ||meszhmet.com^$dnstype=AAAA
 ||met-art.com^$dnstype=AAAA
 ||met-nude.com^$dnstype=AAAA
+||meta.com^$dnstype=AAAA
 ||metacafe.com^$dnstype=AAAA
 ||metacloud.com^$dnstype=AAAA
 ||metacpan.org^$dnstype=AAAA
@@ -21272,6 +21290,7 @@
 ||nfsc.global^$dnstype=AAAA
 ||nfscdict.com^$dnstype=AAAA
 ||nfsworld.com^$dnstype=AAAA
+||nftstorage.link^$dnstype=AAAA
 ||ng.mil^$dnstype=AAAA
 ||nga.mil^$dnstype=AAAA
 ||ngan.ml^$dnstype=AAAA
@@ -22258,6 +22277,7 @@
 ||oracleimg.com^$dnstype=AAAA
 ||oracleinfinity.io^$dnstype=AAAA
 ||orange01.org^$dnstype=AAAA
+||oranum.com^$dnstype=AAAA
 ||orbitera.com^$dnstype=AAAA
 ||orcam.com^$dnstype=AAAA
 ||orchid.com^$dnstype=AAAA
@@ -23084,6 +23104,7 @@
 ||pin2288.com^$dnstype=AAAA
 ||pin6.com^$dnstype=AAAA
 ||pin9988.com^$dnstype=AAAA
+||pinata.cloud^$dnstype=AAAA
 ||pinbet88.com^$dnstype=AAAA
 ||pincong.org^$dnstype=AAAA
 ||pincong.rocks^$dnstype=AAAA
@@ -25012,6 +25033,7 @@
 ||runbtx.com^$dnstype=AAAA
 ||rundf665.cyou^$dnstype=AAAA
 ||runescape.com^$dnstype=AAAA
+||runfission.com^$dnstype=AAAA
 ||runhomefast.com^$dnstype=AAAA
 ||runnerinn.com^$dnstype=AAAA
 ||runnike.com^$dnstype=AAAA
@@ -29702,6 +29724,7 @@
 ||vhxqa3.com^$dnstype=AAAA
 ||vhxqa4.com^$dnstype=AAAA
 ||vhxqa6.com^$dnstype=AAAA
+||via0.com^$dnstype=AAAA
 ||viacbs.com^$dnstype=AAAA
 ||viacom.com^$dnstype=AAAA
 ||viacomcbs.com^$dnstype=AAAA
