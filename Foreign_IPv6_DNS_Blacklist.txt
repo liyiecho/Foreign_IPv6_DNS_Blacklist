@@ -8236,6 +8236,7 @@
 ||cloudflareresolve.com^$dnstype=AAAA
 ||cloudflaressl.com^$dnstype=AAAA
 ||cloudflarestatus.com^$dnstype=AAAA
+||cloudflarestorage.com^$dnstype=AAAA
 ||cloudflarestream.com^$dnstype=AAAA
 ||cloudflaretest.com^$dnstype=AAAA
 ||cloudflarewarp.com^$dnstype=AAAA
@@ -24741,6 +24742,7 @@
 ||renzhe.cloud^$dnstype=AAAA
 ||renzhecloud.com^$dnstype=AAAA
 ||repaik.com^$dnstype=AAAA
+||repo.new^$dnstype=AAAA
 ||reporter.bz^$dnstype=AAAA
 ||repsneakermall.com^$dnstype=AAAA
 ||repswing.com^$dnstype=AAAA
@@ -26773,6 +26775,7 @@
 ||starcraft.com^$dnstype=AAAA
 ||starcraft2.com^$dnstype=AAAA
 ||starfares.com^$dnstype=AAAA
+||starfieldtech.com^$dnstype=AAAA
 ||starfishfx.com^$dnstype=AAAA
 ||starfox.com^$dnstype=AAAA
 ||stark-verlag.ch^$dnstype=AAAA
