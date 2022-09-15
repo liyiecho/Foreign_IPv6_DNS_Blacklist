@@ -16473,6 +16473,7 @@
 ||inthecrack.com^$dnstype=AAAA
 ||inthenameofconfuciusmovie.com^$dnstype=AAAA
 ||inti.be^$dnstype=AAAA
+||intltencentcos.com^$dnstype=AAAA
 ||intoday.in^$dnstype=AAAA
 ||intouchweekly.com^$dnstype=AAAA
 ||intporn.com^$dnstype=AAAA
