@@ -8432,6 +8432,7 @@
 ||coinexchange.io^$dnstype=AAAA
 ||coingecko.com^$dnstype=AAAA
 ||coingi.com^$dnstype=AAAA
+||coinglass.com^$dnstype=AAAA
 ||coinic.com^$dnstype=AAAA
 ||coinmarketcap.com^$dnstype=AAAA
 ||coinonecore.com^$dnstype=AAAA
@@ -8842,6 +8843,7 @@
 ||cryptocat.com^$dnstype=AAAA
 ||cryptocert.org^$dnstype=AAAA
 ||cryptocoinsnews.com^$dnstype=AAAA
+||cryptocompare.com^$dnstype=AAAA
 ||cryptocurrencytalk.com^$dnstype=AAAA
 ||cryptographyengineering.com^$dnstype=AAAA
 ||cryptomeans.co^$dnstype=AAAA
@@ -9433,6 +9435,7 @@
 ||dearelder.com^$dnstype=AAAA
 ||deasians.com^$dnstype=AAAA
 ||deathbychina.com^$dnstype=AAAA
+||debank.com^$dnstype=AAAA
 ||debate.org^$dnstype=AAAA
 ||debian.org^$dnstype=AAAA
 ||debug.com^$dnstype=AAAA
@@ -20844,6 +20847,7 @@
 ||mythicentertainment.net^$dnstype=AAAA
 ||mythicgames.com^$dnstype=AAAA
 ||mytizi.com^$dnstype=AAAA
+||mytokenapi.com^$dnstype=AAAA
 ||mytubeweb.com^$dnstype=AAAA
 ||mytuitui.com^$dnstype=AAAA
 ||mytving.com^$dnstype=AAAA
@@ -28602,6 +28606,7 @@
 ||truebuddha-md.org^$dnstype=AAAA
 ||truebuddha.se^$dnstype=AAAA
 ||truedepth3d.com^$dnstype=AAAA
+||truefi.io^$dnstype=AAAA
 ||truenas.com^$dnstype=AAAA
 ||truesocial.media^$dnstype=AAAA
 ||trulyergonomic.com^$dnstype=AAAA
@@ -28985,8 +28990,10 @@
 ||twitter.jp^$dnstype=AAAA
 ||twitter.org^$dnstype=AAAA
 ||twitter4j.org^$dnstype=AAAA
+||twittercommunity.com^$dnstype=AAAA
 ||twittercounter.com^$dnstype=AAAA
 ||twitterfeed.com^$dnstype=AAAA
+||twitterflightschool.com^$dnstype=AAAA
 ||twittergadget.com^$dnstype=AAAA
 ||twitterinc.com^$dnstype=AAAA
 ||twitterkr.com^$dnstype=AAAA
