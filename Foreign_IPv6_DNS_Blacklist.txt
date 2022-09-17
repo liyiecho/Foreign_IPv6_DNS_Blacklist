@@ -7612,6 +7612,7 @@
 ||cdjp.org^$dnstype=AAAA
 ||cdkworkshop.com^$dnstype=AAAA
 ||cdlib.org^$dnstype=AAAA
+||cdmatech.com^$dnstype=AAAA
 ||cdn-terapeak.com^$dnstype=AAAA
 ||cdn22.xyz^$dnstype=AAAA
 ||cdn77.com^$dnstype=AAAA
@@ -9374,6 +9375,7 @@
 ||dcard.cc^$dnstype=AAAA
 ||dcard.hk^$dnstype=AAAA
 ||dcard.io^$dnstype=AAAA
+||dcard.link^$dnstype=AAAA
 ||dcard.tw^$dnstype=AAAA
 ||dcb68.com^$dnstype=AAAA
 ||dcb77.com^$dnstype=AAAA
@@ -21120,7 +21122,9 @@
 ||netflixinvestor.com^$dnstype=AAAA
 ||netflixtechblog.com^$dnstype=AAAA
 ||netignition.com^$dnstype=AAAA
+||netlify.app^$dnstype=AAAA
 ||netlify.com^$dnstype=AAAA
+||netlifystatus.com^$dnstype=AAAA
 ||netmap.su^$dnstype=AAAA
 ||netme.cc^$dnstype=AAAA
 ||netmums.com^$dnstype=AAAA
