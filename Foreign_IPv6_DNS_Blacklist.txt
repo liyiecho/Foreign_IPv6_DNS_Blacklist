@@ -14294,6 +14294,7 @@
 ||googledrive.com^$dnstype=AAAA
 ||googlee.com^$dnstype=AAAA
 ||googleearth.com^$dnstype=AAAA
+||googlefiber.com^$dnstype=AAAA
 ||googlefiber.net^$dnstype=AAAA
 ||googlefinland.com^$dnstype=AAAA
 ||googleforchina.com^$dnstype=AAAA
