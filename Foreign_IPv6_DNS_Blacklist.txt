@@ -3304,6 +3304,7 @@
 ||afewmomentswith.com^$dnstype=AAAA
 ||aff365sal.com^$dnstype=AAAA
 ||affect3dstore.com^$dnstype=AAAA
+||affirmtrust.com^$dnstype=AAAA
 ||affsal365.com^$dnstype=AAAA
 ||afftb388.com^$dnstype=AAAA
 ||affyun.org^$dnstype=AAAA
@@ -4604,6 +4605,7 @@
 ||atnext.com^$dnstype=AAAA
 ||atom.io^$dnstype=AAAA
 ||atomyteam.com^$dnstype=AAAA
+||atos.net^$dnstype=AAAA
 ||atozproxy.com^$dnstype=AAAA
 ||atproxy.net^$dnstype=AAAA
 ||atriumesoteric.org^$dnstype=AAAA
@@ -7439,6 +7441,7 @@
 ||camelphat.com^$dnstype=AAAA
 ||camelspaceeffect.com^$dnstype=AAAA
 ||cameraboys.com^$dnstype=AAAA
+||camerfirma.com^$dnstype=AAAA
 ||camfinder.com^$dnstype=AAAA
 ||camfox.com^$dnstype=AAAA
 ||camfrog.com^$dnstype=AAAA
@@ -7818,7 +7821,9 @@
 ||cepacol.com^$dnstype=AAAA
 ||cerdas.com^$dnstype=AAAA
 ||cern.ch^$dnstype=AAAA
+||certificat2.com^$dnstype=AAAA
 ||certificate-transparency.org^$dnstype=AAAA
+||certinomis.com^$dnstype=AAAA
 ||cervetoria.pt^$dnstype=AAAA
 ||cetsedu.org^$dnstype=AAAA
 ||cevin.me^$dnstype=AAAA
@@ -8640,7 +8645,6 @@
 ||com.ec^$dnstype=AAAA
 ||com.ee^$dnstype=AAAA
 ||com.eg^$dnstype=AAAA
-||com.es^$dnstype=AAAA
 ||com.et^$dnstype=AAAA
 ||com.fj^$dnstype=AAAA
 ||com.gh^$dnstype=AAAA
@@ -8651,16 +8655,12 @@
 ||com.im^$dnstype=AAAA
 ||com.iq^$dnstype=AAAA
 ||com.jm^$dnstype=AAAA
-||com.kh^$dnstype=AAAA
-||com.kw^$dnstype=AAAA
 ||com.lb^$dnstype=AAAA
 ||com.lc^$dnstype=AAAA
 ||com.lv^$dnstype=AAAA
 ||com.ly^$dnstype=AAAA
-||com.mm^$dnstype=AAAA
 ||com.ms^$dnstype=AAAA
 ||com.mt^$dnstype=AAAA
-||com.mx^$dnstype=AAAA
 ||com.na^$dnstype=AAAA
 ||com.nf^$dnstype=AAAA
 ||com.ng^$dnstype=AAAA
@@ -8669,12 +8669,10 @@
 ||com.om^$dnstype=AAAA
 ||com.pa^$dnstype=AAAA
 ||com.pg^$dnstype=AAAA
-||com.pk^$dnstype=AAAA
 ||com.pl^$dnstype=AAAA
 ||com.pr^$dnstype=AAAA
 ||com.pt^$dnstype=AAAA
 ||com.py^$dnstype=AAAA
-||com.qa^$dnstype=AAAA
 ||com.ru^$dnstype=AAAA
 ||com.sa^$dnstype=AAAA
 ||com.sb^$dnstype=AAAA
@@ -8687,7 +8685,7 @@
 ||com.uy^$dnstype=AAAA
 ||com.vc^$dnstype=AAAA
 ||com.ve^$dnstype=AAAA
-||com.vn^$dnstype=AAAA
+||com.ws^$dnstype=AAAA
 ||comdns.xyz^$dnstype=AAAA
 ||comdotgame.com^$dnstype=AAAA
 ||comedycentral.com^$dnstype=AAAA
@@ -9253,6 +9251,7 @@
 ||czwcm.net^$dnstype=AAAA
 ||czxujiwq.com^$dnstype=AAAA
 ||d-fukyu.com^$dnstype=AAAA
+||d-trust.net^$dnstype=AAAA
 ||d-upp.com^$dnstype=AAAA
 ||d000000.com^$dnstype=AAAA
 ||d0z.net^$dnstype=AAAA
@@ -10606,6 +10605,7 @@
 ||e-hentaidb.com^$dnstype=AAAA
 ||e-m-a-i-l.org^$dnstype=AAAA
 ||e-traderland.net^$dnstype=AAAA
+||e-tugra.com^$dnstype=AAAA
 ||e123.hk^$dnstype=AAAA
 ||e1fun.com^$dnstype=AAAA
 ||e2646.com^$dnstype=AAAA
@@ -11928,6 +11928,7 @@
 ||falunthai.org^$dnstype=AAAA
 ||falunworld.net^$dnstype=AAAA
 ||fameregistry.com^$dnstype=AAAA
+||families.google^$dnstype=AAAA
 ||family-sex.me^$dnstype=AAAA
 ||familyfed.org^$dnstype=AAAA
 ||familyhealth.xyz^$dnstype=AAAA
@@ -12403,6 +12404,7 @@
 ||firetweet.io^$dnstype=AAAA
 ||firevpn.net^$dnstype=AAAA
 ||firigames.com^$dnstype=AAAA
+||firmaprofesional.com^$dnstype=AAAA
 ||firstam.com^$dnstype=AAAA
 ||firstanalquest.com^$dnstype=AAAA
 ||firstasianpussy.com^$dnstype=AAAA
@@ -13483,6 +13485,7 @@
 ||gamousa.com^$dnstype=AAAA
 ||ganbe.jp^$dnstype=AAAA
 ||gandhidham.com^$dnstype=AAAA
+||gandi.net^$dnstype=AAAA
 ||ganetstudio.com^$dnstype=AAAA
 ||ganges.com^$dnstype=AAAA
 ||ganjingworld.com^$dnstype=AAAA
@@ -16488,6 +16491,7 @@
 ||incloak.com^$dnstype=AAAA
 ||incloak.es^$dnstype=AAAA
 ||inclusivegrowthscore.com^$dnstype=AAAA
+||incommon-rsa.org^$dnstype=AAAA
 ||incotal.cl^$dnstype=AAAA
 ||incredib.link^$dnstype=AAAA
 ||incredibox.fr^$dnstype=AAAA
@@ -16545,6 +16549,8 @@
 ||info-graf.fr^$dnstype=AAAA
 ||info.gf^$dnstype=AAAA
 ||info.tm^$dnstype=AAAA
+||infocert.digital^$dnstype=AAAA
+||infocert.it^$dnstype=AAAA
 ||infodns.xyz^$dnstype=AAAA
 ||infofalungong.net^$dnstype=AAAA
 ||infogo.com^$dnstype=AAAA
@@ -18822,6 +18828,7 @@
 ||letou996.com^$dnstype=AAAA
 ||letou999.net^$dnstype=AAAA
 ||letscorp.net^$dnstype=AAAA
+||letsencrypt.com^$dnstype=AAAA
 ||letsencrypt.org^$dnstype=AAAA
 ||letsfuckme.net^$dnstype=AAAA
 ||letsjerk.cc^$dnstype=AAAA
@@ -19605,6 +19612,7 @@
 ||man993.com^$dnstype=AAAA
 ||managed-pki.ch^$dnstype=AAAA
 ||managedmeetingrooms.com^$dnstype=AAAA
+||managedpki.com^$dnstype=AAAA
 ||manager-magazin.de^$dnstype=AAAA
 ||manarat.com^$dnstype=AAAA
 ||manbetx36.bet^$dnstype=AAAA
@@ -21030,6 +21038,7 @@
 ||myanmarinvestmentsummit.com^$dnstype=AAAA
 ||myanniu.com^$dnstype=AAAA
 ||myappleid.com^$dnstype=AAAA
+||myatos.net^$dnstype=AAAA
 ||myaudiocast.com^$dnstype=AAAA
 ||myav.life^$dnstype=AAAA
 ||myav.tv^$dnstype=AAAA
@@ -21534,6 +21543,7 @@
 ||netsarang.com^$dnstype=AAAA
 ||netsee.co^$dnstype=AAAA
 ||netsneak.com^$dnstype=AAAA
+||netsolssl.com^$dnstype=AAAA
 ||nettoyeur.tk^$dnstype=AAAA
 ||nettyinternet.com^$dnstype=AAAA
 ||netvideogirls.com^$dnstype=AAAA
@@ -22343,6 +22353,7 @@
 ||ocregister.com^$dnstype=AAAA
 ||ocry.com^$dnstype=AAAA
 ||ocsp-certum.com^$dnstype=AAAA
+||ocsp-responder.com^$dnstype=AAAA
 ||octanevpn.com^$dnstype=AAAA
 ||octave-online.net^$dnstype=AAAA
 ||october-review.org^$dnstype=AAAA
@@ -22477,6 +22488,7 @@
 ||omgteens.com^$dnstype=AAAA
 ||omhsstaff.org^$dnstype=AAAA
 ||omni7.jp^$dnstype=AAAA
+||omniroot.com^$dnstype=AAAA
 ||omnitalk.com^$dnstype=AAAA
 ||omnitalk.org^$dnstype=AAAA
 ||omnitek.tv^$dnstype=AAAA
@@ -24574,6 +24586,7 @@
 ||pu9955.com^$dnstype=AAAA
 ||puba.com^$dnstype=AAAA
 ||public-sex-porn.com^$dnstype=AAAA
+||public-trust.com^$dnstype=AAAA
 ||publicaffairsbooks.com^$dnstype=AAAA
 ||publicagent.com^$dnstype=AAAA
 ||publicagentxxx.com^$dnstype=AAAA
@@ -24863,6 +24876,7 @@
 ||quoracdn.net^$dnstype=AAAA
 ||quota.com^$dnstype=AAAA
 ||quotable.com^$dnstype=AAAA
+||quovadisglobal.com^$dnstype=AAAA
 ||quran-radio.com^$dnstype=AAAA
 ||quran.com^$dnstype=AAAA
 ||quran.nu^$dnstype=AAAA
@@ -27858,6 +27872,9 @@
 ||syinji4.xyz^$dnstype=AAAA
 ||syjidh1.xyz^$dnstype=AAAA
 ||sylfoundation.org^$dnstype=AAAA
+||symantec.com^$dnstype=AAAA
+||symcb.com^$dnstype=AAAA
+||symcd.com^$dnstype=AAAA
 ||sympl.tv^$dnstype=AAAA
 ||synaptic.net^$dnstype=AAAA
 ||sync.com^$dnstype=AAAA
@@ -29170,6 +29187,7 @@
 ||trellocdn.com^$dnstype=AAAA
 ||trementina.ml^$dnstype=AAAA
 ||trendhunter.com^$dnstype=AAAA
+||trendmicro.com^$dnstype=AAAA
 ||trendsmap.com^$dnstype=AAAA
 ||trendyporn.com^$dnstype=AAAA
 ||treverix.com^$dnstype=AAAA
@@ -29226,10 +29244,12 @@
 ||trulyergonomic.com^$dnstype=AAAA
 ||trust-provider.com^$dnstype=AAAA
 ||trust.zone^$dnstype=AAAA
+||trustcor.com^$dnstype=AAAA
 ||trustdoc.ch^$dnstype=AAAA
 ||trustedanalytics.com^$dnstype=AAAA
 ||trustedanalytics.net^$dnstype=AAAA
 ||trustedreviews.com^$dnstype=AAAA
+||trustisfps.com^$dnstype=AAAA
 ||trustsign.ch^$dnstype=AAAA
 ||trustwave.com^$dnstype=AAAA
 ||truth-out.org^$dnstype=AAAA
@@ -30728,6 +30748,8 @@
 ||vocus.cc^$dnstype=AAAA
 ||vod.com^$dnstype=AAAA
 ||vod360.net^$dnstype=AAAA
+||vodafone.com^$dnstype=AAAA
+||vodafone.it^$dnstype=AAAA
 ||voiceofnigeria.org^$dnstype=AAAA
 ||voiceplaces.com^$dnstype=AAAA
 ||voicettank.org^$dnstype=AAAA
@@ -31667,6 +31689,9 @@
 ||wisalstudio.com^$dnstype=AAAA
 ||wisdompubs.org^$dnstype=AAAA
 ||wise-research.com^$dnstype=AAAA
+||wisecoin.com^$dnstype=AAAA
+||wiseid.com^$dnstype=AAAA
+||wisekey.com^$dnstype=AAAA
 ||wisevid.com^$dnstype=AAAA
 ||wish.com^$dnstype=AAAA
 ||wistia.com^$dnstype=AAAA
