@@ -17605,6 +17605,7 @@
 ||jiayuan.uk^$dnstype=AAAA
 ||jibemobile.com^$dnstype=AAAA
 ||jica88.com^$dnstype=AAAA
+||jichangtj.com^$dnstype=AAAA
 ||jicloud.site^$dnstype=AAAA
 ||jiduvpn.com^$dnstype=AAAA
 ||jiedaibao10g.com^$dnstype=AAAA
