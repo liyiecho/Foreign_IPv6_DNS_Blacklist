@@ -17158,6 +17158,7 @@
 ||iwancai.com^$dnstype=AAAA
 ||iwank.tv^$dnstype=AAAA
 ||iwant-in.net^$dnstype=AAAA
+||iwantavnow.com^$dnstype=AAAA
 ||iwantclips.com^$dnstype=AAAA
 ||iwantporn.net^$dnstype=AAAA
 ||iwaponline.com^$dnstype=AAAA
@@ -30409,6 +30410,7 @@
 ||video-hned.com^$dnstype=AAAA
 ||video-one.com^$dnstype=AAAA
 ||video-sport.pl^$dnstype=AAAA
+||video01.org^$dnstype=AAAA
 ||videobam.com^$dnstype=AAAA
 ||videobreakdown.com^$dnstype=AAAA
 ||videochampion.com^$dnstype=AAAA
