@@ -6697,6 +6697,7 @@
 ||bostonangelclub.com^$dnstype=AAAA
 ||bostonherald.com^$dnstype=AAAA
 ||bostontibet.org^$dnstype=AAAA
+||boswp.com^$dnstype=AAAA
 ||bot.nu^$dnstype=AAAA
 ||botanwang.com^$dnstype=AAAA
 ||botframework.com^$dnstype=AAAA
@@ -18416,6 +18417,7 @@
 ||kulichan.com^$dnstype=AAAA
 ||kulist.net^$dnstype=AAAA
 ||kum.com^$dnstype=AAAA
+||kumo.com^$dnstype=AAAA
 ||kumparan.com^$dnstype=AAAA
 ||kun.im^$dnstype=AAAA
 ||kundun1069.com^$dnstype=AAAA
@@ -20880,6 +20882,7 @@
 ||msinnovationchallenge.com^$dnstype=AAAA
 ||mskolshuk.com^$dnstype=AAAA
 ||msn.com^$dnstype=AAAA
+||msn.net^$dnstype=AAAA
 ||msnapk.com^$dnstype=AAAA
 ||msnbc.com^$dnstype=AAAA
 ||msnewskids.com^$dnstype=AAAA
@@ -25636,6 +25639,7 @@
 ||s-cute.com^$dnstype=AAAA
 ||s-dragon.org^$dnstype=AAAA
 ||s-microsoft.com^$dnstype=AAAA
+||s-msft.com^$dnstype=AAAA
 ||s-msn.com^$dnstype=AAAA
 ||s-nbcnews.com^$dnstype=AAAA
 ||s-onetag.com^$dnstype=AAAA
