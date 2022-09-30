@@ -3759,6 +3759,7 @@
 ||amazonpay.com^$dnstype=AAAA
 ||amazonprimevideos.com^$dnstype=AAAA
 ||amazonsdi.com^$dnstype=AAAA
+||amazonses.com^$dnstype=AAAA
 ||amazonstudiosguilds.com^$dnstype=AAAA
 ||amazontrust.com^$dnstype=AAAA
 ||amazonvideo.cc^$dnstype=AAAA
