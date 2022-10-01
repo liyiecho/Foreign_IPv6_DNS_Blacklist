@@ -4904,6 +4904,8 @@
 ||aznude.com^$dnstype=AAAA
 ||azproxies.com^$dnstype=AAAA
 ||azubu.tv^$dnstype=AAAA
+||azure-devices-int.net^$dnstype=AAAA
+||azure-devices.net^$dnstype=AAAA
 ||azure-dns.com^$dnstype=AAAA
 ||azure-dns.info^$dnstype=AAAA
 ||azure-dns.net^$dnstype=AAAA
@@ -19618,6 +19620,8 @@
 ||managed-pki.ch^$dnstype=AAAA
 ||managedmeetingrooms.com^$dnstype=AAAA
 ||managedpki.com^$dnstype=AAAA
+||management-azure-devices-int.net^$dnstype=AAAA
+||management-azure-devices.net^$dnstype=AAAA
 ||manager-magazin.de^$dnstype=AAAA
 ||manarat.com^$dnstype=AAAA
 ||manbetx36.bet^$dnstype=AAAA
