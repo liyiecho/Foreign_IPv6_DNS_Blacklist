@@ -11241,6 +11241,7 @@
 ||ero-manga-platinum.net^$dnstype=AAAA
 ||ero-mangalife.com^$dnstype=AAAA
 ||ero-video.net^$dnstype=AAAA
+||eroan.xyz^$dnstype=AAAA
 ||erocool.com^$dnstype=AAAA
 ||erocool.me^$dnstype=AAAA
 ||erocool.net^$dnstype=AAAA
