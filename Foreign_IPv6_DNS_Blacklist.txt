@@ -6650,6 +6650,7 @@
 ||boobsrealm.com^$dnstype=AAAA
 ||boobstagram.com^$dnstype=AAAA
 ||boodigo.com^$dnstype=AAAA
+||boodigogo.com^$dnstype=AAAA
 ||book18.org^$dnstype=AAAA
 ||book4you.org^$dnstype=AAAA
 ||bookbao.com^$dnstype=AAAA
@@ -27751,6 +27752,7 @@
 ||supervigor.com^$dnstype=AAAA
 ||supervpn.net^$dnstype=AAAA
 ||superzooi.com^$dnstype=AAAA
+||supjav.com^$dnstype=AAAA
 ||suppig.net^$dnstype=AAAA
 ||supplybestjerseys.com^$dnstype=AAAA
 ||supplyrussia.com^$dnstype=AAAA
