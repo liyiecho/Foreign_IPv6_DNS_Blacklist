@@ -8653,6 +8653,7 @@
 ||com.et^$dnstype=AAAA
 ||com.fj^$dnstype=AAAA
 ||com.gh^$dnstype=AAAA
+||com.gi^$dnstype=AAAA
 ||com.google^$dnstype=AAAA
 ||com.gr^$dnstype=AAAA
 ||com.gt^$dnstype=AAAA
