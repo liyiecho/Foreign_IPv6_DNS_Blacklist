@@ -4580,6 +4580,7 @@
 ||astrumpeople.com^$dnstype=AAAA
 ||asu.mx^$dnstype=AAAA
 ||asu.su^$dnstype=AAAA
+||asus.com^$dnstype=AAAA
 ||asuscomm.com^$dnstype=AAAA
 ||asxxtv.com^$dnstype=AAAA
 ||at.tw^$dnstype=AAAA
