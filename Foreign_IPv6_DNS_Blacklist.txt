@@ -795,7 +795,6 @@
 ||1pondo.tv^$dnstype=AAAA
 ||1pornlist.com^$dnstype=AAAA
 ||1soccer.com^$dnstype=AAAA
-||1ucrs.com^$dnstype=AAAA
 ||1uyu.cn^$dnstype=AAAA
 ||1vwapi4d.xyz^$dnstype=AAAA
 ||1w1w-id.com^$dnstype=AAAA
@@ -3250,6 +3249,7 @@
 ||adultgamingroom.com^$dnstype=AAAA
 ||adultgeek.net^$dnstype=AAAA
 ||adulti01.com^$dnstype=AAAA
+||adultinfojpn.com^$dnstype=AAAA
 ||adultism.com^$dnstype=AAAA
 ||adultkeep.net^$dnstype=AAAA
 ||adultmagazinespdf.com^$dnstype=AAAA
@@ -4752,6 +4752,7 @@
 ||avbody.tv^$dnstype=AAAA
 ||avbuy.cc^$dnstype=AAAA
 ||avca88.com^$dnstype=AAAA
+||avcar.vip^$dnstype=AAAA
 ||avcens.xyz^$dnstype=AAAA
 ||avcity.tv^$dnstype=AAAA
 ||avcolle.ml^$dnstype=AAAA
@@ -5324,7 +5325,6 @@
 ||bdg987.com^$dnstype=AAAA
 ||bdj55.com^$dnstype=AAAA
 ||bdj98.com^$dnstype=AAAA
-||bdn.dev^$dnstype=AAAA
 ||bdsm.com^$dnstype=AAAA
 ||bdsmboard.org^$dnstype=AAAA
 ||bdsmbunker.com^$dnstype=AAAA
@@ -5927,6 +5927,7 @@
 ||biguz.net^$dnstype=AAAA
 ||biitii.com^$dnstype=AAAA
 ||bijakids.com^$dnstype=AAAA
+||bijukujo.club^$dnstype=AAAA
 ||bikaa.xyz^$dnstype=AAAA
 ||bikac.xyz^$dnstype=AAAA
 ||bikaios.xyz^$dnstype=AAAA
@@ -8177,7 +8178,6 @@
 ||chromercise.com^$dnstype=AAAA
 ||chromes.cn^$dnstype=AAAA
 ||chromestatus.com^$dnstype=AAAA
-||chromium.org^$dnstype=AAAA
 ||chronicle.security^$dnstype=AAAA
 ||chroniclesec.com^$dnstype=AAAA
 ||chrxw.com^$dnstype=AAAA
@@ -8317,6 +8317,7 @@
 ||clarin.com^$dnstype=AAAA
 ||clarionproject.org^$dnstype=AAAA
 ||clarivate.com^$dnstype=AAAA
+||clasporno.org^$dnstype=AAAA
 ||classicalguitarblog.net^$dnstype=AAAA
 ||classicnike.com^$dnstype=AAAA
 ||classymomsex.com^$dnstype=AAAA
@@ -8695,6 +8696,7 @@
 ||com.ws^$dnstype=AAAA
 ||comdns.xyz^$dnstype=AAAA
 ||comdotgame.com^$dnstype=AAAA
+||comeav.com^$dnstype=AAAA
 ||comedycentral.com^$dnstype=AAAA
 ||comefreeloaders.com^$dnstype=AAAA
 ||comefromchina.com^$dnstype=AAAA
@@ -9777,6 +9779,7 @@
 ||dfn.org^$dnstype=AAAA
 ||dfnba.com^$dnstype=AAAA
 ||dfpt88.com^$dnstype=AAAA
+||dgaqp.com^$dnstype=AAAA
 ||dgg.gg^$dnstype=AAAA
 ||dgreencommunications.com^$dnstype=AAAA
 ||dgwav.com^$dnstype=AAAA
@@ -11241,6 +11244,7 @@
 ||ero-kawa.com^$dnstype=AAAA
 ||ero-labs.com^$dnstype=AAAA
 ||ero-labs.net^$dnstype=AAAA
+||ero-ma-nia.com^$dnstype=AAAA
 ||ero-manga-platinum.net^$dnstype=AAAA
 ||ero-mangalife.com^$dnstype=AAAA
 ||ero-video.net^$dnstype=AAAA
@@ -11415,6 +11419,7 @@
 ||europrojekti.eu^$dnstype=AAAA
 ||europroxy.eu^$dnstype=AAAA
 ||eurorgb.com^$dnstype=AAAA
+||eurosexscene.com^$dnstype=AAAA
 ||evaelfie.com^$dnstype=AAAA
 ||evangelion.hk^$dnstype=AAAA
 ||evanotty.com^$dnstype=AAAA
@@ -12000,6 +12005,7 @@
 ||fanwall.org^$dnstype=AAAA
 ||fanyue.info^$dnstype=AAAA
 ||fap-xxx.com^$dnstype=AAAA
+||fap18.net^$dnstype=AAAA
 ||fap666.com^$dnstype=AAAA
 ||fap69.com^$dnstype=AAAA
 ||fapality.com^$dnstype=AAAA
@@ -17318,6 +17324,7 @@
 ||jav-vr.net^$dnstype=AAAA
 ||jav.com^$dnstype=AAAA
 ||jav.dog^$dnstype=AAAA
+||jav.gallery^$dnstype=AAAA
 ||jav.guru^$dnstype=AAAA
 ||jav.land^$dnstype=AAAA
 ||jav.place^$dnstype=AAAA
@@ -17328,14 +17335,17 @@
 ||jav18.cc^$dnstype=AAAA
 ||jav18.xyz^$dnstype=AAAA
 ||jav19.com^$dnstype=AAAA
+||jav24.com^$dnstype=AAAA
 ||jav247.net^$dnstype=AAAA
 ||jav28.com^$dnstype=AAAA
 ||jav2be.com^$dnstype=AAAA
 ||jav321.com^$dnstype=AAAA
+||jav4you.org^$dnstype=AAAA
 ||jav68.me^$dnstype=AAAA
 ||jav68.tv^$dnstype=AAAA
 ||jav777.cc^$dnstype=AAAA
 ||jav777.xyz^$dnstype=AAAA
+||jav9999.com^$dnstype=AAAA
 ||java.com^$dnstype=AAAA
 ||java.net^$dnstype=AAAA
 ||java9countdown.xyz^$dnstype=AAAA
@@ -17360,6 +17370,7 @@
 ||javcc.cc^$dnstype=AAAA
 ||javcc.com^$dnstype=AAAA
 ||javcdn.cc^$dnstype=AAAA
+||javcl.com^$dnstype=AAAA
 ||javcloud.com^$dnstype=AAAA
 ||javcn.net^$dnstype=AAAA
 ||javconnect.com^$dnstype=AAAA
@@ -17441,6 +17452,7 @@
 ||javporn.tech^$dnstype=AAAA
 ||javporn.ws^$dnstype=AAAA
 ||javprice.com^$dnstype=AAAA
+||javprime.net^$dnstype=AAAA
 ||javpub.me^$dnstype=AAAA
 ||javpush.com^$dnstype=AAAA
 ||javqd.com^$dnstype=AAAA
@@ -17805,6 +17817,7 @@
 ||jp-sex.com^$dnstype=AAAA
 ||jp.net^$dnstype=AAAA
 ||jp1lib.org^$dnstype=AAAA
+||jpavcom.com^$dnstype=AAAA
 ||jpboy1069.net^$dnstype=AAAA
 ||jpg4.biz^$dnstype=AAAA
 ||jpg4.info^$dnstype=AAAA
@@ -18737,6 +18750,7 @@
 ||lejdd.fr^$dnstype=AAAA
 ||lejsq.net^$dnstype=AAAA
 ||lematin.ch^$dnstype=AAAA
+||lemoncams.com^$dnstype=AAAA
 ||lemonde.fr^$dnstype=AAAA
 ||lemonparty.com^$dnstype=AAAA
 ||lenarcissique.com^$dnstype=AAAA
@@ -18839,6 +18853,7 @@
 ||letou996.com^$dnstype=AAAA
 ||letou999.net^$dnstype=AAAA
 ||letscorp.net^$dnstype=AAAA
+||letsdoeit.com^$dnstype=AAAA
 ||letsencrypt.com^$dnstype=AAAA
 ||letsencrypt.org^$dnstype=AAAA
 ||letsfuckme.net^$dnstype=AAAA
@@ -19416,6 +19431,7 @@
 ||lxixsxa.com^$dnstype=AAAA
 ||lxofoxl.com^$dnstype=AAAA
 ||lxty8.com^$dnstype=AAAA
+||lxxlxx.com^$dnstype=AAAA
 ||ly.rs^$dnstype=AAAA
 ||lyc111.com^$dnstype=AAAA
 ||lydcwl.cn^$dnstype=AAAA
@@ -20781,6 +20797,7 @@
 ||moviesneek.com^$dnstype=AAAA
 ||mowrygrimson.com^$dnstype=AAAA
 ||moxing.mobi^$dnstype=AAAA
+||moxing.news^$dnstype=AAAA
 ||moyu4.com^$dnstype=AAAA
 ||moyuv5.com^$dnstype=AAAA
 ||moyuvpn.net^$dnstype=AAAA
@@ -21060,6 +21077,7 @@
 ||myavfun.com^$dnstype=AAAA
 ||myavok.com^$dnstype=AAAA
 ||myavsuper.com^$dnstype=AAAA
+||mybabehotz.com^$dnstype=AAAA
 ||myball369.com^$dnstype=AAAA
 ||myball7.com^$dnstype=AAAA
 ||mybbs.us^$dnstype=AAAA
@@ -23963,6 +23981,7 @@
 ||pornerbros.com^$dnstype=AAAA
 ||pornexpress.net^$dnstype=AAAA
 ||pornfacebook.com^$dnstype=AAAA
+||pornfactory.info^$dnstype=AAAA
 ||pornfidelity.com^$dnstype=AAAA
 ||pornfind.org^$dnstype=AAAA
 ||pornfinder.biz^$dnstype=AAAA
@@ -24753,6 +24772,7 @@
 ||qieyz.com^$dnstype=AAAA
 ||qikdesign.com^$dnstype=AAAA
 ||qile789.com^$dnstype=AAAA
+||qinav.com^$dnstype=AAAA
 ||qingdao888.com^$dnstype=AAAA
 ||qingpeng.org^$dnstype=AAAA
 ||qingse.one^$dnstype=AAAA
@@ -25893,6 +25913,7 @@
 ||scanbc.com^$dnstype=AAAA
 ||scandalplanet.com^$dnstype=AAAA
 ||scasino.com^$dnstype=AAAA
+||scat-enema.com^$dnstype=AAAA
 ||scat-japan.com^$dnstype=AAAA
 ||scat-shop.net^$dnstype=AAAA
 ||scatfap.com^$dnstype=AAAA
@@ -25900,6 +25921,7 @@
 ||scathd.com^$dnstype=AAAA
 ||scatkings.com^$dnstype=AAAA
 ||scatnetwork.com^$dnstype=AAAA
+||scatolo-guromania.com^$dnstype=AAAA
 ||scatshop.com^$dnstype=AAAA
 ||scatsite.com^$dnstype=AAAA
 ||scatvids.club^$dnstype=AAAA
@@ -28032,6 +28054,7 @@
 ||tandberg.com^$dnstype=AAAA
 ||tandfonline.com^$dnstype=AAAA
 ||tandtfamily.org^$dnstype=AAAA
+||tanflix.com^$dnstype=AAAA
 ||tangalan.ga^$dnstype=AAAA
 ||tangben.com^$dnstype=AAAA
 ||tangbr.net^$dnstype=AAAA
@@ -30292,6 +30315,7 @@
 ||vcup365.com^$dnstype=AAAA
 ||vcupbox.net^$dnstype=AAAA
 ||vcupmars.com^$dnstype=AAAA
+||vdoav.com^$dnstype=AAAA
 ||vector.im^$dnstype=AAAA
 ||vedaadvantage.com^$dnstype=AAAA
 ||veepn.com^$dnstype=AAAA
@@ -31571,7 +31595,6 @@
 ||wicked.com^$dnstype=AAAA
 ||wickedin.it^$dnstype=AAAA
 ||wickedpictures.com^$dnstype=AAAA
-||widevine.com^$dnstype=AAAA
 ||widex.com^$dnstype=AAAA
 ||widih.com^$dnstype=AAAA
 ||wifemovies.net^$dnstype=AAAA
@@ -32507,12 +32530,10 @@
 ||xn--80aaazx1an0a.lol^$dnstype=AAAA
 ||xn--90wwvt03e.com^$dnstype=AAAA
 ||xn--9pr62r24a.com^$dnstype=AAAA
-||xn--9trs65b.com^$dnstype=AAAA
 ||xn--cck4d8b3009a.com^$dnstype=AAAA
 ||xn--czq75pvv1aj5c.org^$dnstype=AAAA
 ||xn--d4ty0ojsqzfd.com^$dnstype=AAAA
 ||xn--fiq681d48s.org^$dnstype=AAAA
-||xn--ggle-55da.com^$dnstype=AAAA
 ||xn--gmq92kd2rm1kx34a.com^$dnstype=AAAA
 ||xn--gogl-0nd52e.com^$dnstype=AAAA
 ||xn--gogl-1nd42e.com^$dnstype=AAAA
@@ -32526,7 +32547,6 @@
 ||xn--mgbtd2a1dpq.my^$dnstype=AAAA
 ||xn--mts47c3w9b1qr.net^$dnstype=AAAA
 ||xn--mtswd61ejxq.com^$dnstype=AAAA
-||xn--ngstr-lra8j.com^$dnstype=AAAA
 ||xn--noss43i.com^$dnstype=AAAA
 ||xn--octt84bmki.com^$dnstype=AAAA
 ||xn--oiq.cc^$dnstype=AAAA
@@ -32842,6 +32862,7 @@
 ||xxxvidso.com^$dnstype=AAAA
 ||xxxvirtualworld.com^$dnstype=AAAA
 ||xxxvogue.net^$dnstype=AAAA
+||xxxwow.net^$dnstype=AAAA
 ||xxxxvideo.uno^$dnstype=AAAA
 ||xxxy.biz^$dnstype=AAAA
 ||xxxy.info^$dnstype=AAAA
@@ -33304,7 +33325,6 @@
 ||youtube.tv^$dnstype=AAAA
 ||youtubecisco.com^$dnstype=AAAA
 ||youtubecn.com^$dnstype=AAAA
-||youtubeeducation.com^$dnstype=AAAA
 ||youtubefanfest.com^$dnstype=AAAA
 ||youtubefreeproxy.com^$dnstype=AAAA
 ||youtubegaming.com^$dnstype=AAAA
@@ -33355,7 +33375,6 @@
 ||yt1s.com^$dnstype=AAAA
 ||ytchannelembed.com^$dnstype=AAAA
 ||ytht.net^$dnstype=AAAA
-||ytimg.com^$dnstype=AAAA
 ||ytixtv.site^$dnstype=AAAA
 ||ytlinks.ml^$dnstype=AAAA
 ||ytmp3.cc^$dnstype=AAAA
