@@ -9828,6 +9828,7 @@
 ||digi-ateljee.be^$dnstype=AAAA
 ||digibet.com^$dnstype=AAAA
 ||digicert-cn.com^$dnstype=AAAA
+||digicert-validation.com^$dnstype=AAAA
 ||digicert.com^$dnstype=AAAA
 ||digifinex.com^$dnstype=AAAA
 ||digiket.com^$dnstype=AAAA
@@ -14735,6 +14736,7 @@
 ||haoli797.com^$dnstype=AAAA
 ||haori888.com^$dnstype=AAAA
 ||haoshichina.com^$dnstype=AAAA
+||haplorrhini.com^$dnstype=AAAA
 ||happy-porn.com^$dnstype=AAAA
 ||happy-science.jp^$dnstype=AAAA
 ||happy-vpn.com^$dnstype=AAAA
