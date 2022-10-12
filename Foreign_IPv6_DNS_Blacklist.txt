@@ -16940,6 +16940,7 @@
 ||iptvbin.com^$dnstype=AAAA
 ||ipvanish.com^$dnstype=AAAA
 ||ipvm.com^$dnstype=AAAA
+||iq.com^$dnstype=AAAA
 ||iqlink1.us^$dnstype=AAAA
 ||iqlinkus.com^$dnstype=AAAA
 ||iqlinkus.net^$dnstype=AAAA
@@ -29500,6 +29501,7 @@
 ||turnnewsapp.com^$dnstype=AAAA
 ||turntable.fm^$dnstype=AAAA
 ||tusfiles.net^$dnstype=AAAA
+||tushy.com^$dnstype=AAAA
 ||tushycash.com^$dnstype=AAAA
 ||tusi8.com^$dnstype=AAAA
 ||tuta.io^$dnstype=AAAA
