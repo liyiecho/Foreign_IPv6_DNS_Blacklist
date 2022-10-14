@@ -2582,7 +2582,6 @@
 ||91porny.com^$dnstype=AAAA
 ||91px.cc^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
-||91rb.net^$dnstype=AAAA
 ||91se.fun^$dnstype=AAAA
 ||91sesex.xyz^$dnstype=AAAA
 ||91stw.net^$dnstype=AAAA
