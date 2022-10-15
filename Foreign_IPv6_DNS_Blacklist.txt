@@ -5068,6 +5068,7 @@
 ||badsexygirl.com^$dnstype=AAAA
 ||badteenspunished.com^$dnstype=AAAA
 ||badvirtue.com^$dnstype=AAAA
+||baeb.com^$dnstype=AAAA
 ||bag-glasses1.com^$dnstype=AAAA
 ||bagbackpack.com^$dnstype=AAAA
 ||bai-she.com^$dnstype=AAAA
@@ -11524,6 +11525,7 @@
 ||extreme-fetish.org^$dnstype=AAAA
 ||extremepornfilms.com^$dnstype=AAAA
 ||extremetube.com^$dnstype=AAAA
+||exxxtrasmall.com^$dnstype=AAAA
 ||exxxtrasmall1.com^$dnstype=AAAA
 ||exxxtv.com^$dnstype=AAAA
 ||eye.rs^$dnstype=AAAA
@@ -17490,6 +17492,7 @@
 ||jaycybird.com^$dnstype=AAAA
 ||jayrusso.com^$dnstype=AAAA
 ||jaysinsbuttblog.com^$dnstype=AAAA
+||jayspov.net^$dnstype=AAAA
 ||jb195.com^$dnstype=AAAA
 ||jb25522.com^$dnstype=AAAA
 ||jb288.com^$dnstype=AAAA
@@ -17809,6 +17812,7 @@
 ||jove.com^$dnstype=AAAA
 ||joyandkin.hk^$dnstype=AAAA
 ||joyclub.de^$dnstype=AAAA
+||joyhentai.com^$dnstype=AAAA
 ||joylovedolls.com^$dnstype=AAAA
 ||joymii.com^$dnstype=AAAA
 ||joymiihub.com^$dnstype=AAAA
@@ -18240,6 +18244,7 @@
 ||kinkbook.com^$dnstype=AAAA
 ||kinkcult.com^$dnstype=AAAA
 ||kinklive.com^$dnstype=AAAA
+||kinkyfamily.com^$dnstype=AAAA
 ||kinmen.travel^$dnstype=AAAA
 ||kinokuniya.com^$dnstype=AAAA
 ||kipferinformatik.ch^$dnstype=AAAA
@@ -18815,6 +18820,8 @@
 ||letelegramme.com^$dnstype=AAAA
 ||letelegramme.fr^$dnstype=AAAA
 ||letemps.ch^$dnstype=AAAA
+||lethalhardcore.com^$dnstype=AAAA
+||lethalhardcorevr.com^$dnstype=AAAA
 ||lethean.io^$dnstype=AAAA
 ||letitia.com^$dnstype=AAAA
 ||letmejerk.com^$dnstype=AAAA
@@ -24144,6 +24151,7 @@
 ||pornplays.com^$dnstype=AAAA
 ||pornpotato.com^$dnstype=AAAA
 ||pornpranks.com^$dnstype=AAAA
+||pornpros.com^$dnstype=AAAA
 ||pornprosnetwork.com^$dnstype=AAAA
 ||pornproxy.app^$dnstype=AAAA
 ||pornpussy.com^$dnstype=AAAA
@@ -27142,6 +27150,7 @@
 ||spankbang.name^$dnstype=AAAA
 ||spankbang1.com^$dnstype=AAAA
 ||spankingtube.com^$dnstype=AAAA
+||spankmonster.com^$dnstype=AAAA
 ||spankred3d.com^$dnstype=AAAA
 ||spankwire.com^$dnstype=AAAA
 ||sparklabs.com^$dnstype=AAAA
