@@ -6740,6 +6740,8 @@
 ||boylabs.net^$dnstype=AAAA
 ||boylove.cc^$dnstype=AAAA
 ||boylove.com^$dnstype=AAAA
+||boylove.live^$dnstype=AAAA
+||boylove1.cc^$dnstype=AAAA
 ||boyloves.cc^$dnstype=AAAA
 ||boypost.com^$dnstype=AAAA
 ||boysfood.com^$dnstype=AAAA
@@ -7276,6 +7278,7 @@
 ||c3j.fun^$dnstype=AAAA
 ||c4288.com^$dnstype=AAAA
 ||c4rex.co^$dnstype=AAAA
+||c4slive.com^$dnstype=AAAA
 ||c4story.com^$dnstype=AAAA
 ||c5007.com^$dnstype=AAAA
 ||c6396.com^$dnstype=AAAA
@@ -11137,6 +11140,7 @@
 ||endlessmatches.com^$dnstype=AAAA
 ||endlessmovie.com^$dnstype=AAAA
 ||endorganpillaging.org^$dnstype=AAAA
+||enemarotica.com^$dnstype=AAAA
 ||enemyterritory.org^$dnstype=AAAA
 ||energyml.org^$dnstype=AAAA
 ||enewstree.com^$dnstype=AAAA
@@ -15657,6 +15661,9 @@
 ||hotsexydolls.com^$dnstype=AAAA
 ||hotshame.com^$dnstype=AAAA
 ||hotspotshield.com^$dnstype=AAAA
+||hotstar-cdn.net^$dnstype=AAAA
+||hotstar.com^$dnstype=AAAA
+||hotstarext.com^$dnstype=AAAA
 ||hotstunners.com^$dnstype=AAAA
 ||hotteenfreecam.com^$dnstype=AAAA
 ||hottestfilms.com^$dnstype=AAAA
@@ -16351,8 +16358,20 @@
 ||ijavhd.com^$dnstype=AAAA
 ||ijays.com^$dnstype=AAAA
 ||ijobio.com^$dnstype=AAAA
+||ikea.be^$dnstype=AAAA
+||ikea.ch^$dnstype=AAAA
 ||ikea.com^$dnstype=AAAA
+||ikea.do^$dnstype=AAAA
+||ikea.ee^$dnstype=AAAA
+||ikea.hr^$dnstype=AAAA
+||ikea.is^$dnstype=AAAA
+||ikea.it^$dnstype=AAAA
+||ikea.lv^$dnstype=AAAA
 ||ikea.net^$dnstype=AAAA
+||ikea.pr^$dnstype=AAAA
+||ikea.pt^$dnstype=AAAA
+||ikea.qa^$dnstype=AAAA
+||ikea.rs^$dnstype=AAAA
 ||ikidol.com^$dnstype=AAAA
 ||ikids.com^$dnstype=AAAA
 ||iknowthatgirl.com^$dnstype=AAAA
@@ -17750,6 +17769,7 @@
 ||jmcomic1.city^$dnstype=AAAA
 ||jmcomic1.me^$dnstype=AAAA
 ||jmcomic1.mobi^$dnstype=AAAA
+||jmcomic2.moe^$dnstype=AAAA
 ||jmlr.org^$dnstype=AAAA
 ||jmscult.com^$dnstype=AAAA
 ||jmvbt.com^$dnstype=AAAA
@@ -20938,6 +20958,7 @@
 ||mswe1.org^$dnstype=AAAA
 ||mt-ssul1.com^$dnstype=AAAA
 ||mtanos.com^$dnstype=AAAA
+||mtao.fun^$dnstype=AAAA
 ||mtco.com^$dnstype=AAAA
 ||mth02.com^$dnstype=AAAA
 ||mthruf.com^$dnstype=AAAA
@@ -21046,6 +21067,7 @@
 ||mxvpn.cn^$dnstype=AAAA
 ||mxvpn.com^$dnstype=AAAA
 ||my-addr.org^$dnstype=AAAA
+||my-enema.com^$dnstype=AAAA
 ||my-expat-network.com^$dnstype=AAAA
 ||my-formosa.com^$dnstype=AAAA
 ||my-free-mp3s.com^$dnstype=AAAA
@@ -21180,6 +21202,7 @@
 ||myfw.us^$dnstype=AAAA
 ||myfxcm.com^$dnstype=AAAA
 ||mygalgame.com^$dnstype=AAAA
+||mygaysites.com^$dnstype=AAAA
 ||mygod.tk^$dnstype=AAAA
 ||myhas.gq^$dnstype=AAAA
 ||myhd1080.com^$dnstype=AAAA
@@ -27535,6 +27558,7 @@
 ||stockintl.ca^$dnstype=AAAA
 ||stockton.edu^$dnstype=AAAA
 ||stoican.eu^$dnstype=AAAA
+||stonefoxproductions.com^$dnstype=AAAA
 ||stoneoption.com^$dnstype=AAAA
 ||stonesriver.org^$dnstype=AAAA
 ||stood.pw^$dnstype=AAAA
@@ -30482,6 +30506,7 @@
 ||videopediaworld.com^$dnstype=AAAA
 ||videopress.com^$dnstype=AAAA
 ||videos.com^$dnstype=AAAA
+||videos4sale.com^$dnstype=AAAA
 ||videos6.com^$dnstype=AAAA
 ||videosamadoresreais.com^$dnstype=AAAA
 ||videosdemadurasx.com^$dnstype=AAAA
@@ -32763,6 +32788,7 @@
 ||xxbay.com^$dnstype=AAAA
 ||xxbb9.com^$dnstype=AAAA
 ||xxbbx.com^$dnstype=AAAA
+||xxbook.cc^$dnstype=AAAA
 ||xxbrits.com^$dnstype=AAAA
 ||xxeronetxx.info^$dnstype=AAAA
 ||xxfoxh.com^$dnstype=AAAA
