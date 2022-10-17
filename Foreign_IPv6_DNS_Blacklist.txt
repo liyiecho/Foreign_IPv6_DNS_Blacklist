@@ -8396,6 +8396,7 @@
 ||cloudflareclient.com^$dnstype=AAAA
 ||cloudflareinsights.com^$dnstype=AAAA
 ||cloudflareok.com^$dnstype=AAAA
+||cloudflarepreview.com^$dnstype=AAAA
 ||cloudflareresolve.com^$dnstype=AAAA
 ||cloudflaressl.com^$dnstype=AAAA
 ||cloudflarestatus.com^$dnstype=AAAA
