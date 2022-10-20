@@ -27848,6 +27848,7 @@
 ||svc.ms^$dnstype=AAAA
 ||svdpmonroe.org^$dnstype=AAAA
 ||sverigebeatsbydrdre.com^$dnstype=AAAA
+||svipshipin.store^$dnstype=AAAA
 ||svita.cz^$dnstype=AAAA
 ||svmblocker.com^$dnstype=AAAA
 ||svoboda.org^$dnstype=AAAA
