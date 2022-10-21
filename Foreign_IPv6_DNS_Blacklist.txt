@@ -22105,6 +22105,7 @@
 ||nord-me.com^$dnstype=AAAA
 ||nord-mirror-site.net^$dnstype=AAAA
 ||nord4china.com^$dnstype=AAAA
+||nordcdn.com^$dnstype=AAAA
 ||nordfx-chinese.com^$dnstype=AAAA
 ||nordstrom.com^$dnstype=AAAA
 ||nordstromimage.com^$dnstype=AAAA
