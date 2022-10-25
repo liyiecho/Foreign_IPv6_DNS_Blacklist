@@ -4717,6 +4717,7 @@
 ||av-ok.com^$dnstype=AAAA
 ||av-test.org^$dnstype=AAAA
 ||av-th.net^$dnstype=AAAA
+||av-top.com^$dnstype=AAAA
 ||av-wiki.net^$dnstype=AAAA
 ||av.com^$dnstype=AAAA
 ||av.movie^$dnstype=AAAA
