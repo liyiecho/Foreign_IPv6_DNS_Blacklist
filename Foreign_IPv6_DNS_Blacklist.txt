@@ -19125,6 +19125,7 @@
 ||liuruiyi.com^$dnstype=AAAA
 ||liuxiaobo.net^$dnstype=AAAA
 ||liuzheyuan.com^$dnstype=AAAA
+||live-video.net^$dnstype=AAAA
 ||live.net^$dnstype=AAAA
 ||live012.com^$dnstype=AAAA
 ||live173.com^$dnstype=AAAA
@@ -22492,6 +22493,7 @@
 ||ohssr.me^$dnstype=AAAA
 ||ohyeah1080.com^$dnstype=AAAA
 ||oiktv.com^$dnstype=AAAA
+||oiobbs.com^$dnstype=AAAA
 ||oizoblog.com^$dnstype=AAAA
 ||ojbkss.win^$dnstype=AAAA
 ||ok.ru^$dnstype=AAAA
