@@ -3534,6 +3534,7 @@
 ||aklist.xyz^$dnstype=AAAA
 ||akow.org^$dnstype=AAAA
 ||akriluss.cl^$dnstype=AAAA
+||akstat.io^$dnstype=AAAA
 ||aktifhaber.com^$dnstype=AAAA
 ||akusa.org^$dnstype=AAAA
 ||akustica.cl^$dnstype=AAAA
@@ -4875,6 +4876,7 @@
 ||awssecworkshops.com^$dnstype=AAAA
 ||awsstatic.com^$dnstype=AAAA
 ||awsthinkbox.com^$dnstype=AAAA
+||awstrack.me^$dnstype=AAAA
 ||awstrust.com^$dnstype=AAAA
 ||ax.lt^$dnstype=AAAA
 ||ax1x.com^$dnstype=AAAA
@@ -14057,6 +14059,7 @@
 ||go-lang.com^$dnstype=AAAA
 ||go-lang.net^$dnstype=AAAA
 ||go-lang.org^$dnstype=AAAA
+||go-mpulse.net^$dnstype=AAAA
 ||go-pki.com^$dnstype=AAAA
 ||go.com^$dnstype=AAAA
 ||go.dev^$dnstype=AAAA
@@ -28232,6 +28235,7 @@
 ||techcoke.com^$dnstype=AAAA
 ||techglue.me^$dnstype=AAAA
 ||techhub.ms^$dnstype=AAAA
+||techlab-cdn.com^$dnstype=AAAA
 ||techliquidators.com^$dnstype=AAAA
 ||technics.com^$dnstype=AAAA
 ||technik-specials.de^$dnstype=AAAA
