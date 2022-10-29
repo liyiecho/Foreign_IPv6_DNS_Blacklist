@@ -3035,6 +3035,7 @@
 ||ac1124.com^$dnstype=AAAA
 ||ac1125.com^$dnstype=AAAA
 ||academynetriders.com^$dnstype=AAAA
+||acast.com^$dnstype=AAAA
 ||acca.com^$dnstype=AAAA
 ||accbusiness.com^$dnstype=AAAA
 ||acces-vod.com^$dnstype=AAAA
@@ -3073,6 +3074,11 @@
 ||acgbox.org^$dnstype=AAAA
 ||acgbuster.moe^$dnstype=AAAA
 ||acgbuster.net^$dnstype=AAAA
+||acgcf.com^$dnstype=AAAA
+||acgdg.com^$dnstype=AAAA
+||acgdv.com^$dnstype=AAAA
+||acgfabu.com^$dnstype=AAAA
+||acgfbw.com^$dnstype=AAAA
 ||acgfor.com^$dnstype=AAAA
 ||acgft.com^$dnstype=AAAA
 ||acgft.net^$dnstype=AAAA
@@ -3084,6 +3090,8 @@
 ||acgnx.se^$dnstype=AAAA
 ||acgpy.com^$dnstype=AAAA
 ||acgpy.net^$dnstype=AAAA
+||acgvipss.com^$dnstype=AAAA
+||acgwr.com^$dnstype=AAAA
 ||acgww.cyou^$dnstype=AAAA
 ||achat-followers-instagram.com^$dnstype=AAAA
 ||acheter-followers-instagram.com^$dnstype=AAAA
@@ -3436,6 +3444,7 @@
 ||aish.org^$dnstype=AAAA
 ||aishatv.tk^$dnstype=AAAA
 ||aishedes.com^$dnstype=AAAA
+||aishegw.com^$dnstype=AAAA
 ||aisqj.com^$dnstype=AAAA
 ||aiuu2.com^$dnstype=AAAA
 ||aiuu2.org^$dnstype=AAAA
@@ -11599,6 +11608,7 @@
 ||fabhairypussy.com^$dnstype=AAAA
 ||fabric.io^$dnstype=AAAA
 ||fabsk.eu^$dnstype=AAAA
+||fabuyemian.com^$dnstype=AAAA
 ||facbebook.com^$dnstype=AAAA
 ||facbeok.com^$dnstype=AAAA
 ||facboo.com^$dnstype=AAAA
@@ -16402,8 +16412,10 @@
 ||illusionn3.com^$dnstype=AAAA
 ||illusionn4.com^$dnstype=AAAA
 ||illusionn5.com^$dnstype=AAAA
+||illusionxz.com^$dnstype=AAAA
 ||illusiony.com^$dnstype=AAAA
 ||illusionze.com^$dnstype=AAAA
+||illusnoi.com^$dnstype=AAAA
 ||ilmortodelmese.com^$dnstype=AAAA
 ||iloli.ml^$dnstype=AAAA
 ||ilongman.com^$dnstype=AAAA
@@ -17048,10 +17060,12 @@
 ||isentek.com^$dnstype=AAAA
 ||iseoz.com^$dnstype=AAAA
 ||isfocus.net^$dnstype=AAAA
+||isgame365.cc^$dnstype=AAAA
 ||isgreat.org^$dnstype=AAAA
 ||ishadowsocks.biz^$dnstype=AAAA
 ||ishadowx.com^$dnstype=AAAA
 ||ishadowx.net^$dnstype=AAAA
+||isheppc.com^$dnstype=AAAA
 ||ishopindia.com^$dnstype=AAAA
 ||ishr.ch^$dnstype=AAAA
 ||ishr.org^$dnstype=AAAA
@@ -19184,6 +19198,7 @@
 ||ll757.net^$dnstype=AAAA
 ||llbn.tv^$dnstype=AAAA
 ||lldns.net^$dnstype=AAAA
+||lliusno.com^$dnstype=AAAA
 ||lll773.net^$dnstype=AAAA
 ||lll836.net^$dnstype=AAAA
 ||llnw-trials.com^$dnstype=AAAA
@@ -22080,6 +22095,7 @@
 ||nofilmschool.com^$dnstype=AAAA
 ||noicehalfsugar.tw^$dnstype=AAAA
 ||noip.me^$dnstype=AAAA
+||noisullifb.com^$dnstype=AAAA
 ||nokiacn.net^$dnstype=AAAA
 ||nokiantyres.com^$dnstype=AAAA
 ||nokogiri.org^$dnstype=AAAA
@@ -24628,6 +24644,7 @@
 ||pttweb.cc^$dnstype=AAAA
 ||pttweb.com^$dnstype=AAAA
 ||pttweb.tw^$dnstype=AAAA
+||pttyes.com^$dnstype=AAAA
 ||ptw8.com^$dnstype=AAAA
 ||ptwxz.com^$dnstype=AAAA
 ||ptzwx.com^$dnstype=AAAA
@@ -31848,6 +31865,7 @@
 ||wnbc.com^$dnstype=AAAA
 ||wnflb.com^$dnstype=AAAA
 ||wng.org^$dnstype=AAAA
+||wnoaissulli1.com^$dnstype=AAAA
 ||wns1919.com^$dnstype=AAAA
 ||wnsr1980.com^$dnstype=AAAA
 ||wnsr1984.com^$dnstype=AAAA
@@ -33858,6 +33876,7 @@
 ||zzgays.com^$dnstype=AAAA
 ||zzitube.com^$dnstype=AAAA
 ||zzwav.com^$dnstype=AAAA
+||zzycdz.com^$dnstype=AAAA
 ||zzz36.net^$dnstype=AAAA
 ||]https:^$dnstype=AAAA
 ||dns.opendns.com:443^$dnstype=AAAA
