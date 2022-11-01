@@ -29731,6 +29731,7 @@
 ||twitpic.com^$dnstype=AAAA
 ||twitstat.com^$dnstype=AAAA
 ||twittbot.net^$dnstype=AAAA
+||twitter.biz^$dnstype=AAAA
 ||twitter.com^$dnstype=AAAA
 ||twitter.de^$dnstype=AAAA
 ||twitter.fr^$dnstype=AAAA
@@ -29771,8 +29772,10 @@
 ||twtrdns.net^$dnstype=AAAA
 ||twtrland.com^$dnstype=AAAA
 ||twttr.com^$dnstype=AAAA
+||twttr.net^$dnstype=AAAA
 ||twuph.com^$dnstype=AAAA
 ||twurl.nl^$dnstype=AAAA
+||twvid.com^$dnstype=AAAA
 ||twwiki.com^$dnstype=AAAA
 ||twyac.org^$dnstype=AAAA
 ||twylah.com^$dnstype=AAAA
