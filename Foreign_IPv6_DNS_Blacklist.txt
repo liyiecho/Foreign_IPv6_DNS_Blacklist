@@ -2214,6 +2214,7 @@
 ||777905z.com^$dnstype=AAAA
 ||777amgj.com^$dnstype=AAAA
 ||777pornotube.com^$dnstype=AAAA
+||777tv.net^$dnstype=AAAA
 ||777xporn.com^$dnstype=AAAA
 ||7781105.com^$dnstype=AAAA
 ||7788.hk^$dnstype=AAAA
@@ -2582,6 +2583,8 @@
 ||91porny.com^$dnstype=AAAA
 ||91px.cc^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
+||91rb.com^$dnstype=AAAA
+||91rb.net^$dnstype=AAAA
 ||91se.fun^$dnstype=AAAA
 ||91sesex.xyz^$dnstype=AAAA
 ||91stw.net^$dnstype=AAAA
@@ -3265,6 +3268,7 @@
 ||adultrental.com^$dnstype=AAAA
 ||adultsexgame.biz^$dnstype=AAAA
 ||adultsexgames.biz^$dnstype=AAAA
+||adultsextoys.com^$dnstype=AAAA
 ||adulttime.com^$dnstype=AAAA
 ||adulttoontube.com^$dnstype=AAAA
 ||adultvideotop.com^$dnstype=AAAA
@@ -4013,6 +4017,7 @@
 ||annoyer.com^$dnstype=AAAA
 ||annstores.net^$dnstype=AAAA
 ||anntw.com^$dnstype=AAAA
+||annualpelvicexam.com^$dnstype=AAAA
 ||annualreviews.org^$dnstype=AAAA
 ||anobii.com^$dnstype=AAAA
 ||anon-v.com^$dnstype=AAAA
@@ -5160,6 +5165,7 @@
 ||barelist.com^$dnstype=AAAA
 ||barenakedislam.com^$dnstype=AAAA
 ||bareporno.com^$dnstype=AAAA
+||barium-enema.com^$dnstype=AAAA
 ||barkadahansasmartone.com^$dnstype=AAAA
 ||barrons-advisor.com^$dnstype=AAAA
 ||barrons-conferences.com^$dnstype=AAAA
@@ -5728,6 +5734,7 @@
 ||bestfreetube.net^$dnstype=AAAA
 ||bestfreevpn.com^$dnstype=AAAA
 ||bestfreevpn.net^$dnstype=AAAA
+||bestgames-2022.com^$dnstype=AAAA
 ||bestgore.com^$dnstype=AAAA
 ||besthentaitube.com^$dnstype=AAAA
 ||bestiality.guru^$dnstype=AAAA
@@ -6828,6 +6835,7 @@
 ||breakingtweets.com^$dnstype=AAAA
 ||breakwall.net^$dnstype=AAAA
 ||breakwall.org^$dnstype=AAAA
+||breasthealthinfo.com^$dnstype=AAAA
 ||breitbart.com^$dnstype=AAAA
 ||brepolis.net^$dnstype=AAAA
 ||brew.sh^$dnstype=AAAA
@@ -7847,6 +7855,7 @@
 ||certificate-transparency.org^$dnstype=AAAA
 ||certinomis.com^$dnstype=AAAA
 ||cervetoria.pt^$dnstype=AAAA
+||cervical-exam.com^$dnstype=AAAA
 ||cetsedu.org^$dnstype=AAAA
 ||cevin.me^$dnstype=AAAA
 ||cex.io^$dnstype=AAAA
@@ -8360,6 +8369,7 @@
 ||climateers.org^$dnstype=AAAA
 ||climb.ro^$dnstype=AAAA
 ||clinica-tibet.ru^$dnstype=AAAA
+||clinical-videos.com^$dnstype=AAAA
 ||clinicalkey.com^$dnstype=AAAA
 ||clinicalterminology.org^$dnstype=AAAA
 ||cliowelt.de^$dnstype=AAAA
@@ -9722,6 +9732,7 @@
 ||desipornfilms.com^$dnstype=AAAA
 ||desipro.de^$dnstype=AAAA
 ||desiraesworld.com^$dnstype=AAAA
+||desiresecrets.com^$dnstype=AAAA
 ||desisexclips.com^$dnstype=AAAA
 ||desitorrents.com^$dnstype=AAAA
 ||desk.com^$dnstype=AAAA
@@ -10171,6 +10182,7 @@
 ||docs.rs^$dnstype=AAAA
 ||docstoc.com^$dnstype=AAAA
 ||docstrans.com^$dnstype=AAAA
+||doctor-videos.com^$dnstype=AAAA
 ||doctorvoice.org^$dnstype=AAAA
 ||document.new^$dnstype=AAAA
 ||documentforce.com^$dnstype=AAAA
@@ -10688,6 +10700,7 @@
 ||eamythic.net^$dnstype=AAAA
 ||eanordic.com^$dnstype=AAAA
 ||eaplay.com^$dnstype=AAAA
+||earlyob.com^$dnstype=AAAA
 ||earlytibet.com^$dnstype=AAAA
 ||earngeek.com^$dnstype=AAAA
 ||earphonescheapest.com^$dnstype=AAAA
@@ -11153,7 +11166,18 @@
 ||endlessmatches.com^$dnstype=AAAA
 ||endlessmovie.com^$dnstype=AAAA
 ||endorganpillaging.org^$dnstype=AAAA
+||enema-videos.com^$dnstype=AAAA
+||enemabasics.com^$dnstype=AAAA
+||enemaexperiences.com^$dnstype=AAAA
+||enemahistory.com^$dnstype=AAAA
+||enemainformation.com^$dnstype=AAAA
+||enemanozzle.info^$dnstype=AAAA
+||enemaprocedure.com^$dnstype=AAAA
 ||enemarotica.com^$dnstype=AAAA
+||enemas4fun.com^$dnstype=AAAA
+||enemasexfetish.com^$dnstype=AAAA
+||enemasupplier.com^$dnstype=AAAA
+||enematube.com^$dnstype=AAAA
 ||enemyterritory.org^$dnstype=AAAA
 ||energyml.org^$dnstype=AAAA
 ||enewstree.com^$dnstype=AAAA
@@ -11474,6 +11498,7 @@
 ||exactom.com^$dnstype=AAAA
 ||exacttarget.com^$dnstype=AAAA
 ||examity.com^$dnstype=AAAA
+||examroom.info^$dnstype=AAAA
 ||exascale-tech.com^$dnstype=AAAA
 ||exblog.jp^$dnstype=AAAA
 ||exc168.com^$dnstype=AAAA
@@ -11510,6 +11535,7 @@
 ||exploitedcollegegirls.com^$dnstype=AAAA
 ||exploitedteensasia.com^$dnstype=AAAA
 ||exploreintel.com^$dnstype=AAAA
+||explorespanking.com^$dnstype=AAAA
 ||expo-peru.com^$dnstype=AAAA
 ||expo.com^$dnstype=AAAA
 ||expofutures.com^$dnstype=AAAA
@@ -12446,7 +12472,9 @@
 ||firstbullion.com^$dnstype=AAAA
 ||firstbusinessnews.com^$dnstype=AAAA
 ||firstfivefollowers.com^$dnstype=AAAA
+||firstgynexam.com^$dnstype=AAAA
 ||firstory.me^$dnstype=AAAA
+||firstpelvicexam.com^$dnstype=AAAA
 ||firstpost.com^$dnstype=AAAA
 ||firstrade.com^$dnstype=AAAA
 ||fisac-irsf.org^$dnstype=AAAA
@@ -12498,6 +12526,7 @@
 ||fleshbot.com^$dnstype=AAAA
 ||fleshlyx.com^$dnstype=AAAA
 ||fleursdeslettres.com^$dnstype=AAAA
+||flexsig.com^$dnstype=AAAA
 ||flgg.us^$dnstype=AAAA
 ||flgjustice.org^$dnstype=AAAA
 ||fli8.xyz^$dnstype=AAAA
@@ -13546,6 +13575,7 @@
 ||garotoesperto.com^$dnstype=AAAA
 ||gartlive.com^$dnstype=AAAA
 ||gartour.net^$dnstype=AAAA
+||gastrointestinalexam.com^$dnstype=AAAA
 ||gate-project.com^$dnstype=AAAA
 ||gate.cc^$dnstype=AAAA
 ||gate.io^$dnstype=AAAA
@@ -13695,6 +13725,7 @@
 ||geneanet.fr^$dnstype=AAAA
 ||generated.photos^$dnstype=AAAA
 ||genesis2013.com^$dnstype=AAAA
+||genitourinaryexam.com^$dnstype=AAAA
 ||genius.com^$dnstype=AAAA
 ||genkai-hounyo.com^$dnstype=AAAA
 ||genmirror.com^$dnstype=AAAA
@@ -13917,6 +13948,8 @@
 ||giize.com^$dnstype=AAAA
 ||gimpyd.com^$dnstype=AAAA
 ||gimy.cc^$dnstype=AAAA
+||gimy.co^$dnstype=AAAA
+||gimy.tv^$dnstype=AAAA
 ||gingerpeople.com^$dnstype=AAAA
 ||ginmoe.com^$dnstype=AAAA
 ||ginmon.de^$dnstype=AAAA
@@ -14633,6 +14666,7 @@
 ||gyalwarinpoche.com^$dnstype=AAAA
 ||gyatsostudio.com^$dnstype=AAAA
 ||gymglinde.de^$dnstype=AAAA
+||gynoexam.info^$dnstype=AAAA
 ||gyutto.com^$dnstype=AAAA
 ||gz1616.com^$dnstype=AAAA
 ||gz2266.com^$dnstype=AAAA
@@ -14912,6 +14946,7 @@
 ||health2.live^$dnstype=AAAA
 ||health2.site^$dnstype=AAAA
 ||health6.icu^$dnstype=AAAA
+||healthcarecareeronline.com^$dnstype=AAAA
 ||healthcom.xyz^$dnstype=AAAA
 ||healthcon.xyz^$dnstype=AAAA
 ||healthequity.com^$dnstype=AAAA
@@ -15099,6 +15134,7 @@
 ||hentaizap.com^$dnstype=AAAA
 ||hentaizilla.com^$dnstype=AAAA
 ||hentaizz.net^$dnstype=AAAA
+||henti-night.com^$dnstype=AAAA
 ||heptio.com^$dnstype=AAAA
 ||heqinglian.net^$dnstype=AAAA
 ||herald.ie^$dnstype=AAAA
@@ -15236,6 +15272,7 @@
 ||higfw.com^$dnstype=AAAA
 ||higginbotham.name^$dnstype=AAAA
 ||highbolt.net^$dnstype=AAAA
+||highcolonic.info^$dnstype=AAAA
 ||highdefinitionbeatsbydre.com^$dnstype=AAAA
 ||highpeakspureearth.com^$dnstype=AAAA
 ||highporn.net^$dnstype=AAAA
@@ -16061,6 +16098,8 @@
 ||hypnohub.net^$dnstype=AAAA
 ||hypnoporn.net^$dnstype=AAAA
 ||hypnotube.com^$dnstype=AAAA
+||hypodermic-injection.com^$dnstype=AAAA
+||hypodermicinjectiononline.com^$dnstype=AAAA
 ||hypothes.is^$dnstype=AAAA
 ||hyu2.com^$dnstype=AAAA
 ||hz8801.com^$dnstype=AAAA
@@ -16835,12 +16874,14 @@
 ||inthecrack.com^$dnstype=AAAA
 ||inthenameofconfuciusmovie.com^$dnstype=AAAA
 ||inti.be^$dnstype=AAAA
+||intimateinvasions.com^$dnstype=AAAA
 ||intltencentcos.com^$dnstype=AAAA
 ||intoday.in^$dnstype=AAAA
 ||intouchweekly.com^$dnstype=AAAA
 ||intporn.com^$dnstype=AAAA
 ||intrade.com^$dnstype=AAAA
 ||intralot.it^$dnstype=AAAA
+||intramuscularinjection.info^$dnstype=AAAA
 ||intrepidcs.com^$dnstype=AAAA
 ||intunewiki.com^$dnstype=AAAA
 ||inty3000.com^$dnstype=AAAA
@@ -17818,6 +17859,7 @@
 ||joinmaidez.com^$dnstype=AAAA
 ||joinmastodon.org^$dnstype=AAAA
 ||joins.com^$dnstype=AAAA
+||joinside.org^$dnstype=AAAA
 ||jojoex.com^$dnstype=AAAA
 ||jojos.tw^$dnstype=AAAA
 ||jokerlu.com^$dnstype=AAAA
@@ -18796,6 +18838,7 @@
 ||leisurepro.com^$dnstype=AAAA
 ||lejdd.fr^$dnstype=AAAA
 ||lejsq.net^$dnstype=AAAA
+||lelavement.com^$dnstype=AAAA
 ||lematin.ch^$dnstype=AAAA
 ||lemoncams.com^$dnstype=AAAA
 ||lemonde.fr^$dnstype=AAAA
@@ -19347,6 +19390,7 @@
 ||lovethiscity.com^$dnstype=AAAA
 ||lovetvshow.com^$dnstype=AAAA
 ||lowa-interlaken.ch^$dnstype=AAAA
+||lowergiseries.com^$dnstype=AAAA
 ||lp99.pw^$dnstype=AAAA
 ||lpsg.com^$dnstype=AAAA
 ||lpxtv.com^$dnstype=AAAA
@@ -20849,6 +20893,7 @@
 ||mowrygrimson.com^$dnstype=AAAA
 ||moxing.mobi^$dnstype=AAAA
 ||moxing.news^$dnstype=AAAA
+||moystoys.com^$dnstype=AAAA
 ||moyu4.com^$dnstype=AAAA
 ||moyuv5.com^$dnstype=AAAA
 ||moyuvpn.net^$dnstype=AAAA
@@ -23437,6 +23482,7 @@
 ||pejyyah.com^$dnstype=AAAA
 ||pekingduck.org^$dnstype=AAAA
 ||pelicanpointhoa.com^$dnstype=AAAA
+||pelvicexam.info^$dnstype=AAAA
 ||pen-international.org^$dnstype=AAAA
 ||pen.io^$dnstype=AAAA
 ||pen.org^$dnstype=AAAA
@@ -23586,6 +23632,7 @@
 ||phun.org^$dnstype=AAAA
 ||phuquocservices.com^$dnstype=AAAA
 ||phxbmw.com^$dnstype=AAAA
+||physicalexam.info^$dnstype=AAAA
 ||physiology.org^$dnstype=AAAA
 ||pi-dns.com^$dnstype=AAAA
 ||pi338.net^$dnstype=AAAA
@@ -24455,6 +24502,7 @@
 ||proboards.com^$dnstype=AAAA
 ||prochan.com^$dnstype=AAAA
 ||procopytips.com^$dnstype=AAAA
+||proctoscopeexam.com^$dnstype=AAAA
 ||prodrive-japan.com^$dnstype=AAAA
 ||profreeporno.com^$dnstype=AAAA
 ||programagol.cl^$dnstype=AAAA
@@ -24497,6 +24545,7 @@
 ||pros.ee^$dnstype=AAAA
 ||prosciana.com^$dnstype=AAAA
 ||prosiben.de^$dnstype=AAAA
+||prostate-exam-info.com^$dnstype=AAAA
 ||prostoporno.net^$dnstype=AAAA
 ||prostores.com^$dnstype=AAAA
 ||prostudiobeatscybersale.com^$dnstype=AAAA
@@ -24683,6 +24732,7 @@
 ||publicagent.com^$dnstype=AAAA
 ||publicagentxxx.com^$dnstype=AAAA
 ||publicdomainreview.org^$dnstype=AAAA
+||publichealthdepartment.info^$dnstype=AAAA
 ||publicidees.com^$dnstype=AAAA
 ||publicpornvideo.com^$dnstype=AAAA
 ||publicproxyservers.com^$dnstype=AAAA
@@ -24987,6 +25037,7 @@
 ||qxbbs.org^$dnstype=AAAA
 ||qy521.vip^$dnstype=AAAA
 ||qz.com^$dnstype=AAAA
+||qzav.tv^$dnstype=AAAA
 ||r-project.org^$dnstype=AAAA
 ||r0.ru^$dnstype=AAAA
 ||r10s.com^$dnstype=AAAA
@@ -25155,7 +25206,10 @@
 ||rb88help.com^$dnstype=AAAA
 ||rb8905.com^$dnstype=AAAA
 ||rbbusinessshop.com^$dnstype=AAAA
+||rbc007.com^$dnstype=AAAA
 ||rbdigitalab.com^$dnstype=AAAA
+||rbe996.com^$dnstype=AAAA
+||rbeopp.com^$dnstype=AAAA
 ||rbeuroinfo.com^$dnstype=AAAA
 ||rbfx.com^$dnstype=AAAA
 ||rbgrads.com^$dnstype=AAAA
@@ -25270,6 +25324,7 @@
 ||reconjet.com^$dnstype=AAAA
 ||recordhistory.org^$dnstype=AAAA
 ||recoveryversion.org^$dnstype=AAAA
+||rectovaginalexam.com^$dnstype=AAAA
 ||red-dragonrising.com^$dnstype=AAAA
 ||red-lang.org^$dnstype=AAAA
 ||redamateurtube.com^$dnstype=AAAA
@@ -25372,6 +25427,7 @@
 ||renzhe.cloud^$dnstype=AAAA
 ||renzhecloud.com^$dnstype=AAAA
 ||repaik.com^$dnstype=AAAA
+||repe21.com^$dnstype=AAAA
 ||repo.new^$dnstype=AAAA
 ||reporter.bz^$dnstype=AAAA
 ||repsneakermall.com^$dnstype=AAAA
@@ -25514,6 +25570,7 @@
 ||rk.com^$dnstype=AAAA
 ||rliya.com^$dnstype=AAAA
 ||rlwlw.com^$dnstype=AAAA
+||rm2029.com^$dnstype=AAAA
 ||rmb.li^$dnstype=AAAA
 ||rmb802.com^$dnstype=AAAA
 ||rmbl.ws^$dnstype=AAAA
@@ -26238,6 +26295,7 @@
 ||sesawe.net^$dnstype=AAAA
 ||sesawe.org^$dnstype=AAAA
 ||seselah.com^$dnstype=AAAA
+||sesenovel.com^$dnstype=AAAA
 ||sessionstack.com^$dnstype=AAAA
 ||setapp.com^$dnstype=AAAA
 ||setdns.work^$dnstype=AAAA
@@ -26675,6 +26733,7 @@
 ||sifangcai.com^$dnstype=AAAA
 ||sifangtv.club^$dnstype=AAAA
 ||sigen.pro^$dnstype=AAAA
+||sigmoidoscopeexam.com^$dnstype=AAAA
 ||sign.new^$dnstype=AAAA
 ||signal.art^$dnstype=AAAA
 ||signal.org^$dnstype=AAAA
@@ -27198,6 +27257,7 @@
 ||spankbang.com^$dnstype=AAAA
 ||spankbang.name^$dnstype=AAAA
 ||spankbang1.com^$dnstype=AAAA
+||spankingstudio.com^$dnstype=AAAA
 ||spankingtube.com^$dnstype=AAAA
 ||spankmonster.com^$dnstype=AAAA
 ||spankred3d.com^$dnstype=AAAA
@@ -27584,6 +27644,7 @@
 ||stockintl.ca^$dnstype=AAAA
 ||stockton.edu^$dnstype=AAAA
 ||stoican.eu^$dnstype=AAAA
+||stonefoxlingerie.com^$dnstype=AAAA
 ||stonefoxproductions.com^$dnstype=AAAA
 ||stoneoption.com^$dnstype=AAAA
 ||stonesriver.org^$dnstype=AAAA
@@ -28470,6 +28531,7 @@
 ||theclassicporn.com^$dnstype=AAAA
 ||thecleversense.com^$dnstype=AAAA
 ||theclubprive.com^$dnstype=AAAA
+||theclyster.com^$dnstype=AAAA
 ||thecompaqstore.com^$dnstype=AAAA
 ||theconservativetreehouse.com^$dnstype=AAAA
 ||theconversation.com^$dnstype=AAAA
@@ -30320,6 +30382,8 @@
 ||vacau.com^$dnstype=AAAA
 ||vagabundasdoorkut.net^$dnstype=AAAA
 ||vaginacontest.com^$dnstype=AAAA
+||vaginal-ultrasound.com^$dnstype=AAAA
+||vaginalultrasound.info^$dnstype=AAAA
 ||vagos.es^$dnstype=AAAA
 ||vagrantcloud.com^$dnstype=AAAA
 ||vagrantup.com^$dnstype=AAAA
@@ -30607,6 +30671,7 @@
 ||vine.co^$dnstype=AAAA
 ||vinniev.com^$dnstype=AAAA
 ||vintage-erotica-forum.com^$dnstype=AAAA
+||vintagemedicalpictures.com^$dnstype=AAAA
 ||vintagexxxfilms.com^$dnstype=AAAA
 ||vip-beats.com^$dnstype=AAAA
 ||vip-enterprise.com^$dnstype=AAAA
@@ -32846,6 +32911,7 @@
 ||xxvideo.mobi^$dnstype=AAAA
 ||xxvideoss.org^$dnstype=AAAA
 ||xxvids.net^$dnstype=AAAA
+||xxx-com.cfd^$dnstype=AAAA
 ||xxx-comics.com^$dnstype=AAAA
 ||xxx-fap.com^$dnstype=AAAA
 ||xxx-files.org^$dnstype=AAAA
@@ -33325,12 +33391,15 @@
 ||youramateurporn.com^$dnstype=AAAA
 ||yourbittorrent.com^$dnstype=AAAA
 ||yourbrain.com^$dnstype=AAAA
+||yourcolonic.com^$dnstype=AAAA
+||yourcolonoscopy.com^$dnstype=AAAA
 ||yourdailypornvideos.ws^$dnstype=AAAA
 ||yourdoll.com^$dnstype=AAAA
 ||yourepeat.com^$dnstype=AAAA
 ||yourfantasybeginsnow.com^$dnstype=AAAA
 ||yourflashporn.com^$dnstype=AAAA
 ||yourfreeporn.tv^$dnstype=AAAA
+||yourgynexam.com^$dnstype=AAAA
 ||yourlifemoments.ca^$dnstype=AAAA
 ||yourlisten.com^$dnstype=AAAA
 ||yourlust.com^$dnstype=AAAA
@@ -33339,9 +33408,14 @@
 ||yourmomsgotbigtits.com^$dnstype=AAAA
 ||yourmonsterbeats.com^$dnstype=AAAA
 ||yournews.com^$dnstype=AAAA
+||yourpelvicexam.com^$dnstype=AAAA
+||yourpelvicultrasound.com^$dnstype=AAAA
+||yourphysicalexam.com^$dnstype=AAAA
 ||yourpornbus.com^$dnstype=AAAA
 ||yourporngod.com^$dnstype=AAAA
 ||yourprivatevpn.com^$dnstype=AAAA
+||yoursigmoidoscopy.com^$dnstype=AAAA
+||yourspeculumexam.com^$dnstype=AAAA
 ||yourstory.ro^$dnstype=AAAA
 ||yourtango.com^$dnstype=AAAA
 ||yourtrap.com^$dnstype=AAAA
