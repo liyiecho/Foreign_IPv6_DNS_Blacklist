@@ -15296,7 +15296,6 @@
 ||himalaya2020.com^$dnstype=AAAA
 ||himalayan-foundation.org^$dnstype=AAAA
 ||himalayanglacier.com^$dnstype=AAAA
-||himalayawashingtondc.org^$dnstype=AAAA
 ||himemix.com^$dnstype=AAAA
 ||himemix.net^$dnstype=AAAA
 ||hindawi.com^$dnstype=AAAA
@@ -15762,6 +15761,7 @@
 ||hp3dsamplepromo.com^$dnstype=AAAA
 ||hpallinoneprinter.com^$dnstype=AAAA
 ||hpapplicationscenter.com^$dnstype=AAAA
+||hpayshop.com^$dnstype=AAAA
 ||hpbestbuy.com^$dnstype=AAAA
 ||hpbluecarpet.com^$dnstype=AAAA
 ||hpbluecarpet.net^$dnstype=AAAA
