@@ -11286,6 +11286,7 @@
 ||ero-kawa.com^$dnstype=AAAA
 ||ero-labs.com^$dnstype=AAAA
 ||ero-labs.net^$dnstype=AAAA
+||ero-labs.online^$dnstype=AAAA
 ||ero-ma-nia.com^$dnstype=AAAA
 ||ero-manga-platinum.net^$dnstype=AAAA
 ||ero-mangalife.com^$dnstype=AAAA
@@ -31155,6 +31156,8 @@
 ||vsallin.net^$dnstype=AAAA
 ||vsassets.io^$dnstype=AAAA
 ||vsco.com^$dnstype=AAAA
+||vscode-cdn.net^$dnstype=AAAA
+||vscode-unpkg.net^$dnstype=AAAA
 ||vscode.dev^$dnstype=AAAA
 ||vsezoo.com^$dnstype=AAAA
 ||vsh.org^$dnstype=AAAA
