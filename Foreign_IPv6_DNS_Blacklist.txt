@@ -3585,6 +3585,7 @@
 ||alifaan.ovh^$dnstype=AAAA
 ||alifta.com^$dnstype=AAAA
 ||alimentacion.cl^$dnstype=AAAA
+||alipaymo.com^$dnstype=AAAA
 ||alison-chang.com^$dnstype=AAAA
 ||alistapart.com^$dnstype=AAAA
 ||alithia.gr^$dnstype=AAAA
