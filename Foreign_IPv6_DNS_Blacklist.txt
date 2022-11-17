@@ -22089,6 +22089,7 @@
 ||niupic.com^$dnstype=AAAA
 ||niusnews.com^$dnstype=AAAA
 ||niuxuewang.com^$dnstype=AAAA
+||nivod.tv^$dnstype=AAAA
 ||nix.cz^$dnstype=AAAA
 ||nixos.org^$dnstype=AAAA
 ||niziero.info^$dnstype=AAAA
