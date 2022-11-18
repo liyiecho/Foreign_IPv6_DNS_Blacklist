@@ -1709,6 +1709,7 @@
 ||559805.com^$dnstype=AAAA
 ||55bet.com^$dnstype=AAAA
 ||55bg.com^$dnstype=AAAA
+||55dndn.com^$dnstype=AAAA
 ||55jmp.com^$dnstype=AAAA
 ||55qml.com^$dnstype=AAAA
 ||55qqxx.com^$dnstype=AAAA
@@ -2317,6 +2318,7 @@
 ||828py.com^$dnstype=AAAA
 ||829882.com^$dnstype=AAAA
 ||829886.com^$dnstype=AAAA
+||82mvmv.com^$dnstype=AAAA
 ||82uj.com^$dnstype=AAAA
 ||830.cc^$dnstype=AAAA
 ||83231.com^$dnstype=AAAA
@@ -11636,6 +11638,7 @@
 ||fabhairypussy.com^$dnstype=AAAA
 ||fabric.io^$dnstype=AAAA
 ||fabsk.eu^$dnstype=AAAA
+||fabuye.top^$dnstype=AAAA
 ||fabuyemian.com^$dnstype=AAAA
 ||facbebook.com^$dnstype=AAAA
 ||facbeok.com^$dnstype=AAAA
@@ -28196,6 +28199,7 @@
 ||taobonfu.com^$dnstype=AAAA
 ||taoism.net^$dnstype=AAAA
 ||taolun.info^$dnstype=AAAA
+||taose.tv^$dnstype=AAAA
 ||tap-check.com^$dnstype=AAAA
 ||tapad.com^$dnstype=AAAA
 ||tapanwap.com^$dnstype=AAAA
@@ -32460,6 +32464,7 @@
 ||xgirls.webcam^$dnstype=AAAA
 ||xgmyd.com^$dnstype=AAAA
 ||xgroovy.com^$dnstype=AAAA
+||xgsp.tv^$dnstype=AAAA
 ||xh-porn.com^$dnstype=AAAA
 ||xh00013.com^$dnstype=AAAA
 ||xh0016.com^$dnstype=AAAA
