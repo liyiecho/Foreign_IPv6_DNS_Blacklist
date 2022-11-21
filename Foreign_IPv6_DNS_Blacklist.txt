@@ -13556,6 +13556,7 @@
 ||gandi.net^$dnstype=AAAA
 ||ganetstudio.com^$dnstype=AAAA
 ||ganges.com^$dnstype=AAAA
+||ganjing.com^$dnstype=AAAA
 ||ganjingworld.com^$dnstype=AAAA
 ||gannett-cdn.com^$dnstype=AAAA
 ||gannett.com^$dnstype=AAAA
@@ -24697,6 +24698,7 @@
 ||ptt3.cc^$dnstype=AAAA
 ||pttgame.com^$dnstype=AAAA
 ||pttgopolitics.com^$dnstype=AAAA
+||ptthito.com^$dnstype=AAAA
 ||pttvan.org^$dnstype=AAAA
 ||pttweb.cc^$dnstype=AAAA
 ||pttweb.com^$dnstype=AAAA
