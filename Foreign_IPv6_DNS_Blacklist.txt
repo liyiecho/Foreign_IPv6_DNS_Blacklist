@@ -4937,6 +4937,7 @@
 ||azure.com^$dnstype=AAAA
 ||azure.net^$dnstype=AAAA
 ||azurecomcdn.net^$dnstype=AAAA
+||azurecomm.net^$dnstype=AAAA
 ||azurecontainer.io^$dnstype=AAAA
 ||azurecosmos.net^$dnstype=AAAA
 ||azurecosmosdb.com^$dnstype=AAAA
@@ -12272,6 +12273,7 @@
 ||femefun.com^$dnstype=AAAA
 ||feministteacher.com^$dnstype=AAAA
 ||femjoy.com^$dnstype=AAAA
+||femscat.com^$dnstype=AAAA
 ||fender.com^$dnstype=AAAA
 ||feng.jp^$dnstype=AAAA
 ||fengherili.cc^$dnstype=AAAA
@@ -14485,6 +14487,7 @@
 ||gr8domain.biz^$dnstype=AAAA
 ||gr8name.biz^$dnstype=AAAA
 ||grababrand.com^$dnstype=AAAA
+||grabhentai.com^$dnstype=AAAA
 ||grabpussy.com^$dnstype=AAAA
 ||gracecode.com^$dnstype=AAAA
 ||gradconnection.com^$dnstype=AAAA
@@ -24804,6 +24807,7 @@
 ||pussy.org^$dnstype=AAAA
 ||pussy3dporn.com^$dnstype=AAAA
 ||pussybob.com^$dnstype=AAAA
+||pussyboy.net^$dnstype=AAAA
 ||pussymomsex.com^$dnstype=AAAA
 ||pussyporntubes.com^$dnstype=AAAA
 ||pussysexgames.com^$dnstype=AAAA
@@ -30262,6 +30266,7 @@
 ||usmc.mil^$dnstype=AAAA
 ||usmgtcgov.tw^$dnstype=AAAA
 ||usnews.com^$dnstype=AAAA
+||usocctn.com^$dnstype=AAAA
 ||usogood.com^$dnstype=AAAA
 ||uspto.gov^$dnstype=AAAA
 ||usresi.com^$dnstype=AAAA
