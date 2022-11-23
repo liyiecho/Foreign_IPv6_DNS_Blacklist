@@ -8584,6 +8584,7 @@
 ||code.org^$dnstype=AAAA
 ||code1984.com^$dnstype=AAAA
 ||code4.hk^$dnstype=AAAA
+||codeberg.org^$dnstype=AAAA
 ||codeboxapp.com^$dnstype=AAAA
 ||codeburst.io^$dnstype=AAAA
 ||codecademy.com^$dnstype=AAAA
@@ -15177,6 +15178,7 @@
 ||hex.pm^$dnstype=AAAA
 ||hex.win^$dnstype=AAAA
 ||hexatechvpn.com^$dnstype=AAAA
+||hexdocs.pm^$dnstype=AAAA
 ||hexieshe.com^$dnstype=AAAA
 ||hexieshe.xyz^$dnstype=AAAA
 ||hexxeh.net^$dnstype=AAAA
