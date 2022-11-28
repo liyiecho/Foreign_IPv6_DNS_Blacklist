@@ -3437,6 +3437,7 @@
 ||adultartsites.com^$dnstype=AAAA
 ||adultbay.org^$dnstype=AAAA
 ||adultblogranking.com^$dnstype=AAAA
+||adultblogtoplist.com^$dnstype=AAAA
 ||adultcamslover.com^$dnstype=AAAA
 ||adultcamweb.com^$dnstype=AAAA
 ||adultdeepfakes.com^$dnstype=AAAA
@@ -12677,6 +12678,7 @@
 ||fblitho.com^$dnstype=AAAA
 ||fbmarketing.com^$dnstype=AAAA
 ||fbmessenger.com^$dnstype=AAAA
+||fbooktaiwan.com^$dnstype=AAAA
 ||fbredex.com^$dnstype=AAAA
 ||fbreg.com^$dnstype=AAAA
 ||fbrell.com^$dnstype=AAAA
@@ -13089,7 +13091,6 @@
 ||flushingcn.com^$dnstype=AAAA
 ||flutter.dev^$dnstype=AAAA
 ||flutterapp.com^$dnstype=AAAA
-||flydiv.com^$dnstype=AAAA
 ||flyercenter.com^$dnstype=AAAA
 ||flyflv.com^$dnstype=AAAA
 ||flyingcloudproductions.com^$dnstype=AAAA
@@ -16567,6 +16568,7 @@
 ||huancai66.com^$dnstype=AAAA
 ||huang.cool^$dnstype=AAAA
 ||huanghuagang.org^$dnstype=AAAA
+||huangse.love^$dnstype=AAAA
 ||huangyiyu.com^$dnstype=AAAA
 ||huanyin.org^$dnstype=AAAA
 ||huanyuju.com^$dnstype=AAAA
@@ -22740,7 +22742,6 @@
 ||nicolepeters.com^$dnstype=AAAA
 ||niconico.com^$dnstype=AAAA
 ||niconode.com^$dnstype=AAAA
-||nicotv.me^$dnstype=AAAA
 ||nicovideo.jp^$dnstype=AAAA
 ||nicozon.net^$dnstype=AAAA
 ||nicstudios.com^$dnstype=AAAA
@@ -25136,6 +25137,7 @@
 ||pornoreino.com^$dnstype=AAAA
 ||pornorips.com^$dnstype=AAAA
 ||pornos.live^$dnstype=AAAA
+||pornoscanner.com^$dnstype=AAAA
 ||pornosfilmes.com^$dnstype=AAAA
 ||pornoslon.me^$dnstype=AAAA
 ||pornosphere.com^$dnstype=AAAA
@@ -25202,6 +25204,7 @@
 ||porntvblog.com^$dnstype=AAAA
 ||pornub.com^$dnstype=AAAA
 ||pornultras.com^$dnstype=AAAA
+||pornv.org^$dnstype=AAAA
 ||pornve.com^$dnstype=AAAA
 ||pornvibe.org^$dnstype=AAAA
 ||pornvideobb.com^$dnstype=AAAA
@@ -27410,6 +27413,7 @@
 ||sexy-babe-pics.com^$dnstype=AAAA
 ||sexy-cutie.com^$dnstype=AAAA
 ||sexy-lingerie.ws^$dnstype=AAAA
+||sexy-torrents.com^$dnstype=AAAA
 ||sexy-word.com^$dnstype=AAAA
 ||sexy.com^$dnstype=AAAA
 ||sexy3dtoon.com^$dnstype=AAAA
@@ -35021,6 +35025,7 @@
 ||zongse888.com^$dnstype=AAAA
 ||zononi.com^$dnstype=AAAA
 ||zoo-hardcore.com^$dnstype=AAAA
+||zoo-porno.biz^$dnstype=AAAA
 ||zoo-tube8.com^$dnstype=AAAA
 ||zoo-xnxx.com^$dnstype=AAAA
 ||zoo-xvideo.com^$dnstype=AAAA
