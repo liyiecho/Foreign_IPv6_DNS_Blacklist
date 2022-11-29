@@ -10020,7 +10020,6 @@
 ||dcbooks.com^$dnstype=AAAA
 ||dchome.net^$dnstype=AAAA
 ||dcmilitary.com^$dnstype=AAAA
-||dcocsp.cn^$dnstype=AAAA
 ||dcpress.net^$dnstype=AAAA
 ||dctbeatsbydre.com^$dnstype=AAAA
 ||dcwg.org^$dnstype=AAAA
