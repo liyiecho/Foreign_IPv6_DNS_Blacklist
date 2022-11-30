@@ -3595,7 +3595,6 @@
 ||ai.google^$dnstype=AAAA
 ||ai4t.com^$dnstype=AAAA
 ||ai780.com^$dnstype=AAAA
-||aiaa.org^$dnstype=AAAA
 ||aibai.com^$dnstype=AAAA
 ||aibaobei.me^$dnstype=AAAA
 ||aicoin.com^$dnstype=AAAA
