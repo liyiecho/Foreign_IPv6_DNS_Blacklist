@@ -3521,6 +3521,7 @@
 ||affirmtrust.com^$dnstype=AAAA
 ||affsal365.com^$dnstype=AAAA
 ||afftb388.com^$dnstype=AAAA
+||affyun.com^$dnstype=AAAA
 ||affyun.org^$dnstype=AAAA
 ||aflamporn.com^$dnstype=AAAA
 ||aflamsex.net^$dnstype=AAAA
@@ -3979,6 +3980,7 @@
 ||amazonalexavoxcon.com^$dnstype=AAAA
 ||amazonauthorinsights.com^$dnstype=AAAA
 ||amazonaws-china.com^$dnstype=AAAA
+||amazonaws.cn^$dnstype=AAAA
 ||amazonaws.com^$dnstype=AAAA
 ||amazonaws.tv^$dnstype=AAAA
 ||amazonbusiness.cn^$dnstype=AAAA
@@ -4006,6 +4008,7 @@
 ||amazonvideo.cc^$dnstype=AAAA
 ||amazonvideo.com^$dnstype=AAAA
 ||amazonvideodirect.com^$dnstype=AAAA
+||amazonworkdocs.cn^$dnstype=AAAA
 ||amazonworkdocs.com^$dnstype=AAAA
 ||ambit.chat^$dnstype=AAAA
 ||ambitvpn.com^$dnstype=AAAA
@@ -5137,7 +5140,10 @@
 ||awflapp.top^$dnstype=AAAA
 ||awk.so^$dnstype=AAAA
 ||awn1.icu^$dnstype=AAAA
+||aws-border.cn^$dnstype=AAAA
+||aws-icp-domain-manager.cn^$dnstype=AAAA
 ||aws-iot-hackathon.com^$dnstype=AAAA
+||awsapps.cn^$dnstype=AAAA
 ||awsapps.com^$dnstype=AAAA
 ||awsautopilot.com^$dnstype=AAAA
 ||awsautoscaling.com^$dnstype=AAAA
@@ -5151,6 +5157,7 @@
 ||awsloft-johannesburg.com^$dnstype=AAAA
 ||awsloft-stockholm.com^$dnstype=AAAA
 ||awssecworkshops.com^$dnstype=AAAA
+||awsstatic.cn^$dnstype=AAAA
 ||awsstatic.com^$dnstype=AAAA
 ||awsthinkbox.com^$dnstype=AAAA
 ||awstrack.me^$dnstype=AAAA
@@ -5207,6 +5214,7 @@
 ||azure-mobile.net^$dnstype=AAAA
 ||azure-sphere.com^$dnstype=AAAA
 ||azure-test.net^$dnstype=AAAA
+||azure.cn^$dnstype=AAAA
 ||azure.com^$dnstype=AAAA
 ||azure.net^$dnstype=AAAA
 ||azurecomcdn.net^$dnstype=AAAA
@@ -6359,6 +6367,8 @@
 ||bird.so^$dnstype=AAAA
 ||birdbeep.net^$dnstype=AAAA
 ||birdhouseapp.com^$dnstype=AAAA
+||bisheng.cn^$dnstype=AAAA
+||bishengcompiler.cn^$dnstype=AAAA
 ||bisq.io^$dnstype=AAAA
 ||bisq.network^$dnstype=AAAA
 ||bit-z.com^$dnstype=AAAA
@@ -7158,6 +7168,7 @@
 ||bravotube.com^$dnstype=AAAA
 ||bravotube.net^$dnstype=AAAA
 ||bravotube.tv^$dnstype=AAAA
+||brawlstars.cn^$dnstype=AAAA
 ||braze.com^$dnstype=AAAA
 ||brazilpartneruniversity.com^$dnstype=AAAA
 ||brazzer.com^$dnstype=AAAA
@@ -8827,6 +8838,8 @@
 ||cloudflaretest.com^$dnstype=AAAA
 ||cloudflarewarp.com^$dnstype=AAAA
 ||cloudfoundry.com^$dnstype=AAAA
+||cloudfront-test.cn^$dnstype=AAAA
+||cloudfront.cn^$dnstype=AAAA
 ||cloudfront.net^$dnstype=AAAA
 ||cloudfunctions.net^$dnstype=AAAA
 ||cloudgarage.jp^$dnstype=AAAA
@@ -9081,6 +9094,7 @@
 ||com.bo^$dnstype=AAAA
 ||com.by^$dnstype=AAAA
 ||com.bz^$dnstype=AAAA
+||com.cn^$dnstype=AAAA
 ||com.co^$dnstype=AAAA
 ||com.com^$dnstype=AAAA
 ||com.cu^$dnstype=AAAA
@@ -10019,6 +10033,7 @@
 ||dcbooks.com^$dnstype=AAAA
 ||dchome.net^$dnstype=AAAA
 ||dcmilitary.com^$dnstype=AAAA
+||dcocsp.cn^$dnstype=AAAA
 ||dcpress.net^$dnstype=AAAA
 ||dctbeatsbydre.com^$dnstype=AAAA
 ||dcwg.org^$dnstype=AAAA
@@ -14843,6 +14858,7 @@
 ||google.ci^$dnstype=AAAA
 ||google.cl^$dnstype=AAAA
 ||google.cm^$dnstype=AAAA
+||google.cn^$dnstype=AAAA
 ||google.com^$dnstype=AAAA
 ||google.cv^$dnstype=AAAA
 ||google.cz^$dnstype=AAAA
@@ -15047,6 +15063,7 @@
 ||gouri.xyz^$dnstype=AAAA
 ||gouv.fr^$dnstype=AAAA
 ||gov.au^$dnstype=AAAA
+||gov.cn^$dnstype=AAAA
 ||gov.hk^$dnstype=AAAA
 ||gov.il^$dnstype=AAAA
 ||gov.in^$dnstype=AAAA
@@ -15462,6 +15479,7 @@
 ||hayatnuri.app^$dnstype=AAAA
 ||hayatnuri.com^$dnstype=AAAA
 ||hayatnuri.org^$dnstype=AAAA
+||haydaypop.cn^$dnstype=AAAA
 ||hayvip.com^$dnstype=AAAA
 ||hazblog.com^$dnstype=AAAA
 ||hb287.com^$dnstype=AAAA
@@ -15845,6 +15863,7 @@
 ||hi27.ml^$dnstype=AAAA
 ||hi5.tv^$dnstype=AAAA
 ||hiapphere.com^$dnstype=AAAA
+||hiascend.cn^$dnstype=AAAA
 ||hibdontire.com^$dnstype=AAAA
 ||hibet.com^$dnstype=AAAA
 ||hicam.net^$dnstype=AAAA
@@ -15912,6 +15931,7 @@
 ||hiitch.com^$dnstype=AAAA
 ||hijabilicious.com^$dnstype=AAAA
 ||hikinggfw.org^$dnstype=AAAA
+||hikunpeng.cn^$dnstype=AAAA
 ||hilive.tv^$dnstype=AAAA
 ||hiload.com^$dnstype=AAAA
 ||hilostripper.com^$dnstype=AAAA
@@ -17036,6 +17056,7 @@
 ||igvita.com^$dnstype=AAAA
 ||ihakka.net^$dnstype=AAAA
 ||ihao.org^$dnstype=AAAA
+||ihappystudio.cn^$dnstype=AAAA
 ||ihavesmalltits.com^$dnstype=AAAA
 ||iheart.com^$dnstype=AAAA
 ||ihearttibet.org^$dnstype=AAAA
@@ -18216,6 +18237,7 @@
 ||javplatform.com^$dnstype=AAAA
 ||javporn.tech^$dnstype=AAAA
 ||javporn.ws^$dnstype=AAAA
+||javpost.net^$dnstype=AAAA
 ||javprice.com^$dnstype=AAAA
 ||javprime.net^$dnstype=AAAA
 ||javpub.me^$dnstype=AAAA
@@ -19298,6 +19320,7 @@
 ||labetulla.ch^$dnstype=AAAA
 ||labiblia.com^$dnstype=AAAA
 ||labiennale.org^$dnstype=AAAA
+||labycore.cn^$dnstype=AAAA
 ||lacaixa.es^$dnstype=AAAA
 ||lachirigringa.org^$dnstype=AAAA
 ||lacnic.net^$dnstype=AAAA
@@ -19992,6 +20015,7 @@
 ||livingyourambition.com^$dnstype=AAAA
 ||liwangyang.com^$dnstype=AAAA
 ||liwuxiao.com^$dnstype=AAAA
+||liyuans.com^$dnstype=AAAA
 ||liyuwiki.com^$dnstype=AAAA
 ||lizhizhuangbi.com^$dnstype=AAAA
 ||ljb02.com^$dnstype=AAAA
@@ -20244,6 +20268,7 @@
 ||luckyyou.vip^$dnstype=AAAA
 ||lucrorfx.org^$dnstype=AAAA
 ||lucyintheskywithdi.com^$dnstype=AAAA
+||ludosuperstar.cn^$dnstype=AAAA
 ||ludwigvonkoopa.com^$dnstype=AAAA
 ||luguan.com^$dnstype=AAAA
 ||luisaviaroma.com^$dnstype=AAAA
@@ -20437,6 +20462,7 @@
 ||magzter.com^$dnstype=AAAA
 ||mahabodhi.org^$dnstype=AAAA
 ||mahajantech.com^$dnstype=AAAA
+||mahjongcup.cn^$dnstype=AAAA
 ||maiahoje.pt^$dnstype=AAAA
 ||maicloud.io^$dnstype=AAAA
 ||maicloud.me^$dnstype=AAAA
@@ -21010,6 +21036,7 @@
 ||mhhanman.xyz^$dnstype=AAAA
 ||mhradio.org^$dnstype=AAAA
 ||mhshosting.com^$dnstype=AAAA
+||mhyurl.cn^$dnstype=AAAA
 ||mhzj.xyz^$dnstype=AAAA
 ||mi513.com^$dnstype=AAAA
 ||mi550.com^$dnstype=AAAA
@@ -21191,6 +21218,7 @@
 ||mindnode.com^$dnstype=AAAA
 ||mindprince.in^$dnstype=AAAA
 ||mindrolling.org^$dnstype=AAAA
+||mindspore.cn^$dnstype=AAAA
 ||mine.bz^$dnstype=AAAA
 ||mine.nu^$dnstype=AAAA
 ||minecloud.in^$dnstype=AAAA
@@ -21862,6 +21890,7 @@
 ||msudalosti.com^$dnstype=AAAA
 ||msunlimitedcloudsummit.com^$dnstype=AAAA
 ||mswe1.org^$dnstype=AAAA
+||mszdld.cn^$dnstype=AAAA
 ||mt-ssul1.com^$dnstype=AAAA
 ||mtanos.com^$dnstype=AAAA
 ||mtao.fun^$dnstype=AAAA
@@ -22469,6 +22498,7 @@
 ||net-tv.tw^$dnstype=AAAA
 ||net.au^$dnstype=AAAA
 ||net.br^$dnstype=AAAA
+||net.cn^$dnstype=AAAA
 ||net.co^$dnstype=AAAA
 ||net.in^$dnstype=AAAA
 ||net.my^$dnstype=AAAA
@@ -22496,6 +22526,7 @@
 ||netfapx.com^$dnstype=AAAA
 ||netfirms.com^$dnstype=AAAA
 ||netflav.com^$dnstype=AAAA
+||netflav1.com^$dnstype=AAAA
 ||netflix.com^$dnstype=AAAA
 ||netflix.net^$dnstype=AAAA
 ||netflixdnstest0.com^$dnstype=AAAA
@@ -23271,6 +23302,9 @@
 ||nvquan.org^$dnstype=AAAA
 ||nvtongzhisheng.org^$dnstype=AAAA
 ||nwanime.tv^$dnstype=AAAA
+||nwcdcloud.cn^$dnstype=AAAA
+||nwcddns.cn^$dnstype=AAAA
+||nwcdinfosec.cn^$dnstype=AAAA
 ||nwi.com^$dnstype=AAAA
 ||nwipvideo.com^$dnstype=AAAA
 ||nwsource.com^$dnstype=AAAA
@@ -23760,6 +23794,7 @@
 ||org.ar^$dnstype=AAAA
 ||org.au^$dnstype=AAAA
 ||org.br^$dnstype=AAAA
+||org.cn^$dnstype=AAAA
 ||org.es^$dnstype=AAAA
 ||org.hk^$dnstype=AAAA
 ||org.il^$dnstype=AAAA
@@ -25653,6 +25688,7 @@
 ||pu9900.com^$dnstype=AAAA
 ||pu9955.com^$dnstype=AAAA
 ||puba.com^$dnstype=AAAA
+||pubgno1.cn^$dnstype=AAAA
 ||public-sex-porn.com^$dnstype=AAAA
 ||public-trust.com^$dnstype=AAAA
 ||publicaffairsbooks.com^$dnstype=AAAA
@@ -26551,6 +26587,8 @@
 ||robfuscate.com^$dnstype=AAAA
 ||robinlintec.com^$dnstype=AAAA
 ||robinlintech.com^$dnstype=AAAA
+||roblox.cn^$dnstype=AAAA
+||robloxdev.cn^$dnstype=AAAA
 ||roboforex.com^$dnstype=AAAA
 ||roboforex.tw^$dnstype=AAAA
 ||roboforexchina.com^$dnstype=AAAA
@@ -26620,6 +26658,7 @@
 ||roucdn.link^$dnstype=AAAA
 ||roughman.net^$dnstype=AAAA
 ||roupacaipira.com^$dnstype=AAAA
+||route53.cn^$dnstype=AAAA
 ||routledgehandbooks.com^$dnstype=AAAA
 ||royalcams.com^$dnstype=AAAA
 ||royalluxurywatch.com^$dnstype=AAAA
@@ -27011,11 +27050,14 @@
 ||scatsite.com^$dnstype=AAAA
 ||scatvids.club^$dnstype=AAAA
 ||scatville.com^$dnstype=AAAA
+||sccreator.cn^$dnstype=AAAA
+||sccreators.cn^$dnstype=AAAA
 ||sccycles.cl^$dnstype=AAAA
 ||scdn.co^$dnstype=AAAA
 ||scene7.com^$dnstype=AAAA
 ||scenesource.me^$dnstype=AAAA
 ||sceper.ws^$dnstype=AAAA
+||scescdn.cn^$dnstype=AAAA
 ||scgpbl.cn^$dnstype=AAAA
 ||scharferporno.com^$dnstype=AAAA
 ||schema.org^$dnstype=AAAA
@@ -27029,6 +27071,7 @@
 ||scholarsglobe.com^$dnstype=AAAA
 ||schonenaci.sk^$dnstype=AAAA
 ||schooltunnel.net^$dnstype=AAAA
+||scid.cn^$dnstype=AAAA
 ||science.com^$dnstype=AAAA
 ||science.org^$dnstype=AAAA
 ||sciencedaily.com^$dnstype=AAAA
@@ -27086,6 +27129,7 @@
 ||scriusa.org^$dnstype=AAAA
 ||scrivinor.com^$dnstype=AAAA
 ||scroll.com^$dnstype=AAAA
+||scsentry.cn^$dnstype=AAAA
 ||scss.pw^$dnstype=AAAA
 ||scubastore.com^$dnstype=AAAA
 ||sd-bbs.net^$dnstype=AAAA
@@ -27883,6 +27927,7 @@
 ||skyav.me^$dnstype=AAAA
 ||skybet.com^$dnstype=AAAA
 ||skybet98.com^$dnstype=AAAA
+||skydweller.cn^$dnstype=AAAA
 ||skykiwi.com^$dnstype=AAAA
 ||skylineo.com^$dnstype=AAAA
 ||skynet.be^$dnstype=AAAA
@@ -28879,6 +28924,8 @@
 ||superair.tw^$dnstype=AAAA
 ||superbookcity.com^$dnstype=AAAA
 ||superbrownbear.com^$dnstype=AAAA
+||supercellcommunity.cn^$dnstype=AAAA
+||supercellsupport.cn^$dnstype=AAAA
 ||superchina.xyz^$dnstype=AAAA
 ||superearsenjoy.com^$dnstype=AAAA
 ||superfastdatanet.com^$dnstype=AAAA
@@ -29472,6 +29519,7 @@
 ||texasartsacademics.org^$dnstype=AAAA
 ||texasboyschoir.org^$dnstype=AAAA
 ||texasdanceconservatory.org^$dnstype=AAAA
+||texasholdemcup.cn^$dnstype=AAAA
 ||texon.com^$dnstype=AAAA
 ||texstudio.org^$dnstype=AAAA
 ||textcashnetwork.com^$dnstype=AAAA
@@ -33815,6 +33863,7 @@
 ||xn--octt84bmki.com^$dnstype=AAAA
 ||xn--ohq11k7pl25iyo8a.cn^$dnstype=AAAA
 ||xn--oiq.cc^$dnstype=AAAA
+||xn--owtw8cc49ajfl.cn^$dnstype=AAAA
 ||xn--pearsonenespaol-brb.com^$dnstype=AAAA
 ||xn--q41am8x.com^$dnstype=AAAA
 ||xn--qoq462m.com^$dnstype=AAAA
@@ -34741,6 +34790,7 @@
 ||yx51.net^$dnstype=AAAA
 ||yx8811.com^$dnstype=AAAA
 ||yxcp.me^$dnstype=AAAA
+||yximg.cn^$dnstype=AAAA
 ||yy011.com^$dnstype=AAAA
 ||yy0110.com^$dnstype=AAAA
 ||yy55.tv^$dnstype=AAAA
