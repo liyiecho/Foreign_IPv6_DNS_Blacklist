@@ -3474,6 +3474,7 @@
 ||advansa.org^$dnstype=AAAA
 ||advanscene.com^$dnstype=AAAA
 ||adventist.org^$dnstype=AAAA
+||adventofcode.com^$dnstype=AAAA
 ||adventuresbydisney.com^$dnstype=AAAA
 ||advertfan.com^$dnstype=AAAA
 ||advertisercommunity.com^$dnstype=AAAA
