@@ -25323,7 +25323,6 @@
 ||powerbeatsbydre.com^$dnstype=AAAA
 ||powerbi.cn^$dnstype=AAAA
 ||powerbi.com^$dnstype=AAAA
-||powercx.com^$dnstype=AAAA
 ||powerdns.org^$dnstype=AAAA
 ||poweredbyintel.com^$dnstype=AAAA
 ||powerofresolve.com^$dnstype=AAAA
