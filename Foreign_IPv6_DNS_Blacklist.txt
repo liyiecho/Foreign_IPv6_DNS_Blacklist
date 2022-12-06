@@ -11433,6 +11433,7 @@
 ||ecstart.com^$dnstype=AAAA
 ||ecuatorianas.best^$dnstype=AAAA
 ||ed1zas.net^$dnstype=AAAA
+||ed21.cc^$dnstype=AAAA
 ||ed2k.im^$dnstype=AAAA
 ||edah.us^$dnstype=AAAA
 ||edapp.com^$dnstype=AAAA
@@ -12510,6 +12511,7 @@
 ||fameregistry.com^$dnstype=AAAA
 ||families.google^$dnstype=AAAA
 ||family-sex.me^$dnstype=AAAA
+||family-simulator.io^$dnstype=AAAA
 ||familyfed.org^$dnstype=AAAA
 ||familyhealth.xyz^$dnstype=AAAA
 ||familypies.net^$dnstype=AAAA
@@ -16749,6 +16751,7 @@
 ||hybssr.org^$dnstype=AAAA
 ||hyc1324.com^$dnstype=AAAA
 ||hyc1324.xyz^$dnstype=AAAA
+||hycgm1324.shop^$dnstype=AAAA
 ||hychot4.xyz^$dnstype=AAAA
 ||hycm.com^$dnstype=AAAA
 ||hyds360.com^$dnstype=AAAA
