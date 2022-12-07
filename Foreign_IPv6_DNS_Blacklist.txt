@@ -19254,6 +19254,8 @@
 ||kuaisantui.cf^$dnstype=AAAA
 ||kuaixian.me^$dnstype=AAAA
 ||kuam.com^$dnstype=AAAA
+||kubakuba.global^$dnstype=AAAA
+||kubakuba1996.com^$dnstype=AAAA
 ||kubeacademy.com^$dnstype=AAAA
 ||kubeapps.com^$dnstype=AAAA
 ||kubernetes.io^$dnstype=AAAA
