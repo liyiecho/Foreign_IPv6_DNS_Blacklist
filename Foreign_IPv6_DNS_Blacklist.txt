@@ -3423,6 +3423,7 @@
 ||adsenseformobileapps.com^$dnstype=AAAA
 ||adshoppeevents.com^$dnstype=AAAA
 ||adss.asia^$dnstype=AAAA
+||adtidy.org^$dnstype=AAAA
 ||adult-cartoon-sex.com^$dnstype=AAAA
 ||adult-empire.com^$dnstype=AAAA
 ||adult-list.com^$dnstype=AAAA
@@ -30032,7 +30033,10 @@
 ||tigerpvp.ga^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
 ||tik-tokapi.com^$dnstype=AAAA
+||tiktok.com^$dnstype=AAAA
 ||tiktokcdn-us.com^$dnstype=AAAA
+||tiktokcdn.com^$dnstype=AAAA
+||tiktokv.com^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
 ||timcok.com^$dnstype=AAAA
 ||timdir.com^$dnstype=AAAA
@@ -32518,6 +32522,7 @@
 ||wanz-factory.com^$dnstype=AAAA
 ||wapedia.mobi^$dnstype=AAAA
 ||waplog.com^$dnstype=AAAA
+||wapm.io^$dnstype=AAAA
 ||waqi.info^$dnstype=AAAA
 ||waqn.com^$dnstype=AAAA
 ||waranlov.com^$dnstype=AAAA
@@ -32538,6 +32543,7 @@
 ||washingtontibet.org^$dnstype=AAAA
 ||washingtontimes.com^$dnstype=AAAA
 ||waskucity.com^$dnstype=AAAA
+||wasmer.io^$dnstype=AAAA
 ||waszapolska.tv^$dnstype=AAAA
 ||wataru.moe^$dnstype=AAAA
 ||watch-ebay.org^$dnstype=AAAA
