@@ -11201,6 +11201,7 @@
 ||easportsfootballclub.com^$dnstype=AAAA
 ||easportsmma.com^$dnstype=AAAA
 ||easportsworld.com^$dnstype=AAAA
+||east-plus.net^$dnstype=AAAA
 ||east.moe^$dnstype=AAAA
 ||eastasiaforum.org^$dnstype=AAAA
 ||eastern-ark.com^$dnstype=AAAA
@@ -28393,6 +28394,7 @@
 ||spreadshirt.es^$dnstype=AAAA
 ||spreaker.com^$dnstype=AAAA
 ||spreely.com^$dnstype=AAAA
+||spring-plus.net^$dnstype=AAAA
 ||spring.io^$dnstype=AAAA
 ||spring.net^$dnstype=AAAA
 ||spring4u.info^$dnstype=AAAA
