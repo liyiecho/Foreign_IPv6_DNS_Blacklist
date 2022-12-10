@@ -10104,6 +10104,7 @@
 ||decodet.co^$dnstype=AAAA
 ||decolores.cl^$dnstype=AAAA
 ||deconversion.org^$dnstype=AAAA
+||decrypt.day^$dnstype=AAAA
 ||dedelu.com^$dnstype=AAAA
 ||deepcoin.vip^$dnstype=AAAA
 ||deepdiscount.com^$dnstype=AAAA
