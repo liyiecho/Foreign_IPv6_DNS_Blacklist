@@ -3547,6 +3547,7 @@
 ||ag88.com^$dnstype=AAAA
 ||ag888.com^$dnstype=AAAA
 ||ag9.com^$dnstype=AAAA
+||aga-expo.com^$dnstype=AAAA
 ||agapp.net^$dnstype=AAAA
 ||agardenday.com^$dnstype=AAAA
 ||agc-ity.com^$dnstype=AAAA
@@ -12568,6 +12569,7 @@
 ||fanqiangzhe.com^$dnstype=AAAA
 ||fans-here.com^$dnstype=AAAA
 ||fansnudes.com^$dnstype=AAAA
+||fansta.me^$dnstype=AAAA
 ||fansteek.com^$dnstype=AAAA
 ||fanswong.com^$dnstype=AAAA
 ||fantasiasguatemala.com^$dnstype=AAAA
@@ -20165,6 +20167,7 @@
 ||lout.com^$dnstype=AAAA
 ||love100girl.com^$dnstype=AAAA
 ||love4fm.com^$dnstype=AAAA
+||love6.tv^$dnstype=AAAA
 ||love7.xyz^$dnstype=AAAA
 ||loveav.org^$dnstype=AAAA
 ||lovebeatsdr.com^$dnstype=AAAA
@@ -23561,6 +23564,7 @@
 ||omny.fm^$dnstype=AAAA
 ||omobi.cc^$dnstype=AAAA
 ||omoplanet.com^$dnstype=AAAA
+||omorashi.org^$dnstype=AAAA
 ||omscr.com^$dnstype=AAAA
 ||omtrdc.net^$dnstype=AAAA
 ||omy.sg^$dnstype=AAAA
@@ -24808,6 +24812,7 @@
 ||playframework.org^$dnstype=AAAA
 ||playhearthstone.com^$dnstype=AAAA
 ||playmation.com^$dnstype=AAAA
+||playmeow.com^$dnstype=AAAA
 ||playnintendo.com^$dnstype=AAAA
 ||playno1.com^$dnstype=AAAA
 ||playoverwatch.com^$dnstype=AAAA
