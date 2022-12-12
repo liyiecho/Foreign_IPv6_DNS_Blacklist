@@ -8764,7 +8764,6 @@
 ||cleansolutions.mx^$dnstype=AAAA
 ||clearasil.cn^$dnstype=AAAA
 ||clearharmony.net^$dnstype=AAAA
-||clearlinux.cn^$dnstype=AAAA
 ||clearlinux.org^$dnstype=AAAA
 ||clearsurance.com^$dnstype=AAAA
 ||clearwisdom.net^$dnstype=AAAA
@@ -13411,6 +13410,7 @@
 ||fr24news.com^$dnstype=AAAA
 ||fracebook.com^$dnstype=AAAA
 ||fractal-design.com^$dnstype=AAAA
+||fragment.com^$dnstype=AAAA
 ||fragrancebay.com^$dnstype=AAAA
 ||framote.com^$dnstype=AAAA
 ||france24.com^$dnstype=AAAA
