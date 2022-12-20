@@ -9874,6 +9874,7 @@
 ||daloopa.com^$dnstype=AAAA
 ||damanpost.com^$dnstype=AAAA
 ||damara.me^$dnstype=AAAA
+||damduc.org^$dnstype=AAAA
 ||damnhotz.com^$dnstype=AAAA
 ||damon-baker.com^$dnstype=AAAA
 ||damplips.com^$dnstype=AAAA
@@ -20896,6 +20897,7 @@
 ||megaphone.fm^$dnstype=AAAA
 ||megapornfreehd.com^$dnstype=AAAA
 ||megapornotv.com^$dnstype=AAAA
+||megapornpics.com^$dnstype=AAAA
 ||megaproxy.com^$dnstype=AAAA
 ||megaproxy.nl^$dnstype=AAAA
 ||megaproxy.pw^$dnstype=AAAA
@@ -22337,6 +22339,7 @@
 ||naked-girls.me^$dnstype=AAAA
 ||naked.com^$dnstype=AAAA
 ||nakedasiansex.com^$dnstype=AAAA
+||nakedgirls.biz^$dnstype=AAAA
 ||nakedhosting.com^$dnstype=AAAA
 ||nakedmodelsxxx.com^$dnstype=AAAA
 ||nakednews.com^$dnstype=AAAA
@@ -34112,6 +34115,7 @@
 ||xxshe.com^$dnstype=AAAA
 ||xxshe.xyz^$dnstype=AAAA
 ||xxtvapp.com^$dnstype=AAAA
+||xxu.mobi^$dnstype=AAAA
 ||xxuz.com^$dnstype=AAAA
 ||xxvideo.mobi^$dnstype=AAAA
 ||xxvideoss.org^$dnstype=AAAA
