@@ -29459,6 +29459,7 @@
 ||teleconomiser.com^$dnstype=AAAA
 ||telega.one^$dnstype=AAAA
 ||telegra.ph^$dnstype=AAAA
+||telegram-cdn.org^$dnstype=AAAA
 ||telegram-porn.com^$dnstype=AAAA
 ||telegram.dog^$dnstype=AAAA
 ||telegram.im^$dnstype=AAAA
