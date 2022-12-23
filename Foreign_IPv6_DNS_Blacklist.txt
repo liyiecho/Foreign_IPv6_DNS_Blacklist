@@ -1237,6 +1237,7 @@
 ||332551.com^$dnstype=AAAA
 ||33275jb.com^$dnstype=AAAA
 ||332k.tk^$dnstype=AAAA
+||33331.com^$dnstype=AAAA
 ||33331a.com^$dnstype=AAAA
 ||333337cp.com^$dnstype=AAAA
 ||33339.com^$dnstype=AAAA
@@ -11104,6 +11105,7 @@
 ||dynvpn.com^$dnstype=AAAA
 ||dysfz.cc^$dnstype=AAAA
 ||dyslexiala.com^$dnstype=AAAA
+||dytt.net^$dnstype=AAAA
 ||dyttapi.com^$dnstype=AAAA
 ||dyttapis.com^$dnstype=AAAA
 ||dyvip18.com^$dnstype=AAAA
