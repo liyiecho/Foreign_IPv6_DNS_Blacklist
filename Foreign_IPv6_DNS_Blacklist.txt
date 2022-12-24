@@ -22744,6 +22744,7 @@
 ||nfoxo.com^$dnstype=AAAA
 ||nfsc.global^$dnstype=AAAA
 ||nfscdict.com^$dnstype=AAAA
+||nfscofficial.com^$dnstype=AAAA
 ||nfsworld.com^$dnstype=AAAA
 ||nftstorage.link^$dnstype=AAAA
 ||ng.mil^$dnstype=AAAA
