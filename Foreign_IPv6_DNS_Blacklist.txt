@@ -5665,6 +5665,7 @@
 ||bdg987.com^$dnstype=AAAA
 ||bdj55.com^$dnstype=AAAA
 ||bdj98.com^$dnstype=AAAA
+||bdsm-mov.net^$dnstype=AAAA
 ||bdsm.com^$dnstype=AAAA
 ||bdsmboard.org^$dnstype=AAAA
 ||bdsmbunker.com^$dnstype=AAAA
@@ -8411,6 +8412,7 @@
 ||chenpokong.com^$dnstype=AAAA
 ||chenpokong.net^$dnstype=AAAA
 ||chenpokongvip.com^$dnstype=AAAA
+||cherry-tale.com^$dnstype=AAAA
 ||cherryasia.com^$dnstype=AAAA
 ||cherrybrady.com^$dnstype=AAAA
 ||cherrynudes.com^$dnstype=AAAA
@@ -11805,6 +11807,7 @@
 ||ero-labs.com^$dnstype=AAAA
 ||ero-labs.net^$dnstype=AAAA
 ||ero-labs.online^$dnstype=AAAA
+||ero-labs.site^$dnstype=AAAA
 ||ero-ma-nia.com^$dnstype=AAAA
 ||ero-manga-platinum.net^$dnstype=AAAA
 ||ero-mangalife.com^$dnstype=AAAA
@@ -20582,6 +20585,7 @@
 ||mango.com^$dnstype=AAAA
 ||mangoporn.net^$dnstype=AAAA
 ||mangovpn.com^$dnstype=AAAA
+||manhuabika.com^$dnstype=AAAA
 ||manhuagui.com^$dnstype=AAAA
 ||manhub.com^$dnstype=AAAA
 ||manhunt.net^$dnstype=AAAA
@@ -29550,6 +29554,7 @@
 ||texttobuy.org^$dnstype=AAAA
 ||texture.com^$dnstype=AAAA
 ||tf18.com^$dnstype=AAAA
+||tferwq.com^$dnstype=AAAA
 ||tfhub.dev^$dnstype=AAAA
 ||tfiflve.com^$dnstype=AAAA
 ||tfino.com^$dnstype=AAAA
