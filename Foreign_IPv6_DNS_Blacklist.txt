@@ -4690,6 +4690,7 @@
 ||arewereadyyet.com^$dnstype=AAAA
 ||arexv.com^$dnstype=AAAA
 ||areyoucreditwise.com^$dnstype=AAAA
+||argotunnel.com^$dnstype=AAAA
 ||aria.ms^$dnstype=AAAA
 ||arily.moe^$dnstype=AAAA
 ||arincdirect.com^$dnstype=AAAA
@@ -8829,6 +8830,7 @@
 ||cloudflare.com^$dnstype=AAAA
 ||cloudflare.net^$dnstype=AAAA
 ||cloudflare.tv^$dnstype=AAAA
+||cloudflareaccess.com^$dnstype=AAAA
 ||cloudflareapps.com^$dnstype=AAAA
 ||cloudflarebolt.com^$dnstype=AAAA
 ||cloudflareclient.com^$dnstype=AAAA
