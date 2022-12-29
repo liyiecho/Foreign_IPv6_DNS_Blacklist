@@ -12683,6 +12683,7 @@
 ||fb.careers^$dnstype=AAAA
 ||fb.co^$dnstype=AAAA
 ||fb.com^$dnstype=AAAA
+||fb.gg^$dnstype=AAAA
 ||fb.me^$dnstype=AAAA
 ||fb.watch^$dnstype=AAAA
 ||fbacebook.com^$dnstype=AAAA
@@ -12721,6 +12722,7 @@
 ||fbthirdpartypixel.org^$dnstype=AAAA
 ||fburl.com^$dnstype=AAAA
 ||fbvpn.com^$dnstype=AAAA
+||fbwat.ch^$dnstype=AAAA
 ||fbworkmail.com^$dnstype=AAAA
 ||fc00.io^$dnstype=AAAA
 ||fc02.com^$dnstype=AAAA
