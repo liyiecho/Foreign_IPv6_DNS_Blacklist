@@ -23934,6 +23934,7 @@
 ||overcast.fm^$dnstype=AAAA
 ||overdaily.org^$dnstype=AAAA
 ||overdrive.com^$dnstype=AAAA
+||overleaf.com^$dnstype=AAAA
 ||overock.com^$dnstype=AAAA
 ||overplay.net^$dnstype=AAAA
 ||overthumbs.com^$dnstype=AAAA
