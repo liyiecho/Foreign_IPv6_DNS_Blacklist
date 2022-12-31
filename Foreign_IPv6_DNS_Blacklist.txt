@@ -25492,6 +25492,7 @@
 ||procopytips.com^$dnstype=AAAA
 ||proctoscopeexam.com^$dnstype=AAAA
 ||prodrive-japan.com^$dnstype=AAAA
+||proex.io^$dnstype=AAAA
 ||profreeporno.com^$dnstype=AAAA
 ||programagol.cl^$dnstype=AAAA
 ||programthinkmirror.com^$dnstype=AAAA
