@@ -8856,6 +8856,7 @@
 ||cloudinary.com^$dnstype=AAAA
 ||cloudinary.net^$dnstype=AAAA
 ||cloudinsights.com^$dnstype=AAAA
+||cloudlatex.io^$dnstype=AAAA
 ||cloudlive.com^$dnstype=AAAA
 ||cloudlock.com^$dnstype=AAAA
 ||cloudmagic.com^$dnstype=AAAA
@@ -33039,6 +33040,7 @@
 ||wionnews.com^$dnstype=AAAA
 ||wipower.com^$dnstype=AAAA
 ||wire.com^$dnstype=AAAA
+||wired.com^$dnstype=AAAA
 ||wiredbytes.com^$dnstype=AAAA
 ||wiredpen.com^$dnstype=AAAA
 ||wireguard.com^$dnstype=AAAA
