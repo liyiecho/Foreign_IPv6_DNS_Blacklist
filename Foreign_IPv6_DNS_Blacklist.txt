@@ -9641,6 +9641,7 @@
 ||cumswappingsis.com^$dnstype=AAAA
 ||cumteenporn.com^$dnstype=AAAA
 ||cunhua.mba^$dnstype=AAAA
+||cuntcrack.com^$dnstype=AAAA
 ||cuntempire.com^$dnstype=AAAA
 ||cuny.edu^$dnstype=AAAA
 ||cup888.tv^$dnstype=AAAA
@@ -14878,6 +14879,7 @@
 ||google.cl^$dnstype=AAAA
 ||google.cm^$dnstype=AAAA
 ||google.cn^$dnstype=AAAA
+||google.co^$dnstype=AAAA
 ||google.com^$dnstype=AAAA
 ||google.cv^$dnstype=AAAA
 ||google.cz^$dnstype=AAAA
@@ -23886,6 +23888,7 @@
 ||ossxtv.com^$dnstype=AAAA
 ||osxdaily.com^$dnstype=AAAA
 ||oszx.co^$dnstype=AAAA
+||otaku-168.com^$dnstype=AAAA
 ||otakuss.com^$dnstype=AAAA
 ||otbm.com^$dnstype=AAAA
 ||otcbtc.com^$dnstype=AAAA
@@ -26181,6 +26184,7 @@
 ||rateyourmusic.com^$dnstype=AAAA
 ||rationalwiki.org^$dnstype=AAAA
 ||ratujtybet.org^$dnstype=AAAA
+||ratx.com^$dnstype=AAAA
 ||rauchmeldershop.ch^$dnstype=AAAA
 ||ravm.tv^$dnstype=AAAA
 ||rawdirect.com^$dnstype=AAAA
@@ -29169,6 +29173,7 @@
 ||t272.net^$dnstype=AAAA
 ||t28.net^$dnstype=AAAA
 ||t35.com^$dnstype=AAAA
+||t35hosting.com^$dnstype=AAAA
 ||t3641.com^$dnstype=AAAA
 ||t369.ml^$dnstype=AAAA
 ||t3gamers.com^$dnstype=AAAA
@@ -29445,6 +29450,7 @@
 ||teenagefucking.com^$dnstype=AAAA
 ||teenchoice.com^$dnstype=AAAA
 ||teendreams.com^$dnstype=AAAA
+||teenfucks.org^$dnstype=AAAA
 ||teeniefuck.net^$dnstype=AAAA
 ||teenmegaporn.com^$dnstype=AAAA
 ||teenporn.com^$dnstype=AAAA
@@ -33861,6 +33867,7 @@
 ||xmbus1.xyz^$dnstype=AAAA
 ||xmissy.nl^$dnstype=AAAA
 ||xml-training-guide.com^$dnstype=AAAA
+||xmonk.net^$dnstype=AAAA
 ||xmovies.com^$dnstype=AAAA
 ||xmoviesforyou.com^$dnstype=AAAA
 ||xmsina.com^$dnstype=AAAA
