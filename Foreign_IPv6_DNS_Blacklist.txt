@@ -5479,6 +5479,7 @@
 ||baixing.me^$dnstype=AAAA
 ||baixn.xyz^$dnstype=AAAA
 ||baiyun.net^$dnstype=AAAA
+||baizhi.org^$dnstype=AAAA
 ||bajie123.com^$dnstype=AAAA
 ||bakaproxy.moe^$dnstype=AAAA
 ||bakerssecret.com^$dnstype=AAAA
