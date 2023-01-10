@@ -5739,6 +5739,7 @@
 ||bdj98.com^$dnstype=AAAA
 ||bdsm-mov.net^$dnstype=AAAA
 ||bdsm.com^$dnstype=AAAA
+||bdsm123.xyz^$dnstype=AAAA
 ||bdsmboard.org^$dnstype=AAAA
 ||bdsmbunker.com^$dnstype=AAAA
 ||bdsmcafe.com^$dnstype=AAAA
@@ -7103,6 +7104,7 @@
 ||bondageblog.com^$dnstype=AAAA
 ||bondagecomixxx.net^$dnstype=AAAA
 ||bondagesex-xxx.com^$dnstype=AAAA
+||bondagesm.xyz^$dnstype=AAAA
 ||bondia24.com^$dnstype=AAAA
 ||bonedathome.com^$dnstype=AAAA
 ||bonfoundation.org^$dnstype=AAAA
@@ -7468,6 +7470,7 @@
 ||bullogs.com^$dnstype=AAAA
 ||bullvpn.com^$dnstype=AAAA
 ||bululusexdoll.com^$dnstype=AAAA
+||bumingbai.net^$dnstype=AAAA
 ||bumpshare.com^$dnstype=AAAA
 ||bumptop.com^$dnstype=AAAA
 ||bumptop.net^$dnstype=AAAA
@@ -8172,6 +8175,7 @@
 ||caxata.com^$dnstype=AAAA
 ||cazila.com^$dnstype=AAAA
 ||cba.ca^$dnstype=AAAA
+||cbart.net^$dnstype=AAAA
 ||cbc.ca^$dnstype=AAAA
 ||cbcnews.ca^$dnstype=AAAA
 ||cbfoot.com^$dnstype=AAAA
@@ -10892,6 +10896,7 @@
 ||doubleclickbygoogle.com^$dnstype=AAAA
 ||doublehop.me^$dnstype=AAAA
 ||doublemoney.site^$dnstype=AAAA
+||doublethinklab.org^$dnstype=AAAA
 ||doubmirror.cf^$dnstype=AAAA
 ||douchi.space^$dnstype=AAAA
 ||dougscripts.com^$dnstype=AAAA
@@ -15003,6 +15008,7 @@
 ||googil.com^$dnstype=AAAA
 ||googke.me^$dnstype=AAAA
 ||googl.com^$dnstype=AAAA
+||google-access.net^$dnstype=AAAA
 ||google-ch.com^$dnstype=AAAA
 ||google-melange.com^$dnstype=AAAA
 ||google-syndication.com^$dnstype=AAAA
@@ -16537,6 +16543,7 @@
 ||hotbox.com^$dnstype=AAAA
 ||hotcandyland.com^$dnstype=AAAA
 ||hotclaudia.de^$dnstype=AAAA
+||hotcoin.com^$dnstype=AAAA
 ||hotcuckoldwife.com^$dnstype=AAAA
 ||hotcumporn.com^$dnstype=AAAA
 ||hotdh.xyz^$dnstype=AAAA
@@ -16894,6 +16901,7 @@
 ||humanrightsdefenders.org^$dnstype=AAAA
 ||humanrightsfoundation.org^$dnstype=AAAA
 ||humanrightshouse.org^$dnstype=AAAA
+||humanrightspressawards.org^$dnstype=AAAA
 ||humansofnewyork.com^$dnstype=AAAA
 ||humblebundle.com^$dnstype=AAAA
 ||hummingbird.ms^$dnstype=AAAA
@@ -20129,6 +20137,7 @@
 ||line-beta.me^$dnstype=AAAA
 ||line-cdn.net^$dnstype=AAAA
 ||line-scdn.net^$dnstype=AAAA
+||line.biz^$dnstype=AAAA
 ||line.me^$dnstype=AAAA
 ||line.vn^$dnstype=AAAA
 ||line36.ga^$dnstype=AAAA
@@ -22909,6 +22918,7 @@
 ||newlysprung.net^$dnstype=AAAA
 ||newmediarights.org^$dnstype=AAAA
 ||newmexico.gov^$dnstype=AAAA
+||newmitbbs.com^$dnstype=AAAA
 ||newmonst1erbeatsto1re.com^$dnstype=AAAA
 ||newmonsterbeatsheadphones.com^$dnstype=AAAA
 ||newmoon.com^$dnstype=AAAA
@@ -27772,6 +27782,7 @@
 ||sexkorea.net^$dnstype=AAAA
 ||sexlikereal.com^$dnstype=AAAA
 ||sexmadeathome.com^$dnstype=AAAA
+||sexmerci.com^$dnstype=AAAA
 ||sexmix.net^$dnstype=AAAA
 ||sexmomsex.com^$dnstype=AAAA
 ||sexmovies24.com^$dnstype=AAAA
