@@ -14539,7 +14539,9 @@
 ||get.app^$dnstype=AAAA
 ||get.dev^$dnstype=AAAA
 ||get.how^$dnstype=AAAA
+||get.new^$dnstype=AAAA
 ||get.page^$dnstype=AAAA
+||get.rsvp^$dnstype=AAAA
 ||getadblock.com^$dnstype=AAAA
 ||getastrill.com^$dnstype=AAAA
 ||getavpn.org^$dnstype=AAAA
@@ -16013,6 +16015,7 @@
 ||hexieshe.com^$dnstype=AAAA
 ||hexieshe.xyz^$dnstype=AAAA
 ||hexxeh.net^$dnstype=AAAA
+||hey.boo^$dnstype=AAAA
 ||heyav.tv^$dnstype=AAAA
 ||heydoga.com^$dnstype=AAAA
 ||heydouga.com^$dnstype=AAAA
@@ -22882,6 +22885,7 @@
 ||new-av.com^$dnstype=AAAA
 ||new-jero.net^$dnstype=AAAA
 ||new-redtube.com^$dnstype=AAAA
+||new.day^$dnstype=AAAA
 ||new3dcomics.com^$dnstype=AAAA
 ||new96.ca^$dnstype=AAAA
 ||newadvent.org^$dnstype=AAAA
