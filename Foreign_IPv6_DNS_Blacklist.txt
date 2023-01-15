@@ -26368,6 +26368,8 @@
 ||qusi8.net^$dnstype=AAAA
 ||quutoo.net^$dnstype=AAAA
 ||qvodzy.org^$dnstype=AAAA
+||qwant.com^$dnstype=AAAA
+||qwant.it^$dnstype=AAAA
 ||qwapi.com^$dnstype=AAAA
 ||qwe18.com^$dnstype=AAAA
 ||qwe56.net^$dnstype=AAAA
