@@ -6375,7 +6375,6 @@
 ||bili999.com^$dnstype=AAAA
 ||bilifl.com^$dnstype=AAAA
 ||bilifuli.com^$dnstype=AAAA
-||biliintl.com^$dnstype=AAAA
 ||biliworld.com^$dnstype=AAAA
 ||bill-safe.com^$dnstype=AAAA
 ||bill2-software.com^$dnstype=AAAA
