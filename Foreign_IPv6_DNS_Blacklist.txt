@@ -8372,6 +8372,8 @@
 ||cfna.com^$dnstype=AAAA
 ||cfos.de^$dnstype=AAAA
 ||cfr.org^$dnstype=AAAA
+||cftest5.cn^$dnstype=AAAA
+||cftest6.cn^$dnstype=AAAA
 ||cftfc.com^$dnstype=AAAA
 ||cfun88.com^$dnstype=AAAA
 ||cfwives.com^$dnstype=AAAA
