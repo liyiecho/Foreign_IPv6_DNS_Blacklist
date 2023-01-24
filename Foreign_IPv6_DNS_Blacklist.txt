@@ -4806,6 +4806,7 @@
 ||aseschool.org^$dnstype=AAAA
 ||asesoria.cl^$dnstype=AAAA
 ||asexdoll.com^$dnstype=AAAA
+||asextube.net^$dnstype=AAAA
 ||asezwao.org^$dnstype=AAAA
 ||asg.to^$dnstype=AAAA
 ||asgam.com^$dnstype=AAAA
@@ -6798,6 +6799,7 @@
 ||bluesprig.com^$dnstype=AAAA
 ||bluffave.com^$dnstype=AAAA
 ||bluffavenue.com^$dnstype=AAAA
+||bluffyporn.com^$dnstype=AAAA
 ||blupace.com^$dnstype=AAAA
 ||blz-contentstack.com^$dnstype=AAAA
 ||blzstatic.cn^$dnstype=AAAA
@@ -11987,6 +11989,7 @@
 ||eromanga-hentai.com^$dnstype=AAAA
 ||eromanga-kingdom.com^$dnstype=AAAA
 ||eromanga-mainichi.com^$dnstype=AAAA
+||eromanga-school.com^$dnstype=AAAA
 ||eromangadouzin.com^$dnstype=AAAA
 ||eromangajukujo.com^$dnstype=AAAA
 ||eromazofu.com^$dnstype=AAAA
@@ -15852,11 +15855,15 @@
 ||hengssc88.com^$dnstype=AAAA
 ||henmang.net^$dnstype=AAAA
 ||henry-lab.com^$dnstype=AAAA
+||hentai-ani.me^$dnstype=AAAA
 ||hentai-archive.com^$dnstype=AAAA
+||hentai-books.com^$dnstype=AAAA
+||hentai-cosplays.com^$dnstype=AAAA
 ||hentai-for.net^$dnstype=AAAA
 ||hentai-foundry.com^$dnstype=AAAA
 ||hentai-fun.com^$dnstype=AAAA
 ||hentai-gamer.com^$dnstype=AAAA
+||hentai-gif-anime.com^$dnstype=AAAA
 ||hentai-image.com^$dnstype=AAAA
 ||hentai-img.com^$dnstype=AAAA
 ||hentai-moon.com^$dnstype=AAAA
@@ -15891,6 +15898,7 @@
 ||hentai69.online^$dnstype=AAAA
 ||hentaia.net^$dnstype=AAAA
 ||hentaiaction.net^$dnstype=AAAA
+||hentaiasmr.moe^$dnstype=AAAA
 ||hentaiathome.net^$dnstype=AAAA
 ||hentaibar.com^$dnstype=AAAA
 ||hentaiblue.com^$dnstype=AAAA
@@ -15964,6 +15972,7 @@
 ||hentaivideos.net^$dnstype=AAAA
 ||hentaivideoworld.com^$dnstype=AAAA
 ||hentaivn.la^$dnstype=AAAA
+||hentaivn.net^$dnstype=AAAA
 ||hentaivvz.com^$dnstype=AAAA
 ||hentaiworld.tv^$dnstype=AAAA
 ||hentaiworldporn.com^$dnstype=AAAA
@@ -16808,6 +16817,7 @@
 ||https443.org^$dnstype=AAAA
 ||httpsfacebook.com^$dnstype=AAAA
 ||httpwwwfacebook.com^$dnstype=AAAA
+||htvncdn.net^$dnstype=AAAA
 ||htyj-bj.com^$dnstype=AAAA
 ||hu188.net^$dnstype=AAAA
 ||hu1u.com^$dnstype=AAAA
@@ -25490,6 +25500,7 @@
 ||pornocarioca.com^$dnstype=AAAA
 ||pornocaserotube.com^$dnstype=AAAA
 ||pornocomic.net^$dnstype=AAAA
+||pornodanke.com^$dnstype=AAAA
 ||pornodebolivia.net^$dnstype=AAAA
 ||pornodoido.com^$dnstype=AAAA
 ||pornodrome.tv^$dnstype=AAAA
@@ -25500,6 +25511,7 @@
 ||pornogayphy.com^$dnstype=AAAA
 ||pornogids.net^$dnstype=AAAA
 ||pornogramxxx.com^$dnstype=AAAA
+||pornogrund.com^$dnstype=AAAA
 ||pornoh.info^$dnstype=AAAA
 ||pornohd.plus^$dnstype=AAAA
 ||pornohub.su^$dnstype=AAAA
@@ -25511,10 +25523,12 @@
 ||pornoisy.com^$dnstype=AAAA
 ||pornoitaliano.com^$dnstype=AAAA
 ||pornojefe.com^$dnstype=AAAA
+||pornojux.com^$dnstype=AAAA
 ||pornoko.net^$dnstype=AAAA
 ||pornokrol.com^$dnstype=AAAA
 ||pornolab.net^$dnstype=AAAA
 ||pornolaba.mobi^$dnstype=AAAA
+||pornomasse.com^$dnstype=AAAA
 ||pornomineiro.com^$dnstype=AAAA
 ||pornone.com^$dnstype=AAAA
 ||pornoorzel.com^$dnstype=AAAA
@@ -25606,6 +25620,7 @@
 ||pornwhite.com^$dnstype=AAAA
 ||pornwhitelist.com^$dnstype=AAAA
 ||pornworms.com^$dnstype=AAAA
+||pornxp.com^$dnstype=AAAA
 ||pornxs.com^$dnstype=AAAA
 ||pornxvideos.tv^$dnstype=AAAA
 ||pornxvideos.win^$dnstype=AAAA
@@ -34592,6 +34607,7 @@
 ||xxx-fap.com^$dnstype=AAAA
 ||xxx-files.org^$dnstype=AAAA
 ||xxx-porn-fuck.com^$dnstype=AAAA
+||xxx-porn-tube.com^$dnstype=AAAA
 ||xxx-porn.info^$dnstype=AAAA
 ||xxx-video.cfd^$dnstype=AAAA
 ||xxx-videos.tv^$dnstype=AAAA
