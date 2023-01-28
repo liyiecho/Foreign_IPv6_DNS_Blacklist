@@ -7462,6 +7462,7 @@
 ||bukkake-jav.com^$dnstype=AAAA
 ||bukkake.link^$dnstype=AAAA
 ||bukuobat.com^$dnstype=AAAA
+||bulianglin.com^$dnstype=AAAA
 ||bulink.xyz^$dnstype=AAAA
 ||bulktube.com^$dnstype=AAAA
 ||bullclan.org^$dnstype=AAAA
@@ -22834,6 +22835,7 @@
 ||netarabic.com^$dnstype=AAAA
 ||netbig.com^$dnstype=AAAA
 ||netbirds.com^$dnstype=AAAA
+||netcdn.space^$dnstype=AAAA
 ||netcolony.com^$dnstype=AAAA
 ||netdna-cdn.com^$dnstype=AAAA
 ||netdna-ssl.com^$dnstype=AAAA
@@ -23652,6 +23654,7 @@
 ||nybooks.com^$dnstype=AAAA
 ||nyc520.com^$dnstype=AAAA
 ||nycinternationalproject.org^$dnstype=AAAA
+||nydailynews.com^$dnstype=AAAA
 ||nydus-vpn.com^$dnstype=AAAA
 ||nydus.ca^$dnstype=AAAA
 ||nydusnew.com^$dnstype=AAAA
@@ -31810,6 +31813,7 @@
 ||usawebproxy.net^$dnstype=AAAA
 ||usb3.gq^$dnstype=AAAA
 ||usc.edu^$dnstype=AAAA
+||uscardforum.com^$dnstype=AAAA
 ||uscellular.com^$dnstype=AAAA
 ||uscirf.gov^$dnstype=AAAA
 ||uscis.gov^$dnstype=AAAA
@@ -31960,6 +31964,7 @@
 ||v2ray.cool^$dnstype=AAAA
 ||v2ray.cx^$dnstype=AAAA
 ||v2raycn.com^$dnstype=AAAA
+||v2rayssr.com^$dnstype=AAAA
 ||v2raytech.com^$dnstype=AAAA
 ||v33a.com^$dnstype=AAAA
 ||v3p.co^$dnstype=AAAA
@@ -34495,6 +34500,7 @@
 ||xuchao.org^$dnstype=AAAA
 ||xuehaiblog.com^$dnstype=AAAA
 ||xuehua.us^$dnstype=AAAA
+||xuehuaimg.com^$dnstype=AAAA
 ||xuite.net^$dnstype=AAAA
 ||xujan.com^$dnstype=AAAA
 ||xuk.ru^$dnstype=AAAA
