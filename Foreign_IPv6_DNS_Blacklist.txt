@@ -4207,7 +4207,6 @@
 ||anaconda.org^$dnstype=AAAA
 ||anakinweb.com^$dnstype=AAAA
 ||anal-pantyhose.com^$dnstype=AAAA
-||anal.casa^$dnstype=AAAA
 ||anal.media^$dnstype=AAAA
 ||analamateursex.com^$dnstype=AAAA
 ||analcamshow.com^$dnstype=AAAA
