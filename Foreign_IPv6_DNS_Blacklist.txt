@@ -7189,6 +7189,7 @@
 ||boundless-sky.com^$dnstype=AAAA
 ||bountyhunterporn.com^$dnstype=AAAA
 ||bowenpress.com^$dnstype=AAAA
+||bowlroll.net^$dnstype=AAAA
 ||bowsersinsidestory.com^$dnstype=AAAA
 ||box.com^$dnstype=AAAA
 ||box.net^$dnstype=AAAA
@@ -9206,6 +9207,7 @@
 ||colombianas.webcam^$dnstype=AAAA
 ||colorado-photo.com^$dnstype=AAAA
 ||coloradosprings.com^$dnstype=AAAA
+||colorfulstage.com^$dnstype=AAAA
 ||colorprotechnology.com^$dnstype=AAAA
 ||coltstudiogroup.com^$dnstype=AAAA
 ||com.af^$dnstype=AAAA
@@ -9272,6 +9274,7 @@
 ||com.vc^$dnstype=AAAA
 ||com.ve^$dnstype=AAAA
 ||com.ws^$dnstype=AAAA
+||comcast.net^$dnstype=AAAA
 ||comdns.xyz^$dnstype=AAAA
 ||comdotgame.com^$dnstype=AAAA
 ||comeav.com^$dnstype=AAAA
@@ -20756,6 +20759,7 @@
 ||magentomobile.com^$dnstype=AAAA
 ||maggiebears.com^$dnstype=AAAA
 ||magic-net.info^$dnstype=AAAA
+||magicalmirai.com^$dnstype=AAAA
 ||magiccloak.net^$dnstype=AAAA
 ||magicmovies.com^$dnstype=AAAA
 ||magictea.xyz^$dnstype=AAAA
@@ -21487,6 +21491,7 @@
 ||mikocon.com^$dnstype=AAAA
 ||miktex.org^$dnstype=AAAA
 ||mikuclub.org^$dnstype=AAAA
+||mikuexpo.com^$dnstype=AAAA
 ||mil.sv^$dnstype=AAAA
 ||milan-yilan.com^$dnstype=AAAA
 ||milehighmedia.com^$dnstype=AAAA
@@ -23928,6 +23933,7 @@
 ||on-the-web.tv^$dnstype=AAAA
 ||on.cc^$dnstype=AAAA
 ||on.here^$dnstype=AAAA
+||on.net^$dnstype=AAAA
 ||on2.com^$dnstype=AAAA
 ||onacle.tv^$dnstype=AAAA
 ||onahodouga.com^$dnstype=AAAA
@@ -24956,6 +24962,7 @@
 ||pianku.me^$dnstype=AAAA
 ||pianopiano.pt^$dnstype=AAAA
 ||piaotian.net^$dnstype=AAAA
+||piapro.net^$dnstype=AAAA
 ||piaproxy.net^$dnstype=AAAA
 ||piavpn.com^$dnstype=AAAA
 ||picaacg.com^$dnstype=AAAA
@@ -28549,6 +28556,7 @@
 ||snowaqi.de^$dnstype=AAAA
 ||snowinn.com^$dnstype=AAAA
 ||snowlionpub.com^$dnstype=AAAA
+||snowmiku.com^$dnstype=AAAA
 ||snowpear.com^$dnstype=AAAA
 ||so-ga.net^$dnstype=AAAA
 ||soasta-dswb.com^$dnstype=AAAA
@@ -35138,6 +35146,7 @@
 ||youngleafs.com^$dnstype=AAAA
 ||youngleak.com^$dnstype=AAAA
 ||youngmm.com^$dnstype=AAAA
+||youngmoe.com^$dnstype=AAAA
 ||youngmommyfucksme.com^$dnstype=AAAA
 ||youngpornhd.com^$dnstype=AAAA
 ||youngpornonly.com^$dnstype=AAAA
