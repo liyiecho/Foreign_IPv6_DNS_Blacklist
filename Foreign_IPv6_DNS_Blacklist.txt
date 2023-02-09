@@ -23338,6 +23338,7 @@
 ||niu95992.com^$dnstype=AAAA
 ||niubo1.com^$dnstype=AAAA
 ||niubowang.com^$dnstype=AAAA
+||niuc2.com^$dnstype=AAAA
 ||niupic.com^$dnstype=AAAA
 ||niusnews.com^$dnstype=AAAA
 ||niuxuewang.com^$dnstype=AAAA
@@ -24483,6 +24484,7 @@
 ||panluan.net^$dnstype=AAAA
 ||panorama.am^$dnstype=AAAA
 ||panoramio.com^$dnstype=AAAA
+||pantheonsite.io^$dnstype=AAAA
 ||pantswalker.net^$dnstype=AAAA
 ||pao-pao.net^$dnstype=AAAA
 ||pao-pao.org^$dnstype=AAAA
@@ -24561,6 +24563,7 @@
 ||path.com^$dnstype=AAAA
 ||pathtosharepoint.com^$dnstype=AAAA
 ||patreon.com^$dnstype=AAAA
+||patreoncommunity.com^$dnstype=AAAA
 ||patreonusercontent.com^$dnstype=AAAA
 ||patriademarti.com^$dnstype=AAAA
 ||patrickemaher.com^$dnstype=AAAA
@@ -28876,6 +28879,7 @@
 ||springboardplatform.com^$dnstype=AAAA
 ||springernature.com^$dnstype=AAAA
 ||springpadit.com^$dnstype=AAAA
+||springwood.me^$dnstype=AAAA
 ||sprinklesapp.com^$dnstype=AAAA
 ||sprint.com^$dnstype=AAAA
 ||sprint0.net^$dnstype=AAAA
@@ -35113,6 +35117,7 @@
 ||yottaa.net^$dnstype=AAAA
 ||yotubesexo.es^$dnstype=AAAA
 ||you-get.org^$dnstype=AAAA
+||you.com^$dnstype=AAAA
 ||youassporn.com^$dnstype=AAAA
 ||youav.com^$dnstype=AAAA
 ||youbeli.com^$dnstype=AAAA
