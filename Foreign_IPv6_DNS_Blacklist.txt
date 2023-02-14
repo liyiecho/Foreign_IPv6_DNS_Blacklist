@@ -270,6 +270,7 @@
 ||1010199.com^$dnstype=AAAA
 ||101boyvideos.com^$dnstype=AAAA
 ||101newsmedia.com^$dnstype=AAAA
+||101tubeporn.com^$dnstype=AAAA
 ||101x.com^$dnstype=AAAA
 ||101xxx.xyz^$dnstype=AAAA
 ||1020v.com^$dnstype=AAAA
@@ -1102,6 +1103,7 @@
 ||2chav.com^$dnstype=AAAA
 ||2cute.me^$dnstype=AAAA
 ||2dfan.com^$dnstype=AAAA
+||2dgen.com^$dnstype=AAAA
 ||2djgame.net^$dnstype=AAAA
 ||2dn.org^$dnstype=AAAA
 ||2drdrebeats.com^$dnstype=AAAA
@@ -1593,6 +1595,7 @@
 ||4everland.io^$dnstype=AAAA
 ||4everoutside.com^$dnstype=AAAA
 ||4everproxy.com^$dnstype=AAAA
+||4f1v1.top^$dnstype=AAAA
 ||4freeproxy.com^$dnstype=AAAA
 ||4greedy.com^$dnstype=AAAA
 ||4gtv.tv^$dnstype=AAAA
@@ -2671,6 +2674,7 @@
 ||89-64.org^$dnstype=AAAA
 ||8927828.com^$dnstype=AAAA
 ||89333a.com^$dnstype=AAAA
+||8949.voto^$dnstype=AAAA
 ||8950815.com^$dnstype=AAAA
 ||895600.cc^$dnstype=AAAA
 ||8958164.com^$dnstype=AAAA
@@ -3479,6 +3483,7 @@
 ||adultmagazinespdf.com^$dnstype=AAAA
 ||adulto.vip^$dnstype=AAAA
 ||adultporntube.xxx^$dnstype=AAAA
+||adultpornvideos.net^$dnstype=AAAA
 ||adultrental.com^$dnstype=AAAA
 ||adultsexgame.biz^$dnstype=AAAA
 ||adultsexgames.biz^$dnstype=AAAA
@@ -3895,6 +3900,7 @@
 ||allsport365.com^$dnstype=AAAA
 ||allstate.com^$dnstype=AAAA
 ||allswingersclubs.org^$dnstype=AAAA
+||allthefallen.moe^$dnstype=AAAA
 ||allthingsd.com^$dnstype=AAAA
 ||allunblocked.com^$dnstype=AAAA
 ||almasdarnews.com^$dnstype=AAAA
@@ -10939,6 +10945,7 @@
 ||douwriteright.com^$dnstype=AAAA
 ||douya.org^$dnstype=AAAA
 ||douyintt10.me^$dnstype=AAAA
+||douzinnsi-eromannga.com^$dnstype=AAAA
 ||dowei.org^$dnstype=AAAA
 ||dowjones.com^$dnstype=AAAA
 ||dowjones.io^$dnstype=AAAA
@@ -11751,6 +11758,7 @@
 ||elephantlist.com^$dnstype=AAAA
 ||elephantsdream.org^$dnstype=AAAA
 ||elephanttube.com^$dnstype=AAAA
+||elephanttubenew.com^$dnstype=AAAA
 ||elephantvpn.com^$dnstype=AAAA
 ||elevatehealth.eu^$dnstype=AAAA
 ||elf168.net^$dnstype=AAAA
@@ -15244,6 +15252,7 @@
 ||gopetition.com^$dnstype=AAAA
 ||gopivotal.com^$dnstype=AAAA
 ||gopivotal.net^$dnstype=AAAA
+||goporngate.com^$dnstype=AAAA
 ||goproxing.net^$dnstype=AAAA
 ||goragay.com^$dnstype=AAAA
 ||gordanabajurin.com^$dnstype=AAAA
@@ -15884,6 +15893,7 @@
 ||hentai-archive.com^$dnstype=AAAA
 ||hentai-books.com^$dnstype=AAAA
 ||hentai-cosplays.com^$dnstype=AAAA
+||hentai-covers.site^$dnstype=AAAA
 ||hentai-for.net^$dnstype=AAAA
 ||hentai-foundry.com^$dnstype=AAAA
 ||hentai-fun.com^$dnstype=AAAA
@@ -15969,6 +15979,7 @@
 ||hentainhaven.com^$dnstype=AAAA
 ||hentainstream.com^$dnstype=AAAA
 ||hentaipapa.com^$dnstype=AAAA
+||hentaipaw.com^$dnstype=AAAA
 ||hentaiplay.net^$dnstype=AAAA
 ||hentaiporn.com^$dnstype=AAAA
 ||hentaipornonly.com^$dnstype=AAAA
@@ -18919,6 +18930,7 @@
 ||jpn.org^$dnstype=AAAA
 ||jpolrisk.com^$dnstype=AAAA
 ||jpopforum.net^$dnstype=AAAA
+||jpvhub.com^$dnstype=AAAA
 ||jpyule.com^$dnstype=AAAA
 ||jquery.com^$dnstype=AAAA
 ||jquerymobile.com^$dnstype=AAAA
@@ -19045,6 +19057,7 @@
 ||juyon.com^$dnstype=AAAA
 ||juyuange.org^$dnstype=AAAA
 ||juziyue.com^$dnstype=AAAA
+||jvid.com^$dnstype=AAAA
 ||jvip2.com^$dnstype=AAAA
 ||jvip8.com^$dnstype=AAAA
 ||jw.org^$dnstype=AAAA
@@ -22715,6 +22728,7 @@
 ||nasa.gov^$dnstype=AAAA
 ||nasty.singles^$dnstype=AAAA
 ||nastyvideotube.com^$dnstype=AAAA
+||nastyvids.com^$dnstype=AAAA
 ||nasxtv.site^$dnstype=AAAA
 ||nat.moe^$dnstype=AAAA
 ||nat789.org^$dnstype=AAAA
@@ -25465,6 +25479,7 @@
 ||pornhd.com^$dnstype=AAAA
 ||pornhd3x.tv^$dnstype=AAAA
 ||pornhd8k.net^$dnstype=AAAA
+||pornhdfuck.com^$dnstype=AAAA
 ||pornhdtube.tv^$dnstype=AAAA
 ||pornhdvideos.tv^$dnstype=AAAA
 ||pornheed.com^$dnstype=AAAA
@@ -25603,6 +25618,7 @@
 ||pornpair.com^$dnstype=AAAA
 ||pornpander.com^$dnstype=AAAA
 ||pornpaw.com^$dnstype=AAAA
+||pornpen.ai^$dnstype=AAAA
 ||pornper.com^$dnstype=AAAA
 ||pornpics.com^$dnstype=AAAA
 ||pornpin.com^$dnstype=AAAA
@@ -27861,9 +27877,11 @@
 ||sexmummy.com^$dnstype=AAAA
 ||sexmutant.com^$dnstype=AAAA
 ||sexnaweb.net^$dnstype=AAAA
+||sexnudo.com^$dnstype=AAAA
 ||sexo123.net^$dnstype=AAAA
 ||sexopornolive.com^$dnstype=AAAA
 ||sexoquente.blog^$dnstype=AAAA
+||sexplustube.net^$dnstype=AAAA
 ||sexpornimg.com^$dnstype=AAAA
 ||sexpornpictures.com^$dnstype=AAAA
 ||sexpreviews.eu^$dnstype=AAAA
@@ -27887,6 +27905,7 @@
 ||sextube.com^$dnstype=AAAA
 ||sextube.desi^$dnstype=AAAA
 ||sextube.fm^$dnstype=AAAA
+||sextube69free.net^$dnstype=AAAA
 ||sextubebox.com^$dnstype=AAAA
 ||sextubedot.com^$dnstype=AAAA
 ||sextubehub.com^$dnstype=AAAA
@@ -28519,6 +28538,7 @@
 ||smpte.org^$dnstype=AAAA
 ||smt.live^$dnstype=AAAA
 ||smutcam.com^$dnstype=AAAA
+||smutcams.com^$dnstype=AAAA
 ||smutindia.com^$dnstype=AAAA
 ||smutstone.com^$dnstype=AAAA
 ||smutty.com^$dnstype=AAAA
@@ -30718,12 +30738,14 @@
 ||tokyo-247.com^$dnstype=AAAA
 ||tokyo-hot.com^$dnstype=AAAA
 ||tokyo-porn-tube.com^$dnstype=AAAA
+||tokyo-tosho.net^$dnstype=AAAA
 ||tokyocn.com^$dnstype=AAAA
 ||tokyomotion.com^$dnstype=AAAA
 ||tokyomotion.net^$dnstype=AAAA
 ||tokyoporn.com^$dnstype=AAAA
 ||tokyoporns.com^$dnstype=AAAA
 ||tokyoteenies.com^$dnstype=AAAA
+||tokyotosho.info^$dnstype=AAAA
 ||tolonews.com^$dnstype=AAAA
 ||tom365.co^$dnstype=AAAA
 ||tomatespodres.com^$dnstype=AAAA
@@ -31151,6 +31173,7 @@
 ||tubedna.com^$dnstype=AAAA
 ||tubedupe.com^$dnstype=AAAA
 ||tubeenema.com^$dnstype=AAAA
+||tubefuckme.net^$dnstype=AAAA
 ||tubegalore.com^$dnstype=AAAA
 ||tubegals.com^$dnstype=AAAA
 ||tubeislam.com^$dnstype=AAAA
@@ -34022,6 +34045,7 @@
 ||x1360.com^$dnstype=AAAA
 ||x188.cn^$dnstype=AAAA
 ||x188betx.com^$dnstype=AAAA
+||x18r.co^$dnstype=AAAA
 ||x18r.com^$dnstype=AAAA
 ||x1949x.com^$dnstype=AAAA
 ||x1949x.in^$dnstype=AAAA
@@ -34096,6 +34120,7 @@
 ||xbo100.com^$dnstype=AAAA
 ||xbo333.com^$dnstype=AAAA
 ||xbookcn.com^$dnstype=AAAA
+||xbooks.work^$dnstype=AAAA
 ||xbooru.com^$dnstype=AAAA
 ||xbox.co^$dnstype=AAAA
 ||xbox.org^$dnstype=AAAA
@@ -35431,6 +35456,8 @@
 ||z.com^$dnstype=AAAA
 ||z00.world^$dnstype=AAAA
 ||z100.com^$dnstype=AAAA
+||z18r.co^$dnstype=AAAA
+||z18r.com^$dnstype=AAAA
 ||z2r7921695617528q7n48n6805r7594oqp11o0718.tf^$dnstype=AAAA
 ||z3641.com^$dnstype=AAAA
 ||z5.app^$dnstype=AAAA
