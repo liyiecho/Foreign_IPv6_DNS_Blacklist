@@ -28612,6 +28612,7 @@
 ||sockscap64.com^$dnstype=AAAA
 ||sockslist.net^$dnstype=AAAA
 ||socrec.org^$dnstype=AAAA
+||sod99.com^$dnstype=AAAA
 ||sodichan.com^$dnstype=AAAA
 ||soft4fun.net^$dnstype=AAAA
 ||softbank-ipo.com^$dnstype=AAAA
