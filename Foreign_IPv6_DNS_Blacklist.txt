@@ -3628,6 +3628,7 @@
 ||ahxxx.club^$dnstype=AAAA
 ||ai-kan.net^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
+||ai.com^$dnstype=AAAA
 ||ai.google^$dnstype=AAAA
 ||ai4t.com^$dnstype=AAAA
 ||ai780.com^$dnstype=AAAA
@@ -23113,6 +23114,7 @@
 ||nexpart.com^$dnstype=AAAA
 ||nexpart.tv^$dnstype=AAAA
 ||next.com^$dnstype=AAAA
+||nextapple.com^$dnstype=AAAA
 ||nextbigfuture.com^$dnstype=AAAA
 ||nextdns.io^$dnstype=AAAA
 ||nextdoor.com^$dnstype=AAAA
