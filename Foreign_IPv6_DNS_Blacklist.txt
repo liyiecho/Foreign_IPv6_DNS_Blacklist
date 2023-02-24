@@ -24745,7 +24745,9 @@
 ||paypal-survey.org^$dnstype=AAAA
 ||paypal-team.com^$dnstype=AAAA
 ||paypal-viewpoints.net^$dnstype=AAAA
+||paypal.com^$dnstype=AAAA
 ||paypal.info^$dnstype=AAAA
+||paypal.me^$dnstype=AAAA
 ||paypal.so^$dnstype=AAAA
 ||paypalbeacon.com^$dnstype=AAAA
 ||paypalbenefits.com^$dnstype=AAAA
@@ -24776,6 +24778,7 @@
 ||paypalnetwork.info^$dnstype=AAAA
 ||paypalnetwork.net^$dnstype=AAAA
 ||paypalnetwork.org^$dnstype=AAAA
+||paypalobjects.com^$dnstype=AAAA
 ||paypalonline.net^$dnstype=AAAA
 ||paypalonline.org^$dnstype=AAAA
 ||paypalprepagata.com^$dnstype=AAAA
