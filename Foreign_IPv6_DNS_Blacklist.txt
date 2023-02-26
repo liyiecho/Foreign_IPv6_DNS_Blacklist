@@ -15634,6 +15634,7 @@
 ||hairypornsite.com^$dnstype=AAAA
 ||haisetu.net^$dnstype=AAAA
 ||haitenjp.com^$dnstype=AAAA
+||haiwaikan.com^$dnstype=AAAA
 ||half.com^$dnstype=AAAA
 ||half.tv^$dnstype=AAAA
 ||halfcanada.com^$dnstype=AAAA
@@ -17907,6 +17908,7 @@
 ||ioe.com^$dnstype=AAAA
 ||ioffergift.com^$dnstype=AAAA
 ||ioinformatics.org^$dnstype=AAAA
+||iole.tv^$dnstype=AAAA
 ||ionic.cf^$dnstype=AAAA
 ||ios-icloud.com^$dnstype=AAAA
 ||ios9.us^$dnstype=AAAA
@@ -18597,6 +18599,7 @@
 ||javvids.com^$dnstype=AAAA
 ||javwide.com^$dnstype=AAAA
 ||javwide.tv^$dnstype=AAAA
+||javxspot.com^$dnstype=AAAA
 ||javynow.com^$dnstype=AAAA
 ||javzoo.com^$dnstype=AAAA
 ||javzz.com^$dnstype=AAAA
@@ -20213,6 +20216,7 @@
 ||lilhumpers.com^$dnstype=AAAA
 ||lili100.com^$dnstype=AAAA
 ||lilian.ro^$dnstype=AAAA
+||liliav.com^$dnstype=AAAA
 ||lilith-soft.com^$dnstype=AAAA
 ||lima-city.de^$dnstype=AAAA
 ||limbopro.xyz^$dnstype=AAAA
@@ -20790,6 +20794,7 @@
 ||madaili.com^$dnstype=AAAA
 ||madbid.com^$dnstype=AAAA
 ||madchensex.com^$dnstype=AAAA
+||maddawgjav.net^$dnstype=AAAA
 ||maddenchampionship.com^$dnstype=AAAA
 ||maddenrewards.com^$dnstype=AAAA
 ||maddenseason.info^$dnstype=AAAA
@@ -20801,6 +20806,7 @@
 ||madewithcode.com^$dnstype=AAAA
 ||madison.com^$dnstype=AAAA
 ||madonna-av.com^$dnstype=AAAA
+||madou.club^$dnstype=AAAA
 ||madpeople.net^$dnstype=AAAA
 ||madrau.com^$dnstype=AAAA
 ||madshi.net^$dnstype=AAAA
@@ -21537,6 +21543,7 @@
 ||middleeasteye.net^$dnstype=AAAA
 ||midentsolutions.com^$dnstype=AAAA
 ||midnightfever.com^$dnstype=AAAA
+||midoushe.com^$dnstype=AAAA
 ||midphoto.com^$dnstype=AAAA
 ||miel-soft.com^$dnstype=AAAA
 ||miffyliye.org^$dnstype=AAAA
@@ -23409,6 +23416,8 @@
 ||niusnews.com^$dnstype=AAAA
 ||niuxuewang.com^$dnstype=AAAA
 ||nivod.tv^$dnstype=AAAA
+||nivodi.tv^$dnstype=AAAA
+||nivodz.com^$dnstype=AAAA
 ||nix.cz^$dnstype=AAAA
 ||nixos.org^$dnstype=AAAA
 ||niziero.info^$dnstype=AAAA
@@ -23962,7 +23971,12 @@
 ||oldje.com^$dnstype=AAAA
 ||oldpiratebay.org^$dnstype=AAAA
 ||ole777.com^$dnstype=AAAA
+||olehd.com^$dnstype=AAAA
+||olelive.com^$dnstype=AAAA
 ||olevod.com^$dnstype=AAAA
+||olevod.io^$dnstype=AAAA
+||olevod.tv^$dnstype=AAAA
+||olevodtv.com^$dnstype=AAAA
 ||olicobrokers.com^$dnstype=AAAA
 ||olife.org^$dnstype=AAAA
 ||oltentime.com^$dnstype=AAAA
@@ -25977,6 +25991,7 @@
 ||projecth.us^$dnstype=AAAA
 ||projecthannah.org^$dnstype=AAAA
 ||projectinterfaith.org^$dnstype=AAAA
+||projectjav.com^$dnstype=AAAA
 ||projectmurphy.net^$dnstype=AAAA
 ||projects-uae.com^$dnstype=AAAA
 ||projectsangam.com^$dnstype=AAAA
@@ -31131,6 +31146,7 @@
 ||trustdoc.ch^$dnstype=AAAA
 ||trustedanalytics.com^$dnstype=AAAA
 ||trustedanalytics.net^$dnstype=AAAA
+||trustedpeach.com^$dnstype=AAAA
 ||trustedreviews.com^$dnstype=AAAA
 ||trustisfps.com^$dnstype=AAAA
 ||trustsign.ch^$dnstype=AAAA
