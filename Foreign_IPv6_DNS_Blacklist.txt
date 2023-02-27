@@ -2404,7 +2404,6 @@
 ||799299.com^$dnstype=AAAA
 ||799567.com^$dnstype=AAAA
 ||79ten.com^$dnstype=AAAA
-||7aipai.com^$dnstype=AAAA
 ||7capture.com^$dnstype=AAAA
 ||7cow.com^$dnstype=AAAA
 ||7g.tv^$dnstype=AAAA
