@@ -4952,6 +4952,7 @@
 ||atlasonepoint.com^$dnstype=AAAA
 ||atlaspost.com^$dnstype=AAAA
 ||atlassian.com^$dnstype=AAAA
+||atlassian.net^$dnstype=AAAA
 ||atlasvpn.com^$dnstype=AAAA
 ||atnext.com^$dnstype=AAAA
 ||atom.io^$dnstype=AAAA
@@ -5327,6 +5328,7 @@
 ||azurestackvalidation.com^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
 ||b-cdn.net^$dnstype=AAAA
+||b-eroland.net^$dnstype=AAAA
 ||b-ok.as^$dnstype=AAAA
 ||b-ok.asia^$dnstype=AAAA
 ||b-ok.cc^$dnstype=AAAA
@@ -18353,6 +18355,7 @@
 ||japan18tube.com^$dnstype=AAAA
 ||japanbeast.com^$dnstype=AAAA
 ||japancupid.com^$dnstype=AAAA
+||japanese-scat.net^$dnstype=AAAA
 ||japanese.xxx^$dnstype=AAAA
 ||japanesebeauties.net^$dnstype=AAAA
 ||japanesegirlspictures.com^$dnstype=AAAA
@@ -18498,6 +18501,7 @@
 ||javmenu.com^$dnstype=AAAA
 ||javmix.me^$dnstype=AAAA
 ||javmix.tv^$dnstype=AAAA
+||javmobile.mobi^$dnstype=AAAA
 ||javmobile.net^$dnstype=AAAA
 ||javmodel.com^$dnstype=AAAA
 ||javmoo.com^$dnstype=AAAA
@@ -19729,6 +19733,7 @@
 ||lawlove.org^$dnstype=AAAA
 ||lawofhongkong.com^$dnstype=AAAA
 ||lawyerpu.com^$dnstype=AAAA
+||laxd.com^$dnstype=AAAA
 ||lazerpenguin.com^$dnstype=AAAA
 ||lazymike.com^$dnstype=AAAA
 ||lazymind.me^$dnstype=AAAA
@@ -22095,6 +22100,7 @@
 ||movetv.com^$dnstype=AAAA
 ||movidius.com^$dnstype=AAAA
 ||movidius.net^$dnstype=AAAA
+||movie-erog.com^$dnstype=AAAA
 ||movie-jamrock.com^$dnstype=AAAA
 ||moviefap.com^$dnstype=AAAA
 ||movieffm.net^$dnstype=AAAA
@@ -23775,6 +23781,7 @@
 ||observechina.net^$dnstype=AAAA
 ||obsproject.com^$dnstype=AAAA
 ||obsrvbl.com^$dnstype=AAAA
+||obutsumania.com^$dnstype=AAAA
 ||obutu.com^$dnstype=AAAA
 ||obuy.tw^$dnstype=AAAA
 ||ocaspro.com^$dnstype=AAAA
@@ -27497,6 +27504,7 @@
 ||sc1288.co^$dnstype=AAAA
 ||sc1618.co^$dnstype=AAAA
 ||sc1919.com^$dnstype=AAAA
+||sca-tolo.info^$dnstype=AAAA
 ||scai88.com^$dnstype=AAAA
 ||scala-lang.org^$dnstype=AAAA
 ||scala-sbt.org^$dnstype=AAAA
