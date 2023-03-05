@@ -498,6 +498,7 @@
 ||1565vip.com^$dnstype=AAAA
 ||1565yh.com^$dnstype=AAAA
 ||1572644.com^$dnstype=AAAA
+||159i.com^$dnstype=AAAA
 ||15avav.xyz^$dnstype=AAAA
 ||15zhu.com^$dnstype=AAAA
 ||1605999.com^$dnstype=AAAA
@@ -3214,6 +3215,7 @@
 ||abercrombie.com^$dnstype=AAAA
 ||abesttech.com^$dnstype=AAAA
 ||abet.cc^$dnstype=AAAA
+||abigass.com^$dnstype=AAAA
 ||ablwang.com^$dnstype=AAAA
 ||abna24.com^$dnstype=AAAA
 ||aboluowang.com^$dnstype=AAAA
@@ -14862,6 +14864,7 @@
 ||globeandmail.com^$dnstype=AAAA
 ||globecartoon.com^$dnstype=AAAA
 ||glock.com^$dnstype=AAAA
+||gloporn.com^$dnstype=AAAA
 ||gloria.tv^$dnstype=AAAA
 ||gloryhole.com^$dnstype=AAAA
 ||gloryholefucking.com^$dnstype=AAAA
@@ -21409,6 +21412,7 @@
 ||micro.blog^$dnstype=AAAA
 ||microbit.org^$dnstype=AAAA
 ||microcycas.com^$dnstype=AAAA
+||microsoft-falcon.io^$dnstype=AAAA
 ||microsoft-give.com^$dnstype=AAAA
 ||microsoft-int.com^$dnstype=AAAA
 ||microsoft-ppe.com^$dnstype=AAAA
@@ -21434,6 +21438,7 @@
 ||microsoftadvertising.com^$dnstype=AAAA
 ||microsoftadvertisingregionalawards.com^$dnstype=AAAA
 ||microsoftaffiliates.com^$dnstype=AAAA
+||microsoftapp.net^$dnstype=AAAA
 ||microsoftazurestatus.cn^$dnstype=AAAA
 ||microsoftcloud.com^$dnstype=AAAA
 ||microsoftcloudsummit.com^$dnstype=AAAA
@@ -24885,6 +24890,7 @@
 ||perfectnaked.com^$dnstype=AAAA
 ||perfectsexnow.com^$dnstype=AAAA
 ||perfectshemales.com^$dnstype=AAAA
+||perfecttitspics.com^$dnstype=AAAA
 ||perfectvpn.net^$dnstype=AAAA
 ||perfekt.us^$dnstype=AAAA
 ||perfektegirls.com^$dnstype=AAAA
@@ -28152,6 +28158,7 @@
 ||shenzhoufilm.com^$dnstype=AAAA
 ||shenzhouzhengdao.org^$dnstype=AAAA
 ||shequ8.cam^$dnstype=AAAA
+||shequdaohang.com^$dnstype=AAAA
 ||sherabgyaltsen.com^$dnstype=AAAA
 ||sherig.org^$dnstype=AAAA
 ||shesfreaky.com^$dnstype=AAAA
@@ -31840,6 +31847,7 @@
 ||uoherald.com^$dnstype=AAAA
 ||uoutside.org^$dnstype=AAAA
 ||up.live^$dnstype=AAAA
+||up01.cc^$dnstype=AAAA
 ||updatestar.com^$dnstype=AAAA
 ||updatetube.com^$dnstype=AAAA
 ||upenn.edu^$dnstype=AAAA
