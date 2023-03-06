@@ -22260,7 +22260,6 @@
 ||msunlimitedcloudsummit.com^$dnstype=AAAA
 ||mswe1.org^$dnstype=AAAA
 ||mszdld.cn^$dnstype=AAAA
-||mt-ssul1.com^$dnstype=AAAA
 ||mtanos.com^$dnstype=AAAA
 ||mtao.fun^$dnstype=AAAA
 ||mtco.com^$dnstype=AAAA
@@ -25431,7 +25430,6 @@
 ||pornadoo.com^$dnstype=AAAA
 ||pornaf.com^$dnstype=AAAA
 ||pornaffected.com^$dnstype=AAAA
-||pornagent.xyz^$dnstype=AAAA
 ||pornaroma.com^$dnstype=AAAA
 ||pornative.com^$dnstype=AAAA
 ||pornav.co^$dnstype=AAAA
@@ -34141,7 +34139,6 @@
 ||xbabe.com^$dnstype=AAAA
 ||xbahis33.com^$dnstype=AAAA
 ||xbahis44.com^$dnstype=AAAA
-||xbahis55.com^$dnstype=AAAA
 ||xbbxtv.com^$dnstype=AAAA
 ||xbeegtube.com^$dnstype=AAAA
 ||xbef.com^$dnstype=AAAA
@@ -34687,7 +34684,6 @@
 ||xw7757.com^$dnstype=AAAA
 ||xw9797.com^$dnstype=AAAA
 ||xwall.io^$dnstype=AAAA
-||xwebporn.com^$dnstype=AAAA
 ||xx-book.com^$dnstype=AAAA
 ||xx-book.xyz^$dnstype=AAAA
 ||xx-map.com^$dnstype=AAAA
