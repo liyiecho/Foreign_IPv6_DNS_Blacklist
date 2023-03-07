@@ -26325,6 +26325,7 @@
 ||qile789.com^$dnstype=AAAA
 ||qinav.com^$dnstype=AAAA
 ||qingdao888.com^$dnstype=AAAA
+||qingenporn.net^$dnstype=AAAA
 ||qingpeng.org^$dnstype=AAAA
 ||qingse.one^$dnstype=AAAA
 ||qingyangmovie.be^$dnstype=AAAA
@@ -32907,6 +32908,7 @@
 ||vudu.com^$dnstype=AAAA
 ||vuku.cc^$dnstype=AAAA
 ||vuku.ru^$dnstype=AAAA
+||vulgarx.com^$dnstype=AAAA
 ||vulnwatch.org^$dnstype=AAAA
 ||vultr.com^$dnstype=AAAA
 ||vultryhw.com^$dnstype=AAAA
