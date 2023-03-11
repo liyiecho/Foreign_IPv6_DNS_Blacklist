@@ -25292,6 +25292,7 @@
 ||pocucn.com^$dnstype=AAAA
 ||poczta-polska.pl^$dnstype=AAAA
 ||podbean.com^$dnstype=AAAA
+||podcast.app^$dnstype=AAAA
 ||podcast.co^$dnstype=AAAA
 ||podictionary.com^$dnstype=AAAA
 ||podvpn6.com^$dnstype=AAAA
@@ -28422,6 +28423,7 @@
 ||sixpackshortcuts.com^$dnstype=AAAA
 ||sixth.biz^$dnstype=AAAA
 ||siyushe.com^$dnstype=AAAA
+||sjcollect.com^$dnstype=AAAA
 ||sjg117.com^$dnstype=AAAA
 ||sjhs.pw^$dnstype=AAAA
 ||sjhs02.com^$dnstype=AAAA
