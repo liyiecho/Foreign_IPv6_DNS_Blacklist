@@ -1536,6 +1536,7 @@
 ||44555989.com^$dnstype=AAAA
 ||4455599.com^$dnstype=AAAA
 ||4456456.com^$dnstype=AAAA
+||445jun.com^$dnstype=AAAA
 ||4477989.com^$dnstype=AAAA
 ||4480sp.com^$dnstype=AAAA
 ||4488buyu.com^$dnstype=AAAA
@@ -1714,6 +1715,7 @@
 ||5200vvv.com^$dnstype=AAAA
 ||5208bb.com^$dnstype=AAAA
 ||520aa.tv^$dnstype=AAAA
+||520avtv.com^$dnstype=AAAA
 ||520cc.cc^$dnstype=AAAA
 ||520cc.me^$dnstype=AAAA
 ||520ccc.cc^$dnstype=AAAA
@@ -1737,6 +1739,9 @@
 ||5288364.com^$dnstype=AAAA
 ||5288js.com^$dnstype=AAAA
 ||5299.tv^$dnstype=AAAA
+||52av.be^$dnstype=AAAA
+||52av.com^$dnstype=AAAA
+||52av.one^$dnstype=AAAA
 ||52avq.cc^$dnstype=AAAA
 ||52fuliji.cc^$dnstype=AAAA
 ||52gsz.com^$dnstype=AAAA
@@ -5168,6 +5173,7 @@
 ||avpanda.cc^$dnstype=AAAA
 ||avple.tv^$dnstype=AAAA
 ||avqtv.com^$dnstype=AAAA
+||avriri.top^$dnstype=AAAA
 ||avsee01.tv^$dnstype=AAAA
 ||avsee04.tv^$dnstype=AAAA
 ||avseesee.com^$dnstype=AAAA
@@ -7892,6 +7898,7 @@
 ||cabet931.com^$dnstype=AAAA
 ||cabet996.com^$dnstype=AAAA
 ||cableav.tv^$dnstype=AAAA
+||cableav.xyz^$dnstype=AAAA
 ||cablegatesearch.net^$dnstype=AAAA
 ||cabletvdirectv.com^$dnstype=AAAA
 ||cachebrowser.com^$dnstype=AAAA
@@ -16496,6 +16503,7 @@
 ||honestpornreviews.com^$dnstype=AAAA
 ||honeynet.org^$dnstype=AAAA
 ||hong.com^$dnstype=AAAA
+||hongkongdoll.tv^$dnstype=AAAA
 ||hongkongfp.com^$dnstype=AAAA
 ||hongkongfp.org^$dnstype=AAAA
 ||honglinzhang.com^$dnstype=AAAA
@@ -18397,6 +18405,7 @@
 ||jav18.cc^$dnstype=AAAA
 ||jav18.xyz^$dnstype=AAAA
 ||jav19.com^$dnstype=AAAA
+||jav223.com^$dnstype=AAAA
 ||jav24.com^$dnstype=AAAA
 ||jav28.com^$dnstype=AAAA
 ||jav2be.com^$dnstype=AAAA
@@ -35373,6 +35382,7 @@
 ||ysixdesign.com^$dnstype=AAAA
 ||ysku.in^$dnstype=AAAA
 ||ysporn.com^$dnstype=AAAA
+||yswet.com^$dnstype=AAAA
 ||yt.be^$dnstype=AAAA
 ||yt1s.com^$dnstype=AAAA
 ||ytchannelembed.com^$dnstype=AAAA
