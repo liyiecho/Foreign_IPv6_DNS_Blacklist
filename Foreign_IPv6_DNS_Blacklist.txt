@@ -20130,6 +20130,7 @@
 ||liangchenyun.xyz^$dnstype=AAAA
 ||liangyou.net^$dnstype=AAAA
 ||liangzhichuanmei.com^$dnstype=AAAA
+||lianhonghong.com^$dnstype=AAAA
 ||lianjiajr.net^$dnstype=AAAA
 ||lianyue.net^$dnstype=AAAA
 ||liaowangxizang.net^$dnstype=AAAA
@@ -20531,6 +20532,7 @@
 ||lovegirls.cam^$dnstype=AAAA
 ||loveherbsoap.com^$dnstype=AAAA
 ||lovehomeporn.com^$dnstype=AAAA
+||loveloveskill.com^$dnstype=AAAA
 ||lovemarca.com^$dnstype=AAAA
 ||lovemov.cc^$dnstype=AAAA
 ||lovemstudios.com^$dnstype=AAAA
