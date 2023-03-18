@@ -2788,6 +2788,7 @@
 ||91yun.org^$dnstype=AAAA
 ||920share.com^$dnstype=AAAA
 ||920vpn.com^$dnstype=AAAA
+||921bb.com^$dnstype=AAAA
 ||9224076.com^$dnstype=AAAA
 ||922tp.com^$dnstype=AAAA
 ||923895.cc^$dnstype=AAAA
@@ -4386,6 +4387,7 @@
 ||anvato.net^$dnstype=AAAA
 ||anxpro.com^$dnstype=AAAA
 ||anyalandman.com^$dnstype=AAAA
+||anybunny.org^$dnstype=AAAA
 ||anybunny.tv^$dnstype=AAAA
 ||anyhentai.com^$dnstype=AAAA
 ||anyporn.com^$dnstype=AAAA
@@ -5427,6 +5429,7 @@
 ||baazee.com^$dnstype=AAAA
 ||babble.com^$dnstype=AAAA
 ||babeasiantube.com^$dnstype=AAAA
+||babecentrum.com^$dnstype=AAAA
 ||babefox.com^$dnstype=AAAA
 ||babeimpact.com^$dnstype=AAAA
 ||babepedia.com^$dnstype=AAAA
@@ -5512,6 +5515,7 @@
 ||bamgrid.com^$dnstype=AAAA
 ||bamsoftware.com^$dnstype=AAAA
 ||bamtoki.com^$dnstype=AAAA
+||banan.tv^$dnstype=AAAA
 ||banana-vpn.com^$dnstype=AAAA
 ||banatal3arab.com^$dnstype=AAAA
 ||banatfun.com^$dnstype=AAAA
@@ -12026,6 +12030,7 @@
 ||eroelog.com^$dnstype=AAAA
 ||eroero69.work^$dnstype=AAAA
 ||erofights.com^$dnstype=AAAA
+||erofullsets.net^$dnstype=AAAA
 ||erofus.com^$dnstype=AAAA
 ||erogames.com^$dnstype=AAAA
 ||erogazo-jp.net^$dnstype=AAAA
@@ -12052,6 +12057,7 @@
 ||erome.it^$dnstype=AAAA
 ||eromon.net^$dnstype=AAAA
 ||eropasture.com^$dnstype=AAAA
+||eropics.org^$dnstype=AAAA
 ||eroprofile.com^$dnstype=AAAA
 ||erosberry.com^$dnstype=AAAA
 ||eroshiko.net^$dnstype=AAAA
@@ -13171,6 +13177,7 @@
 ||findyoutube.net^$dnstype=AAAA
 ||fine-art-nude.org^$dnstype=AAAA
 ||fineartamerica.com^$dnstype=AAAA
+||fineartteens.com^$dnstype=AAAA
 ||fineboy.co^$dnstype=AAAA
 ||finehub.com^$dnstype=AAAA
 ||finenike.com^$dnstype=AAAA
@@ -15058,6 +15065,7 @@
 ||goodreaders.com^$dnstype=AAAA
 ||goodreads.com^$dnstype=AAAA
 ||goodsdunk.net^$dnstype=AAAA
+||goodsexporn.org^$dnstype=AAAA
 ||goodssh.com^$dnstype=AAAA
 ||goodthaigirl.com^$dnstype=AAAA
 ||goodtv.org^$dnstype=AAAA
@@ -16869,6 +16877,7 @@
 ||hsxhr.cc^$dnstype=AAAA
 ||ht-datahawk.com^$dnstype=AAAA
 ||ht.ly^$dnstype=AAAA
+||ht3200.top^$dnstype=AAAA
 ||htcc.us^$dnstype=AAAA
 ||htcmania.com^$dnstype=AAAA
 ||htkou.net^$dnstype=AAAA
@@ -17583,6 +17592,7 @@
 ||independentoperatorcn.com^$dnstype=AAAA
 ||independentreserve.com^$dnstype=AAAA
 ||indexoncensorship.org^$dnstype=AAAA
+||indexxx.com^$dnstype=AAAA
 ||india.com^$dnstype=AAAA
 ||indiablooms.com^$dnstype=AAAA
 ||indiagetonline.in^$dnstype=AAAA
@@ -19209,6 +19219,7 @@
 ||kankan.today^$dnstype=AAAA
 ||kannewyork.com^$dnstype=AAAA
 ||kannilu.com^$dnstype=AAAA
+||kanporno.com^$dnstype=AAAA
 ||kansascity.com^$dnstype=AAAA
 ||kanshifang.com^$dnstype=AAAA
 ||kansir.com^$dnstype=AAAA
@@ -25450,6 +25461,7 @@
 ||porn-star.com^$dnstype=AAAA
 ||porn-w.org^$dnstype=AAAA
 ||porn-wanted.com^$dnstype=AAAA
+||porn.biz^$dnstype=AAAA
 ||porn.com^$dnstype=AAAA
 ||porn.sexy^$dnstype=AAAA
 ||porn1videos.com^$dnstype=AAAA
@@ -28878,6 +28890,7 @@
 ||spagettitoast.com^$dnstype=AAAA
 ||spaindisney.com^$dnstype=AAAA
 ||spamfreeforums.net^$dnstype=AAAA
+||spankandbang.com^$dnstype=AAAA
 ||spankbang.com^$dnstype=AAAA
 ||spankbang.name^$dnstype=AAAA
 ||spankbang.party^$dnstype=AAAA
@@ -33035,6 +33048,7 @@
 ||w.wiki^$dnstype=AAAA
 ||w0208.com^$dnstype=AAAA
 ||w0368.com^$dnstype=AAAA
+||w0512.com^$dnstype=AAAA
 ||w06966.com^$dnstype=AAAA
 ||w123123.com^$dnstype=AAAA
 ||w1887.com^$dnstype=AAAA
@@ -33505,6 +33519,7 @@
 ||whonix.org^$dnstype=AAAA
 ||whore.net^$dnstype=AAAA
 ||whoreasianporn.com^$dnstype=AAAA
+||whoreshub.com^$dnstype=AAAA
 ||whoreslag.com^$dnstype=AAAA
 ||whoreteensex.com^$dnstype=AAAA
 ||whorevintagesex.com^$dnstype=AAAA
