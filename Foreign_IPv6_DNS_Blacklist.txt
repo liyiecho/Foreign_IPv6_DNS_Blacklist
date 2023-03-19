@@ -25356,6 +25356,7 @@
 ||podvpn9.com^$dnstype=AAAA
 ||podzone.net^$dnstype=AAAA
 ||podzone.org^$dnstype=AAAA
+||poe.com^$dnstype=AAAA
 ||poetra.asia^$dnstype=AAAA
 ||poetryfoundation.org^$dnstype=AAAA
 ||pogledaj.name^$dnstype=AAAA
