@@ -733,6 +733,7 @@
 ||18qiu.com^$dnstype=AAAA
 ||18qt.com^$dnstype=AAAA
 ||18schoolgirlz.me^$dnstype=AAAA
+||18sex.org^$dnstype=AAAA
 ||18soo.com^$dnstype=AAAA
 ||18virginsex.com^$dnstype=AAAA
 ||18vpn.biz^$dnstype=AAAA
@@ -1005,6 +1006,7 @@
 ||2493598.com^$dnstype=AAAA
 ||249dw7.cn^$dnstype=AAAA
 ||24hdrama.net^$dnstype=AAAA
+||24hjav.com^$dnstype=AAAA
 ||24hrs.ca^$dnstype=AAAA
 ||24k.hk^$dnstype=AAAA
 ||24k88.com^$dnstype=AAAA
@@ -1458,6 +1460,8 @@
 ||3utilities.com^$dnstype=AAAA
 ||3x3avalanche.com^$dnstype=AAAA
 ||3xplanet.com^$dnstype=AAAA
+||3xplanet.net^$dnstype=AAAA
+||3xplanetimg.com^$dnstype=AAAA
 ||40030d.com^$dnstype=AAAA
 ||40066hg.com^$dnstype=AAAA
 ||4008-517-517.cn^$dnstype=AAAA
@@ -3962,6 +3966,7 @@
 ||altimiras.cl^$dnstype=AAAA
 ||altmd.com^$dnstype=AAAA
 ||altmetric.com^$dnstype=AAAA
+||altporn.net^$dnstype=AAAA
 ||altrec.com^$dnstype=AAAA
 ||altt.me^$dnstype=AAAA
 ||altvpn.com^$dnstype=AAAA
@@ -4420,6 +4425,7 @@
 ||aoruszone.cn^$dnstype=AAAA
 ||aosintegrity.com^$dnstype=AAAA
 ||aouwe.com^$dnstype=AAAA
+||aoxx69.net^$dnstype=AAAA
 ||ap.org^$dnstype=AAAA
 ||ap0le.com^$dnstype=AAAA
 ||apa.org^$dnstype=AAAA
@@ -4743,7 +4749,6 @@
 ||archive.ph^$dnstype=AAAA
 ||archive.st^$dnstype=AAAA
 ||archive.today^$dnstype=AAAA
-||archive.vn^$dnstype=AAAA
 ||archiveofourown.com^$dnstype=AAAA
 ||archiveofourown.me^$dnstype=AAAA
 ||archiveofourown.net^$dnstype=AAAA
@@ -4910,6 +4915,7 @@
 ||asrockind.com^$dnstype=AAAA
 ||ass4all.com^$dnstype=AAAA
 ||assembla.com^$dnstype=AAAA
+||assesphoto.com^$dnstype=AAAA
 ||assetsadobe.com^$dnstype=AAAA
 ||asshole.com^$dnstype=AAAA
 ||assimp.org^$dnstype=AAAA
@@ -5119,6 +5125,7 @@
 ||avcar.vip^$dnstype=AAAA
 ||avcens.xyz^$dnstype=AAAA
 ||avcity.tv^$dnstype=AAAA
+||avcnn.com^$dnstype=AAAA
 ||avcolle.ml^$dnstype=AAAA
 ||avcool.com^$dnstype=AAAA
 ||avcrempie.com^$dnstype=AAAA
@@ -5211,6 +5218,7 @@
 ||avtb01.com^$dnstype=AAAA
 ||avwife.com^$dnstype=AAAA
 ||avwong.com^$dnstype=AAAA
+||avwto.com^$dnstype=AAAA
 ||avxde.org^$dnstype=AAAA
 ||avxhm.is^$dnstype=AAAA
 ||avxlive.icu^$dnstype=AAAA
@@ -6686,6 +6694,7 @@
 ||blogspot.ba^$dnstype=AAAA
 ||blogspot.be^$dnstype=AAAA
 ||blogspot.bg^$dnstype=AAAA
+||blogspot.bj^$dnstype=AAAA
 ||blogspot.ca^$dnstype=AAAA
 ||blogspot.cat^$dnstype=AAAA
 ||blogspot.cf^$dnstype=AAAA
@@ -6721,6 +6730,7 @@
 ||blogspot.pe^$dnstype=AAAA
 ||blogspot.pt^$dnstype=AAAA
 ||blogspot.qa^$dnstype=AAAA
+||blogspot.re^$dnstype=AAAA
 ||blogspot.ro^$dnstype=AAAA
 ||blogspot.rs^$dnstype=AAAA
 ||blogspot.ru^$dnstype=AAAA
@@ -8178,6 +8188,7 @@
 ||catcatforum.com^$dnstype=AAAA
 ||catch22.net^$dnstype=AAAA
 ||catchgod.com^$dnstype=AAAA
+||catchplay.com^$dnstype=AAAA
 ||catchvideo.net^$dnstype=AAAA
 ||catedu.es^$dnstype=AAAA
 ||catfi.com^$dnstype=AAAA
@@ -13146,6 +13157,7 @@
 ||filmschoolrejects.com^$dnstype=AAAA
 ||filmsexeporno.com^$dnstype=AAAA
 ||filterbypass.me^$dnstype=AAAA
+||filtercams.com^$dnstype=AAAA
 ||filtersbypass.com^$dnstype=AAAA
 ||filtersneak.com^$dnstype=AAAA
 ||filthdump.com^$dnstype=AAAA
@@ -16495,6 +16507,7 @@
 ||holeinthewallhosting.net^$dnstype=AAAA
 ||holeyfuck.com^$dnstype=AAAA
 ||holloporn.com^$dnstype=AAAA
+||hollyrandall.com^$dnstype=AAAA
 ||hololens.com^$dnstype=AAAA
 ||holymountaincn.com^$dnstype=AAAA
 ||holynuts.xyz^$dnstype=AAAA
@@ -17014,6 +17027,7 @@
 ||huobigroup.com^$dnstype=AAAA
 ||huobipro.com^$dnstype=AAAA
 ||huobitoken.com^$dnstype=AAAA
+||huohaore.net^$dnstype=AAAA
 ||huola15.com^$dnstype=AAAA
 ||huomie.com^$dnstype=AAAA
 ||huoqiang.club^$dnstype=AAAA
@@ -18430,6 +18444,7 @@
 ||jasoncoyne.com^$dnstype=AAAA
 ||jav-1080.com^$dnstype=AAAA
 ||jav-720p.com^$dnstype=AAAA
+||jav-angel.net^$dnstype=AAAA
 ||jav-legend.com^$dnstype=AAAA
 ||jav-onlines.com^$dnstype=AAAA
 ||jav-subtitles.com^$dnstype=AAAA
@@ -18566,6 +18581,7 @@
 ||javmuch.com^$dnstype=AAAA
 ||javnew.net^$dnstype=AAAA
 ||javocado.com^$dnstype=AAAA
+||javopen.co^$dnstype=AAAA
 ||javout.co^$dnstype=AAAA
 ||javpee.com^$dnstype=AAAA
 ||javplatform.com^$dnstype=AAAA
@@ -18590,6 +18606,7 @@
 ||javsin.com^$dnstype=AAAA
 ||javsin.tv^$dnstype=AAAA
 ||javspanking.com^$dnstype=AAAA
+||javstar.club^$dnstype=AAAA
 ||javtag.com^$dnstype=AAAA
 ||javtag.net^$dnstype=AAAA
 ||javtasty.com^$dnstype=AAAA
@@ -18970,6 +18987,7 @@
 ||jp.net^$dnstype=AAAA
 ||jp1lib.org^$dnstype=AAAA
 ||jpavcom.com^$dnstype=AAAA
+||jpbabe.com^$dnstype=AAAA
 ||jpboy1069.net^$dnstype=AAAA
 ||jpg4.biz^$dnstype=AAAA
 ||jpg4.info^$dnstype=AAAA
@@ -19018,6 +19036,7 @@
 ||jsproxy.tk^$dnstype=AAAA
 ||jsqgtx.net^$dnstype=AAAA
 ||jsss.site^$dnstype=AAAA
+||jsz91.com^$dnstype=AAAA
 ||jtassetcompensation.com^$dnstype=AAAA
 ||jtfx.mobi^$dnstype=AAAA
 ||jtube.space^$dnstype=AAAA
@@ -20543,6 +20562,7 @@
 ||lovegirls.cam^$dnstype=AAAA
 ||loveherbsoap.com^$dnstype=AAAA
 ||lovehomeporn.com^$dnstype=AAAA
+||lovejav.net^$dnstype=AAAA
 ||loveloveskill.com^$dnstype=AAAA
 ||lovemarca.com^$dnstype=AAAA
 ||lovemov.cc^$dnstype=AAAA
@@ -20752,6 +20772,7 @@
 ||m9955.com^$dnstype=AAAA
 ||ma1lib.org^$dnstype=AAAA
 ||ma8009.com^$dnstype=AAAA
+||maa1815.com^$dnstype=AAAA
 ||maaii.com^$dnstype=AAAA
 ||maasstadbv.com^$dnstype=AAAA
 ||mabelleepoque.ch^$dnstype=AAAA
@@ -20854,7 +20875,6 @@
 ||maiio.net^$dnstype=AAAA
 ||maikou.com^$dnstype=AAAA
 ||mail-archive.com^$dnstype=AAAA
-||mail.com^$dnstype=AAAA
 ||mail.ru^$dnstype=AAAA
 ||mailchimp.com^$dnstype=AAAA
 ||maildns.xyz^$dnstype=AAAA
@@ -21295,7 +21315,6 @@
 ||meihuavpn.com^$dnstype=AAAA
 ||meilizhongguo.biz^$dnstype=AAAA
 ||meilleurpornos.com^$dnstype=AAAA
-||meirifuli.org^$dnstype=AAAA
 ||meirixiaochao.com^$dnstype=AAAA
 ||meitula.net^$dnstype=AAAA
 ||meiyu7.com^$dnstype=AAAA
@@ -21495,6 +21514,7 @@
 ||microsoftadvertisingregionalawards.com^$dnstype=AAAA
 ||microsoftaffiliates.com^$dnstype=AAAA
 ||microsoftapp.net^$dnstype=AAAA
+||microsoftazuresponsorships.com^$dnstype=AAAA
 ||microsoftazurestatus.cn^$dnstype=AAAA
 ||microsoftcloud.com^$dnstype=AAAA
 ||microsoftcloudsummit.com^$dnstype=AAAA
@@ -22723,7 +22743,6 @@
 ||n24.de^$dnstype=AAAA
 ||n2646.com^$dnstype=AAAA
 ||n33285.com^$dnstype=AAAA
-||n3ro.live^$dnstype=AAAA
 ||n3ro.lol^$dnstype=AAAA
 ||n3ro.net^$dnstype=AAAA
 ||n4t.co^$dnstype=AAAA
@@ -23691,6 +23710,7 @@
 ||nudematurewomenpics.com^$dnstype=AAAA
 ||nudes.cz^$dnstype=AAAA
 ||nudes7.com^$dnstype=AAAA
+||nudespree.com^$dnstype=AAAA
 ||nudeteen.org^$dnstype=AAAA
 ||nudeteenboys.net^$dnstype=AAAA
 ||nudeteenladies.com^$dnstype=AAAA
@@ -24891,6 +24911,7 @@
 ||pedrocontador.cl^$dnstype=AAAA
 ||peeasian.com^$dnstype=AAAA
 ||peekier.com^$dnstype=AAAA
+||peekvids.com^$dnstype=AAAA
 ||peepholecam.com^$dnstype=AAAA
 ||peeprec.com^$dnstype=AAAA
 ||peerj.com^$dnstype=AAAA
@@ -25538,6 +25559,7 @@
 ||pornfidelity.com^$dnstype=AAAA
 ||pornfind.org^$dnstype=AAAA
 ||pornfinder.biz^$dnstype=AAAA
+||pornflip.com^$dnstype=AAAA
 ||pornfoolery.com^$dnstype=AAAA
 ||pornfromczech.com^$dnstype=AAAA
 ||pornfu.tv^$dnstype=AAAA
@@ -25576,7 +25598,10 @@
 ||pornhits.com^$dnstype=AAAA
 ||pornhoho.com^$dnstype=AAAA
 ||pornhost.com^$dnstype=AAAA
+||pornhub-deutsch.info^$dnstype=AAAA
 ||pornhub-deutsch.net^$dnstype=AAAA
+||pornhub-german.com^$dnstype=AAAA
+||pornhub-sexfilme.net^$dnstype=AAAA
 ||pornhub.com^$dnstype=AAAA
 ||pornhub.it^$dnstype=AAAA
 ||pornhub.net^$dnstype=AAAA
@@ -25590,6 +25615,7 @@
 ||pornhubs.video^$dnstype=AAAA
 ||pornhubselect.com^$dnstype=AAAA
 ||pornhun.xyz^$dnstype=AAAA
+||pornhutdeutsch.com^$dnstype=AAAA
 ||pornhuub.xyz^$dnstype=AAAA
 ||pornicom.com^$dnstype=AAAA
 ||pornimg.xyz^$dnstype=AAAA
@@ -28040,6 +28066,8 @@
 ||sexy.com^$dnstype=AAAA
 ||sexy3dtoon.com^$dnstype=AAAA
 ||sexyandfunny.com^$dnstype=AAAA
+||sexyavenue.com^$dnstype=AAAA
+||sexybabesz.com^$dnstype=AAAA
 ||sexycandidgirls.com^$dnstype=AAAA
 ||sexyculo.com^$dnstype=AAAA
 ||sexyfeet.tv^$dnstype=AAAA
@@ -28728,6 +28756,7 @@
 ||softfamous.com^$dnstype=AAAA
 ||softlayer.com^$dnstype=AAAA
 ||softlayer.net^$dnstype=AAAA
+||softmodels.net^$dnstype=AAAA
 ||softnology.biz^$dnstype=AAAA
 ||softonic.cn^$dnstype=AAAA
 ||softonic.com^$dnstype=AAAA
@@ -30414,6 +30443,7 @@
 ||thetarimnetwork.com^$dnstype=AAAA
 ||theteenhome.com^$dnstype=AAAA
 ||thetend.com^$dnstype=AAAA
+||thethothub.com^$dnstype=AAAA
 ||thetibetcenter.org^$dnstype=AAAA
 ||thetibetconnection.org^$dnstype=AAAA
 ||thetibetmuseum.org^$dnstype=AAAA
@@ -30886,6 +30916,7 @@
 ||topalbums.club^$dnstype=AAAA
 ||topanime.biz^$dnstype=AAAA
 ||topartporn.com^$dnstype=AAAA
+||topbabesblog.org^$dnstype=AAAA
 ||topbeatsbydrdreoutlet.com^$dnstype=AAAA
 ||topbeatsdealer.com^$dnstype=AAAA
 ||topbeatsforsale.com^$dnstype=AAAA
@@ -34479,6 +34510,7 @@
 ||xkeezmovies.com^$dnstype=AAAA
 ||xkiwi.tk^$dnstype=AAAA
 ||xknoop.com^$dnstype=AAAA
+||xkontakt18.com^$dnstype=AAAA
 ||xkorean.cam^$dnstype=AAAA
 ||xl-gaytube.com^$dnstype=AAAA
 ||xl18.biz^$dnstype=AAAA
