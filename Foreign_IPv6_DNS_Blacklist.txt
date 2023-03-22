@@ -4319,6 +4319,7 @@
 ||anipodium.de^$dnstype=AAAA
 ||aniscartujo.com^$dnstype=AAAA
 ||anisearch.de^$dnstype=AAAA
+||anistreaming.xyz^$dnstype=AAAA
 ||anit.ro^$dnstype=AAAA
 ||anitracksub.ml^$dnstype=AAAA
 ||anjiasu.com^$dnstype=AAAA
@@ -18424,6 +18425,7 @@
 ||japancupid.com^$dnstype=AAAA
 ||japanese-scat.net^$dnstype=AAAA
 ||japanese.xxx^$dnstype=AAAA
+||japaneseasmr.com^$dnstype=AAAA
 ||japanesebeauties.net^$dnstype=AAAA
 ||japanesegirlspictures.com^$dnstype=AAAA
 ||japaneselovelygirl.com^$dnstype=AAAA
@@ -23778,7 +23780,6 @@
 ||nvtongzhisheng.org^$dnstype=AAAA
 ||nwanime.tv^$dnstype=AAAA
 ||nwcdcloud.cn^$dnstype=AAAA
-||nwcddns.cn^$dnstype=AAAA
 ||nwcdinfosec.cn^$dnstype=AAAA
 ||nwi.com^$dnstype=AAAA
 ||nwipvideo.com^$dnstype=AAAA
