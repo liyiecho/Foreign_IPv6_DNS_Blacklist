@@ -1997,6 +1997,7 @@
 ||633ct.com^$dnstype=AAAA
 ||633jjj.net^$dnstype=AAAA
 ||633mmm.net^$dnstype=AAAA
+||634.tv^$dnstype=AAAA
 ||6345345.com^$dnstype=AAAA
 ||635-188.com^$dnstype=AAAA
 ||6366r.com^$dnstype=AAAA
@@ -4858,6 +4859,7 @@
 ||asiancorrespondent.com^$dnstype=AAAA
 ||asianews.it^$dnstype=AAAA
 ||asianfreeforum.com^$dnstype=AAAA
+||asianfreeporn.net^$dnstype=AAAA
 ||asiangfvideos.com^$dnstype=AAAA
 ||asiangirlsnextdoor.com^$dnstype=AAAA
 ||asianinvestor.net^$dnstype=AAAA
@@ -4881,6 +4883,7 @@
 ||asiantribune.com^$dnstype=AAAA
 ||asianwomensfilm.de^$dnstype=AAAA
 ||asianxxxjoy.com^$dnstype=AAAA
+||asianxxxvideos.cc^$dnstype=AAAA
 ||asiaone.com^$dnstype=AAAA
 ||asiariskmanagement.com^$dnstype=AAAA
 ||asiatgp.com^$dnstype=AAAA
@@ -5151,6 +5154,7 @@
 ||avgthreatlabs.com^$dnstype=AAAA
 ||avh.world^$dnstype=AAAA
 ||avhaha.com^$dnstype=AAAA
+||avhbo.com^$dnstype=AAAA
 ||avhd101.com^$dnstype=AAAA
 ||avhome.one^$dnstype=AAAA
 ||avhot.cc^$dnstype=AAAA
@@ -9247,7 +9251,6 @@
 ||com.bo^$dnstype=AAAA
 ||com.by^$dnstype=AAAA
 ||com.bz^$dnstype=AAAA
-||com.cn^$dnstype=AAAA
 ||com.co^$dnstype=AAAA
 ||com.com^$dnstype=AAAA
 ||com.cu^$dnstype=AAAA
@@ -9798,6 +9801,7 @@
 ||culturalspot.org^$dnstype=AAAA
 ||culture.tw^$dnstype=AAAA
 ||culturedcode.com^$dnstype=AAAA
+||cum4k.cc^$dnstype=AAAA
 ||cumasianporn.com^$dnstype=AAAA
 ||cumfox.com^$dnstype=AAAA
 ||cumlouder.com^$dnstype=AAAA
@@ -10510,6 +10514,7 @@
 ||digiland.tw^$dnstype=AAAA
 ||digisfera.com^$dnstype=AAAA
 ||digisocial.com^$dnstype=AAAA
+||digital-anime.com^$dnstype=AAAA
 ||digital-id.ch^$dnstype=AAAA
 ||digital-rb.com^$dnstype=AAAA
 ||digitalassetlinks.org^$dnstype=AAAA
@@ -14778,6 +14783,7 @@
 ||ghostvpn.com^$dnstype=AAAA
 ||ghst.net^$dnstype=AAAA
 ||ghtrht.com^$dnstype=AAAA
+||ghtv666.top^$dnstype=AAAA
 ||ghut.org^$dnstype=AAAA
 ||giantessbooru.com^$dnstype=AAAA
 ||giantessnight.com^$dnstype=AAAA
@@ -15938,6 +15944,7 @@
 ||hentai-books.com^$dnstype=AAAA
 ||hentai-cosplays.com^$dnstype=AAAA
 ||hentai-covers.site^$dnstype=AAAA
+||hentai-eroanime.net^$dnstype=AAAA
 ||hentai-for.net^$dnstype=AAAA
 ||hentai-foundry.com^$dnstype=AAAA
 ||hentai-fun.com^$dnstype=AAAA
@@ -15990,6 +15997,7 @@
 ||hentaicovid.com^$dnstype=AAAA
 ||hentaidirectory.org^$dnstype=AAAA
 ||hentaidude.com^$dnstype=AAAA
+||hentaienvy.com^$dnstype=AAAA
 ||hentaiera.com^$dnstype=AAAA
 ||hentaiero.net^$dnstype=AAAA
 ||hentaifc.com^$dnstype=AAAA
@@ -18531,6 +18539,7 @@
 ||javfilms.com^$dnstype=AAAA
 ||javfinder.is^$dnstype=AAAA
 ||javfor.me^$dnstype=AAAA
+||javforme.ninja^$dnstype=AAAA
 ||javfree.me^$dnstype=AAAA
 ||javfree.sh^$dnstype=AAAA
 ||javfuck.net^$dnstype=AAAA
@@ -18567,6 +18576,7 @@
 ||javleak.com^$dnstype=AAAA
 ||javli6.com^$dnstype=AAAA
 ||javlibrary.com^$dnstype=AAAA
+||javlibrary.tv^$dnstype=AAAA
 ||javmany.com^$dnstype=AAAA
 ||javme.me^$dnstype=AAAA
 ||javmenu.com^$dnstype=AAAA
@@ -21171,6 +21181,7 @@
 ||maturesexual.com^$dnstype=AAAA
 ||maturesinhd.com^$dnstype=AAAA
 ||maturetube.com^$dnstype=AAAA
+||maturewifeporn.cc^$dnstype=AAAA
 ||maturewomenanal.com^$dnstype=AAAA
 ||matuszewski.it^$dnstype=AAAA
 ||mauerspecht.org^$dnstype=AAAA
@@ -24130,6 +24141,7 @@
 ||onlyfanspw.com^$dnstype=AAAA
 ||onlyfreelatinaporn.com^$dnstype=AAAA
 ||onlygayvideo.com^$dnstype=AAAA
+||onlyhdporn.com^$dnstype=AAAA
 ||onlyhentaistuff.com^$dnstype=AAAA
 ||onlyhomemadeanal.com^$dnstype=AAAA
 ||onlyincestporn.com^$dnstype=AAAA
@@ -25517,6 +25529,7 @@
 ||pornaxo.com^$dnstype=AAAA
 ||pornbase.org^$dnstype=AAAA
 ||pornbest.org^$dnstype=AAAA
+||pornbit.cc^$dnstype=AAAA
 ||pornbozz.com^$dnstype=AAAA
 ||pornbraze.com^$dnstype=AAAA
 ||pornbrb.com^$dnstype=AAAA
@@ -25729,6 +25742,7 @@
 ||pornov1080.name^$dnstype=AAAA
 ||pornovenezolanox.com^$dnstype=AAAA
 ||pornovesem.tv^$dnstype=AAAA
+||pornovideosfree.net^$dnstype=AAAA
 ||pornovideoshub.com^$dnstype=AAAA
 ||pornovideow.com^$dnstype=AAAA
 ||pornoweb.win^$dnstype=AAAA
@@ -28067,6 +28081,7 @@
 ||sexy.com^$dnstype=AAAA
 ||sexy3dtoon.com^$dnstype=AAAA
 ||sexyandfunny.com^$dnstype=AAAA
+||sexyasiangirls.cc^$dnstype=AAAA
 ||sexyavenue.com^$dnstype=AAAA
 ||sexybabesz.com^$dnstype=AAAA
 ||sexycandidgirls.com^$dnstype=AAAA
@@ -29099,7 +29114,6 @@
 ||ssl-certificate.ch^$dnstype=AAAA
 ||ssl.com^$dnstype=AAAA
 ||ssl443.org^$dnstype=AAAA
-||sslcom.cn^$dnstype=AAAA
 ||sslpaypal.org^$dnstype=AAAA
 ||sslproxyserver.com^$dnstype=AAAA
 ||sslsecureproxy.com^$dnstype=AAAA
@@ -32691,7 +32705,6 @@
 ||vnsr6388.com^$dnstype=AAAA
 ||vnsr8.co^$dnstype=AAAA
 ||vnsr9288.com^$dnstype=AAAA
-||vnsr9488.com^$dnstype=AAAA
 ||vnvui.com^$dnstype=AAAA
 ||vnware.net^$dnstype=AAAA
 ||voa.com^$dnstype=AAAA
@@ -33827,6 +33840,7 @@
 ||womensnikeshox.com^$dnstype=AAAA
 ||womenwill.com^$dnstype=AAAA
 ||womenwill.id^$dnstype=AAAA
+||wonporn.com^$dnstype=AAAA
 ||wonporn.net^$dnstype=AAAA
 ||woodforest.com^$dnstype=AAAA
 ||woodmancastingx.com^$dnstype=AAAA
@@ -34237,6 +34251,7 @@
 ||xbabe.com^$dnstype=AAAA
 ||xbahis33.com^$dnstype=AAAA
 ||xbahis44.com^$dnstype=AAAA
+||xbanny.com^$dnstype=AAAA
 ||xbbxtv.com^$dnstype=AAAA
 ||xbeegtube.com^$dnstype=AAAA
 ||xbef.com^$dnstype=AAAA
@@ -34639,6 +34654,7 @@
 ||xnxxpornvid.com^$dnstype=AAAA
 ||xnxxsexclips.com^$dnstype=AAAA
 ||xnxxsexmovies.com^$dnstype=AAAA
+||xnxxvideos.rest^$dnstype=AAAA
 ||xnxxx.cc^$dnstype=AAAA
 ||xnzt666.com^$dnstype=AAAA
 ||xo.com^$dnstype=AAAA
@@ -34866,6 +34882,7 @@
 ||xxxgratisfilms.com^$dnstype=AAAA
 ||xxxhd.pro^$dnstype=AAAA
 ||xxxhdd.com^$dnstype=AAAA
+||xxxhdporn.cc^$dnstype=AAAA
 ||xxxhdvideo.mobi^$dnstype=AAAA
 ||xxxhentai.net^$dnstype=AAAA
 ||xxxhomefuck.com^$dnstype=AAAA
