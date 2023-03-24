@@ -31232,6 +31232,7 @@
 ||tryoffshore.com^$dnstype=AAAA
 ||tryquinn.com^$dnstype=AAAA
 ||tryrating.com^$dnstype=AAAA
+||tryst.link^$dnstype=AAAA
 ||ts.la^$dnstype=AAAA
 ||ts2.se^$dnstype=AAAA
 ||ts221.net^$dnstype=AAAA
