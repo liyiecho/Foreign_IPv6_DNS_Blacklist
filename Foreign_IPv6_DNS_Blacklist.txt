@@ -3891,6 +3891,7 @@
 ||allinfa.com^$dnstype=AAAA
 ||allinternal.com^$dnstype=AAAA
 ||allisons.org^$dnstype=AAAA
+||allizom.org^$dnstype=AAAA
 ||alljackpotscasino.com^$dnstype=AAAA
 ||alljapanesepass.com^$dnstype=AAAA
 ||alllsides.com^$dnstype=AAAA
