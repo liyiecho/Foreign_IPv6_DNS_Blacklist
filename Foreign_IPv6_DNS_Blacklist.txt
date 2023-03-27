@@ -4347,6 +4347,7 @@
 ||anon-v.com^$dnstype=AAAA
 ||anon-v.lol^$dnstype=AAAA
 ||anonasurf.com^$dnstype=AAAA
+||anonfiles.com^$dnstype=AAAA
 ||anonine.com^$dnstype=AAAA
 ||anonine.se^$dnstype=AAAA
 ||anonplus.org^$dnstype=AAAA
@@ -17107,6 +17108,7 @@
 ||hycgm1324.shop^$dnstype=AAAA
 ||hychot4.xyz^$dnstype=AAAA
 ||hycm.com^$dnstype=AAAA
+||hydrogenaud.io^$dnstype=AAAA
 ||hyds360.com^$dnstype=AAAA
 ||hymnal.net^$dnstype=AAAA
 ||hymzw.net^$dnstype=AAAA
@@ -18240,6 +18242,7 @@
 ||iteke.ml^$dnstype=AAAA
 ||iteke.tk^$dnstype=AAAA
 ||itemdb.com^$dnstype=AAAA
+||itemfix.com^$dnstype=AAAA
 ||itfromtheinside.com^$dnstype=AAAA
 ||itgonglun.com^$dnstype=AAAA
 ||ithaisex.com^$dnstype=AAAA
@@ -19965,6 +19968,7 @@
 ||lecoin.cc^$dnstype=AAAA
 ||lede-project.org^$dnstype=AAAA
 ||ledetipe.com^$dnstype=AAAA
+||ledger.com^$dnstype=AAAA
 ||ledongzhibo111.com^$dnstype=AAAA
 ||ledongzhibo1111.com^$dnstype=AAAA
 ||ledongzhibo222.com^$dnstype=AAAA
@@ -24036,6 +24040,7 @@
 ||oldpiratebay.org^$dnstype=AAAA
 ||ole777.com^$dnstype=AAAA
 ||olehd.com^$dnstype=AAAA
+||olehdtv.com^$dnstype=AAAA
 ||olelive.com^$dnstype=AAAA
 ||olevod.com^$dnstype=AAAA
 ||olevod.io^$dnstype=AAAA
