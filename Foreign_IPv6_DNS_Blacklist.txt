@@ -28149,6 +28149,7 @@
 ||sfdcstatic.com^$dnstype=AAAA
 ||sfi.se^$dnstype=AAAA
 ||sfileydy.com^$dnstype=AAAA
+||sfmcompile.club^$dnstype=AAAA
 ||sforce.com^$dnstype=AAAA
 ||sfshibao.com^$dnstype=AAAA
 ||sft-canada.org^$dnstype=AAAA
