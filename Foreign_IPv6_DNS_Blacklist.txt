@@ -1438,6 +1438,7 @@
 ||3dxtras.com^$dnstype=AAAA
 ||3fl.com^$dnstype=AAAA
 ||3forever.com^$dnstype=AAAA
+||3go.fun^$dnstype=AAAA
 ||3gsmasia.com^$dnstype=AAAA
 ||3hentai.net^$dnstype=AAAA
 ||3hjdc.com^$dnstype=AAAA
@@ -1763,6 +1764,7 @@
 ||52xtv.net^$dnstype=AAAA
 ||5305654.com^$dnstype=AAAA
 ||531.tw^$dnstype=AAAA
+||531tr.com^$dnstype=AAAA
 ||531u.com^$dnstype=AAAA
 ||5320885.com^$dnstype=AAAA
 ||5323169.com^$dnstype=AAAA
@@ -3048,6 +3050,7 @@
 ||99hiya.net^$dnstype=AAAA
 ||99kav.com^$dnstype=AAAA
 ||99oi.us^$dnstype=AAAA
+||99quse.cc^$dnstype=AAAA
 ||99re.com^$dnstype=AAAA
 ||99thz.cc^$dnstype=AAAA
 ||99thz.com^$dnstype=AAAA
@@ -3111,6 +3114,7 @@
 ||9to5mac.com^$dnstype=AAAA
 ||9to5terminal.com^$dnstype=AAAA
 ||9to5toys.com^$dnstype=AAAA
+||9xav.cc^$dnstype=AAAA
 ||9xbuddy.com^$dnstype=AAAA
 ||9xlove.xyz^$dnstype=AAAA
 ||9zipai.net^$dnstype=AAAA
@@ -4890,6 +4894,7 @@
 ||asianspiss.com^$dnstype=AAAA
 ||asianthumbs.org^$dnstype=AAAA
 ||asiantribune.com^$dnstype=AAAA
+||asianwifeporn.com^$dnstype=AAAA
 ||asianwomensfilm.de^$dnstype=AAAA
 ||asianxxxjoy.com^$dnstype=AAAA
 ||asianxxxvideos.cc^$dnstype=AAAA
@@ -5177,6 +5182,7 @@
 ||avirtualfriend.ch^$dnstype=AAAA
 ||avizoon.site^$dnstype=AAAA
 ||avizoone.com^$dnstype=AAAA
+||avjb.com^$dnstype=AAAA
 ||avlang.com^$dnstype=AAAA
 ||avlulu.cc^$dnstype=AAAA
 ||avlulu001.com^$dnstype=AAAA
@@ -16234,6 +16240,7 @@
 ||hifacebook.info^$dnstype=AAAA
 ||hifiporn.fun^$dnstype=AAAA
 ||hifixxx.fun^$dnstype=AAAA
+||hifuli.com^$dnstype=AAAA
 ||higfw.com^$dnstype=AAAA
 ||higginbotham.name^$dnstype=AAAA
 ||highbolt.net^$dnstype=AAAA
@@ -20862,6 +20869,7 @@
 ||macys.com^$dnstype=AAAA
 ||mad-ar.ch^$dnstype=AAAA
 ||madaili.com^$dnstype=AAAA
+||madamlive.tv^$dnstype=AAAA
 ||madbid.com^$dnstype=AAAA
 ||madchensex.com^$dnstype=AAAA
 ||maddawgjav.net^$dnstype=AAAA
@@ -20877,6 +20885,7 @@
 ||madison.com^$dnstype=AAAA
 ||madonna-av.com^$dnstype=AAAA
 ||madou.club^$dnstype=AAAA
+||madouav.one^$dnstype=AAAA
 ||madpeople.net^$dnstype=AAAA
 ||madrau.com^$dnstype=AAAA
 ||madshi.net^$dnstype=AAAA
@@ -21207,6 +21216,7 @@
 ||maturetube.com^$dnstype=AAAA
 ||maturewifeporn.cc^$dnstype=AAAA
 ||maturewomenanal.com^$dnstype=AAAA
+||maturexxxvideos.cc^$dnstype=AAAA
 ||matuszewski.it^$dnstype=AAAA
 ||mauerspecht.org^$dnstype=AAAA
 ||maven.org^$dnstype=AAAA
@@ -26977,6 +26987,7 @@
 ||redwap.pro^$dnstype=AAAA
 ||redwood.asia^$dnstype=AAAA
 ||redxxx.cc^$dnstype=AAAA
+||redxxxvideo.tv^$dnstype=AAAA
 ||redxxxvideos.com^$dnstype=AAAA
 ||redzonechannel.com^$dnstype=AAAA
 ||refefw.com^$dnstype=AAAA
@@ -27653,6 +27664,7 @@
 ||scat-enema.com^$dnstype=AAAA
 ||scat-japan.com^$dnstype=AAAA
 ||scat-shop.net^$dnstype=AAAA
+||scat.gold^$dnstype=AAAA
 ||scatfap.com^$dnstype=AAAA
 ||scatfinder.com^$dnstype=AAAA
 ||scathd.com^$dnstype=AAAA
@@ -27890,6 +27902,7 @@
 ||seqingwangzhan.pro^$dnstype=AAAA
 ||seqingx.com^$dnstype=AAAA
 ||sequence.com^$dnstype=AAAA
+||ser7.cc^$dnstype=AAAA
 ||serajeymonastery.org^$dnstype=AAAA
 ||serajeyrigzodchenmo.org^$dnstype=AAAA
 ||seraph.me^$dnstype=AAAA
@@ -30443,6 +30456,7 @@
 ||thepiratebay.org^$dnstype=AAAA
 ||theplatform.com^$dnstype=AAAA
 ||thepolicy.us^$dnstype=AAAA
+||theporn.cc^$dnstype=AAAA
 ||thepornarea.com^$dnstype=AAAA
 ||thepornbest.com^$dnstype=AAAA
 ||thepornbet.com^$dnstype=AAAA
@@ -31758,6 +31772,7 @@
 ||u2646.com^$dnstype=AAAA
 ||u2bet.net^$dnstype=AAAA
 ||u2xtv.com^$dnstype=AAAA
+||u3c3.com^$dnstype=AAAA
 ||u666999.com^$dnstype=AAAA
 ||u78929.com^$dnstype=AAAA
 ||u9a9.com^$dnstype=AAAA
@@ -34204,6 +34219,7 @@
 ||wynn000.com^$dnstype=AAAA
 ||wynnware.com^$dnstype=AAAA
 ||wyqn.net^$dnstype=AAAA
+||wyqqdz.com^$dnstype=AAAA
 ||wyt750.com^$dnstype=AAAA
 ||wz816.com^$dnstype=AAAA
 ||wz8188.vip^$dnstype=AAAA
