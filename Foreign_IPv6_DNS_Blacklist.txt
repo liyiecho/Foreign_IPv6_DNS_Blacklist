@@ -2354,6 +2354,7 @@
 ||7716.com^$dnstype=AAAA
 ||77167app.com^$dnstype=AAAA
 ||77167c.com^$dnstype=AAAA
+||7719.me^$dnstype=AAAA
 ||7722xj.com^$dnstype=AAAA
 ||772776.com^$dnstype=AAAA
 ||7727sss.com^$dnstype=AAAA
@@ -18489,6 +18490,7 @@
 ||jav.dog^$dnstype=AAAA
 ||jav.gallery^$dnstype=AAAA
 ||jav.guru^$dnstype=AAAA
+||jav.la^$dnstype=AAAA
 ||jav.land^$dnstype=AAAA
 ||jav.place^$dnstype=AAAA
 ||jav007.com^$dnstype=AAAA
@@ -18566,6 +18568,7 @@
 ||javfinder.is^$dnstype=AAAA
 ||javfor.me^$dnstype=AAAA
 ||javforme.ninja^$dnstype=AAAA
+||javfree.la^$dnstype=AAAA
 ||javfree.me^$dnstype=AAAA
 ||javfree.sh^$dnstype=AAAA
 ||javfuck.net^$dnstype=AAAA
@@ -18653,6 +18656,7 @@
 ||javtorrent.re^$dnstype=AAAA
 ||javtrailers.com^$dnstype=AAAA
 ||javtrust.com^$dnstype=AAAA
+||javtube.cc^$dnstype=AAAA
 ||javtube.com^$dnstype=AAAA
 ||javtube.net^$dnstype=AAAA
 ||javvan.cc^$dnstype=AAAA
@@ -20885,6 +20889,7 @@
 ||madison.com^$dnstype=AAAA
 ||madonna-av.com^$dnstype=AAAA
 ||madou.club^$dnstype=AAAA
+||madou.la^$dnstype=AAAA
 ||madouav.one^$dnstype=AAAA
 ||madpeople.net^$dnstype=AAAA
 ||madrau.com^$dnstype=AAAA
