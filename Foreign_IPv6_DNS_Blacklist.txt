@@ -16171,6 +16171,7 @@
 ||hgsacx.com^$dnstype=AAAA
 ||hgseav.com^$dnstype=AAAA
 ||hgtg022.com^$dnstype=AAAA
+||hh-content.com^$dnstype=AAAA
 ||hh176.net^$dnstype=AAAA
 ||hh2267.com^$dnstype=AAAA
 ||hh22hh.com^$dnstype=AAAA
@@ -19473,6 +19474,7 @@
 ||kinkbook.com^$dnstype=AAAA
 ||kinkcult.com^$dnstype=AAAA
 ||kinklive.com^$dnstype=AAAA
+||kinkoid.com^$dnstype=AAAA
 ||kinkyfamily.com^$dnstype=AAAA
 ||kinkypeepz.com^$dnstype=AAAA
 ||kinmen.travel^$dnstype=AAAA
@@ -25242,6 +25244,7 @@
 ||pinterest.info^$dnstype=AAAA
 ||pinterest.it^$dnstype=AAAA
 ||pinterest.jp^$dnstype=AAAA
+||pinterest.net^$dnstype=AAAA
 ||pinterest.nl^$dnstype=AAAA
 ||pinterest.nz^$dnstype=AAAA
 ||pinterest.pt^$dnstype=AAAA
