@@ -3414,6 +3414,9 @@
 ||adobe-audience-finder.com^$dnstype=AAAA
 ||adobe-video-partner-finder.com^$dnstype=AAAA
 ||adobe.io^$dnstype=AAAA
+||adobe.ipp^$dnstype=AAAA
+||adobe.newoa^$dnstype=AAAA
+||adobe.ntp^$dnstype=AAAA
 ||adobeaemcloud.com^$dnstype=AAAA
 ||adobeaemcloud.net^$dnstype=AAAA
 ||adobeawards.com^$dnstype=AAAA
@@ -3426,6 +3429,7 @@
 ||adobedc.net^$dnstype=AAAA
 ||adobedemo.com^$dnstype=AAAA
 ||adobedtm.com^$dnstype=AAAA
+||adobeereg.com^$dnstype=AAAA
 ||adobeexchange.com^$dnstype=AAAA
 ||adobeexperienceawards.com^$dnstype=AAAA
 ||adobegov.com^$dnstype=AAAA
@@ -6846,6 +6850,7 @@
 ||bluemix.net^$dnstype=AAAA
 ||blueseek.com^$dnstype=AAAA
 ||bluesprig.com^$dnstype=AAAA
+||bluestacks.com^$dnstype=AAAA
 ||bluffave.com^$dnstype=AAAA
 ||bluffavenue.com^$dnstype=AAAA
 ||bluffyporn.com^$dnstype=AAAA
@@ -7395,6 +7400,7 @@
 ||brizzly.com^$dnstype=AAAA
 ||brkmd.com^$dnstype=AAAA
 ||brliilantsdates.com^$dnstype=AAAA
+||broadbandreports.com^$dnstype=AAAA
 ||broadbook.com^$dnstype=AAAA
 ||broadpressinc.com^$dnstype=AAAA
 ||brocaproject.com^$dnstype=AAAA
@@ -11154,6 +11160,8 @@
 ||dsfhgfuyh.com^$dnstype=AAAA
 ||dsh111.com^$dnstype=AAAA
 ||dslady.com^$dnstype=AAAA
+||dslr.net^$dnstype=AAAA
+||dslreports.com^$dnstype=AAAA
 ||dsmtp.com^$dnstype=AAAA
 ||dsn01.com^$dnstype=AAAA
 ||dsn02.co^$dnstype=AAAA
@@ -19020,6 +19028,7 @@
 ||joyandkin.hk^$dnstype=AAAA
 ||joyclub.de^$dnstype=AAAA
 ||joyhentai.com^$dnstype=AAAA
+||joyjoy.net^$dnstype=AAAA
 ||joylovedolls.com^$dnstype=AAAA
 ||joymii.com^$dnstype=AAAA
 ||joymiihub.com^$dnstype=AAAA
@@ -24309,6 +24318,7 @@
 ||oppapers.com^$dnstype=AAAA
 ||oppc.tk^$dnstype=AAAA
 ||opposix.com^$dnstype=AAAA
+||opsource.net^$dnstype=AAAA
 ||opsxtv.com^$dnstype=AAAA
 ||optanedifference.com^$dnstype=AAAA
 ||opte.org^$dnstype=AAAA
@@ -24641,6 +24651,7 @@
 ||pandafan.me^$dnstype=AAAA
 ||pandafe.com^$dnstype=AAAA
 ||pandamovies.pw^$dnstype=AAAA
+||pandanet-igs.com^$dnstype=AAAA
 ||pandapow.co^$dnstype=AAAA
 ||pandapow.com^$dnstype=AAAA
 ||pandapow.net^$dnstype=AAAA
@@ -25444,6 +25455,7 @@
 ||pogo.com^$dnstype=AAAA
 ||pogobeta.com^$dnstype=AAAA
 ||pohill.com^$dnstype=AAAA
+||poi.moe^$dnstype=AAAA
 ||poikilmavillas.gr^$dnstype=AAAA
 ||point2hk.com^$dnstype=AAAA
 ||point2this.com^$dnstype=AAAA
@@ -25975,6 +25987,7 @@
 ||practicalbusinessskills.com^$dnstype=AAAA
 ||practicaldigitalprotection.com^$dnstype=AAAA
 ||practicalmoneyskills.cn^$dnstype=AAAA
+||practivate.adobe^$dnstype=AAAA
 ||pratikpatel.in^$dnstype=AAAA
 ||prayforchina.net^$dnstype=AAAA
 ||prchistory.org^$dnstype=AAAA
@@ -26233,6 +26246,7 @@
 ||prpops.com^$dnstype=AAAA
 ||prprcloud.com^$dnstype=AAAA
 ||prs188188.com^$dnstype=AAAA
+||prts.plus^$dnstype=AAAA
 ||prutoncapital.com^$dnstype=AAAA
 ||prxch.com^$dnstype=AAAA
 ||ps8318.com^$dnstype=AAAA
@@ -28413,7 +28427,9 @@
 ||show-live.tw^$dnstype=AAAA
 ||showav.tv^$dnstype=AAAA
 ||showhaotu.com^$dnstype=AAAA
+||showtime.com^$dnstype=AAAA
 ||showtime.jp^$dnstype=AAAA
+||showtimeanytime.com^$dnstype=AAAA
 ||showup.tv^$dnstype=AAAA
 ||showwe.tw^$dnstype=AAAA
 ||showybeauty.com^$dnstype=AAAA
@@ -32411,6 +32427,7 @@
 ||vermonttibet.org^$dnstype=AAAA
 ||verpeliculasporno.gratis^$dnstype=AAAA
 ||versavpn.com^$dnstype=AAAA
+||versign.net^$dnstype=AAAA
 ||versly.com^$dnstype=AAAA
 ||vervesex.com^$dnstype=AAAA
 ||verybs.com^$dnstype=AAAA
