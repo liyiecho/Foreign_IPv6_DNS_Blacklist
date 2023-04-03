@@ -3462,6 +3462,7 @@
 ||adorevids.com^$dnstype=AAAA
 ||adriannapapell.com^$dnstype=AAAA
 ||adrianos.org^$dnstype=AAAA
+||ads-pixiv.net^$dnstype=AAAA
 ||ads-twitter.com^$dnstype=AAAA
 ||adsense.com^$dnstype=AAAA
 ||adsensecustomsearchads.com^$dnstype=AAAA
@@ -5355,6 +5356,7 @@
 ||azuredns-prd.org^$dnstype=AAAA
 ||azureedge-test.net^$dnstype=AAAA
 ||azureedge.net^$dnstype=AAAA
+||azurefd.net^$dnstype=AAAA
 ||azurehdinsight.cn^$dnstype=AAAA
 ||azureiotcentral.com^$dnstype=AAAA
 ||azureiotsolutions.com^$dnstype=AAAA
