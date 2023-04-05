@@ -5362,7 +5362,6 @@
 ||azuredns-prd.org^$dnstype=AAAA
 ||azureedge-test.net^$dnstype=AAAA
 ||azureedge.net^$dnstype=AAAA
-||azurefd.net^$dnstype=AAAA
 ||azurehdinsight.cn^$dnstype=AAAA
 ||azureiotcentral.com^$dnstype=AAAA
 ||azureiotsolutions.com^$dnstype=AAAA
@@ -6436,6 +6435,7 @@
 ||bili999.com^$dnstype=AAAA
 ||bilifl.com^$dnstype=AAAA
 ||bilifuli.com^$dnstype=AAAA
+||biliplus.com^$dnstype=AAAA
 ||biliworld.com^$dnstype=AAAA
 ||bill-safe.com^$dnstype=AAAA
 ||bill2-software.com^$dnstype=AAAA
@@ -8582,6 +8582,7 @@
 ||checkthis.com^$dnstype=AAAA
 ||cheezit.com^$dnstype=AAAA
 ||chei.us^$dnstype=AAAA
+||chemequations.com^$dnstype=AAAA
 ||chemnetbase.com^$dnstype=AAAA
 ||chenboyo.com^$dnstype=AAAA
 ||cheng.pet^$dnstype=AAAA
@@ -19262,6 +19263,7 @@
 ||kadokawagakugei.com^$dnstype=AAAA
 ||kaggle.com^$dnstype=AAAA
 ||kaggle.io^$dnstype=AAAA
+||kaggleusercontent.com^$dnstype=AAAA
 ||kaguragames.com^$dnstype=AAAA
 ||kagyu-sfla.org^$dnstype=AAAA
 ||kagyu.org^$dnstype=AAAA
@@ -25848,6 +25850,7 @@
 ||pornrips.cc^$dnstype=AAAA
 ||pornrox.com^$dnstype=AAAA
 ||pornsake.com^$dnstype=AAAA
+||pornscat.org^$dnstype=AAAA
 ||pornscum.com^$dnstype=AAAA
 ||pornsearchengine.com^$dnstype=AAAA
 ||pornsexer.com^$dnstype=AAAA
