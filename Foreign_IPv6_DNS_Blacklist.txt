@@ -10098,7 +10098,6 @@
 ||dancemeets.com^$dnstype=AAAA
 ||dancingbear.com^$dnstype=AAAA
 ||dandalinvoa.com^$dnstype=AAAA
-||dandanzan.cc^$dnstype=AAAA
 ||danejones.com^$dnstype=AAAA
 ||danemarket.com^$dnstype=AAAA
 ||danielgranda.com^$dnstype=AAAA
@@ -16994,6 +16993,7 @@
 ||huayueloubbs.com^$dnstype=AAAA
 ||huayuworld.org^$dnstype=AAAA
 ||huaze.org^$dnstype=AAAA
+||hubblephone.com^$dnstype=AAAA
 ||hubg.org^$dnstype=AAAA
 ||huc111.com^$dnstype=AAAA
 ||huc755.com^$dnstype=AAAA
@@ -23819,7 +23819,6 @@
 ||nuki-dokoro.com^$dnstype=AAAA
 ||nukistream.com^$dnstype=AAAA
 ||numbr.com^$dnstype=AAAA
-||nunuyy.cc^$dnstype=AAAA
 ||nuorder.com^$dnstype=AAAA
 ||nuovelle.ee^$dnstype=AAAA
 ||nuovomegavideo.com^$dnstype=AAAA
