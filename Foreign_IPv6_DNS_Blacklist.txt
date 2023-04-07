@@ -16984,7 +16984,6 @@
 ||huashengjp.com^$dnstype=AAAA
 ||huashundg.com^$dnstype=AAAA
 ||huasing.org^$dnstype=AAAA
-||huati.cc^$dnstype=AAAA
 ||huaxia-news.com^$dnstype=AAAA
 ||huaxiabao.org^$dnstype=AAAA
 ||huaxin.ph^$dnstype=AAAA
@@ -25999,7 +25998,6 @@
 ||ppnycaction.org^$dnstype=AAAA
 ||ppp3285.com^$dnstype=AAAA
 ||ppp626.net^$dnstype=AAAA
-||ppp91.cc^$dnstype=AAAA
 ||pppds.com^$dnstype=AAAA
 ||ppshk.net^$dnstype=AAAA
 ||pptp.kr^$dnstype=AAAA
@@ -31822,7 +31820,6 @@
 ||u3c3.com^$dnstype=AAAA
 ||u666999.com^$dnstype=AAAA
 ||u78929.com^$dnstype=AAAA
-||u9a9.cc^$dnstype=AAAA
 ||u9a9.com^$dnstype=AAAA
 ||u9un.com^$dnstype=AAAA
 ||uab.cat^$dnstype=AAAA
@@ -34539,7 +34536,6 @@
 ||xiaolan.me^$dnstype=AAAA
 ||xiaoma.org^$dnstype=AAAA
 ||xiaomiyule666.com^$dnstype=AAAA
-||xiaoou.io^$dnstype=AAAA
 ||xiaopv.com^$dnstype=AAAA
 ||xiaoshuomm.com^$dnstype=AAAA
 ||xiaowei11.com^$dnstype=AAAA
