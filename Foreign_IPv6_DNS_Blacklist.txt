@@ -19999,6 +19999,7 @@
 ||link69.com^$dnstype=AAAA
 ||linkbucks.com^$dnstype=AAAA
 ||linkedin.cn^$dnstype=AAAA
+||linkedin.com^$dnstype=AAAA
 ||linkideo.com^$dnstype=AAAA
 ||linkjunkies.com^$dnstype=AAAA
 ||linkmetube.com^$dnstype=AAAA
