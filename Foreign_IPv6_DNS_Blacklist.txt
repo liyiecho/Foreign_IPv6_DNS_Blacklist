@@ -5285,6 +5285,7 @@
 ||azuredns-prd.org^$dnstype=AAAA
 ||azureedge-test.net^$dnstype=AAAA
 ||azureedge.net^$dnstype=AAAA
+||azurefd.net^$dnstype=AAAA
 ||azurehdinsight.cn^$dnstype=AAAA
 ||azureiotcentral.com^$dnstype=AAAA
 ||azureiotsolutions.com^$dnstype=AAAA
