@@ -8098,6 +8098,7 @@
 ||catswall.net^$dnstype=AAAA
 ||cattt.com^$dnstype=AAAA
 ||cavip111.com^$dnstype=AAAA
+||cavporn.com^$dnstype=AAAA
 ||caxata.com^$dnstype=AAAA
 ||cazila.com^$dnstype=AAAA
 ||cba.ca^$dnstype=AAAA
@@ -15347,6 +15348,7 @@
 ||h0930.com^$dnstype=AAAA
 ||h1388.com^$dnstype=AAAA
 ||h1665.com^$dnstype=AAAA
+||h18ani1.vip^$dnstype=AAAA
 ||h1n1china.org^$dnstype=AAAA
 ||h2255.com^$dnstype=AAAA
 ||h2646.com^$dnstype=AAAA
