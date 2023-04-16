@@ -11852,6 +11852,7 @@
 ||ero-comic-hunter.net^$dnstype=AAAA
 ||ero-guide.com^$dnstype=AAAA
 ||ero-kawa.com^$dnstype=AAAA
+||ero-labs.cloud^$dnstype=AAAA
 ||ero-labs.com^$dnstype=AAAA
 ||ero-labs.net^$dnstype=AAAA
 ||ero-labs.online^$dnstype=AAAA
@@ -11886,6 +11887,7 @@
 ||erolabs.com^$dnstype=AAAA
 ||erolabs.game^$dnstype=AAAA
 ||erolabs.net^$dnstype=AAAA
+||erolabs.online^$dnstype=AAAA
 ||erolord.com^$dnstype=AAAA
 ||eromanga-ace.com^$dnstype=AAAA
 ||eromanga-cafe.com^$dnstype=AAAA
