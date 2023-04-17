@@ -23700,7 +23700,6 @@
 ||omnitalk.org^$dnstype=AAAA
 ||omniture.com^$dnstype=AAAA
 ||omny.fm^$dnstype=AAAA
-||omobi.cc^$dnstype=AAAA
 ||omoplanet.com^$dnstype=AAAA
 ||omorashi.org^$dnstype=AAAA
 ||omscr.com^$dnstype=AAAA
