@@ -29808,6 +29808,7 @@
 ||theatlanticcities.com^$dnstype=AAAA
 ||theatrum-belli.com^$dnstype=AAAA
 ||theav.cc^$dnstype=AAAA
+||theb.ai^$dnstype=AAAA
 ||thebanker.com^$dnstype=AAAA
 ||thebankerdatabase.com^$dnstype=AAAA
 ||thebayuk.com^$dnstype=AAAA
