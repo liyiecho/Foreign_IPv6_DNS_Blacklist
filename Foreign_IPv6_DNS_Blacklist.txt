@@ -6036,6 +6036,7 @@
 ||beezmall.com^$dnstype=AAAA
 ||beforeitsnews.com^$dnstype=AAAA
 ||befuck.com^$dnstype=AAAA
+||befuck.net^$dnstype=AAAA
 ||begellhouse.com^$dnstype=AAAA
 ||begin-trade.com^$dnstype=AAAA
 ||behance.com^$dnstype=AAAA
@@ -32232,6 +32233,7 @@
 ||vnsr6388.com^$dnstype=AAAA
 ||vnsr8.co^$dnstype=AAAA
 ||vnsr9288.com^$dnstype=AAAA
+||vnsr9488.com^$dnstype=AAAA
 ||vnvui.com^$dnstype=AAAA
 ||vnware.net^$dnstype=AAAA
 ||voa.com^$dnstype=AAAA
@@ -34359,6 +34361,7 @@
 ||xxxccc4.com^$dnstype=AAAA
 ||xxxclub.club^$dnstype=AAAA
 ||xxxcomics.org^$dnstype=AAAA
+||xxxdan.com^$dnstype=AAAA
 ||xxxdessert.com^$dnstype=AAAA
 ||xxxdinotube.com^$dnstype=AAAA
 ||xxxengine.net^$dnstype=AAAA
