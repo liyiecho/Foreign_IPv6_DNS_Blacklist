@@ -11868,6 +11868,7 @@
 ||erocool.net^$dnstype=AAAA
 ||erocurves.com^$dnstype=AAAA
 ||erodaizensyu.com^$dnstype=AAAA
+||erodayo.com^$dnstype=AAAA
 ||erodougazo.com^$dnstype=AAAA
 ||erodoujinlog.com^$dnstype=AAAA
 ||erodoujinshi-world.com^$dnstype=AAAA
