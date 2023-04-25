@@ -74,6 +74,7 @@
 ||18exgfs.com^$dnstype=AAAA
 ||18hmanga.click^$dnstype=AAAA
 ||18hmanga.com^$dnstype=AAAA
+||18insta.com^$dnstype=AAAA
 ||18jms.com^$dnstype=AAAA
 ||18novel.xyz^$dnstype=AAAA
 ||18onlygirls.com^$dnstype=AAAA
@@ -380,10 +381,12 @@
 ||91cy.app^$dnstype=AAAA
 ||91fans.org^$dnstype=AAAA
 ||91gay.me^$dnstype=AAAA
+||91jinman.com^$dnstype=AAAA
 ||91md.me^$dnstype=AAAA
 ||91moxiong.com^$dnstype=AAAA
 ||91porn.best^$dnstype=AAAA
 ||91porn.com^$dnstype=AAAA
+||91porn.work^$dnstype=AAAA
 ||91porny.com^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
 ||91rb.com^$dnstype=AAAA
@@ -426,6 +429,8 @@
 ||a1av.xyz^$dnstype=AAAA
 ||a2z.com^$dnstype=AAAA
 ||a7sex.com^$dnstype=AAAA
+||aa1141.com^$dnstype=AAAA
+||aa1142.com^$dnstype=AAAA
 ||aaagradeheadphones.com^$dnstype=AAAA
 ||aaapp.cyou^$dnstype=AAAA
 ||aabb1802.com^$dnstype=AAAA
@@ -3751,6 +3756,7 @@
 ||ck101.com^$dnstype=AAAA
 ||ckcdn.com^$dnstype=AAAA
 ||ckck.fun^$dnstype=AAAA
+||ckss98.com^$dnstype=AAAA
 ||cl.ly^$dnstype=AAAA
 ||claravenger.com^$dnstype=AAAA
 ||clarionproject.org^$dnstype=AAAA
@@ -4558,6 +4564,7 @@
 ||diaoyuislands.org^$dnstype=AAAA
 ||dicela.com^$dnstype=AAAA
 ||dicela.net^$dnstype=AAAA
+||dickeomas.com^$dnstype=AAAA
 ||dickhardon.com^$dnstype=AAAA
 ||didce.com^$dnstype=AAAA
 ||diddykongracing.com^$dnstype=AAAA
@@ -6759,6 +6766,7 @@
 ||freeyouporn.mobi^$dnstype=AAAA
 ||freeyoutubeproxy.net^$dnstype=AAAA
 ||freezhihu.org^$dnstype=AAAA
+||freieporno.com^$dnstype=AAAA
 ||freindfeed.com^$dnstype=AAAA
 ||frescolib.org^$dnstype=AAAA
 ||freshporno.net^$dnstype=AAAA
@@ -7646,12 +7654,15 @@
 ||gucci.com^$dnstype=AAAA
 ||guccimuseo.com^$dnstype=AAAA
 ||guccitimeless.com^$dnstype=AAAA
+||guifw.xyz^$dnstype=AAAA
+||guifw2.top^$dnstype=AAAA
 ||guishan.org^$dnstype=AAAA
 ||gumroad.com^$dnstype=AAAA
 ||gun-world.net^$dnstype=AAAA
 ||gunsamerica.com^$dnstype=AAAA
 ||gunsandammo.com^$dnstype=AAAA
 ||guo.media^$dnstype=AAAA
+||guochanw.life^$dnstype=AAAA
 ||guruofporn.com^$dnstype=AAAA
 ||guruonline.hk^$dnstype=AAAA
 ||gutteruncensored.com^$dnstype=AAAA
@@ -9352,6 +9363,7 @@
 ||javcdn.cc^$dnstype=AAAA
 ||javcl.com^$dnstype=AAAA
 ||javct.net^$dnstype=AAAA
+||javcup.com^$dnstype=AAAA
 ||javdb.com^$dnstype=AAAA
 ||javdisk.com^$dnstype=AAAA
 ||javdoe.com^$dnstype=AAAA
@@ -10275,6 +10287,7 @@
 ||lsawards.com^$dnstype=AAAA
 ||lsforum.net^$dnstype=AAAA
 ||lsj2.shop^$dnstype=AAAA
+||lsj40.xyz^$dnstype=AAAA
 ||lsm.org^$dnstype=AAAA
 ||lsmchinese.org^$dnstype=AAAA
 ||lsmkorean.org^$dnstype=AAAA
@@ -10329,6 +10342,7 @@
 ||ma1lib.org^$dnstype=AAAA
 ||maa1809.com^$dnstype=AAAA
 ||maa1815.com^$dnstype=AAAA
+||maa1818.com^$dnstype=AAAA
 ||mac-mini.com^$dnstype=AAAA
 ||mac.com^$dnstype=AAAA
 ||mac.wang^$dnstype=AAAA
@@ -10852,6 +10866,7 @@
 ||milph.net^$dnstype=AAAA
 ||milsurps.com^$dnstype=AAAA
 ||mimei.store^$dnstype=AAAA
+||mimi22.top^$dnstype=AAAA
 ||mimiai.net^$dnstype=AAAA
 ||mimivip.com^$dnstype=AAAA
 ||mimivv.com^$dnstype=AAAA
@@ -14577,6 +14592,7 @@
 ||sexanime.net^$dnstype=AAAA
 ||sexarea.org^$dnstype=AAAA
 ||sexasia.net^$dnstype=AAAA
+||sexavidols.com^$dnstype=AAAA
 ||sexbebin.com^$dnstype=AAAA
 ||sexbombo.com^$dnstype=AAAA
 ||sexbookecuador.com^$dnstype=AAAA
@@ -17062,6 +17078,7 @@
 ||videosamadoresreais.com^$dnstype=AAAA
 ||videosdemadurasx.com^$dnstype=AAAA
 ||videosection.com^$dnstype=AAAA
+||videoshorny.com^$dnstype=AAAA
 ||videoskaseros.com^$dnstype=AAAA
 ||videosmadeathome.com^$dnstype=AAAA
 ||videosporno.life^$dnstype=AAAA
