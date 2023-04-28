@@ -11337,6 +11337,7 @@
 ||mucinex.com^$dnstype=AAAA
 ||mucinex.net^$dnstype=AAAA
 ||mucinexprofessional.com^$dnstype=AAAA
+||mudfish.net^$dnstype=AAAA
 ||muji.com^$dnstype=AAAA
 ||muji.net^$dnstype=AAAA
 ||mujikorea.net^$dnstype=AAAA
