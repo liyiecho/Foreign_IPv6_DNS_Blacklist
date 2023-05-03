@@ -312,6 +312,7 @@
 ||67id.com^$dnstype=AAAA
 ||67maoab.com^$dnstype=AAAA
 ||69-sexgames.com^$dnstype=AAAA
+||69bag.xyz^$dnstype=AAAA
 ||69femdom.com^$dnstype=AAAA
 ||69flv.com^$dnstype=AAAA
 ||69gayporno.com^$dnstype=AAAA
@@ -2695,6 +2696,7 @@
 ||bluemix.net^$dnstype=AAAA
 ||bluestacks.com^$dnstype=AAAA
 ||bluffyporn.com^$dnstype=AAAA
+||blurams.com^$dnstype=AAAA
 ||blz-contentstack.com^$dnstype=AAAA
 ||blzstatic.cn^$dnstype=AAAA
 ||bmfinn.com^$dnstype=AAAA
@@ -7367,6 +7369,8 @@
 ||gnews.org^$dnstype=AAAA
 ||gnom-cham.com^$dnstype=AAAA
 ||gnu.org^$dnstype=AAAA
+||gnzi.xyz^$dnstype=AAAA
+||gnzi1.top^$dnstype=AAAA
 ||go-disneyworldgo.com^$dnstype=AAAA
 ||go-gaytube.com^$dnstype=AAAA
 ||go-lang.com^$dnstype=AAAA
@@ -9464,6 +9468,7 @@
 ||javdb.com^$dnstype=AAAA
 ||javdb4.com^$dnstype=AAAA
 ||javdisk.com^$dnstype=AAAA
+||javdock.com^$dnstype=AAAA
 ||javdoe.com^$dnstype=AAAA
 ||javdove.com^$dnstype=AAAA
 ||javdove8.xyz^$dnstype=AAAA
@@ -9560,6 +9565,7 @@
 ||javzz.com^$dnstype=AAAA
 ||jayspov.net^$dnstype=AAAA
 ||jbe-platform.com^$dnstype=AAAA
+||jbk005.com^$dnstype=AAAA
 ||jbtalks.cc^$dnstype=AAAA
 ||jbtalks.com^$dnstype=AAAA
 ||jbtalks.my^$dnstype=AAAA
@@ -12290,6 +12296,7 @@
 ||ntrfun.com^$dnstype=AAAA
 ||nu-bay.com^$dnstype=AAAA
 ||nu.nl^$dnstype=AAAA
+||nu36.vip^$dnstype=AAAA
 ||nubilefilms.com^$dnstype=AAAA
 ||nubiles-casting.com^$dnstype=AAAA
 ||nubiles-porn.com^$dnstype=AAAA
@@ -13864,6 +13871,7 @@
 ||pttweb.cc^$dnstype=AAAA
 ||pttyes.com^$dnstype=AAAA
 ||ptzwx.com^$dnstype=AAAA
+||pu82.vip^$dnstype=AAAA
 ||pubgno1.cn^$dnstype=AAAA
 ||public-sex-porn.com^$dnstype=AAAA
 ||public-trust.com^$dnstype=AAAA
@@ -14242,6 +14250,7 @@
 ||redxxx.cc^$dnstype=AAAA
 ||redxxxvideos.com^$dnstype=AAAA
 ||redzonechannel.com^$dnstype=AAAA
+||ree007.xyz^$dnstype=AAAA
 ||referer.us^$dnstype=AAAA
 ||reflectivecode.com^$dnstype=AAAA
 ||reform-apple.com^$dnstype=AAAA
@@ -15469,6 +15478,7 @@
 ||ssshuqian.xyz^$dnstype=AAAA
 ||sssins.com^$dnstype=AAAA
 ||sssjav.com^$dnstype=AAAA
+||sssuo1.xyz^$dnstype=AAAA
 ||sstatic.net^$dnstype=AAAA
 ||sstm.moe^$dnstype=AAAA
 ||sstmlt.moe^$dnstype=AAAA
@@ -18808,6 +18818,7 @@
 ||yximg.cn^$dnstype=AAAA
 ||yyii.org^$dnstype=AAAA
 ||yyjlymb.xyz^$dnstype=AAAA
+||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
 ||z.cn^$dnstype=AAAA
