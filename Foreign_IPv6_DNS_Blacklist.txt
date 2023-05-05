@@ -175,6 +175,7 @@
 ||315lz.com^$dnstype=AAAA
 ||32bm.cc^$dnstype=AAAA
 ||32red.com^$dnstype=AAAA
+||35s4.com^$dnstype=AAAA
 ||365buymy.com^$dnstype=AAAA
 ||36rain.com^$dnstype=AAAA
 ||3789av.com^$dnstype=AAAA
@@ -401,6 +402,8 @@
 ||922tp.com^$dnstype=AAAA
 ||928.plus^$dnstype=AAAA
 ||92ccav.com^$dnstype=AAAA
+||941tube.com^$dnstype=AAAA
+||9550.fun^$dnstype=AAAA
 ||97dounai.top^$dnstype=AAAA
 ||991.com^$dnstype=AAAA
 ||99854.men^$dnstype=AAAA
@@ -2327,6 +2330,7 @@
 ||bestialitysextaboo.com^$dnstype=AAAA
 ||bestiphonestuff.com^$dnstype=AAAA
 ||bestjapanesepornsites.com^$dnstype=AAAA
+||bestjavporn.net^$dnstype=AAAA
 ||bestkinky.com^$dnstype=AAAA
 ||bestlistofporn.com^$dnstype=AAAA
 ||bestmallawards.com^$dnstype=AAAA
@@ -5148,6 +5152,7 @@
 ||dwnews.net^$dnstype=AAAA
 ||dx9527.cc^$dnstype=AAAA
 ||dxiong.com^$dnstype=AAAA
+||dxyav.co^$dnstype=AAAA
 ||dykycl.com^$dnstype=AAAA
 ||dynacw.com^$dnstype=AAAA
 ||dynafleetonline.com^$dnstype=AAAA
@@ -6729,6 +6734,7 @@
 ||free-wap-tube.com^$dnstype=AAAA
 ||free-xxx-porn.org^$dnstype=AAAA
 ||free.fr^$dnstype=AAAA
+||free00.com^$dnstype=AAAA
 ||free18.net^$dnstype=AAAA
 ||free3dadultgames.com^$dnstype=AAAA
 ||free64all.com^$dnstype=AAAA
@@ -6896,6 +6902,7 @@
 ||ftvgirls.com^$dnstype=AAAA
 ||ftvmilfs.com^$dnstype=AAAA
 ||ftx.com^$dnstype=AAAA
+||fu62.vip^$dnstype=AAAA
 ||fubo.tv^$dnstype=AAAA
 ||fucd.com^$dnstype=AAAA
 ||fuchsia.dev^$dnstype=AAAA
@@ -8099,6 +8106,7 @@
 ||hetzner.cloud^$dnstype=AAAA
 ||hetzner.com^$dnstype=AAAA
 ||heungkongdiscuss.com^$dnstype=AAAA
+||hexatronik.com^$dnstype=AAAA
 ||hexieshe.com^$dnstype=AAAA
 ||hexieshe.xyz^$dnstype=AAAA
 ||hexxeh.net^$dnstype=AAAA
@@ -8849,6 +8857,7 @@
 ||iicns.com^$dnstype=AAAA
 ||iijav.com^$dnstype=AAAA
 ||iillii.net^$dnstype=AAAA
+||iirmll.com^$dnstype=AAAA
 ||ijavhd.com^$dnstype=AAAA
 ||ikea.cn^$dnstype=AAAA
 ||ikea.com^$dnstype=AAAA
@@ -9299,6 +9308,7 @@
 ||ismprofessional.net^$dnstype=AAAA
 ||isohunt.com^$dnstype=AAAA
 ||israbox.com^$dnstype=AAAA
+||iss138.com^$dnstype=AAAA
 ||issitedownrightnow.com^$dnstype=AAAA
 ||issquaredown.com^$dnstype=AAAA
 ||issquareup.com^$dnstype=AAAA
@@ -9376,6 +9386,7 @@
 ||iwaponline.com^$dnstype=AAAA
 ||iwork.com^$dnstype=AAAA
 ||iwork.wang^$dnstype=AAAA
+||iwyn138.com^$dnstype=AAAA
 ||ixquick.com^$dnstype=AAAA
 ||ixxx.com^$dnstype=AAAA
 ||iyalc.com^$dnstype=AAAA
@@ -10409,6 +10420,7 @@
 ||lspimg.com^$dnstype=AAAA
 ||lss55.com^$dnstype=AAAA
 ||lsxszzg.com^$dnstype=AAAA
+||ltube.life^$dnstype=AAAA
 ||lua.org^$dnstype=AAAA
 ||lubetube.com^$dnstype=AAAA
 ||lucahmelayu.club^$dnstype=AAAA
@@ -11153,6 +11165,7 @@
 ||mlssoccer.com^$dnstype=AAAA
 ||mlzs.work^$dnstype=AAAA
 ||mm-cg.com^$dnstype=AAAA
+||mm9841.cc^$dnstype=AAAA
 ||mm9c63ae.xyz^$dnstype=AAAA
 ||mmaaxx.com^$dnstype=AAAA
 ||mmdnn.com^$dnstype=AAAA
@@ -11227,6 +11240,7 @@
 ||momsyoungboys.net^$dnstype=AAAA
 ||momtarts3d.com^$dnstype=AAAA
 ||momtube.club^$dnstype=AAAA
+||monaitv.me^$dnstype=AAAA
 ||monar.ch^$dnstype=AAAA
 ||monbeats2013.com^$dnstype=AAAA
 ||mondex.org^$dnstype=AAAA
@@ -11407,6 +11421,7 @@
 ||mschallenge2018.com^$dnstype=AAAA
 ||msdn.com^$dnstype=AAAA
 ||msedge.net^$dnstype=AAAA
+||msflj.vip^$dnstype=AAAA
 ||msft.info^$dnstype=AAAA
 ||msft.net^$dnstype=AAAA
 ||msftauth.cn^$dnstype=AAAA
@@ -12378,6 +12393,7 @@
 ||nwcdcloud.cn^$dnstype=AAAA
 ||nwcdinfosec.cn^$dnstype=AAAA
 ||nwtca.org^$dnstype=AAAA
+||nwxs8.com^$dnstype=AAAA
 ||nxta.org^$dnstype=AAAA
 ||nyaa.eu^$dnstype=AAAA
 ||nyaa.net^$dnstype=AAAA
@@ -14136,6 +14152,7 @@
 ||rd.com^$dnstype=AAAA
 ||rdio.com^$dnstype=AAAA
 ||rdtcdn.com^$dnstype=AAAA
+||re25.vip^$dnstype=AAAA
 ||rea-asia.com^$dnstype=AAAA
 ||rea-group.com^$dnstype=AAAA
 ||rea.design^$dnstype=AAAA
@@ -14399,6 +14416,7 @@
 ||rplay.live^$dnstype=AAAA
 ||rpmfusion.org^$dnstype=AAAA
 ||rprimelab.com^$dnstype=AAAA
+||rrs1.xyz^$dnstype=AAAA
 ||rrtis.com^$dnstype=AAAA
 ||rsdlmonitor.com^$dnstype=AAAA
 ||rsf-chinese.org^$dnstype=AAAA
@@ -15342,6 +15360,7 @@
 ||sostibet.org^$dnstype=AAAA
 ||sou-tong.org^$dnstype=AAAA
 ||soubory.com^$dnstype=AAAA
+||souka.xyz^$dnstype=AAAA
 ||soul-plus.net^$dnstype=AAAA
 ||soulcaliburhentai.net^$dnstype=AAAA
 ||soumo.info^$dnstype=AAAA
@@ -18378,6 +18397,7 @@
 ||xtube.com^$dnstype=AAAA
 ||xtubebdsm.com^$dnstype=AAAA
 ||xtubezoo.com^$dnstype=AAAA
+||xu97.vip^$dnstype=AAAA
 ||xuchao.net^$dnstype=AAAA
 ||xuchao.org^$dnstype=AAAA
 ||xuehua.us^$dnstype=AAAA
@@ -18603,6 +18623,7 @@
 ||yeelou.com^$dnstype=AAAA
 ||yeeyi.com^$dnstype=AAAA
 ||yegle.net^$dnstype=AAAA
+||yeonda.com^$dnstype=AAAA
 ||yepporn.com^$dnstype=AAAA
 ||yes-news.com^$dnstype=AAAA
 ||yes.xxx^$dnstype=AAAA
@@ -18753,6 +18774,7 @@
 ||ysage.com^$dnstype=AAAA
 ||ysaim.com^$dnstype=AAAA
 ||ysand.com^$dnstype=AAAA
+||ysav184.xyz^$dnstype=AAAA
 ||ysbad.com^$dnstype=AAAA
 ||ysbed.com^$dnstype=AAAA
 ||yshide.com^$dnstype=AAAA
@@ -18906,6 +18928,7 @@
 ||zhujiget.com^$dnstype=AAAA
 ||zi.media^$dnstype=AAAA
 ||zi5.me^$dnstype=AAAA
+||zibacity.com^$dnstype=AAAA
 ||ziddu.com^$dnstype=AAAA
 ||zillionk.com^$dnstype=AAAA
 ||zim.vn^$dnstype=AAAA
