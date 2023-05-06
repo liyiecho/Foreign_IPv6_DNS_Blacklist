@@ -94,6 +94,7 @@
 ||1998cdp.org^$dnstype=AAAA
 ||1bao.org^$dnstype=AAAA
 ||1bigclub.com^$dnstype=AAAA
+||1bokeponline.top^$dnstype=AAAA
 ||1classtube.com^$dnstype=AAAA
 ||1drv.com^$dnstype=AAAA
 ||1drv.ms^$dnstype=AAAA
@@ -1159,6 +1160,7 @@
 ||antiwave.net^$dnstype=AAAA
 ||anudetube.com^$dnstype=AAAA
 ||anybunny.org^$dnstype=AAAA
+||anydesk.com^$dnstype=AAAA
 ||anyhentai.com^$dnstype=AAAA
 ||anyporn.com^$dnstype=AAAA
 ||anypornhd.com^$dnstype=AAAA
@@ -1835,6 +1837,7 @@
 ||backdoorlesbians.com^$dnstype=AAAA
 ||backroomcastingcouch.com^$dnstype=AAAA
 ||backtotiananmen.com^$dnstype=AAAA
+||bacon.com^$dnstype=AAAA
 ||badaas.com^$dnstype=AAAA
 ||badasianpussy.com^$dnstype=AAAA
 ||badgen.net^$dnstype=AAAA
@@ -1968,6 +1971,7 @@
 ||bcrncdn.com^$dnstype=AAAA
 ||bcvcdn.com^$dnstype=AAAA
 ||bcvp0rtal.com^$dnstype=AAAA
+||bcy01.com^$dnstype=AAAA
 ||bdawnvr.xyz^$dnstype=AAAA
 ||bdsm-mov.net^$dnstype=AAAA
 ||bdsm.com^$dnstype=AAAA
@@ -2280,6 +2284,7 @@
 ||bellsouth.net^$dnstype=AAAA
 ||bemywife.cc^$dnstype=AAAA
 ||benaughty.fun^$dnstype=AAAA
+||bengalisexvideos.com^$dnstype=AAAA
 ||benliton.com^$dnstype=AAAA
 ||beric.me^$dnstype=AAAA
 ||berkanawireless.com^$dnstype=AAAA
@@ -2492,6 +2497,7 @@
 ||bioware.com^$dnstype=AAAA
 ||biowarestore.com^$dnstype=AAAA
 ||bipic.net^$dnstype=AAAA
+||biqle.org^$dnstype=AAAA
 ||bird.so^$dnstype=AAAA
 ||bisheng.cn^$dnstype=AAAA
 ||bishengcompiler.cn^$dnstype=AAAA
@@ -4371,6 +4377,7 @@
 ||dafoh.org^$dnstype=AAAA
 ||daftporn.com^$dnstype=AAAA
 ||daftsex-hd.com^$dnstype=AAAA
+||daftsex.com^$dnstype=AAAA
 ||dagelijksestandaard.nl^$dnstype=AAAA
 ||dagfs.com^$dnstype=AAAA
 ||daidostup.ru^$dnstype=AAAA
@@ -4440,6 +4447,7 @@
 ||darwinsource.org^$dnstype=AAAA
 ||darwinsourcecode.com^$dnstype=AAAA
 ||dashwood360.com^$dnstype=AAAA
+||dastanhisexy.cc^$dnstype=AAAA
 ||dastrassi.org^$dnstype=AAAA
 ||dat.foundation^$dnstype=AAAA
 ||data-vocabulary.org^$dnstype=AAAA
@@ -7440,6 +7448,7 @@
 ||gongwt.com^$dnstype=AAAA
 ||gonike.com^$dnstype=AAAA
 ||gonzo-movies.com^$dnstype=AAAA
+||gonzo.com^$dnstype=AAAA
 ||goo.gl^$dnstype=AAAA
 ||goo.gle^$dnstype=AAAA
 ||good-gay.com^$dnstype=AAAA
@@ -8594,6 +8603,7 @@
 ||huhamhire.com^$dnstype=AAAA
 ||huhangfei.com^$dnstype=AAAA
 ||huiyi.in^$dnstype=AAAA
+||huj-pizda.com^$dnstype=AAAA
 ||hulkshare.com^$dnstype=AAAA
 ||huloo.cc^$dnstype=AAAA
 ||hulu.com^$dnstype=AAAA
@@ -9019,6 +9029,7 @@
 ||ingka.dev^$dnstype=AAAA
 ||ingkacentres.com^$dnstype=AAAA
 ||ingress.com^$dnstype=AAAA
+||ingyenszexvideo.top^$dnstype=AAAA
 ||inhumanity.com^$dnstype=AAAA
 ||inikesneakers.com^$dnstype=AAAA
 ||init.shop^$dnstype=AAAA
@@ -9274,6 +9285,7 @@
 ||iqq3.cc^$dnstype=AAAA
 ||iqqtv.net^$dnstype=AAAA
 ||iranianboobs.com^$dnstype=AAAA
+||iransextv.com^$dnstype=AAAA
 ||iranx.net^$dnstype=AAAA
 ||irdeto.com^$dnstype=AAAA
 ||iredmail.org^$dnstype=AAAA
@@ -11995,6 +12007,7 @@
 ||nga.mil^$dnstype=AAAA
 ||ngensis.com^$dnstype=AAAA
 ||ngeo.com^$dnstype=AAAA
+||ngfiles.com^$dnstype=AAAA
 ||nginx.com^$dnstype=AAAA
 ||nginx.org^$dnstype=AAAA
 ||ngodupdongchung.com^$dnstype=AAAA
@@ -12229,6 +12242,7 @@
 ||nokiantyres.com^$dnstype=AAAA
 ||nokogiri.org^$dnstype=AAAA
 ||nokola.com^$dnstype=AAAA
+||nomachine.com^$dnstype=AAAA
 ||nomulus.foo^$dnstype=AAAA
 ||nonktube.com^$dnstype=AAAA
 ||nonstopfap.com^$dnstype=AAAA
@@ -13153,6 +13167,7 @@
 ||philly.com^$dnstype=AAAA
 ||phimsex47.club^$dnstype=AAAA
 ||phimsexhentai.me^$dnstype=AAAA
+||phimsexkhongche.cyou^$dnstype=AAAA
 ||phimsexnhanh.club^$dnstype=AAAA
 ||phmsociety.org^$dnstype=AAAA
 ||phncdn.com^$dnstype=AAAA
@@ -13422,6 +13437,7 @@
 ||pornadoo.com^$dnstype=AAAA
 ||pornaf.com^$dnstype=AAAA
 ||pornaffected.com^$dnstype=AAAA
+||pornandxxxvideos.com^$dnstype=AAAA
 ||pornaroma.com^$dnstype=AAAA
 ||pornav.co^$dnstype=AAAA
 ||pornaxo.com^$dnstype=AAAA
@@ -14462,6 +14478,7 @@
 ||rushporn.online^$dnstype=AAAA
 ||russianrape.org^$dnstype=AAAA
 ||rust-lang.org^$dnstype=AAAA
+||rustdesk.com^$dnstype=AAAA
 ||rusvpn.com^$dnstype=AAAA
 ||rutracker.net^$dnstype=AAAA
 ||rutube.ru^$dnstype=AAAA
@@ -14645,6 +14662,7 @@
 ||scribd.com^$dnstype=AAAA
 ||scriptspot.com^$dnstype=AAAA
 ||scroll.com^$dnstype=AAAA
+||scrolller.com^$dnstype=AAAA
 ||scsentry.cn^$dnstype=AAAA
 ||sdcountybmw.com^$dnstype=AAAA
 ||seagroup.com^$dnstype=AAAA
@@ -14805,6 +14823,7 @@
 ||sexhub.red^$dnstype=AAAA
 ||sexhubhd.com^$dnstype=AAAA
 ||sexidude.com^$dnstype=AAAA
+||sexifilm.top^$dnstype=AAAA
 ||sexiframe.com^$dnstype=AAAA
 ||sexindians.cc^$dnstype=AAAA
 ||sexinsex.net^$dnstype=AAAA
@@ -14823,6 +14842,8 @@
 ||sexnaweb.net^$dnstype=AAAA
 ||sexnudo.com^$dnstype=AAAA
 ||sexo123.net^$dnstype=AAAA
+||sexodama.com^$dnstype=AAAA
+||sexodeamor.com^$dnstype=AAAA
 ||sexopornolive.com^$dnstype=AAAA
 ||sexoquente.blog^$dnstype=AAAA
 ||sexplustube.net^$dnstype=AAAA
@@ -15547,6 +15568,7 @@
 ||starott.com^$dnstype=AAAA
 ||starp2p.com^$dnstype=AAAA
 ||starplus.com^$dnstype=AAAA
+||starsze.icu^$dnstype=AAAA
 ||startpage.com^$dnstype=AAAA
 ||startpath.com^$dnstype=AAAA
 ||startupjournal.com^$dnstype=AAAA
@@ -15837,6 +15859,7 @@
 ||syzbj36.xyz^$dnstype=AAAA
 ||szbbs.net^$dnstype=AAAA
 ||szcheapmonsterheadphones.com^$dnstype=AAAA
+||szexvideo.top^$dnstype=AAAA
 ||szwinnertechnology.com^$dnstype=AAAA
 ||t-g.com^$dnstype=AAAA
 ||t.co^$dnstype=AAAA
@@ -15863,6 +15886,7 @@
 ||taipeisociety.org^$dnstype=AAAA
 ||taipeitimes.com^$dnstype=AAAA
 ||taiwan-sex.com^$dnstype=AAAA
+||taiwanadultexpo.com^$dnstype=AAAA
 ||taiwanbible.com^$dnstype=AAAA
 ||taiwancon.com^$dnstype=AAAA
 ||taiwandaily.net^$dnstype=AAAA
@@ -16966,6 +16990,7 @@
 ||underlords.com^$dnstype=AAAA
 ||underwoodammo.com^$dnstype=AAAA
 ||unfiltered.news^$dnstype=AAAA
+||ungrounded.net^$dnstype=AAAA
 ||unholyknight.com^$dnstype=AAAA
 ||uni.cc^$dnstype=AAAA
 ||unicode.org^$dnstype=AAAA
