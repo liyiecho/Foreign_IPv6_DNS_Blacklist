@@ -9527,6 +9527,7 @@
 ||javhub.me^$dnstype=AAAA
 ||javhub.net^$dnstype=AAAA
 ||javhuge.com^$dnstype=AAAA
+||javidol.org^$dnstype=AAAA
 ||javjack.com^$dnstype=AAAA
 ||javjunkies.com^$dnstype=AAAA
 ||javkiki.com^$dnstype=AAAA
@@ -14558,6 +14559,7 @@
 ||sans.edu^$dnstype=AAAA
 ||sanspo.com^$dnstype=AAAA
 ||sanvaras.com^$dnstype=AAAA
+||sanwapub.com^$dnstype=AAAA
 ||sapikachu.net^$dnstype=AAAA
 ||sapphicerotica.com^$dnstype=AAAA
 ||sapphicpornonly.com^$dnstype=AAAA
