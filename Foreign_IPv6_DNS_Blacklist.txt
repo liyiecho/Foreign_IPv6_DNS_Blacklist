@@ -24,6 +24,7 @@
 ||110xnxx.com^$dnstype=AAAA
 ||112263.com^$dnstype=AAAA
 ||114av.xyz^$dnstype=AAAA
+||11jav.com^$dnstype=AAAA
 ||123-hp.com^$dnstype=AAAA
 ||123hplaserjet.com^$dnstype=AAAA
 ||123rf.com^$dnstype=AAAA
@@ -753,6 +754,7 @@
 ||airwickarabia.com^$dnstype=AAAA
 ||ais86.com^$dnstype=AAAA
 ||ais96.com^$dnstype=AAAA
+||aisejushi.com^$dnstype=AAAA
 ||aisex.com^$dnstype=AAAA
 ||aishegw.com^$dnstype=AAAA
 ||aiv-cdn.net^$dnstype=AAAA
@@ -9476,6 +9478,7 @@
 ||javbabe.net^$dnstype=AAAA
 ||javbangers.com^$dnstype=AAAA
 ||javbobo.com^$dnstype=AAAA
+||javbooks.com^$dnstype=AAAA
 ||javbraze.com^$dnstype=AAAA
 ||javbus.co^$dnstype=AAAA
 ||javbus.com^$dnstype=AAAA
@@ -10477,9 +10480,6 @@
 ||m5ir5np1.shop^$dnstype=AAAA
 ||m8008.com^$dnstype=AAAA
 ||ma1lib.org^$dnstype=AAAA
-||maa1809.com^$dnstype=AAAA
-||maa1815.com^$dnstype=AAAA
-||maa1818.com^$dnstype=AAAA
 ||mac-mini.com^$dnstype=AAAA
 ||mac.com^$dnstype=AAAA
 ||mac.wang^$dnstype=AAAA
@@ -15981,6 +15981,7 @@
 ||teamamericany.com^$dnstype=AAAA
 ||teamneedforspeed.com^$dnstype=AAAA
 ||teamskeet.com^$dnstype=AAAA
+||teamviewer.cn^$dnstype=AAAA
 ||teamviewer.com^$dnstype=AAAA
 ||tearapeak.com^$dnstype=AAAA
 ||teatroporno.com^$dnstype=AAAA
