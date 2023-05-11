@@ -606,6 +606,7 @@
 ||adsensecustomsearchads.com^$dnstype=AAAA
 ||adsenseformobileapps.com^$dnstype=AAAA
 ||adtidy.org^$dnstype=AAAA
+||adult-h.com^$dnstype=AAAA
 ||adult-home-videos.com^$dnstype=AAAA
 ||adult-list.com^$dnstype=AAAA
 ||adult-sex-games.com^$dnstype=AAAA
@@ -6734,6 +6735,7 @@
 ||free-3d-porn.com^$dnstype=AAAA
 ||free-aa.com^$dnstype=AAAA
 ||free-abbywinters.com^$dnstype=AAAA
+||free-erobooks.com^$dnstype=AAAA
 ||free-gate.org^$dnstype=AAAA
 ||free-hada-now.org^$dnstype=AAAA
 ||free-proxy.cz^$dnstype=AAAA
@@ -12760,6 +12762,7 @@
 ||ourhobby.com^$dnstype=AAAA
 ||ouroath.com^$dnstype=AAAA
 ||oursexgames.com^$dnstype=AAAA
+||ourshdtv.com^$dnstype=AAAA
 ||ourshemales.com^$dnstype=AAAA
 ||oursogo.com^$dnstype=AAAA
 ||oursweb.net^$dnstype=AAAA
