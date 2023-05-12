@@ -6977,6 +6977,7 @@
 ||furinkan.com^$dnstype=AAAA
 ||furl.net^$dnstype=AAAA
 ||furrypornvideos.com^$dnstype=AAAA
+||furuke.com^$dnstype=AAAA
 ||fury.blog^$dnstype=AAAA
 ||fury.co^$dnstype=AAAA
 ||fury.dev^$dnstype=AAAA
@@ -8393,6 +8394,7 @@
 ||hotshame.com^$dnstype=AAAA
 ||hotspotshield.com^$dnstype=AAAA
 ||hotstar-cdn.net^$dnstype=AAAA
+||hotstar-labs.com^$dnstype=AAAA
 ||hotstar.com^$dnstype=AAAA
 ||hotstarext.com^$dnstype=AAAA
 ||hotstunners.com^$dnstype=AAAA
