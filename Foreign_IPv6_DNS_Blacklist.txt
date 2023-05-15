@@ -9596,7 +9596,6 @@
 ||javzz.com^$dnstype=AAAA
 ||jayspov.net^$dnstype=AAAA
 ||jbe-platform.com^$dnstype=AAAA
-||jbk005.com^$dnstype=AAAA
 ||jbtalks.cc^$dnstype=AAAA
 ||jbtalks.com^$dnstype=AAAA
 ||jbtalks.my^$dnstype=AAAA
