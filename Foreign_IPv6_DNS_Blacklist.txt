@@ -13354,6 +13354,7 @@
 ||podcast.co^$dnstype=AAAA
 ||podictionary.com^$dnstype=AAAA
 ||poe.com^$dnstype=AAAA
+||poecdn.net^$dnstype=AAAA
 ||pogo.com^$dnstype=AAAA
 ||pogobeta.com^$dnstype=AAAA
 ||poi.moe^$dnstype=AAAA
@@ -18697,6 +18698,7 @@
 ||ymail.com^$dnstype=AAAA
 ||ymp4.download^$dnstype=AAAA
 ||yn.cn^$dnstype=AAAA
+||ynoproject.net^$dnstype=AAAA
 ||yo1health.com^$dnstype=AAAA
 ||yobit.net^$dnstype=AAAA
 ||yobt.com^$dnstype=AAAA
