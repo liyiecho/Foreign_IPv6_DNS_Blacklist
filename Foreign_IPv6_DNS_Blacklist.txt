@@ -10255,6 +10255,7 @@
 ||linguee.com^$dnstype=AAAA
 ||lingvodics.com^$dnstype=AAAA
 ||link-o-rama.com^$dnstype=AAAA
+||link.com^$dnstype=AAAA
 ||link2galleries.com^$dnstype=AAAA
 ||link69.com^$dnstype=AAAA
 ||linkedin.cn^$dnstype=AAAA
@@ -15690,6 +15691,7 @@
 ||strikinglycdn.com^$dnstype=AAAA
 ||stripcamfun.com^$dnstype=AAAA
 ||stripchat.com^$dnstype=AAAA
+||stripe-terminal-local-reader.net^$dnstype=AAAA
 ||stripe.com^$dnstype=AAAA
 ||stripe.network^$dnstype=AAAA
 ||stripecdn.com^$dnstype=AAAA
