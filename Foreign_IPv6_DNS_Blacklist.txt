@@ -7041,6 +7041,7 @@
 ||gamejolt.com^$dnstype=AAAA
 ||gameloft.com^$dnstype=AAAA
 ||gameon-masters.com^$dnstype=AAAA
+||gamepass.com^$dnstype=AAAA
 ||gamepedia.com^$dnstype=AAAA
 ||gameroom.com^$dnstype=AAAA
 ||gamerotic.com^$dnstype=AAAA
@@ -18213,6 +18214,7 @@
 ||xboxone.co^$dnstype=AAAA
 ||xboxone.com^$dnstype=AAAA
 ||xboxplayanywhere.com^$dnstype=AAAA
+||xboxservices.com^$dnstype=AAAA
 ||xboxstudios.com^$dnstype=AAAA
 ||xboyvids.com^$dnstype=AAAA
 ||xbrasilporno.com^$dnstype=AAAA
