@@ -1443,6 +1443,7 @@
 ||art1lib.com^$dnstype=AAAA
 ||art4tibet1998.org^$dnstype=AAAA
 ||arte.tv^$dnstype=AAAA
+||artixlinux.org^$dnstype=AAAA
 ||artnudegalleries.com^$dnstype=AAAA
 ||artoferotica.info^$dnstype=AAAA
 ||artofpeacefoundation.org^$dnstype=AAAA
