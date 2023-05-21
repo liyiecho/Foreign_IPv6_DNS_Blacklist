@@ -10765,6 +10765,7 @@
 ||mdhcdn.com^$dnstype=AAAA
 ||mdialog.com^$dnstype=AAAA
 ||mdlf.xyz^$dnstype=AAAA
+||mdn.dev^$dnstype=AAAA
 ||mdnkids.com^$dnstype=AAAA
 ||mdpi.com^$dnstype=AAAA
 ||me-gay.com^$dnstype=AAAA
@@ -10983,6 +10984,7 @@
 ||miiverse.com^$dnstype=AAAA
 ||mikesoltys.com^$dnstype=AAAA
 ||mikocon.com^$dnstype=AAAA
+||mikrotik.com^$dnstype=AAAA
 ||miktex.org^$dnstype=AAAA
 ||mikuexpo.com^$dnstype=AAAA
 ||milehighmedia.com^$dnstype=AAAA
@@ -14434,6 +14436,7 @@
 ||roucdn.link^$dnstype=AAAA
 ||roughman.net^$dnstype=AAAA
 ||route53.cn^$dnstype=AAAA
+||routerboard.com^$dnstype=AAAA
 ||routledgehandbooks.com^$dnstype=AAAA
 ||royalcams.com^$dnstype=AAAA
 ||royalsocietypublishing.org^$dnstype=AAAA
