@@ -4799,6 +4799,7 @@
 ||disquscdn.com^$dnstype=AAAA
 ||disqusservice.com^$dnstype=AAAA
 ||dit-inc.us^$dnstype=AAAA
+||diversity.google^$dnstype=AAAA
 ||diyarbakirescort.com^$dnstype=AAAA
 ||dizhidizhi.com^$dnstype=AAAA
 ||dizhuzhishang.com^$dnstype=AAAA
@@ -17808,6 +17809,7 @@
 ||weiyuksj.com^$dnstype=AAAA
 ||weknowporn.com^$dnstype=AAAA
 ||welcomix.com^$dnstype=AAAA
+||wellbeing.google^$dnstype=AAAA
 ||wellfuckedwife.com^$dnstype=AAAA
 ||wellmaturetube.com^$dnstype=AAAA
 ||welovecock.com^$dnstype=AAAA
