@@ -883,6 +883,7 @@
 ||alliancesages.com^$dnstype=AAAA
 ||allinfa.com^$dnstype=AAAA
 ||allinternal.com^$dnstype=AAAA
+||allizom.net^$dnstype=AAAA
 ||allizom.org^$dnstype=AAAA
 ||alljackpotscasino.com^$dnstype=AAAA
 ||alljapanesepass.com^$dnstype=AAAA
