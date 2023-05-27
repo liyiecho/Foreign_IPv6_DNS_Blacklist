@@ -5608,7 +5608,6 @@
 ||epochweek.com^$dnstype=AAAA
 ||epochweekly.com^$dnstype=AAAA
 ||eporner.com^$dnstype=AAAA
-||eprintsw.com^$dnstype=AAAA
 ||equinenow.com^$dnstype=AAAA
 ||erabaru.net^$dnstype=AAAA
 ||erepublik.com^$dnstype=AAAA
