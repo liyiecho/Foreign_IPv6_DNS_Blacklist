@@ -10358,6 +10358,7 @@
 ||lovethiscity.com^$dnstype=AAAA
 ||lovetvshow.com^$dnstype=AAAA
 ||lowergiseries.com^$dnstype=AAAA
+||lowiro.com^$dnstype=AAAA
 ||lp99.pw^$dnstype=AAAA
 ||lpsg.com^$dnstype=AAAA
 ||lqh0bon3.xyz^$dnstype=AAAA
