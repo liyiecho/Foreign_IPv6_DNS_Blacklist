@@ -3454,6 +3454,7 @@
 ||ceicdata.com^$dnstype=AAAA
 ||celebforum.co^$dnstype=AAAA
 ||celebgramme.com^$dnstype=AAAA
+||celebmasta.live^$dnstype=AAAA
 ||celebritygay.com^$dnstype=AAAA
 ||celebritynakeds.com^$dnstype=AAAA
 ||celebrityslips.com^$dnstype=AAAA
@@ -10065,6 +10066,7 @@
 ||lemoncams.com^$dnstype=AAAA
 ||lemonde.fr^$dnstype=AAAA
 ||lencr.org^$dnstype=AAAA
+||lenporno.red^$dnstype=AAAA
 ||lens.google^$dnstype=AAAA
 ||lenwhite.com^$dnstype=AAAA
 ||leorockwell.com^$dnstype=AAAA
@@ -13542,6 +13544,7 @@
 ||pornogramxxx.com^$dnstype=AAAA
 ||pornogrund.com^$dnstype=AAAA
 ||pornoh.info^$dnstype=AAAA
+||pornohd.blue^$dnstype=AAAA
 ||pornohd.plus^$dnstype=AAAA
 ||pornohut.info^$dnstype=AAAA
 ||pornohutdeutsch.net^$dnstype=AAAA
@@ -17613,6 +17616,7 @@
 ||warehouse333.com^$dnstype=AAAA
 ||wariolandshakeit.com^$dnstype=AAAA
 ||wariowarediy.com^$dnstype=AAAA
+||warnermediacdn.com^$dnstype=AAAA
 ||warp.plus^$dnstype=AAAA
 ||warroom.org^$dnstype=AAAA
 ||wasdj.com^$dnstype=AAAA
