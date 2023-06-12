@@ -2434,6 +2434,7 @@
 ||bili2.cc^$dnstype=AAAA
 ||bili888.com^$dnstype=AAAA
 ||bili999.com^$dnstype=AAAA
+||bilibiligame.cn^$dnstype=AAAA
 ||biliplus.com^$dnstype=AAAA
 ||biliworld.com^$dnstype=AAAA
 ||bill-safe.com^$dnstype=AAAA
