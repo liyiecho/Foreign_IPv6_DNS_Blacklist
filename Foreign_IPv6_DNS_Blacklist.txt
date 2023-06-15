@@ -3187,7 +3187,9 @@
 ||bwgyhw.com^$dnstype=AAAA
 ||bwh1.net^$dnstype=AAAA
 ||bwh8.net^$dnstype=AAAA
+||bwh81.net^$dnstype=AAAA
 ||bwh88.net^$dnstype=AAAA
+||bwh89.net^$dnstype=AAAA
 ||bwin.com^$dnstype=AAAA
 ||bwsj.hk^$dnstype=AAAA
 ||bx.tl^$dnstype=AAAA
