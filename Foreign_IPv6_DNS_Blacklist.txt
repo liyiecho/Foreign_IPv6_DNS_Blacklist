@@ -4895,6 +4895,7 @@
 ||dollnight.com^$dnstype=AAAA
 ||domains.google^$dnstype=AAAA
 ||domywife.com^$dnstype=AAAA
+||donatecarsoh.org^$dnstype=AAAA
 ||donga.com^$dnstype=AAAA
 ||dongtaiwang.com^$dnstype=AAAA
 ||dongtaiwang.net^$dnstype=AAAA
@@ -6201,6 +6202,7 @@
 ||fawgaf.xyz^$dnstype=AAAA
 ||faycbok.com^$dnstype=AAAA
 ||faydao.com^$dnstype=AAAA
+||fayuanbooks.com^$dnstype=AAAA
 ||faz.net^$dnstype=AAAA
 ||fb.careers^$dnstype=AAAA
 ||fb.com^$dnstype=AAAA
@@ -7702,6 +7704,7 @@
 ||guambmw.com^$dnstype=AAAA
 ||guancha.org^$dnstype=AAAA
 ||guaneryu.com^$dnstype=AAAA
+||guangming.org^$dnstype=AAAA
 ||guangnianvpn.com^$dnstype=AAAA
 ||guaranitermal.com^$dnstype=AAAA
 ||guardianapis.com^$dnstype=AAAA
@@ -14945,6 +14948,8 @@
 ||shemalez.com^$dnstype=AAAA
 ||shenshou.org^$dnstype=AAAA
 ||shenyun.com^$dnstype=AAAA
+||shenyun.org^$dnstype=AAAA
+||shenyuncreations.com^$dnstype=AAAA
 ||shenyunperformingarts.org^$dnstype=AAAA
 ||shenyunshop.com^$dnstype=AAAA
 ||shenzhoufilm.com^$dnstype=AAAA
