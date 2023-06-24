@@ -3071,7 +3071,6 @@
 ||brookings.edu^$dnstype=AAAA
 ||brotli.org^$dnstype=AAAA
 ||brourou.com^$dnstype=AAAA
-||browserleaks.com^$dnstype=AAAA
 ||brucewang.net^$dnstype=AAAA
 ||brutalbdsmtube.com^$dnstype=AAAA
 ||brutalfetish.com^$dnstype=AAAA
