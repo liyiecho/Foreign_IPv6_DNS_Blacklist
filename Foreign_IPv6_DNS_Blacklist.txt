@@ -4229,7 +4229,6 @@
 ||cruel-furies.com^$dnstype=AAAA
 ||crunchyroll.com^$dnstype=AAAA
 ||crustwebsites.net^$dnstype=AAAA
-||crwdcntrl.net^$dnstype=AAAA
 ||cryptocompare.com^$dnstype=AAAA
 ||cryptographyengineering.com^$dnstype=AAAA
 ||crystalgunnsworld.com^$dnstype=AAAA
@@ -10206,6 +10205,7 @@
 ||linkjunkies.com^$dnstype=AAAA
 ||linksalpha.com^$dnstype=AAAA
 ||linkshit.com^$dnstype=AAAA
+||linktr.ee^$dnstype=AAAA
 ||linkuswell.com^$dnstype=AAAA
 ||linode.com^$dnstype=AAAA
 ||linotype.com^$dnstype=AAAA
@@ -15196,6 +15196,7 @@
 ||smartoneholdings.com^$dnstype=AAAA
 ||smartonerobotics.com^$dnstype=AAAA
 ||smartsheet.com^$dnstype=AAAA
+||smashwords.com^$dnstype=AAAA
 ||smchbooks.com^$dnstype=AAAA
 ||smhric.org^$dnstype=AAAA
 ||smith.edu^$dnstype=AAAA
