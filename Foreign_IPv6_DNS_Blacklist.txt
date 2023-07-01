@@ -4292,6 +4292,7 @@
 ||cuntcrack.com^$dnstype=AAAA
 ||cuntempire.com^$dnstype=AAAA
 ||cuntwars.com^$dnstype=AAAA
+||cupronickel.goog^$dnstype=AAAA
 ||cups.org^$dnstype=AAAA
 ||curbed.com^$dnstype=AAAA
 ||currently.com^$dnstype=AAAA
