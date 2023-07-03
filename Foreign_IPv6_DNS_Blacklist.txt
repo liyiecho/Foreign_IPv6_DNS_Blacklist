@@ -4796,6 +4796,7 @@
 ||dl-laby.jp^$dnstype=AAAA
 ||dldlinks.com^$dnstype=AAAA
 ||dldshare.net^$dnstype=AAAA
+||dler.io^$dnstype=AAAA
 ||dlercloud.com^$dnstype=AAAA
 ||dlercloud.me^$dnstype=AAAA
 ||dlercloud.org^$dnstype=AAAA
@@ -9764,6 +9765,7 @@
 ||ka-wai.com^$dnstype=AAAA
 ||kaamuu.com^$dnstype=AAAA
 ||kaggle.com^$dnstype=AAAA
+||kaggle.net^$dnstype=AAAA
 ||kaggleusercontent.com^$dnstype=AAAA
 ||kagyu.org^$dnstype=AAAA
 ||kagyumonlam.org^$dnstype=AAAA
