@@ -4004,6 +4004,7 @@
 ||collegesexgames.com^$dnstype=AAAA
 ||colliderporn.com^$dnstype=AAAA
 ||colombianas.webcam^$dnstype=AAAA
+||colorfulpalette.org^$dnstype=AAAA
 ||colorfulstage.com^$dnstype=AAAA
 ||colorprotechnology.com^$dnstype=AAAA
 ||com.af^$dnstype=AAAA
