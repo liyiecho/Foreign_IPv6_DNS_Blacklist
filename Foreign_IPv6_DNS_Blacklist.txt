@@ -16236,6 +16236,7 @@
 ||thottok.com^$dnstype=AAAA
 ||thotvids.com^$dnstype=AAAA
 ||threadreaderapp.com^$dnstype=AAAA
+||threads.net^$dnstype=AAAA
 ||threatchaos.com^$dnstype=AAAA
 ||thrixxx.com^$dnstype=AAAA
 ||thron.com^$dnstype=AAAA
@@ -16354,6 +16355,8 @@
 ||tiktok.com^$dnstype=AAAA
 ||tiktokcdn-us.com^$dnstype=AAAA
 ||tiktokcdn.com^$dnstype=AAAA
+||tiktokd.net^$dnstype=AAAA
+||tiktokd.org^$dnstype=AAAA
 ||tiktokv.com^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
 ||timdir.com^$dnstype=AAAA
