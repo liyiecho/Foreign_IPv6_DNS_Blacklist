@@ -16355,8 +16355,6 @@
 ||tiktok.com^$dnstype=AAAA
 ||tiktokcdn-us.com^$dnstype=AAAA
 ||tiktokcdn.com^$dnstype=AAAA
-||tiktokd.net^$dnstype=AAAA
-||tiktokd.org^$dnstype=AAAA
 ||tiktokv.com^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
 ||timdir.com^$dnstype=AAAA
