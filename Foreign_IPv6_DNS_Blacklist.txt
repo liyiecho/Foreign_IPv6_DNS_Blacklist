@@ -10738,6 +10738,8 @@
 ||mdlf.xyz^$dnstype=AAAA
 ||mdn.dev^$dnstype=AAAA
 ||mdnkids.com^$dnstype=AAAA
+||mdnplay.dev^$dnstype=AAAA
+||mdnyalp.dev^$dnstype=AAAA
 ||mdpi.com^$dnstype=AAAA
 ||me-gay.com^$dnstype=AAAA
 ||me.me^$dnstype=AAAA
@@ -13997,7 +13999,6 @@
 ||qtweeter.com^$dnstype=AAAA
 ||qualcomm-email.com^$dnstype=AAAA
 ||qualcomm.cn^$dnstype=AAAA
-||qualcomm.com^$dnstype=AAAA
 ||qualcommhalo.com^$dnstype=AAAA
 ||qualcommlabs.com^$dnstype=AAAA
 ||qualcommmea.com^$dnstype=AAAA
