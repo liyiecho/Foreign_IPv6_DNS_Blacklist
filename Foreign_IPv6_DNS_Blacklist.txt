@@ -9220,6 +9220,7 @@
 ||investing.com^$dnstype=AAAA
 ||inxian.com^$dnstype=AAAA
 ||inxporn.com^$dnstype=AAAA
+||io.google^$dnstype=AAAA
 ||io.io^$dnstype=AAAA
 ||ioe.com^$dnstype=AAAA
 ||ioffergift.com^$dnstype=AAAA
