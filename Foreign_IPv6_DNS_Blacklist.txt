@@ -18892,6 +18892,7 @@
 ||yunlaopo.com^$dnstype=AAAA
 ||yunlaopo.net^$dnstype=AAAA
 ||yuntipub.com^$dnstype=AAAA
+||yusercontent.com^$dnstype=AAAA
 ||yusjb.com^$dnstype=AAAA
 ||yuvutu.com^$dnstype=AAAA
 ||yvesgeleyn.com^$dnstype=AAAA
