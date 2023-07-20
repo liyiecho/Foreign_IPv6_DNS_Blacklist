@@ -1927,6 +1927,7 @@
 ||bb33.net^$dnstype=AAAA
 ||bbbaihu.vip^$dnstype=AAAA
 ||bbc-anal.com^$dnstype=AAAA
+||bbc-reporting-api.app^$dnstype=AAAA
 ||bbc.co^$dnstype=AAAA
 ||bbc.com^$dnstype=AAAA
 ||bbc.in^$dnstype=AAAA
