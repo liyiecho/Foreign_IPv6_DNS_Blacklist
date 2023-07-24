@@ -7697,6 +7697,7 @@
 ||greenvpn.org^$dnstype=AAAA
 ||greginhollywood.com^$dnstype=AAAA
 ||gridaware.app^$dnstype=AAAA
+||grindr.com^$dnstype=AAAA
 ||grooby.com^$dnstype=AAAA
 ||grotty-monday.com^$dnstype=AAAA
 ||groupfun.com^$dnstype=AAAA
@@ -8971,6 +8972,7 @@
 ||imb.org^$dnstype=AAAA
 ||imdb.com^$dnstype=AAAA
 ||img.ly^$dnstype=AAAA
+||imgasd.com^$dnstype=AAAA
 ||imgbb.com^$dnstype=AAAA
 ||imgchili.net^$dnstype=AAAA
 ||imgcrl.org^$dnstype=AAAA
@@ -18294,6 +18296,7 @@
 ||xiaohexie.com^$dnstype=AAAA
 ||xiaolan.me^$dnstype=AAAA
 ||xiaoma.org^$dnstype=AAAA
+||xiaomi.eu^$dnstype=AAAA
 ||xiaoyaoge.xyz^$dnstype=AAAA
 ||xiaxiaoqiang.net^$dnstype=AAAA
 ||xie56.xyz^$dnstype=AAAA
