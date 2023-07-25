@@ -774,6 +774,7 @@
 ||akadns6.net^$dnstype=AAAA
 ||akaeai.com^$dnstype=AAAA
 ||akafms.net^$dnstype=AAAA
+||akagtm.org^$dnstype=AAAA
 ||akahost.net^$dnstype=AAAA
 ||akaint.net^$dnstype=AAAA
 ||akam.net^$dnstype=AAAA
@@ -1655,6 +1656,7 @@
 ||avizoon.site^$dnstype=AAAA
 ||avizoone.com^$dnstype=AAAA
 ||avjb.com^$dnstype=AAAA
+||avjoy.me^$dnstype=AAAA
 ||avlulu.cc^$dnstype=AAAA
 ||avmo.pw^$dnstype=AAAA
 ||avmoo.click^$dnstype=AAAA
@@ -4810,6 +4812,7 @@
 ||dlsitenews.com^$dnstype=AAAA
 ||dlsitestudio.com^$dnstype=AAAA
 ||dlyoutube.com^$dnstype=AAAA
+||dm-event.net^$dnstype=AAAA
 ||dm530.net^$dnstype=AAAA
 ||dmarcnetworks.com^$dnstype=AAAA
 ||dmc.nico^$dnstype=AAAA
@@ -4868,6 +4871,7 @@
 ||dnssec.net^$dnstype=AAAA
 ||dnsvisa.com^$dnstype=AAAA
 ||dnvod.tv^$dnstype=AAAA
+||dnvodcdn.me^$dnstype=AAAA
 ||do.co^$dnstype=AAAA
 ||dobbyporn.com^$dnstype=AAAA
 ||doceapower.com^$dnstype=AAAA
@@ -8700,6 +8704,7 @@
 ||iask.bz^$dnstype=AAAA
 ||iask.ca^$dnstype=AAAA
 ||iav19.com^$dnstype=AAAA
+||iavnight.com^$dnstype=AAAA
 ||ibb.co^$dnstype=AAAA
 ||ibeats-uk.com^$dnstype=AAAA
 ||ibeatsbydre.cc^$dnstype=AAAA
@@ -11545,6 +11550,7 @@
 ||muscdn.com^$dnstype=AAAA
 ||musclegirlflix.com^$dnstype=AAAA
 ||musescore.com^$dnstype=AAAA
+||mushroomtrack.com^$dnstype=AAAA
 ||musicade.net^$dnstype=AAAA
 ||musicbay.net^$dnstype=AAAA
 ||musickit.net^$dnstype=AAAA
@@ -12562,6 +12568,7 @@
 ||olehd.com^$dnstype=AAAA
 ||olehdtv.com^$dnstype=AAAA
 ||olelive.com^$dnstype=AAAA
+||olemovienews.com^$dnstype=AAAA
 ||olevod.com^$dnstype=AAAA
 ||olevodtv.com^$dnstype=AAAA
 ||oli-school.com^$dnstype=AAAA
