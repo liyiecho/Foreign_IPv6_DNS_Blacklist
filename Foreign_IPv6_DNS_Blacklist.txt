@@ -987,6 +987,7 @@
 ||amazon.cn^$dnstype=AAAA
 ||amazon.co^$dnstype=AAAA
 ||amazon.com^$dnstype=AAAA
+||amazon.dev^$dnstype=AAAA
 ||amazon.jobs^$dnstype=AAAA
 ||amazon.red^$dnstype=AAAA
 ||amazonalexavoxcon.com^$dnstype=AAAA
@@ -3587,6 +3588,8 @@
 ||cheapwireless04.com^$dnstype=AAAA
 ||cheapwirelessbeats.com^$dnstype=AAAA
 ||checkgfw.com^$dnstype=AAAA
+||chegg.com^$dnstype=AAAA
+||cheggcdn.com^$dnstype=AAAA
 ||chemequations.com^$dnstype=AAAA
 ||chemnetbase.com^$dnstype=AAAA
 ||chengjuanseo.com^$dnstype=AAAA
@@ -3870,6 +3873,7 @@
 ||cloudflarewarp.com^$dnstype=AAAA
 ||cloudfront-test.cn^$dnstype=AAAA
 ||cloudfront.cn^$dnstype=AAAA
+||cloudfront.com^$dnstype=AAAA
 ||cloudfront.net^$dnstype=AAAA
 ||cloudfunctions.net^$dnstype=AAAA
 ||cloudgarage.jp^$dnstype=AAAA
@@ -3889,6 +3893,7 @@
 ||cloupia.net^$dnstype=AAAA
 ||club.tw^$dnstype=AAAA
 ||club1069.com^$dnstype=AAAA
+||clubhouse.com^$dnstype=AAAA
 ||clubhouseapi.com^$dnstype=AAAA
 ||clubseventeen.com^$dnstype=AAAA
 ||clubsweethearts.com^$dnstype=AAAA
@@ -5553,6 +5558,7 @@
 ||epac.to^$dnstype=AAAA
 ||epicbrowser.com^$dnstype=AAAA
 ||epicgames.com^$dnstype=AAAA
+||epicgames.dev^$dnstype=AAAA
 ||epicreads.com^$dnstype=AAAA
 ||epigeum.com^$dnstype=AAAA
 ||epikporn.com^$dnstype=AAAA
@@ -6510,6 +6516,7 @@
 ||foolsmountain.com^$dnstype=AAAA
 ||fooooo.com^$dnstype=AAAA
 ||footprint.net^$dnstype=AAAA
+||footprintdns.com^$dnstype=AAAA
 ||footseen.com^$dnstype=AAAA
 ||footstockings.com^$dnstype=AAAA
 ||footwiball.com^$dnstype=AAAA
@@ -10759,6 +10766,7 @@
 ||matsushimakaede.com^$dnstype=AAAA
 ||matters.news^$dnstype=AAAA
 ||matters.one^$dnstype=AAAA
+||matters.town^$dnstype=AAAA
 ||mattwilcox.net^$dnstype=AAAA
 ||mature-amateur-sex.com^$dnstype=AAAA
 ||mature-porn-flix.com^$dnstype=AAAA
@@ -14058,6 +14066,7 @@
 ||qmttqg3k.me^$dnstype=AAAA
 ||qmzdd.com^$dnstype=AAAA
 ||qombol.com^$dnstype=AAAA
+||qooqlevideo.com^$dnstype=AAAA
 ||qoos.com^$dnstype=AAAA
 ||qooza.hk^$dnstype=AAAA
 ||qorno.com^$dnstype=AAAA
@@ -14170,6 +14179,7 @@
 ||rarbgto.org^$dnstype=AAAA
 ||rarbgunblock.com^$dnstype=AAAA
 ||rarbgunblock.org^$dnstype=AAAA
+||rarbgunblocked.org^$dnstype=AAAA
 ||rarbgway.org^$dnstype=AAAA
 ||raremovie.cc^$dnstype=AAAA
 ||raremovie.net^$dnstype=AAAA
