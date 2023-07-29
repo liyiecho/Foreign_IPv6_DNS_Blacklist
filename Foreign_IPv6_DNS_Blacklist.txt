@@ -552,6 +552,7 @@
 ||addyoutube.com^$dnstype=AAAA
 ||adelaidebbs.com^$dnstype=AAAA
 ||adgoogle.net^$dnstype=AAAA
+||adguard-dns.com^$dnstype=AAAA
 ||adguard-vpn.com^$dnstype=AAAA
 ||adguard.com^$dnstype=AAAA
 ||adguard.org^$dnstype=AAAA
@@ -1410,6 +1411,7 @@
 ||arcadewank.com^$dnstype=AAAA
 ||arcgis.com^$dnstype=AAAA
 ||arcgisonline.com^$dnstype=AAAA
+||archive-it.org^$dnstype=AAAA
 ||archive.fo^$dnstype=AAAA
 ||archive.is^$dnstype=AAAA
 ||archive.li^$dnstype=AAAA
@@ -12703,6 +12705,7 @@
 ||openid.net^$dnstype=AAAA
 ||openjsf.org^$dnstype=AAAA
 ||openleaks.org^$dnstype=AAAA
+||openlibrary.org^$dnstype=AAAA
 ||openmaps.org^$dnstype=AAAA
 ||openresty.org^$dnstype=AAAA
 ||opensea.io^$dnstype=AAAA
