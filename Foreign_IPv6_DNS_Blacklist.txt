@@ -3855,6 +3855,7 @@
 ||cloudcraze.com^$dnstype=AAAA
 ||cloudcredibility.com^$dnstype=AAAA
 ||cloudflare-dns.com^$dnstype=AAAA
+||cloudflare-gateway.com^$dnstype=AAAA
 ||cloudflare-ipfs.com^$dnstype=AAAA
 ||cloudflare-quic.com^$dnstype=AAAA
 ||cloudflare.com^$dnstype=AAAA
@@ -3865,6 +3866,7 @@
 ||cloudflareclient.com^$dnstype=AAAA
 ||cloudflareinsights.com^$dnstype=AAAA
 ||cloudflareok.com^$dnstype=AAAA
+||cloudflareportal.com^$dnstype=AAAA
 ||cloudflarepreview.com^$dnstype=AAAA
 ||cloudflareresolve.com^$dnstype=AAAA
 ||cloudflaressl.com^$dnstype=AAAA
@@ -13270,6 +13272,8 @@
 ||pifpafarabia.com^$dnstype=AAAA
 ||pigav.com^$dnstype=AAAA
 ||pikabu.monster^$dnstype=AAAA
+||pikpak.me^$dnstype=AAAA
+||pikpakdrive.com^$dnstype=AAAA
 ||pillbeatsblackfridaysale.com^$dnstype=AAAA
 ||pimg.tw^$dnstype=AAAA
 ||pin-cong.com^$dnstype=AAAA
@@ -15443,6 +15447,7 @@
 ||soundcloud.com^$dnstype=AAAA
 ||soundofhope.kr^$dnstype=AAAA
 ||soundofhope.org^$dnstype=AAAA
+||soundon.fm^$dnstype=AAAA
 ||soup.io^$dnstype=AAAA
 ||soupofmedia.com^$dnstype=AAAA
 ||sourceforge.com^$dnstype=AAAA
