@@ -4793,7 +4793,6 @@
 ||disquscdn.com^$dnstype=AAAA
 ||disqusservice.com^$dnstype=AAAA
 ||dit-inc.us^$dnstype=AAAA
-||diversity.google^$dnstype=AAAA
 ||diyarbakirescort.com^$dnstype=AAAA
 ||dizhidizhi.com^$dnstype=AAAA
 ||dizhuzhishang.com^$dnstype=AAAA
@@ -6100,7 +6099,6 @@
 ||falunpilipinas.net^$dnstype=AAAA
 ||falunworld.net^$dnstype=AAAA
 ||fameregistry.com^$dnstype=AAAA
-||families.google^$dnstype=AAAA
 ||family-sex.me^$dnstype=AAAA
 ||familyfed.org^$dnstype=AAAA
 ||familypies.net^$dnstype=AAAA
@@ -9239,7 +9237,6 @@
 ||investing.com^$dnstype=AAAA
 ||inxian.com^$dnstype=AAAA
 ||inxporn.com^$dnstype=AAAA
-||io.google^$dnstype=AAAA
 ||io.io^$dnstype=AAAA
 ||ioe.com^$dnstype=AAAA
 ||ioffergift.com^$dnstype=AAAA
@@ -10166,7 +10163,6 @@
 ||lemonde.fr^$dnstype=AAAA
 ||lencr.org^$dnstype=AAAA
 ||lenporno.red^$dnstype=AAAA
-||lens.google^$dnstype=AAAA
 ||lenwhite.com^$dnstype=AAAA
 ||leorockwell.com^$dnstype=AAAA
 ||lepoint.fr^$dnstype=AAAA
@@ -12627,6 +12623,8 @@
 ||onefifteen.org^$dnstype=AAAA
 ||onejapanese.com^$dnstype=AAAA
 ||onejav.com^$dnstype=AAAA
+||onekey-asset.com^$dnstype=AAAA
+||onekeycn.com^$dnstype=AAAA
 ||onenote.com^$dnstype=AAAA
 ||onepornlist.com^$dnstype=AAAA
 ||onesiterip.com^$dnstype=AAAA
@@ -17717,6 +17715,7 @@
 ||wallproxy.com^$dnstype=AAAA
 ||wallsttv.com^$dnstype=AAAA
 ||walmart-content.com^$dnstype=AAAA
+||walmart.cn^$dnstype=AAAA
 ||walmart.com^$dnstype=AAAA
 ||walmart.pharmacy^$dnstype=AAAA
 ||walmartimages.com^$dnstype=AAAA
@@ -17851,7 +17850,6 @@
 ||weiyuksj.com^$dnstype=AAAA
 ||weknowporn.com^$dnstype=AAAA
 ||welcomix.com^$dnstype=AAAA
-||wellbeing.google^$dnstype=AAAA
 ||wellfuckedwife.com^$dnstype=AAAA
 ||wellmaturetube.com^$dnstype=AAAA
 ||welovecock.com^$dnstype=AAAA
