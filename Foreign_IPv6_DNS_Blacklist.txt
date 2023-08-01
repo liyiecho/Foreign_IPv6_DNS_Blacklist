@@ -3889,6 +3889,7 @@
 ||cloudlock.com^$dnstype=AAAA
 ||cloudmagic.com^$dnstype=AAAA
 ||cloudn.me^$dnstype=AAAA
+||cloudokyo.cloud^$dnstype=AAAA
 ||cloudproxy.app^$dnstype=AAAA
 ||cloudrobotics.com^$dnstype=AAAA
 ||cloudvolumes.com^$dnstype=AAAA
@@ -7037,6 +7038,7 @@
 ||gamousa.com^$dnstype=AAAA
 ||ganges.com^$dnstype=AAAA
 ||ganjing.com^$dnstype=AAAA
+||ganjing.world^$dnstype=AAAA
 ||ganjingworld.com^$dnstype=AAAA
 ||gannett-cdn.com^$dnstype=AAAA
 ||gannett.com^$dnstype=AAAA
