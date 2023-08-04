@@ -17694,6 +17694,7 @@
 ||vxxsred.xyz^$dnstype=AAAA
 ||vyprvpn.com^$dnstype=AAAA
 ||vzw.com^$dnstype=AAAA
+||w-mt.co^$dnstype=AAAA
 ||w.org^$dnstype=AAAA
 ||w.wiki^$dnstype=AAAA
 ||w0512.com^$dnstype=AAAA
