@@ -717,7 +717,6 @@
 ||ahxxx.club^$dnstype=AAAA
 ||ai-kan.net^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
-||ai.com^$dnstype=AAAA
 ||ai.google^$dnstype=AAAA
 ||aibaobei.me^$dnstype=AAAA
 ||aicoin.com^$dnstype=AAAA
