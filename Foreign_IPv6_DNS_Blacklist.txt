@@ -11735,6 +11735,7 @@
 ||mypornvid.fun^$dnstype=AAAA
 ||mypornwap.fun^$dnstype=AAAA
 ||myq2.com^$dnstype=AAAA
+||myqnapcloud.com^$dnstype=AAAA
 ||myradio.hk^$dnstype=AAAA
 ||myreadingmanga.info^$dnstype=AAAA
 ||myrewardzone.com^$dnstype=AAAA
@@ -14071,6 +14072,7 @@
 ||qmov.net^$dnstype=AAAA
 ||qmttqg3k.me^$dnstype=AAAA
 ||qmzdd.com^$dnstype=AAAA
+||qnap.com^$dnstype=AAAA
 ||qombol.com^$dnstype=AAAA
 ||qooqlevideo.com^$dnstype=AAAA
 ||qoos.com^$dnstype=AAAA
