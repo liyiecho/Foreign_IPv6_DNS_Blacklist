@@ -4884,6 +4884,7 @@
 ||dobbyporn.com^$dnstype=AAAA
 ||doceapower.com^$dnstype=AAAA
 ||docker.com^$dnstype=AAAA
+||docker.io^$dnstype=AAAA
 ||dockerizer.com^$dnstype=AAAA
 ||docleradn.com^$dnstype=AAAA
 ||doclercdn.com^$dnstype=AAAA
