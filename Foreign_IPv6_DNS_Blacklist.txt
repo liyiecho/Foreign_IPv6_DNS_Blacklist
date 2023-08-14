@@ -11736,6 +11736,7 @@
 ||mypornvid.fun^$dnstype=AAAA
 ||mypornwap.fun^$dnstype=AAAA
 ||myq2.com^$dnstype=AAAA
+||myqnapcloud.cn^$dnstype=AAAA
 ||myqnapcloud.com^$dnstype=AAAA
 ||myradio.hk^$dnstype=AAAA
 ||myreadingmanga.info^$dnstype=AAAA
@@ -14068,6 +14069,7 @@
 ||qixianglu.cn^$dnstype=AAAA
 ||qkjuyet.com^$dnstype=AAAA
 ||qkshare.com^$dnstype=AAAA
+||qlinkto.cn^$dnstype=AAAA
 ||qmap.pub^$dnstype=AAAA
 ||qmov.com^$dnstype=AAAA
 ||qmov.net^$dnstype=AAAA
