@@ -5117,6 +5117,7 @@
 ||dungeonkeeper.cn^$dnstype=AAAA
 ||dungeonkeeper.com^$dnstype=AAAA
 ||dunyabulteni.net^$dnstype=AAAA
+||duolingo.com^$dnstype=AAAA
 ||duoweitimes.com^$dnstype=AAAA
 ||duoweiweek.com^$dnstype=AAAA
 ||duping.net^$dnstype=AAAA
@@ -15197,6 +15198,7 @@
 ||singtaousa.com^$dnstype=AAAA
 ||sino-monthly.com^$dnstype=AAAA
 ||sinoants.com^$dnstype=AAAA
+||sinoca.com^$dnstype=AAAA
 ||sinocast.com^$dnstype=AAAA
 ||sinocism.com^$dnstype=AAAA
 ||sinoinsider.com^$dnstype=AAAA
