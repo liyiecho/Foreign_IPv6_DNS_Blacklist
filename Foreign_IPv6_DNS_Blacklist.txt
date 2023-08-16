@@ -381,6 +381,7 @@
 ||8sp.biz^$dnstype=AAAA
 ||8teenxxx.com^$dnstype=AAAA
 ||8thstreetlatinas.com^$dnstype=AAAA
+||8world.com^$dnstype=AAAA
 ||8xxx.net^$dnstype=AAAA
 ||8z1.net^$dnstype=AAAA
 ||9001700.com^$dnstype=AAAA
@@ -8792,6 +8793,7 @@
 ||idsam.com^$dnstype=AAAA
 ||idservice.inc^$dnstype=AAAA
 ||idv.tw^$dnstype=AAAA
+||idx.dev^$dnstype=AAAA
 ||ie10.com^$dnstype=AAAA
 ||ie11.com^$dnstype=AAAA
 ||ie8.co^$dnstype=AAAA
