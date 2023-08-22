@@ -14329,6 +14329,7 @@
 ||redditstatic.com^$dnstype=AAAA
 ||redfaptube.com^$dnstype=AAAA
 ||redgifs.com^$dnstype=AAAA
+||redhat.org^$dnstype=AAAA
 ||redhotlabs.com^$dnstype=AAAA
 ||redislabs.com^$dnstype=AAAA
 ||redkix.com^$dnstype=AAAA
