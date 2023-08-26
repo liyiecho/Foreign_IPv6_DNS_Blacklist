@@ -1909,6 +1909,7 @@
 ||bastropfirestone.com^$dnstype=AAAA
 ||baterias-hp.com^$dnstype=AAAA
 ||batsa.me^$dnstype=AAAA
+||battle.net^$dnstype=AAAA
 ||battlebreakers.com^$dnstype=AAAA
 ||battlefield.com^$dnstype=AAAA
 ||battlefield1943.com^$dnstype=AAAA
@@ -9104,6 +9105,9 @@
 ||insder.co^$dnstype=AAAA
 ||insecam.org^$dnstype=AAAA
 ||insendi.com^$dnstype=AAAA
+||inshot.cc^$dnstype=AAAA
+||inshot.com^$dnstype=AAAA
+||inshotapp.com^$dnstype=AAAA
 ||insidear.cn^$dnstype=AAAA
 ||insidefilms.com^$dnstype=AAAA
 ||insidemacintosh.com^$dnstype=AAAA
