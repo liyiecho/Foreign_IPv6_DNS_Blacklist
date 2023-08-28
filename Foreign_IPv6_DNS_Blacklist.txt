@@ -2575,9 +2575,7 @@
 ||blinkx.com^$dnstype=AAAA
 ||blinw.com^$dnstype=AAAA
 ||blip.tv^$dnstype=AAAA
-||blizzard.cn^$dnstype=AAAA
 ||blizzard.com^$dnstype=AAAA
-||blizzardgames.cn^$dnstype=AAAA
 ||blizzardgearstore.com^$dnstype=AAAA
 ||blockcast.it^$dnstype=AAAA
 ||blockcn.com^$dnstype=AAAA
@@ -2714,7 +2712,6 @@
 ||bluffyporn.com^$dnstype=AAAA
 ||blurams.com^$dnstype=AAAA
 ||blz-contentstack.com^$dnstype=AAAA
-||blzstatic.cn^$dnstype=AAAA
 ||bmfinn.com^$dnstype=AAAA
 ||bmia.org^$dnstype=AAAA
 ||bml.info^$dnstype=AAAA
@@ -2879,6 +2876,7 @@
 ||bnews.co^$dnstype=AAAA
 ||bnn.co^$dnstype=AAAA
 ||bnrmetal.com^$dnstype=AAAA
+||bntrace.com^$dnstype=AAAA
 ||boardreader.com^$dnstype=AAAA
 ||boboporn.com^$dnstype=AAAA
 ||boboporn.net^$dnstype=AAAA
