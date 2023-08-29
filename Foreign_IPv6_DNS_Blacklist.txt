@@ -17928,6 +17928,7 @@
 ||whispersystems.org^$dnstype=AAAA
 ||whitexxxtube.com^$dnstype=AAAA
 ||who.int^$dnstype=AAAA
+||who.is^$dnstype=AAAA
 ||whodns.xyz^$dnstype=AAAA
 ||whoer.net^$dnstype=AAAA
 ||wholecitiesfoundation.org^$dnstype=AAAA
