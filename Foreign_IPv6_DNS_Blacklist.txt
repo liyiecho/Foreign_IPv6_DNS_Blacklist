@@ -323,6 +323,7 @@
 ||69gayporno.com^$dnstype=AAAA
 ||69loli.com^$dnstype=AAAA
 ||69luolie.com^$dnstype=AAAA
+||69shu.com^$dnstype=AAAA
 ||69story.com^$dnstype=AAAA
 ||69tubesex.com^$dnstype=AAAA
 ||69vj.com^$dnstype=AAAA
@@ -696,6 +697,7 @@
 ||afreecatv.com^$dnstype=AAAA
 ||afriboyz.com^$dnstype=AAAA
 ||aga-expo.com^$dnstype=AAAA
+||agemys.net^$dnstype=AAAA
 ||agendaweek.com^$dnstype=AAAA
 ||agnesb.fr^$dnstype=AAAA
 ||agoogleaday.com^$dnstype=AAAA
@@ -3800,6 +3802,7 @@
 ||civiliangunner.com^$dnstype=AAAA
 ||civilmedia.tw^$dnstype=AAAA
 ||civisec.org^$dnstype=AAAA
+||civitai.com^$dnstype=AAAA
 ||cixp.net^$dnstype=AAAA
 ||ciyuanjie.cc^$dnstype=AAAA
 ||cjb.net^$dnstype=AAAA
@@ -3814,6 +3817,7 @@
 ||classicalguitarblog.net^$dnstype=AAAA
 ||classicnike.com^$dnstype=AAAA
 ||classymomsex.com^$dnstype=AAAA
+||claude.ai^$dnstype=AAAA
 ||clco.cc^$dnstype=AAAA
 ||cleansite.biz^$dnstype=AAAA
 ||cleansite.info^$dnstype=AAAA
@@ -4916,6 +4920,7 @@
 ||dollarphotosclub.com^$dnstype=AAAA
 ||dollf.com^$dnstype=AAAA
 ||dollnight.com^$dnstype=AAAA
+||domain.glass^$dnstype=AAAA
 ||domains.google^$dnstype=AAAA
 ||domywife.com^$dnstype=AAAA
 ||donatecarsoh.org^$dnstype=AAAA
@@ -5464,6 +5469,7 @@
 ||elastic.co^$dnstype=AAAA
 ||elastic.com^$dnstype=AAAA
 ||elasticbeanstalk.com^$dnstype=AAAA
+||elconfidencial.com^$dnstype=AAAA
 ||elderscrolls.com^$dnstype=AAAA
 ||electbabe.com^$dnstype=AAAA
 ||electionsmeter.com^$dnstype=AAAA
@@ -7226,6 +7232,7 @@
 ||gfbv.de^$dnstype=AAAA
 ||gfjizz.com^$dnstype=AAAA
 ||gfleaks.com^$dnstype=AAAA
+||gfnormal05at.com^$dnstype=AAAA
 ||gfotolia.com^$dnstype=AAAA
 ||gfpics.com^$dnstype=AAAA
 ||gfpornbox.com^$dnstype=AAAA
@@ -8739,6 +8746,7 @@
 ||ibytedtos.com^$dnstype=AAAA
 ||ibyteimg.com^$dnstype=AAAA
 ||icams.com^$dnstype=AAAA
+||icedrive.net^$dnstype=AAAA
 ||iceporn.com^$dnstype=AAAA
 ||iceporncasting.com^$dnstype=AAAA
 ||icerocket.com^$dnstype=AAAA
@@ -8986,6 +8994,7 @@
 ||imageworks.com^$dnstype=AAAA
 ||imagezilla.net^$dnstype=AAAA
 ||imagineecommerce.com^$dnstype=AAAA
+||imago-images.com^$dnstype=AAAA
 ||imaypb.com^$dnstype=AAAA
 ||imb.org^$dnstype=AAAA
 ||imdb.com^$dnstype=AAAA
@@ -12351,7 +12360,6 @@
 ||npr.org^$dnstype=AAAA
 ||nps.gov^$dnstype=AAAA
 ||npsboost.com^$dnstype=AAAA
-||nr-data.net^$dnstype=AAAA
 ||nradio.me^$dnstype=AAAA
 ||nrk.no^$dnstype=AAAA
 ||ns.ci^$dnstype=AAAA
@@ -16597,6 +16605,7 @@
 ||torlock.com^$dnstype=AAAA
 ||toroporno.com^$dnstype=AAAA
 ||torproject.org^$dnstype=AAAA
+||torrentgalaxy.to^$dnstype=AAAA
 ||torrentkitty.tv^$dnstype=AAAA
 ||torrentleen.com^$dnstype=AAAA
 ||torrentprivacy.com^$dnstype=AAAA
