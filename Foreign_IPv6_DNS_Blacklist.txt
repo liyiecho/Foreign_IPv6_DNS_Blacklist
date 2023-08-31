@@ -333,6 +333,7 @@
 ||6arabs.com^$dnstype=AAAA
 ||6asianporn.com^$dnstype=AAAA
 ||6do.news^$dnstype=AAAA
+||6do.world^$dnstype=AAAA
 ||6e8xr2gk.me^$dnstype=AAAA
 ||6japaneseporn.com^$dnstype=AAAA
 ||6kea.com^$dnstype=AAAA
@@ -1499,6 +1500,7 @@
 ||asianxxxvideos.cc^$dnstype=AAAA
 ||asiaone.com^$dnstype=AAAA
 ||asiatgp.com^$dnstype=AAAA
+||asiatimes.com^$dnstype=AAAA
 ||asiatoday.us^$dnstype=AAAA
 ||ask.com^$dnstype=AAAA
 ||askfacebook.net^$dnstype=AAAA
@@ -15607,6 +15609,7 @@
 ||stackage.org^$dnstype=AAAA
 ||stackapps.com^$dnstype=AAAA
 ||stackauth.com^$dnstype=AAAA
+||stackcommerce.net^$dnstype=AAAA
 ||stackexchange.com^$dnstype=AAAA
 ||stackmod.blog^$dnstype=AAAA
 ||stackoverflow.blog^$dnstype=AAAA
@@ -15618,6 +15621,7 @@
 ||stackpath.com^$dnstype=AAAA
 ||stackpath.dev^$dnstype=AAAA
 ||stacksnippets.net^$dnstype=AAAA
+||stacksocial.com^$dnstype=AAAA
 ||stacyvandenbergboobs.com^$dnstype=AAAA
 ||stadia.dev^$dnstype=AAAA
 ||stage64.hk^$dnstype=AAAA
@@ -16207,6 +16211,7 @@
 ||thecandidbay.com^$dnstype=AAAA
 ||thechinabeat.org^$dnstype=AAAA
 ||thechinacollection.org^$dnstype=AAAA
+||thechinaproject.com^$dnstype=AAAA
 ||thechinastory.org^$dnstype=AAAA
 ||theclasshroom.com^$dnstype=AAAA
 ||thecleversense.com^$dnstype=AAAA
