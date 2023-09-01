@@ -1209,7 +1209,6 @@
 ||apk.support^$dnstype=AAAA
 ||apk.tw^$dnstype=AAAA
 ||apkcombo.com^$dnstype=AAAA
-||apkdler.com^$dnstype=AAAA
 ||apkfind.com^$dnstype=AAAA
 ||apkmirror.com^$dnstype=AAAA
 ||apkmonk.com^$dnstype=AAAA
@@ -2545,6 +2544,7 @@
 ||bitvise.com^$dnstype=AAAA
 ||bitwarden.com^$dnstype=AAAA
 ||bitz.ai^$dnstype=AAAA
+||bitz.com^$dnstype=AAAA
 ||bizarresexuality.com^$dnstype=AAAA
 ||bizhat.com^$dnstype=AAAA
 ||bizographics.com^$dnstype=AAAA
@@ -6715,7 +6715,6 @@
 ||fqrouter.com^$dnstype=AAAA
 ||fr-beatsbydrestore.com^$dnstype=AAAA
 ||fracebook.com^$dnstype=AAAA
-||fragment.com^$dnstype=AAAA
 ||fragrancebay.com^$dnstype=AAAA
 ||francecasquebeatssolde.com^$dnstype=AAAA
 ||francemail.com^$dnstype=AAAA
@@ -8752,7 +8751,6 @@
 ||iceporn.com^$dnstype=AAAA
 ||iceporncasting.com^$dnstype=AAAA
 ||icerocket.com^$dnstype=AAAA
-||icfcdn.com^$dnstype=AAAA
 ||ichigocandy.com^$dnstype=AAAA
 ||ichineseporn.com^$dnstype=AAAA
 ||icij.org^$dnstype=AAAA
@@ -8785,7 +8783,6 @@
 ||icuminside.com^$dnstype=AAAA
 ||id.au^$dnstype=AAAA
 ||idaiwan.com^$dnstype=AAAA
-||iddddg.com^$dnstype=AAAA
 ||ideal-teens.com^$dnstype=AAAA
 ||idelreal.org^$dnstype=AAAA
 ||idemocracy.asia^$dnstype=AAAA
@@ -8901,7 +8898,6 @@
 ||igoogle.it^$dnstype=AAAA
 ||igoogle.jo^$dnstype=AAAA
 ||igoogle.kz^$dnstype=AAAA
-||igoogle.lv^$dnstype=AAAA
 ||igoogle.mn^$dnstype=AAAA
 ||igoogle.ms^$dnstype=AAAA
 ||igoogle.nl^$dnstype=AAAA
@@ -8912,7 +8908,6 @@
 ||igoogle.rw^$dnstype=AAAA
 ||igoogle.sc^$dnstype=AAAA
 ||igoogle.sh^$dnstype=AAAA
-||igoogle.sk^$dnstype=AAAA
 ||igoogle.sm^$dnstype=AAAA
 ||igoogle.sn^$dnstype=AAAA
 ||igoogle.tk^$dnstype=AAAA
@@ -12579,6 +12574,7 @@
 ||oiobbs.com^$dnstype=AAAA
 ||oizoblog.com^$dnstype=AAAA
 ||ok.ru^$dnstype=AAAA
+||ok.xxx^$dnstype=AAAA
 ||okaapps.com^$dnstype=AAAA
 ||okayfreedom.com^$dnstype=AAAA
 ||okex.com^$dnstype=AAAA
@@ -17875,6 +17871,7 @@
 ||weinvoiceit.com^$dnstype=AAAA
 ||weiquanwang.org^$dnstype=AAAA
 ||weisuo.ws^$dnstype=AAAA
+||weitt.us^$dnstype=AAAA
 ||weiyuksj.com^$dnstype=AAAA
 ||weknowporn.com^$dnstype=AAAA
 ||welcomix.com^$dnstype=AAAA
