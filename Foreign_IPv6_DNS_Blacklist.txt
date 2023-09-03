@@ -3864,7 +3864,6 @@
 ||cloudflare-ipfs.com^$dnstype=AAAA
 ||cloudflare-quic.com^$dnstype=AAAA
 ||cloudflare.com^$dnstype=AAAA
-||cloudflare.net^$dnstype=AAAA
 ||cloudflareaccess.com^$dnstype=AAAA
 ||cloudflareapps.com^$dnstype=AAAA
 ||cloudflarebolt.com^$dnstype=AAAA
@@ -7266,6 +7265,8 @@
 ||ghut.org^$dnstype=AAAA
 ||giantessbooru.com^$dnstype=AAAA
 ||giantessnight.com^$dnstype=AAAA
+||giffgaff.com^$dnstype=AAAA
+||giffgaff.design^$dnstype=AAAA
 ||gifnuki.com^$dnstype=AAAA
 ||gifree.com^$dnstype=AAAA
 ||giga-web.jp^$dnstype=AAAA
