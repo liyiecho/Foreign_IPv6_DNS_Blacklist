@@ -40,6 +40,7 @@
 ||132288.cc^$dnstype=AAAA
 ||1337x.to^$dnstype=AAAA
 ||138.com^$dnstype=AAAA
+||141-hk.com^$dnstype=AAAA
 ||141hongkong.com^$dnstype=AAAA
 ||141jav.com^$dnstype=AAAA
 ||141jj.com^$dnstype=AAAA
@@ -3014,7 +3015,6 @@
 ||bravoteens.com^$dnstype=AAAA
 ||bravotube.net^$dnstype=AAAA
 ||brawlstars.cn^$dnstype=AAAA
-||braze.com^$dnstype=AAAA
 ||brazilpartneruniversity.com^$dnstype=AAAA
 ||brazzer.com^$dnstype=AAAA
 ||brazzers-porno.online^$dnstype=AAAA
@@ -4133,7 +4133,6 @@
 ||contentful.com^$dnstype=AAAA
 ||contest.com^$dnstype=AAAA
 ||convio.net^$dnstype=AAAA
-||conviva.com^$dnstype=AAAA
 ||convrgencegame.com^$dnstype=AAAA
 ||coobay.com^$dnstype=AAAA
 ||cookiechoices.org^$dnstype=AAAA
@@ -4948,7 +4947,6 @@
 ||dotfacebook.com^$dnstype=AAAA
 ||dotfacebook.net^$dnstype=AAAA
 ||dotfreesex.com^$dnstype=AAAA
-||dotgov.gov^$dnstype=AAAA
 ||dotherex.com^$dnstype=AAAA
 ||dotplane.com^$dnstype=AAAA
 ||dotsub.com^$dnstype=AAAA
@@ -6522,7 +6520,6 @@
 ||fonts.net^$dnstype=AAAA
 ||fontshop.com^$dnstype=AAAA
 ||fontsinuse.com^$dnstype=AAAA
-||fontsource.org^$dnstype=AAAA
 ||foofle.com^$dnstype=AAAA
 ||foolsmountain.com^$dnstype=AAAA
 ||fooooo.com^$dnstype=AAAA
@@ -7321,7 +7318,6 @@
 ||githubapp.com^$dnstype=AAAA
 ||githubassets.com^$dnstype=AAAA
 ||githubhackathon.com^$dnstype=AAAA
-||githubmemory.com^$dnstype=AAAA
 ||githubpreview.dev^$dnstype=AAAA
 ||githubstatus.com^$dnstype=AAAA
 ||githubuniverse.com^$dnstype=AAAA
@@ -7330,7 +7326,6 @@
 ||gitlab.com^$dnstype=AAAA
 ||gitlab.io^$dnstype=AAAA
 ||gitlab.net^$dnstype=AAAA
-||gitmemory.com^$dnstype=AAAA
 ||gitstar.com^$dnstype=AAAA
 ||gitstar.net^$dnstype=AAAA
 ||gittigidiyor.net^$dnstype=AAAA
@@ -7440,7 +7435,6 @@
 ||goldstep.net^$dnstype=AAAA
 ||goldteenporn.com^$dnstype=AAAA
 ||goldwave.com^$dnstype=AAAA
-||goliathguitartutorials.com^$dnstype=AAAA
 ||golosameriki.com^$dnstype=AAAA
 ||gongm.in^$dnstype=AAAA
 ||gongmeng.info^$dnstype=AAAA
@@ -9310,7 +9304,6 @@
 ||iphonix.fr^$dnstype=AAAA
 ||iphoto.wang^$dnstype=AAAA
 ||ipicture.ru^$dnstype=AAAA
-||ipinfo.io^$dnstype=AAAA
 ||ipjetable.net^$dnstype=AAAA
 ||ipleadership.org^$dnstype=AAAA
 ||ipn.li^$dnstype=AAAA
@@ -10132,7 +10125,6 @@
 ||lbank.info^$dnstype=AAAA
 ||lbfmaddiction.com^$dnstype=AAAA
 ||lbtube.com^$dnstype=AAAA
-||lbyczf.com^$dnstype=AAAA
 ||lcgirls.com^$dnstype=AAAA
 ||lcsmerch.com^$dnstype=AAAA
 ||le-vpn.com^$dnstype=AAAA
@@ -11571,7 +11563,6 @@
 ||muryouav.net^$dnstype=AAAA
 ||muscdn.com^$dnstype=AAAA
 ||musclegirlflix.com^$dnstype=AAAA
-||musescore.com^$dnstype=AAAA
 ||mushroomtrack.com^$dnstype=AAAA
 ||musicade.net^$dnstype=AAAA
 ||musicbay.net^$dnstype=AAAA
@@ -12009,7 +12000,6 @@
 ||newmonsterbeatsheadphones.com^$dnstype=AAAA
 ||newnews.ca^$dnstype=AAAA
 ||newpppp.com^$dnstype=AAAA
-||newrelic.com^$dnstype=AAAA
 ||newsamerica.com^$dnstype=AAAA
 ||newsancai.com^$dnstype=AAAA
 ||newsblur.com^$dnstype=AAAA
@@ -12708,7 +12698,6 @@
 ||openamt.com^$dnstype=AAAA
 ||openapiplatform.com^$dnstype=AAAA
 ||openapiservice.com^$dnstype=AAAA
-||openbase.com^$dnstype=AAAA
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
@@ -13924,7 +13913,6 @@
 ||propertysex.com^$dnstype=AAAA
 ||proporn.com^$dnstype=AAAA
 ||proptiger.com^$dnstype=AAAA
-||prosciana.com^$dnstype=AAAA
 ||prosiben.de^$dnstype=AAAA
 ||prostate-exam-info.com^$dnstype=AAAA
 ||prostoporno.net^$dnstype=AAAA
@@ -14469,7 +14457,6 @@
 ||robustnessiskey.com^$dnstype=AAAA
 ||rocket-inc.net^$dnstype=AAAA
 ||rocketbbs.com^$dnstype=AAAA
-||rocketcdn.me^$dnstype=AAAA
 ||rocketfishproducts.com^$dnstype=AAAA
 ||rockettube.com^$dnstype=AAAA
 ||rocksdb.com^$dnstype=AAAA
@@ -15253,7 +15240,6 @@
 ||skebetter.com^$dnstype=AAAA
 ||sketchappsources.com^$dnstype=AAAA
 ||skillshare.com^$dnstype=AAAA
-||skimresources.com^$dnstype=AAAA
 ||skimtube.com^$dnstype=AAAA
 ||skinstrip.net^$dnstype=AAAA
 ||skk.moe^$dnstype=AAAA
@@ -15554,7 +15540,6 @@
 ||springwood.me^$dnstype=AAAA
 ||sprinklesapp.com^$dnstype=AAAA
 ||sprite.org^$dnstype=AAAA
-||sprite.page^$dnstype=AAAA
 ||sproutcore.com^$dnstype=AAAA
 ||sproxy.info^$dnstype=AAAA
 ||spyjinx.com^$dnstype=AAAA
@@ -16040,7 +16025,6 @@
 ||tbssqh.org^$dnstype=AAAA
 ||tbswd.org^$dnstype=AAAA
 ||tbthouston.org^$dnstype=AAAA
-||tc39.es^$dnstype=AAAA
 ||tccwonline.org^$dnstype=AAAA
 ||tcewf.org^$dnstype=AAAA
 ||tchrd.org^$dnstype=AAAA
@@ -16113,7 +16097,6 @@
 ||telegra.ph^$dnstype=AAAA
 ||telegram-cdn.org^$dnstype=AAAA
 ||telegram-porn.com^$dnstype=AAAA
-||telegram-store.com^$dnstype=AAAA
 ||telegram.dog^$dnstype=AAAA
 ||telegram.me^$dnstype=AAAA
 ||telegram.org^$dnstype=AAAA
@@ -16165,7 +16148,6 @@
 ||tfiflve.com^$dnstype=AAAA
 ||tfsallin.net^$dnstype=AAAA
 ||tg.dev^$dnstype=AAAA
-||tgfcer.com^$dnstype=AAAA
 ||tgirlcentral.com^$dnstype=AAAA
 ||tgirlpostop.com^$dnstype=AAAA
 ||tgp6.com^$dnstype=AAAA
@@ -16695,8 +16677,6 @@
 ||truebeachporn.com^$dnstype=AAAA
 ||truebuddha-md.org^$dnstype=AAAA
 ||truedepth3d.com^$dnstype=AAAA
-||truenas.com^$dnstype=AAAA
-||truesocial.media^$dnstype=AAAA
 ||trulyergonomic.com^$dnstype=AAAA
 ||trust-provider.cn^$dnstype=AAAA
 ||trust-provider.com^$dnstype=AAAA
@@ -17847,7 +17827,6 @@
 ||webobjects.net^$dnstype=AAAA
 ||webofscience.com^$dnstype=AAAA
 ||webpack.de^$dnstype=AAAA
-||webpass.net^$dnstype=AAAA
 ||webpkgcache.com^$dnstype=AAAA
 ||webrtc.org^$dnstype=AAAA
 ||webrush.net^$dnstype=AAAA
