@@ -9781,6 +9781,7 @@
 ||jsbridgestone.com^$dnstype=AAAA
 ||jsdelivr.com^$dnstype=AAAA
 ||jsdelivr.net^$dnstype=AAAA
+||jsfiddle.net^$dnstype=AAAA
 ||jshell.net^$dnstype=AAAA
 ||jshint.com^$dnstype=AAAA
 ||jsz91.com^$dnstype=AAAA
