@@ -1388,6 +1388,7 @@
 ||appmediagroup.com^$dnstype=AAAA
 ||approvedusedbmw.com^$dnstype=AAAA
 ||appserviceenvironment.cn^$dnstype=AAAA
+||appsflayer.com^$dnstype=AAAA
 ||appshopper.com^$dnstype=AAAA
 ||appsocks.net^$dnstype=AAAA
 ||appsonebay.net^$dnstype=AAAA
@@ -2528,6 +2529,7 @@
 ||bitcoinworld.com^$dnstype=AAAA
 ||bitfinex.com^$dnstype=AAAA
 ||bitflyer.com^$dnstype=AAAA
+||bitget.com^$dnstype=AAAA
 ||bithumb.com^$dnstype=AAAA
 ||bitly.com^$dnstype=AAAA
 ||bitmex.com^$dnstype=AAAA
@@ -4252,6 +4254,7 @@
 ||cruel-furies.com^$dnstype=AAAA
 ||crunchyroll.com^$dnstype=AAAA
 ||crustwebsites.net^$dnstype=AAAA
+||crypto.com^$dnstype=AAAA
 ||cryptocompare.com^$dnstype=AAAA
 ||cryptographyengineering.com^$dnstype=AAAA
 ||crystalgunnsworld.com^$dnstype=AAAA
@@ -9936,6 +9939,7 @@
 ||kijijidns.cn^$dnstype=AAAA
 ||kik.com^$dnstype=AAAA
 ||kikdirty.com^$dnstype=AAAA
+||killcovid2021.com^$dnstype=AAAA
 ||killwall.com^$dnstype=AAAA
 ||kilmeadeandfriends.com^$dnstype=AAAA
 ||kimogirl.cc^$dnstype=AAAA
@@ -10927,6 +10931,8 @@
 ||metrotoons.com^$dnstype=AAAA
 ||meuhentai.com^$dnstype=AAAA
 ||mewe.com^$dnstype=AAAA
+||mexc.com^$dnstype=AAAA
+||mexcsensors.com^$dnstype=AAAA
 ||meyou.jp^$dnstype=AAAA
 ||meyul.com^$dnstype=AAAA
 ||mfg-inspector.com^$dnstype=AAAA
@@ -14568,6 +14574,7 @@
 ||s8ds5gfm.xyz^$dnstype=AAAA
 ||s8forum.com^$dnstype=AAAA
 ||sa.com^$dnstype=AAAA
+||saasexch.com^$dnstype=AAAA
 ||saboom.com^$dnstype=AAAA
 ||sabuibo.net^$dnstype=AAAA
 ||sacduc.com^$dnstype=AAAA
