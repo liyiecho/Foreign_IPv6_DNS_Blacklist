@@ -16600,6 +16600,7 @@
 ||torrentgalaxy.to^$dnstype=AAAA
 ||torrentkitty.tv^$dnstype=AAAA
 ||torrentleen.com^$dnstype=AAAA
+||torrentmac.net^$dnstype=AAAA
 ||torrentprivacy.com^$dnstype=AAAA
 ||torrentproject.se^$dnstype=AAAA
 ||torrenty.org^$dnstype=AAAA
