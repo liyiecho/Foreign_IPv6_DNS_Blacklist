@@ -10228,6 +10228,7 @@
 ||lgsalesportal.com^$dnstype=AAAA
 ||lhakar.org^$dnstype=AAAA
 ||lhasocialwork.org^$dnstype=AAAA
+||li.taipei^$dnstype=AAAA
 ||liangyou.net^$dnstype=AAAA
 ||liangzhichuanmei.com^$dnstype=AAAA
 ||lianhonghong.com^$dnstype=AAAA
@@ -11329,6 +11330,7 @@
 ||moneywithfacebook.com^$dnstype=AAAA
 ||mongodb.com^$dnstype=AAAA
 ||mongodb.org^$dnstype=AAAA
+||monica.im^$dnstype=AAAA
 ||monitorchina.org^$dnstype=AAAA
 ||monitorware.com^$dnstype=AAAA
 ||monitrix.net^$dnstype=AAAA
@@ -16646,7 +16648,6 @@
 ||transarmuito.com^$dnstype=AAAA
 ||transcamslive.com^$dnstype=AAAA
 ||translate.goog^$dnstype=AAAA
-||translate.google^$dnstype=AAAA
 ||translatetheweb.com^$dnstype=AAAA
 ||translatewiki.net^$dnstype=AAAA
 ||translatewiki.org^$dnstype=AAAA
