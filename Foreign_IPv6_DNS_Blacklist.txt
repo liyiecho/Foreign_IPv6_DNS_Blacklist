@@ -29,6 +29,7 @@
 ||123hplaserjet.com^$dnstype=AAAA
 ||123rf.com^$dnstype=AAAA
 ||123sex.top^$dnstype=AAAA
+||126728.net^$dnstype=AAAA
 ||128100.xyz^$dnstype=AAAA
 ||12bet.com^$dnstype=AAAA
 ||12diasdepresentesdeitunes.com^$dnstype=AAAA
@@ -403,6 +404,7 @@
 ||91porn.work^$dnstype=AAAA
 ||91porny.com^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
+||91quanji.com^$dnstype=AAAA
 ||91rb.com^$dnstype=AAAA
 ||91rb.net^$dnstype=AAAA
 ||91se.fun^$dnstype=AAAA
@@ -2279,6 +2281,7 @@
 ||beijingnike.com^$dnstype=AAAA
 ||beijingspring.com^$dnstype=AAAA
 ||beijingzx.org^$dnstype=AAAA
+||beiyongzhan1.com^$dnstype=AAAA
 ||bejav.net^$dnstype=AAAA
 ||bejeweledstars.com^$dnstype=AAAA
 ||bejewled-stars.com^$dnstype=AAAA
@@ -6300,6 +6303,7 @@
 ||fececbook.com^$dnstype=AAAA
 ||fedoraforum.org^$dnstype=AAAA
 ||fedoramagazine.org^$dnstype=AAAA
+||fedorapeople.org^$dnstype=AAAA
 ||fedoraproject.org^$dnstype=AAAA
 ||feedburner.com^$dnstype=AAAA
 ||feeder.co^$dnstype=AAAA
@@ -7051,6 +7055,7 @@
 ||gannett.com^$dnstype=AAAA
 ||gannettdigital.com^$dnstype=AAAA
 ||gao1.cc^$dnstype=AAAA
+||gaofuwu.cc^$dnstype=AAAA
 ||gaoming.net^$dnstype=AAAA
 ||gaopi.net^$dnstype=AAAA
 ||gaozhisheng.net^$dnstype=AAAA
@@ -7677,6 +7682,7 @@
 ||gpstheseries.com^$dnstype=AAAA
 ||gputechconf.cn^$dnstype=AAAA
 ||gputechconf.com^$dnstype=AAAA
+||gqzmnav.cc^$dnstype=AAAA
 ||gr-assets.com^$dnstype=AAAA
 ||gr8domain.biz^$dnstype=AAAA
 ||gr8name.biz^$dnstype=AAAA
@@ -8613,6 +8619,7 @@
 ||huffpostbrasil.com^$dnstype=AAAA
 ||huffpostmaghreb.com^$dnstype=AAAA
 ||hugedildo.com^$dnstype=AAAA
+||huggingface.co^$dnstype=AAAA
 ||hugoroy.eu^$dnstype=AAAA
 ||huhaitai.com^$dnstype=AAAA
 ||huhamhire.com^$dnstype=AAAA
@@ -9736,6 +9743,7 @@
 ||jmcomic2.moe^$dnstype=AAAA
 ||jmlr.org^$dnstype=AAAA
 ||jmscult.com^$dnstype=AAAA
+||jmvbt.com^$dnstype=AAAA
 ||jneurosci.org^$dnstype=AAAA
 ||joachims.org^$dnstype=AAAA
 ||joanabliss.com^$dnstype=AAAA
@@ -15089,6 +15097,7 @@
 ||sheshaft.com^$dnstype=AAAA
 ||shianyuanfang.com^$dnstype=AAAA
 ||shiatv.net^$dnstype=AAAA
+||shibashuwu.net^$dnstype=AAAA
 ||shicheng.org^$dnstype=AAAA
 ||shikorina.net^$dnstype=AAAA
 ||shiksha.com^$dnstype=AAAA
