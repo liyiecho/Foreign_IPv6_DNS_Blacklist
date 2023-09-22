@@ -319,6 +319,7 @@
 ||67id.com^$dnstype=AAAA
 ||67maoab.com^$dnstype=AAAA
 ||69-sexgames.com^$dnstype=AAAA
+||69av.one^$dnstype=AAAA
 ||69bag.xyz^$dnstype=AAAA
 ||69femdom.com^$dnstype=AAAA
 ||69flv.com^$dnstype=AAAA
@@ -401,6 +402,7 @@
 ||91oo.xyz^$dnstype=AAAA
 ||91porn.best^$dnstype=AAAA
 ||91porn.com^$dnstype=AAAA
+||91porn.party^$dnstype=AAAA
 ||91porn.work^$dnstype=AAAA
 ||91porny.com^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
@@ -834,6 +836,7 @@
 ||akiba-online.com^$dnstype=AAAA
 ||akiba-web.com^$dnstype=AAAA
 ||akow.org^$dnstype=AAAA
+||akthelp.com^$dnstype=AAAA
 ||al-islam.com^$dnstype=AAAA
 ||al-qimmah.net^$dnstype=AAAA
 ||alabout.com^$dnstype=AAAA
@@ -1074,6 +1077,7 @@
 ||anaconda.cloud^$dnstype=AAAA
 ||anaconda.com^$dnstype=AAAA
 ||anaconda.org^$dnstype=AAAA
+||anal-f.net^$dnstype=AAAA
 ||anal-pantyhose.com^$dnstype=AAAA
 ||anal.media^$dnstype=AAAA
 ||analamateursex.com^$dnstype=AAAA
@@ -8179,6 +8183,7 @@
 ||hightopnikes.com^$dnstype=AAAA
 ||highwirepress.com^$dnstype=AAAA
 ||hihiforum.com^$dnstype=AAAA
+||hihigv.com^$dnstype=AAAA
 ||hihistory.net^$dnstype=AAAA
 ||hiitch.com^$dnstype=AAAA
 ||hikinggfw.org^$dnstype=AAAA
@@ -8788,6 +8793,7 @@
 ||icuminside.com^$dnstype=AAAA
 ||id.au^$dnstype=AAAA
 ||idaiwan.com^$dnstype=AAAA
+||idarkdoll.com^$dnstype=AAAA
 ||ideal-teens.com^$dnstype=AAAA
 ||idelreal.org^$dnstype=AAAA
 ||idemocracy.asia^$dnstype=AAAA
@@ -11411,6 +11417,7 @@
 ||monstersdebea.com^$dnstype=AAAA
 ||monstersexporn.net^$dnstype=AAAA
 ||monstershopcheapbeats.net^$dnstype=AAAA
+||monthlyav.com^$dnstype=AAAA
 ||moodstocks.com^$dnstype=AAAA
 ||moodyz.com^$dnstype=AAAA
 ||moon.fm^$dnstype=AAAA
@@ -12819,6 +12826,7 @@
 ||otaku-168.com^$dnstype=AAAA
 ||otaku18a.info^$dnstype=AAAA
 ||otaku55.xyz^$dnstype=AAAA
+||otakuboo.com^$dnstype=AAAA
 ||otbm.com^$dnstype=AAAA
 ||otcbtc.com^$dnstype=AAAA
 ||otnd.org^$dnstype=AAAA
@@ -13473,6 +13481,7 @@
 ||poopeegirls.com^$dnstype=AAAA
 ||popcap.com^$dnstype=AAAA
 ||popo.tw^$dnstype=AAAA
+||popporn-world.com^$dnstype=AAAA
 ||popvote.hk^$dnstype=AAAA
 ||popxi.click^$dnstype=AAAA
 ||popyard.com^$dnstype=AAAA
@@ -14012,6 +14021,7 @@
 ||pureapk.com^$dnstype=AAAA
 ||pureconcepts.net^$dnstype=AAAA
 ||pureinsight.org^$dnstype=AAAA
+||purelov5.com^$dnstype=AAAA
 ||purelyceleb.com^$dnstype=AAAA
 ||purenudism.com^$dnstype=AAAA
 ||purepdf.com^$dnstype=AAAA
@@ -14649,6 +14659,7 @@
 ||sarennasworld.com^$dnstype=AAAA
 ||satan18av.com^$dnstype=AAAA
 ||satnym.com^$dnstype=AAAA
+||satv01.me^$dnstype=AAAA
 ||saveliuxiaobo.com^$dnstype=AAAA
 ||savemedia.com^$dnstype=AAAA
 ||savethedate.foo^$dnstype=AAAA
@@ -14908,6 +14919,7 @@
 ||sexinsex.net^$dnstype=AAAA
 ||sexiranian.party^$dnstype=AAAA
 ||sexjk.com^$dnstype=AAAA
+||sexkomix2.com^$dnstype=AAAA
 ||sexkorea.net^$dnstype=AAAA
 ||sexlikereal.com^$dnstype=AAAA
 ||sexmadeathome.com^$dnstype=AAAA
@@ -15106,6 +15118,7 @@
 ||shinychan.com^$dnstype=AAAA
 ||shipcamouflage.com^$dnstype=AAAA
 ||shireyishunjian.com^$dnstype=AAAA
+||shiroutoav.net^$dnstype=AAAA
 ||shit-porn.net^$dnstype=AAAA
 ||shitaotv.org^$dnstype=AAAA
 ||shithd.com^$dnstype=AAAA
@@ -17223,6 +17236,7 @@
 ||uyghurtribunal.com^$dnstype=AAAA
 ||uygur.org^$dnstype=AAAA
 ||uymaarip.com^$dnstype=AAAA
+||v-av.com^$dnstype=AAAA
 ||v-has.com^$dnstype=AAAA
 ||v.gd^$dnstype=AAAA
 ||v2ex.co^$dnstype=AAAA
