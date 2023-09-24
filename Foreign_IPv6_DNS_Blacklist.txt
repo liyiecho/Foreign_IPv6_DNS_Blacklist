@@ -13733,6 +13733,7 @@
 ||pornpaw.com^$dnstype=AAAA
 ||pornper.com^$dnstype=AAAA
 ||pornpics.com^$dnstype=AAAA
+||pornpost.net^$dnstype=AAAA
 ||pornpros.com^$dnstype=AAAA
 ||pornprosnetwork.com^$dnstype=AAAA
 ||pornproxy.app^$dnstype=AAAA
