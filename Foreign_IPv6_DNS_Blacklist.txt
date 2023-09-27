@@ -12262,6 +12262,7 @@
 ||nikezoom.com^$dnstype=AAAA
 ||nikkan-gendai.com^$dnstype=AAAA
 ||nikkansports.com^$dnstype=AAAA
+||nikke-kr.com^$dnstype=AAAA
 ||nikkei.com^$dnstype=AAAA
 ||nikkei4946.com^$dnstype=AAAA
 ||nikonpc.com^$dnstype=AAAA
