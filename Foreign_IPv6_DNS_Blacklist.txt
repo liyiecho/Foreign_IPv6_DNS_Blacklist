@@ -3869,6 +3869,7 @@
 ||cloudcraze.com^$dnstype=AAAA
 ||cloudcredibility.com^$dnstype=AAAA
 ||cloudflare-dns.com^$dnstype=AAAA
+||cloudflare-ech.com^$dnstype=AAAA
 ||cloudflare-gateway.com^$dnstype=AAAA
 ||cloudflare-ipfs.com^$dnstype=AAAA
 ||cloudflare-quic.com^$dnstype=AAAA
@@ -4122,6 +4123,7 @@
 ||comscoreresearch.com^$dnstype=AAAA
 ||comsoc.org^$dnstype=AAAA
 ||conair.me^$dnstype=AAAA
+||conductrics.com^$dnstype=AAAA
 ||connect-in-canada.com^$dnstype=AAAA
 ||connectcommerce.cn^$dnstype=AAAA
 ||connectcommerce.info^$dnstype=AAAA
