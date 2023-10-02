@@ -7990,6 +7990,7 @@
 ||helpster.de^$dnstype=AAAA
 ||helpuyghursnow.org^$dnstype=AAAA
 ||helpzhuling.org^$dnstype=AAAA
+||henduohao.com^$dnstype=AAAA
 ||hentai-ani.me^$dnstype=AAAA
 ||hentai-archive.com^$dnstype=AAAA
 ||hentai-books.com^$dnstype=AAAA
@@ -8090,6 +8091,7 @@
 ||hentaisub.info^$dnstype=AAAA
 ||hentaitalk.com^$dnstype=AAAA
 ||hentaitk.com^$dnstype=AAAA
+||hentaitokyo.com^$dnstype=AAAA
 ||hentaitube.online^$dnstype=AAAA
 ||hentaitube.tv^$dnstype=AAAA
 ||hentaiverse.org^$dnstype=AAAA
@@ -9738,6 +9740,7 @@
 ||jjgirls.com^$dnstype=AAAA
 ||jkb.cc^$dnstype=AAAA
 ||jkbeats.com^$dnstype=AAAA
+||jkf.net^$dnstype=AAAA
 ||jkface.net^$dnstype=AAAA
 ||jkforum.net^$dnstype=AAAA
 ||jkub.com^$dnstype=AAAA
@@ -11719,6 +11722,7 @@
 ||myhpsupport.com^$dnstype=AAAA
 ||myhulu.com^$dnstype=AAAA
 ||myicloud.net^$dnstype=AAAA
+||myip.com^$dnstype=AAAA
 ||myiphide.com^$dnstype=AAAA
 ||myiphider.com^$dnstype=AAAA
 ||myipod.net^$dnstype=AAAA
@@ -12726,6 +12730,7 @@
 ||oopsforum.com^$dnstype=AAAA
 ||ooyala.com^$dnstype=AAAA
 ||op7979.com^$dnstype=AAAA
+||open-assistant.io^$dnstype=AAAA
 ||openai.com^$dnstype=AAAA
 ||openallweb.com^$dnstype=AAAA
 ||openamt.com^$dnstype=AAAA
@@ -16558,6 +16563,7 @@
 ||tokyocn.com^$dnstype=AAAA
 ||tokyomotion.com^$dnstype=AAAA
 ||tokyomotion.net^$dnstype=AAAA
+||tokyonightstyle.com^$dnstype=AAAA
 ||tokyoporns.com^$dnstype=AAAA
 ||tokyotosho.info^$dnstype=AAAA
 ||tomatespodres.com^$dnstype=AAAA
