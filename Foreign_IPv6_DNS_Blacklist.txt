@@ -12530,6 +12530,7 @@
 ||o365weve-ppe.com^$dnstype=AAAA
 ||o365weve.com^$dnstype=AAAA
 ||o3o.ca^$dnstype=AAAA
+||oaistatic.com^$dnstype=AAAA
 ||oanda.com^$dnstype=AAAA
 ||oanencore.com^$dnstype=AAAA
 ||oann.com^$dnstype=AAAA
