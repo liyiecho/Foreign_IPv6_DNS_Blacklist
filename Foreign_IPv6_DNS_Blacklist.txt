@@ -1618,6 +1618,7 @@
 ||auricularesbeatsmarkt.com^$dnstype=AAAA
 ||auroraoss.com^$dnstype=AAAA
 ||ausbeatsbydrdre.com^$dnstype=AAAA
+||auth0.com^$dnstype=AAAA
 ||authorizeddns.net^$dnstype=AAAA
 ||authorizeddns.org^$dnstype=AAAA
 ||authorizeddns.us^$dnstype=AAAA
@@ -1916,6 +1917,7 @@
 ||bartvpn.com^$dnstype=AAAA
 ||baselinestudy.com^$dnstype=AAAA
 ||baselinestudy.org^$dnstype=AAAA
+||basilisk-browser.org^$dnstype=AAAA
 ||bastillepost.com^$dnstype=AAAA
 ||bastropfirestone.com^$dnstype=AAAA
 ||baterias-hp.com^$dnstype=AAAA
@@ -4248,6 +4250,7 @@
 ||crmdynint-gcc.com^$dnstype=AAAA
 ||crmdynint.com^$dnstype=AAAA
 ||crocotube.com^$dnstype=AAAA
+||cromite.org^$dnstype=AAAA
 ||crossborderexpansion.com^$dnstype=AAAA
 ||crossfitfirestone.com^$dnstype=AAAA
 ||crossmediapanel.com^$dnstype=AAAA
@@ -4529,6 +4532,7 @@
 ||debian.org^$dnstype=AAAA
 ||debug.com^$dnstype=AAAA
 ||debugproject.com^$dnstype=AAAA
+||decentr.net^$dnstype=AAAA
 ||dechamora.com^$dnstype=AAAA
 ||deck.ly^$dnstype=AAAA
 ||decodet.co^$dnstype=AAAA
@@ -4960,6 +4964,7 @@
 ||dotfacebook.net^$dnstype=AAAA
 ||dotfreesex.com^$dnstype=AAAA
 ||dotherex.com^$dnstype=AAAA
+||dothq.org^$dnstype=AAAA
 ||dotplane.com^$dnstype=AAAA
 ||dotsub.com^$dnstype=AAAA
 ||dotvpn.com^$dnstype=AAAA
@@ -5822,6 +5827,8 @@
 ||ezpc.tk^$dnstype=AAAA
 ||ezpeer.com^$dnstype=AAAA
 ||ezua.com^$dnstype=AAAA
+||f-dro1d.org^$dnstype=AAAA
+||f-droid.com^$dnstype=AAAA
 ||f-droid.org^$dnstype=AAAA
 ||f6988.com^$dnstype=AAAA
 ||f8.com^$dnstype=AAAA
@@ -6296,6 +6303,7 @@
 ||fdc64.org^$dnstype=AAAA
 ||fdc89.jp^$dnstype=AAAA
 ||fdiintelligence.com^$dnstype=AAAA
+||fdroid.org^$dnstype=AAAA
 ||feacboo.com^$dnstype=AAAA
 ||feacbook.com^$dnstype=AAAA
 ||feacbooke.com^$dnstype=AAAA
@@ -6497,6 +6505,7 @@
 ||fljmh1.com^$dnstype=AAAA
 ||flnet.org^$dnstype=AAAA
 ||flog.tw^$dnstype=AAAA
+||floorp.app^$dnstype=AAAA
 ||floppy-tits.com^$dnstype=AAAA
 ||flow.dev^$dnstype=AAAA
 ||flow.org^$dnstype=AAAA
@@ -8162,6 +8171,7 @@
 ||hiccears.com^$dnstype=AAAA
 ||hidden-advent.org^$dnstype=AAAA
 ||hiddenvoyeurspy.com^$dnstype=AAAA
+||hiddify.com^$dnstype=AAAA
 ||hide.me^$dnstype=AAAA
 ||hidecloud.com^$dnstype=AAAA
 ||hidein.net^$dnstype=AAAA
@@ -9873,6 +9883,7 @@
 ||kaggle.com^$dnstype=AAAA
 ||kaggle.net^$dnstype=AAAA
 ||kaggleusercontent.com^$dnstype=AAAA
+||kagi.com^$dnstype=AAAA
 ||kagyu.org^$dnstype=AAAA
 ||kagyumonlam.org^$dnstype=AAAA
 ||kagyuoffice.org^$dnstype=AAAA
@@ -10001,6 +10012,7 @@
 ||kisscos.net^$dnstype=AAAA
 ||kissjav.com^$dnstype=AAAA
 ||kiwi.kz^$dnstype=AAAA
+||kiwibrowser.com^$dnstype=AAAA
 ||kjj05.cn^$dnstype=AAAA
 ||kk.stream^$dnstype=AAAA
 ||kkbox.com^$dnstype=AAAA
@@ -10013,6 +10025,7 @@
 ||klip.me^$dnstype=AAAA
 ||kmc-av.com^$dnstype=AAAA
 ||kmdhyy.com^$dnstype=AAAA
+||kmeleonbrowser.org^$dnstype=AAAA
 ||kmff17.com^$dnstype=AAAA
 ||knovel.com^$dnstype=AAAA
 ||knowledgerush.com^$dnstype=AAAA
@@ -10264,6 +10277,7 @@
 ||librarylovefest.com^$dnstype=AAAA
 ||libraryofthumbs.com^$dnstype=AAAA
 ||libredd.it^$dnstype=AAAA
+||librewolf.net^$dnstype=AAAA
 ||libsolutions.app^$dnstype=AAAA
 ||libsolutions.net^$dnstype=AAAA
 ||libsyn.com^$dnstype=AAAA
@@ -11098,6 +11112,7 @@
 ||mimiai.net^$dnstype=AAAA
 ||mimivip.com^$dnstype=AAAA
 ||mimivv.com^$dnstype=AAAA
+||minbrowser.org^$dnstype=AAAA
 ||mindgeek.com^$dnstype=AAAA
 ||mindmeld.com^$dnstype=AAAA
 ||mindnode.com^$dnstype=AAAA
@@ -11987,6 +12002,7 @@
 ||netsarang.com^$dnstype=AAAA
 ||netsneak.com^$dnstype=AAAA
 ||netsolssl.com^$dnstype=AAAA
+||netsurf-browser.org^$dnstype=AAAA
 ||nettyinternet.com^$dnstype=AAAA
 ||netvideogirls.com^$dnstype=AAAA
 ||netvigator.com^$dnstype=AAAA
@@ -12944,6 +12960,7 @@
 ||palacemoon.com^$dnstype=AAAA
 ||palcomix.com^$dnstype=AAAA
 ||paldengyal.com^$dnstype=AAAA
+||palemoon.org^$dnstype=AAAA
 ||palestineremix.com^$dnstype=AAAA
 ||pali.ltd^$dnstype=AAAA
 ||paljorpublications.com^$dnstype=AAAA
@@ -12997,6 +13014,7 @@
 ||pascherbeatsmonster.com^$dnstype=AAAA
 ||pashtovoa.com^$dnstype=AAAA
 ||pasionmujeres.com^$dnstype=AAAA
+||paskoocheh.com^$dnstype=AAAA
 ||passion-hd.com^$dnstype=AAAA
 ||passion.com^$dnstype=AAAA
 ||passiontimes.hk^$dnstype=AAAA
@@ -14030,6 +14048,7 @@
 ||pugpig.com^$dnstype=AAAA
 ||pullfolio.com^$dnstype=AAAA
 ||pullstring.net^$dnstype=AAAA
+||pulsebrowser.app^$dnstype=AAAA
 ||punishbang.com^$dnstype=AAAA
 ||punishworld.com^$dnstype=AAAA
 ||punyu.com^$dnstype=AAAA
@@ -14167,6 +14186,7 @@
 ||quran.com^$dnstype=AAAA
 ||quranexplorer.com^$dnstype=AAAA
 ||qusi8.net^$dnstype=AAAA
+||qutebrowser.org^$dnstype=AAAA
 ||qvodzy.org^$dnstype=AAAA
 ||qwant.com^$dnstype=AAAA
 ||qwapi.com^$dnstype=AAAA
