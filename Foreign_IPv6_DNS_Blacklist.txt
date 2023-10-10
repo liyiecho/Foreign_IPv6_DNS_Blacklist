@@ -15256,6 +15256,7 @@
 ||singfortibet.com^$dnstype=AAAA
 ||singlelogin.app^$dnstype=AAAA
 ||singlelogin.me^$dnstype=AAAA
+||singlelogin.site^$dnstype=AAAA
 ||singtao.ca^$dnstype=AAAA
 ||singtao.com^$dnstype=AAAA
 ||singtaobooks.com^$dnstype=AAAA
