@@ -12156,6 +12156,7 @@
 ||nike-us.com^$dnstype=AAAA
 ||nike-usa.com^$dnstype=AAAA
 ||nike.cn^$dnstype=AAAA
+||nike.host^$dnstype=AAAA
 ||nike.shop^$dnstype=AAAA
 ||nike0594.com^$dnstype=AAAA
 ||nike23.com^$dnstype=AAAA
