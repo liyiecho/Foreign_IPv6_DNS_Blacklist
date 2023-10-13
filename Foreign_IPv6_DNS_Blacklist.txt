@@ -7341,6 +7341,7 @@
 ||githubapp.com^$dnstype=AAAA
 ||githubassets.com^$dnstype=AAAA
 ||githubhackathon.com^$dnstype=AAAA
+||githubnext.com^$dnstype=AAAA
 ||githubpreview.dev^$dnstype=AAAA
 ||githubstatus.com^$dnstype=AAAA
 ||githubuniverse.com^$dnstype=AAAA
