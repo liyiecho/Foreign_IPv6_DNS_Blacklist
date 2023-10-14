@@ -8,7 +8,7 @@ wget -q --no-check-certificate -O "${raw_file_name}.new" ${raw_url}
 if [[ $? -eq 0 ]]; then
     mv "${raw_file_name}.new" "${raw_file_name}"
     echo -e "下载 ${raw_file_name} 成功...\n"
-    sed -i '1d ; s#\[##g ; s#]https://doh.opendns.com:443/dns-query##g ; s#\/#\n#g' "${raw_file_name}"
+    sed -i '1d ; s#\[##g ; s#]https://dns.opendns.com:443/dns-query##g ; s#\/#\n#g' "${raw_file_name}"
     sed -i '/^[  ]*$/d ; s#^#||&#g ; s#$#&^$dnstype=AAAA#g' "${raw_file_name}"
     mv "${raw_file_name}" Foreign_IPv6_DNS_Blacklist.txt
     echo -e "替换格式成功...\n"
