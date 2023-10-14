@@ -19194,6 +19194,3 @@
 ||zzitube.com^$dnstype=AAAA
 ||zzux.com^$dnstype=AAAA
 ||zzycdz.com^$dnstype=AAAA
-||]https:^$dnstype=AAAA
-||dns.opendns.com:443^$dnstype=AAAA
-||dns-query^$dnstype=AAAA
