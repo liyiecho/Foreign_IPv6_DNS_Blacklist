@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -e "--------------------------------------------------------------\n"
-raw_url="https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2adguardhome/blacklist_lite.txt"
+raw_url="https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2adguardhome/blacklist_full.txt"
 raw_file_name=$(echo ${raw_url} | awk -F "/" '{print $NF}')
 echo -e "开始下载：${raw_url} \n\n保存路径：${raw_file_name}\n"
 wget -q --no-check-certificate -O "${raw_file_name}.new" ${raw_url}
