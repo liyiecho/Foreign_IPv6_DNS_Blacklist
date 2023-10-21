@@ -16155,6 +16155,7 @@
 ||sex3.com^$dnstype=AAAA
 ||sex3.mobi^$dnstype=AAAA
 ||sex4arabxxx.com^$dnstype=AAAA
+||sex588.net^$dnstype=AAAA
 ||sex8.cc^$dnstype=AAAA
 ||sexalarab.com^$dnstype=AAAA
 ||sexandsplash.com^$dnstype=AAAA
