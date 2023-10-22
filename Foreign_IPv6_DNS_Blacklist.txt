@@ -436,6 +436,7 @@
 ||92ccav.com^$dnstype=AAAA
 ||941tube.com^$dnstype=AAAA
 ||9550.fun^$dnstype=AAAA
+||978.life^$dnstype=AAAA
 ||97dounai.top^$dnstype=AAAA
 ||991.com^$dnstype=AAAA
 ||99btgc01.com^$dnstype=AAAA
@@ -1185,6 +1186,7 @@
 ||andysparis.com^$dnstype=AAAA
 ||anfutong.cn^$dnstype=AAAA
 ||anfutong.com^$dnstype=AAAA
+||angel-gto.com^$dnstype=AAAA
 ||angela-merkel.de^$dnstype=AAAA
 ||angelfire.com^$dnstype=AAAA
 ||angle.com.tw^$dnstype=AAAA
@@ -2555,6 +2557,7 @@
 ||bestvpnservice.com^$dnstype=AAAA
 ||bestvpnusa.com^$dnstype=AAAA
 ||bestxxxsites.com^$dnstype=AAAA
+||besuty99.com^$dnstype=AAAA
 ||besztbuy.com^$dnstype=AAAA
 ||bet365.com^$dnstype=AAAA
 ||betfair.com^$dnstype=AAAA
@@ -7869,6 +7872,7 @@
 ||ggdiao.com^$dnstype=AAAA
 ||ggjav.com^$dnstype=AAAA
 ||ggoogle.com^$dnstype=AAAA
+||ggpds.com^$dnstype=AAAA
 ||ggpht.cn^$dnstype=AAAA
 ||ggpht.com^$dnstype=AAAA
 ||ggsrv.com^$dnstype=AAAA
@@ -9086,6 +9090,7 @@
 ||home-made-porn-movies.com^$dnstype=AAAA
 ||home-made-videos.com^$dnstype=AAAA
 ||home-sex-tapes.com^$dnstype=AAAA
+||home-song.com^$dnstype=AAAA
 ||home.sina.com^$dnstype=AAAA
 ||home.so-net.net.tw^$dnstype=AAAA
 ||homealonemilfs.com^$dnstype=AAAA
@@ -10877,6 +10882,7 @@
 ||kkbox.com.tw^$dnstype=AAAA
 ||kkfcc03.com^$dnstype=AAAA
 ||kkff2484.live^$dnstype=AAAA
+||kkiah.com^$dnstype=AAAA
 ||kknews.cc^$dnstype=AAAA
 ||kktix.com^$dnstype=AAAA
 ||kktv.com.tw^$dnstype=AAAA
@@ -11671,6 +11677,7 @@
 ||mashable.com^$dnstype=AAAA
 ||maskedip.com^$dnstype=AAAA
 ||maskedsingerfox.com^$dnstype=AAAA
+||massage-in-taipei.com^$dnstype=AAAA
 ||massagerepublic.com^$dnstype=AAAA
 ||masseffect.com^$dnstype=AAAA
 ||masseffectarchives.com^$dnstype=AAAA
@@ -16256,6 +16263,7 @@
 ||sextubexxl.com^$dnstype=AAAA
 ||sextubish.com^$dnstype=AAAA
 ||sextvx.com^$dnstype=AAAA
+||sextw.net^$dnstype=AAAA
 ||sexu.com^$dnstype=AAAA
 ||sexualhentai.net^$dnstype=AAAA
 ||sexuria.com^$dnstype=AAAA
@@ -16393,6 +16401,7 @@
 ||shemaletube.pro^$dnstype=AAAA
 ||shemaletubevideos.com^$dnstype=AAAA
 ||shemalez.com^$dnstype=AAAA
+||shenshi-cha.com^$dnstype=AAAA
 ||shenshou.org^$dnstype=AAAA
 ||shenyun.com^$dnstype=AAAA
 ||shenyun.org^$dnstype=AAAA
@@ -17954,6 +17963,7 @@
 ||tmblr.co^$dnstype=AAAA
 ||tmdb.org^$dnstype=AAAA
 ||tmdfish.com^$dnstype=AAAA
+||tmei-taoyuan.com^$dnstype=AAAA
 ||tmi.me^$dnstype=AAAA
 ||tmpp.org^$dnstype=AAAA
 ||tn1.shemalez.com^$dnstype=AAAA
@@ -18334,6 +18344,7 @@
 ||tw.voa.mobi^$dnstype=AAAA
 ||tw.yahoo.com^$dnstype=AAAA
 ||tw01.org^$dnstype=AAAA
+||tw985.com^$dnstype=AAAA
 ||twaitter.com^$dnstype=AAAA
 ||twapperkeeper.com^$dnstype=AAAA
 ||twaud.io^$dnstype=AAAA
@@ -18442,6 +18453,7 @@
 ||twitzap.com^$dnstype=AAAA
 ||twiyia.com^$dnstype=AAAA
 ||twlegs.com^$dnstype=AAAA
+||twline5.com^$dnstype=AAAA
 ||twnextdigital.com^$dnstype=AAAA
 ||twnorth.org.tw^$dnstype=AAAA
 ||twoo.com^$dnstype=AAAA
@@ -19291,6 +19303,7 @@
 ||waikeung.org^$dnstype=AAAA
 ||wailaike.net^$dnstype=AAAA
 ||wainao.me^$dnstype=AAAA
+||waisongcha.com^$dnstype=AAAA
 ||waittingfor001.weebly.com^$dnstype=AAAA
 ||waiwaier.com^$dnstype=AAAA
 ||wal-mart.com^$dnstype=AAAA
@@ -19324,6 +19337,7 @@
 ||wanokokorosoh.com^$dnstype=AAAA
 ||want-daily.com^$dnstype=AAAA
 ||want-media.com^$dnstype=AAAA
+||want520.com^$dnstype=AAAA
 ||wantblogger.com^$dnstype=AAAA
 ||wantmywife.com^$dnstype=AAAA
 ||wanz-factory.com^$dnstype=AAAA
