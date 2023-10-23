@@ -363,7 +363,6 @@
 ||6sextube.com^$dnstype=AAAA
 ||6twseb.com^$dnstype=AAAA
 ||6xxxvideos.com^$dnstype=AAAA
-||7-zip.org^$dnstype=AAAA
 ||721av.com^$dnstype=AAAA
 ||748av.com^$dnstype=AAAA
 ||75m.co^$dnstype=AAAA
