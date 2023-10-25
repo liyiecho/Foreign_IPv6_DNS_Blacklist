@@ -13495,6 +13495,7 @@
 ||nudewifeporn.com^$dnstype=AAAA
 ||nudewomenpics.net^$dnstype=AAAA
 ||nudezz.com^$dnstype=AAAA
+||nudify.online^$dnstype=AAAA
 ||nudistbeachporn.com^$dnstype=AAAA
 ||nudistic.com^$dnstype=AAAA
 ||nudistlog.com^$dnstype=AAAA
