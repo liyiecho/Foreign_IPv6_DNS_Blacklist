@@ -6292,6 +6292,7 @@
 ||eventsinfocus.org^$dnstype=AAAA
 ||evergage.com^$dnstype=AAAA
 ||everia.club^$dnstype=AAAA
+||everipedia.org^$dnstype=AAAA
 ||evernote.com^$dnstype=AAAA
 ||every1dns.net^$dnstype=AAAA
 ||everydayporn.co^$dnstype=AAAA
