@@ -11986,6 +11986,7 @@
 ||microsoftsilverlight.org^$dnstype=AAAA
 ||microsoftsiteselection.com^$dnstype=AAAA
 ||microsoftsqlserver.com^$dnstype=AAAA
+||microsoftstart.com^$dnstype=AAAA
 ||microsoftstore.com^$dnstype=AAAA
 ||microsoftstream.com^$dnstype=AAAA
 ||microsoftteams.com^$dnstype=AAAA
@@ -14398,6 +14399,8 @@
 ||piaotian.net^$dnstype=AAAA
 ||piapro.net^$dnstype=AAAA
 ||picacg2022.com^$dnstype=AAAA
+||picacgp.com^$dnstype=AAAA
+||picacgy.com^$dnstype=AAAA
 ||picacn.xyz^$dnstype=AAAA
 ||picacomic.com^$dnstype=AAAA
 ||picacomic.xyz^$dnstype=AAAA
@@ -17017,6 +17020,7 @@
 ||starp2p.com^$dnstype=AAAA
 ||starplus.com^$dnstype=AAAA
 ||starsze.icu^$dnstype=AAAA
+||start.com^$dnstype=AAAA
 ||startpage.com^$dnstype=AAAA
 ||startpath.com^$dnstype=AAAA
 ||startupjournal.com^$dnstype=AAAA
@@ -18302,6 +18306,7 @@
 ||turbohide.com^$dnstype=AAAA
 ||turborepo.org^$dnstype=AAAA
 ||turbotwitter.com^$dnstype=AAAA
+||turkeyblocks.org^$dnstype=AAAA
 ||turkistantimes.com^$dnstype=AAAA
 ||turntable.fm^$dnstype=AAAA
 ||tushy.com^$dnstype=AAAA
@@ -20059,6 +20064,7 @@
 ||xcum.com^$dnstype=AAAA
 ||xda-cdn.com^$dnstype=AAAA
 ||xda-developers.com^$dnstype=AAAA
+||xdaforums.com^$dnstype=AAAA
 ||xdir.vip^$dnstype=AAAA
 ||xdporner.com^$dnstype=AAAA
 ||xdsummit.com^$dnstype=AAAA
