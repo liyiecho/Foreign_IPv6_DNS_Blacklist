@@ -3859,6 +3859,7 @@
 ||charticulator.com^$dnstype=AAAA
 ||chat.openai.com.cdn.cloudflare.net^$dnstype=AAAA
 ||chatango.com^$dnstype=AAAA
+||chatgpt.com^$dnstype=AAAA
 ||chatnook.com^$dnstype=AAAA
 ||chatter.com^$dnstype=AAAA
 ||chaturbate.com^$dnstype=AAAA
