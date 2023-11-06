@@ -70,6 +70,9 @@
 ||18avx.com^$dnstype=AAAA
 ||18board.com^$dnstype=AAAA
 ||18board.info^$dnstype=AAAA
+||18comic-god.cc^$dnstype=AAAA
+||18comic-god.club^$dnstype=AAAA
+||18comic-god.xyz^$dnstype=AAAA
 ||18comic.cc^$dnstype=AAAA
 ||18comic.company^$dnstype=AAAA
 ||18comic.org^$dnstype=AAAA
@@ -462,6 +465,7 @@
 ||9zipai.net^$dnstype=AAAA
 ||a-normal-day.com^$dnstype=AAAA
 ||a-teenz.com^$dnstype=AAAA
+||a.ppy.sh^$dnstype=AAAA
 ||a.se^$dnstype=AAAA
 ||a0pple.net^$dnstype=AAAA
 ||a1av.xyz^$dnstype=AAAA
@@ -599,8 +603,12 @@
 ||adgoogle.net^$dnstype=AAAA
 ||adguard-dns.com^$dnstype=AAAA
 ||adguard-vpn.com^$dnstype=AAAA
+||adguard-vpn.online^$dnstype=AAAA
+||adguard.app^$dnstype=AAAA
 ||adguard.com^$dnstype=AAAA
+||adguard.info^$dnstype=AAAA
 ||adguard.org^$dnstype=AAAA
+||adguardvpn.com^$dnstype=AAAA
 ||adhelpnews.com^$dnstype=AAAA
 ||adidas.com^$dnstype=AAAA
 ||admeld.com^$dnstype=AAAA
@@ -661,6 +669,7 @@
 ||adsense.com^$dnstype=AAAA
 ||adsensecustomsearchads.com^$dnstype=AAAA
 ||adsenseformobileapps.com^$dnstype=AAAA
+||adtidy.net^$dnstype=AAAA
 ||adtidy.org^$dnstype=AAAA
 ||adult-h.com^$dnstype=AAAA
 ||adult-home-videos.com^$dnstype=AAAA
@@ -1666,6 +1675,7 @@
 ||assets.bwbx.io^$dnstype=AAAA
 ||assets.fanart.tv^$dnstype=AAAA
 ||assets.fastgit.org^$dnstype=AAAA
+||assets.ppy.sh^$dnstype=AAAA
 ||assets1.xboxlive.com^$dnstype=AAAA
 ||assets2.xboxlive.com^$dnstype=AAAA
 ||assetsadobe.com^$dnstype=AAAA
@@ -3508,6 +3518,7 @@
 ||c-span.org^$dnstype=AAAA
 ||c-spanvideo.org^$dnstype=AAAA
 ||c.mi.com^$dnstype=AAAA
+||c.ppy.sh^$dnstype=AAAA
 ||c0930.com^$dnstype=AAAA
 ||c100tibet.org^$dnstype=AAAA
 ||c2cx.com^$dnstype=AAAA
@@ -10129,6 +10140,7 @@
 ||ipfs.fleek.co^$dnstype=AAAA
 ||ipfs.io^$dnstype=AAAA
 ||ipfs.runfission.com^$dnstype=AAAA
+||ipfs.tech^$dnstype=AAAA
 ||iphine.com^$dnstype=AAAA
 ||iphone-cd.com^$dnstype=AAAA
 ||iphone-cn.com^$dnstype=AAAA
@@ -10602,6 +10614,7 @@
 ||jkub.com^$dnstype=AAAA
 ||jm98.cc^$dnstype=AAAA
 ||jma.go.jp^$dnstype=AAAA
+||jmcomic.ltd^$dnstype=AAAA
 ||jmcomic.me^$dnstype=AAAA
 ||jmcomic.mobi^$dnstype=AAAA
 ||jmcomic.moe^$dnstype=AAAA
@@ -11036,6 +11049,7 @@
 ||lavteam.org^$dnstype=AAAA
 ||law.com^$dnstype=AAAA
 ||laxd.com^$dnstype=AAAA
+||lazer.ppy.sh^$dnstype=AAAA
 ||lazymike.com^$dnstype=AAAA
 ||lbank.info^$dnstype=AAAA
 ||lbfmaddiction.com^$dnstype=AAAA
@@ -11476,6 +11490,7 @@
 ||m.me^$dnstype=AAAA
 ||m.plixi.com^$dnstype=AAAA
 ||m.slandr.net^$dnstype=AAAA
+||m1.ppy.sh^$dnstype=AAAA
 ||m2m.com^$dnstype=AAAA
 ||m5ir5np1.shop^$dnstype=AAAA
 ||m8008.com^$dnstype=AAAA
@@ -12444,6 +12459,7 @@
 ||moxing.mobi^$dnstype=AAAA
 ||moxing.news^$dnstype=AAAA
 ||moystoys.com^$dnstype=AAAA
+||mozgcp.net^$dnstype=AAAA
 ||mozilla.com^$dnstype=AAAA
 ||mozilla.community^$dnstype=AAAA
 ||mozilla.net^$dnstype=AAAA
@@ -13384,6 +13400,7 @@
 ||norsk.mobi^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||notify.dropboxapi.com^$dnstype=AAAA
+||notify.ppy.sh^$dnstype=AAAA
 ||notion-static.com^$dnstype=AAAA
 ||notion.com^$dnstype=AAAA
 ||notion.new^$dnstype=AAAA
@@ -13926,6 +13943,7 @@
 ||oss-me-east-1.aliyuncs.com^$dnstype=AAAA
 ||oss-us-east-1.aliyuncs.com^$dnstype=AAAA
 ||oss-us-west-1.aliyuncs.com^$dnstype=AAAA
+||osu.ppy.sh^$dnstype=AAAA
 ||osxdaily.com^$dnstype=AAAA
 ||otaku-168.com^$dnstype=AAAA
 ||otaku18a.info^$dnstype=AAAA
@@ -14989,6 +15007,7 @@
 ||pplusstatic.com^$dnstype=AAAA
 ||ppp91.cc^$dnstype=AAAA
 ||pppds.com^$dnstype=AAAA
+||ppy.sh^$dnstype=AAAA
 ||practicalbusinessskills.com^$dnstype=AAAA
 ||practicalmoneyskills.cn^$dnstype=AAAA
 ||practivate.adobe^$dnstype=AAAA
@@ -16115,6 +16134,7 @@
 ||sensualgirls.org^$dnstype=AAAA
 ||sensualmothers.com^$dnstype=AAAA
 ||sensueel.net^$dnstype=AAAA
+||sentry.ppy.sh^$dnstype=AAAA
 ||senzuritv.net^$dnstype=AAAA
 ||seqing.one^$dnstype=AAAA
 ||seqingwangzhan.pro^$dnstype=AAAA
@@ -16856,6 +16876,7 @@
 ||spb.com^$dnstype=AAAA
 ||speakerdeck.com^$dnstype=AAAA
 ||specialtyheadphones.com^$dnstype=AAAA
+||spectator.ppy.sh^$dnstype=AAAA
 ||spectraltube.com^$dnstype=AAAA
 ||specxinzl.jigsy.com^$dnstype=AAAA
 ||speeddreamride.com^$dnstype=AAAA
