@@ -3767,6 +3767,7 @@
 ||cdn-apple.com^$dnstype=AAAA
 ||cdn-images.mailchimp.com^$dnstype=AAAA
 ||cdn-spotify-experiments.conductrics.com^$dnstype=AAAA
+||cdn-telegram.org^$dnstype=AAAA
 ||cdn-terapeak.com^$dnstype=AAAA
 ||cdn.assets.lfpcontent.com^$dnstype=AAAA
 ||cdn.helixstudios.net^$dnstype=AAAA
@@ -6925,6 +6926,7 @@
 ||fffucked.com^$dnstype=AAAA
 ||fflick.com^$dnstype=AAAA
 ||fflnk.net^$dnstype=AAAA
+||fflogs.com^$dnstype=AAAA
 ||ffmpeg.org^$dnstype=AAAA
 ||ffotolia.com^$dnstype=AAAA
 ||ffprofile.com^$dnstype=AAAA
