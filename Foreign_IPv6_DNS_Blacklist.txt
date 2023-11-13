@@ -4317,7 +4317,6 @@
 ||cnbbnews.wordpress.com^$dnstype=AAAA
 ||cnbc.com^$dnstype=AAAA
 ||cnbcfm.com^$dnstype=AAAA
-||cnbeta.com.tw^$dnstype=AAAA
 ||cncrivals.com^$dnstype=AAAA
 ||cnd.org^$dnstype=AAAA
 ||cnet.com^$dnstype=AAAA
