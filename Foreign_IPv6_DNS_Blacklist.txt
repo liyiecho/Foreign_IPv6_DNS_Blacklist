@@ -6718,7 +6718,9 @@
 ||fanqiangyakexi.net^$dnstype=AAAA
 ||fanqiangzhe.com^$dnstype=AAAA
 ||fans-here.com^$dnstype=AAAA
+||fans17.com^$dnstype=AAAA
 ||fansnudes.com^$dnstype=AAAA
+||fansone.co^$dnstype=AAAA
 ||fansta.me^$dnstype=AAAA
 ||fansteek.com^$dnstype=AAAA
 ||fanswong.com^$dnstype=AAAA
