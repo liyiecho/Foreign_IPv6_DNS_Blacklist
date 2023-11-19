@@ -4899,6 +4899,7 @@
 ||darwinsource.com^$dnstype=AAAA
 ||darwinsource.org^$dnstype=AAAA
 ||darwinsourcecode.com^$dnstype=AAAA
+||dasaob.online^$dnstype=AAAA
 ||dash.cloudflare.com^$dnstype=AAAA
 ||dashwood360.com^$dnstype=AAAA
 ||dastanhisexy.cc^$dnstype=AAAA
@@ -10941,6 +10942,7 @@
 ||koskade.com^$dnstype=AAAA
 ||kostenlosepornoclips.com^$dnstype=AAAA
 ||kotlinlang.org^$dnstype=AAAA
+||kouwobb.com^$dnstype=AAAA
 ||kphimsex.net^$dnstype=AAAA
 ||kqes.net^$dnstype=AAAA
 ||kraken.com^$dnstype=AAAA
@@ -15879,6 +15881,7 @@
 ||sanspo.com^$dnstype=AAAA
 ||sanvaras.com^$dnstype=AAAA
 ||sanwapub.com^$dnstype=AAAA
+||saobjpg.com^$dnstype=AAAA
 ||saoni91.xyz^$dnstype=AAAA
 ||saonidh01.cc^$dnstype=AAAA
 ||sapikachu.net^$dnstype=AAAA
