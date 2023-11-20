@@ -4230,6 +4230,7 @@
 ||cloudcredibility.com^$dnstype=AAAA
 ||cloudflare-dns.com^$dnstype=AAAA
 ||cloudflare-ech.com^$dnstype=AAAA
+||cloudflare-esni.com^$dnstype=AAAA
 ||cloudflare-gateway.com^$dnstype=AAAA
 ||cloudflare-ipfs.com^$dnstype=AAAA
 ||cloudflare-quic.com^$dnstype=AAAA
@@ -10232,6 +10233,7 @@
 ||is.gd^$dnstype=AAAA
 ||isaacmao.com^$dnstype=AAAA
 ||isasecret.com^$dnstype=AAAA
+||isbgpsafeyet.com^$dnstype=AAAA
 ||isc.sans.edu^$dnstype=AAAA
 ||isca-speech.org^$dnstype=AAAA
 ||ischool.com^$dnstype=AAAA
@@ -12746,6 +12748,7 @@
 ||mymusic.net.tw^$dnstype=AAAA
 ||mynetav.net^$dnstype=AAAA
 ||mynetav.org^$dnstype=AAAA
+||mynetname.net^$dnstype=AAAA
 ||mynike.com^$dnstype=AAAA
 ||mynumber.org^$dnstype=AAAA
 ||myoctocat.com^$dnstype=AAAA
