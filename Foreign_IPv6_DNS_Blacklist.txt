@@ -11037,6 +11037,7 @@
 ||larsgeorge.com^$dnstype=AAAA
 ||lastcombat.com^$dnstype=AAAA
 ||lastfm.es^$dnstype=AAAA
+||lastfm.freetls.fastly.net^$dnstype=AAAA
 ||lasvegasbmw.com^$dnstype=AAAA
 ||latampartneruniversity.com^$dnstype=AAAA
 ||latamvmwareforum.com^$dnstype=AAAA
