@@ -4556,6 +4556,7 @@
 ||coova.com^$dnstype=AAAA
 ||coova.net^$dnstype=AAAA
 ||coova.org^$dnstype=AAAA
+||copilot.microsoft.com^$dnstype=AAAA
 ||copro.pw^$dnstype=AAAA
 ||coqnu.com^$dnstype=AAAA
 ||corbinfisher.com^$dnstype=AAAA
@@ -12773,7 +12774,6 @@
 ||mypornvid.fun^$dnstype=AAAA
 ||mypornwap.fun^$dnstype=AAAA
 ||myq2.com^$dnstype=AAAA
-||myqnapcloud.cn^$dnstype=AAAA
 ||myqnapcloud.com^$dnstype=AAAA
 ||myradio.hk^$dnstype=AAAA
 ||myreadingmanga.info^$dnstype=AAAA
