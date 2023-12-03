@@ -587,6 +587,7 @@
 ||activpn.com^$dnstype=AAAA
 ||aculo.us^$dnstype=AAAA
 ||ad69.com^$dnstype=AAAA
+||ada.support^$dnstype=AAAA
 ||adanaatikhaber.com^$dnstype=AAAA
 ||adbecrsl.com^$dnstype=AAAA
 ||adbkm.com^$dnstype=AAAA
@@ -2013,6 +2014,7 @@
 ||backroomcastingcouch.com^$dnstype=AAAA
 ||backtotiananmen.com^$dnstype=AAAA
 ||bacon.com^$dnstype=AAAA
+||bad.news^$dnstype=AAAA
 ||badaas.com^$dnstype=AAAA
 ||badasianpussy.com^$dnstype=AAAA
 ||badgen.net^$dnstype=AAAA
@@ -3502,8 +3504,13 @@
 ||bwsj.hk^$dnstype=AAAA
 ||bx.in.th^$dnstype=AAAA
 ||bx.tl^$dnstype=AAAA
+||byapis.com^$dnstype=AAAA
 ||bybeatsdre.com^$dnstype=AAAA
+||bybit-exchange.github.io^$dnstype=AAAA
+||bybit.ada.support^$dnstype=AAAA
 ||bybit.com^$dnstype=AAAA
+||bycbe.com^$dnstype=AAAA
+||bycsi.com^$dnstype=AAAA
 ||bydrebeats.com^$dnstype=AAAA
 ||byjav.me^$dnstype=AAAA
 ||byjhd.com^$dnstype=AAAA
@@ -3512,6 +3519,7 @@
 ||byrut.org^$dnstype=AAAA
 ||byspotify.com^$dnstype=AAAA
 ||byteoversea.com^$dnstype=AAAA
+||bytick.com^$dnstype=AAAA
 ||bzazi.com^$dnstype=AAAA
 ||c-est-simple.com^$dnstype=AAAA
 ||c-ij.com^$dnstype=AAAA
@@ -5019,6 +5027,8 @@
 ||deps.dev^$dnstype=AAAA
 ||deps.info^$dnstype=AAAA
 ||derekhsu.homeip.net^$dnstype=AAAA
+||deribit.cdn.prismic.io^$dnstype=AAAA
+||deribit.com^$dnstype=AAAA
 ||derpibooru.org^$dnstype=AAAA
 ||desc.se^$dnstype=AAAA
 ||descargasgay.com^$dnstype=AAAA
@@ -7699,6 +7709,10 @@
 ||gate.cc^$dnstype=AAAA
 ||gate.io^$dnstype=AAAA
 ||gatecoin.com^$dnstype=AAAA
+||gatedata.org^$dnstype=AAAA
+||gateimg.com^$dnstype=AAAA
+||gateio.live^$dnstype=AAAA
+||gateio.services^$dnstype=AAAA
 ||gateway.dev^$dnstype=AAAA
 ||gateway.pinata.cloud^$dnstype=AAAA
 ||gather.com^$dnstype=AAAA
@@ -15081,6 +15095,7 @@
 ||printspots.com^$dnstype=AAAA
 ||printspots.net^$dnstype=AAAA
 ||prism-break.org^$dnstype=AAAA
+||prismic.io^$dnstype=AAAA
 ||prisoneralert.com^$dnstype=AAAA
 ||pritunl.com^$dnstype=AAAA
 ||privacybox.de^$dnstype=AAAA
