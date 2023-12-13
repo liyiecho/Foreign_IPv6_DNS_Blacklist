@@ -151,6 +151,7 @@
 ||21naturals.com^$dnstype=AAAA
 ||21pron.com^$dnstype=AAAA
 ||21sextury.com^$dnstype=AAAA
+||21vv.cc^$dnstype=AAAA
 ||228.net.tw^$dnstype=AAAA
 ||233abc.com^$dnstype=AAAA
 ||233v2.com^$dnstype=AAAA
@@ -306,6 +307,7 @@
 ||54647.online^$dnstype=AAAA
 ||54647.org^$dnstype=AAAA
 ||55dndn.com^$dnstype=AAAA
+||567321.online^$dnstype=AAAA
 ||568xe.com^$dnstype=AAAA
 ||56cun04.jigsy.com^$dnstype=AAAA
 ||58avgo.com^$dnstype=AAAA
@@ -421,7 +423,10 @@
 ||91porn.best^$dnstype=AAAA
 ||91porn.com^$dnstype=AAAA
 ||91porn.party^$dnstype=AAAA
+||91porn.plus^$dnstype=AAAA
+||91porn.store^$dnstype=AAAA
 ||91porn.work^$dnstype=AAAA
+||91pornplus.com^$dnstype=AAAA
 ||91porny.com^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
 ||91quanji.com^$dnstype=AAAA
@@ -436,6 +441,8 @@
 ||922tp.com^$dnstype=AAAA
 ||928.plus^$dnstype=AAAA
 ||92ccav.com^$dnstype=AAAA
+||92hm.life^$dnstype=AAAA
+||92hm.top^$dnstype=AAAA
 ||941tube.com^$dnstype=AAAA
 ||9550.fun^$dnstype=AAAA
 ||978.life^$dnstype=AAAA
@@ -487,6 +494,7 @@
 ||aalah.me^$dnstype=AAAA
 ||aamacau.com^$dnstype=AAAA
 ||aanaan.com^$dnstype=AAAA
+||aave.com^$dnstype=AAAA
 ||aavs.xyz^$dnstype=AAAA
 ||abbywintersfree.com^$dnstype=AAAA
 ||abc-studios.com^$dnstype=AAAA
@@ -4198,6 +4206,7 @@
 ||clearasil.cn^$dnstype=AAAA
 ||clearharmony.net^$dnstype=AAAA
 ||clearlinux.org^$dnstype=AAAA
+||clearpool.finance^$dnstype=AAAA
 ||clearsurance.com^$dnstype=AAAA
 ||clearwisdom.net^$dnstype=AAAA
 ||clementine-player.org^$dnstype=AAAA
@@ -4396,14 +4405,17 @@
 ||codivorexxx.com^$dnstype=AAAA
 ||coedcherry.com^$dnstype=AAAA
 ||coin2co.in^$dnstype=AAAA
+||coinalyze.net^$dnstype=AAAA
 ||coinbase.com^$dnstype=AAAA
 ||coinbene.com^$dnstype=AAAA
 ||coincheck.com^$dnstype=AAAA
+||coindesk.com^$dnstype=AAAA
 ||coinegg.com^$dnstype=AAAA
 ||coinex.com^$dnstype=AAAA
 ||coingecko.com^$dnstype=AAAA
 ||coingi.com^$dnstype=AAAA
 ||coinglass.com^$dnstype=AAAA
+||coinmap.org^$dnstype=AAAA
 ||coinmarketcap.com^$dnstype=AAAA
 ||coinone.co.kr^$dnstype=AAAA
 ||coinonecore.com^$dnstype=AAAA
@@ -4741,6 +4753,7 @@
 ||cumshotlist.com^$dnstype=AAAA
 ||cumswappingsis.com^$dnstype=AAAA
 ||cumteenporn.com^$dnstype=AAAA
+||cunhua.pics^$dnstype=AAAA
 ||cuntcrack.com^$dnstype=AAAA
 ||cuntempire.com^$dnstype=AAAA
 ||cuntwars.com^$dnstype=AAAA
@@ -4779,6 +4792,7 @@
 ||cyberghost.natado.com^$dnstype=AAAA
 ||cyberghostvpn.com^$dnstype=AAAA
 ||cybermondaybeats4sale.com^$dnstype=AAAA
+||cyberx.com^$dnstype=AAAA
 ||cygames.jp^$dnstype=AAAA
 ||cygwin.com^$dnstype=AAAA
 ||cylink.pro^$dnstype=AAAA
@@ -5675,6 +5689,7 @@
 ||dx9527.cc^$dnstype=AAAA
 ||dxiong.com^$dnstype=AAAA
 ||dxyav.co^$dnstype=AAAA
+||dydx.exchange^$dnstype=AAAA
 ||dykycl.com^$dnstype=AAAA
 ||dynacw.com^$dnstype=AAAA
 ||dynafleetonline.com^$dnstype=AAAA
@@ -7582,6 +7597,7 @@
 ||fundaiphone5s.com^$dnstype=AAAA
 ||fundfire.com^$dnstype=AAAA
 ||fundinginstitutional.com^$dnstype=AAAA
+||fundingrates.xyz^$dnstype=AAAA
 ||fundpaypal.com^$dnstype=AAAA
 ||fundraisingwithfacebook.com^$dnstype=AAAA
 ||funf.tw^$dnstype=AAAA
@@ -8600,6 +8616,7 @@
 ||haha888.xyz^$dnstype=AAAA
 ||hahlo.com^$dnstype=AAAA
 ||haho.moe^$dnstype=AAAA
+||haijiao.com^$dnstype=AAAA
 ||hairy-amateurs.com^$dnstype=AAAA
 ||hairy-beauty.com^$dnstype=AAAA
 ||hairy-women-pussy.net^$dnstype=AAAA
@@ -8650,6 +8667,7 @@
 ||harpercollinschristian.com^$dnstype=AAAA
 ||harpercollinsspeakersbureau.com^$dnstype=AAAA
 ||harunyahya.com^$dnstype=AAAA
+||hashflow.com^$dnstype=AAAA
 ||hashicorp.com^$dnstype=AAAA
 ||hasi.wang^$dnstype=AAAA
 ||haskell.org^$dnstype=AAAA
@@ -9003,6 +9021,8 @@
 ||hizb-ut-tahrir.info^$dnstype=AAAA
 ||hizb-ut-tahrir.org^$dnstype=AAAA
 ||hizbuttahrir.org^$dnstype=AAAA
+||hjb246.top^$dnstype=AAAA
+||hjb7e9.top^$dnstype=AAAA
 ||hjclub.info^$dnstype=AAAA
 ||hjd.tw^$dnstype=AAAA
 ||hjd2048.com^$dnstype=AAAA
@@ -9097,6 +9117,7 @@
 ||hlrcv.stage.adobe.com^$dnstype=AAAA
 ||hm.com^$dnstype=AAAA
 ||hmd.site^$dnstype=AAAA
+||hmfby.com^$dnstype=AAAA
 ||hmoegirl.com^$dnstype=AAAA
 ||hmonghot.com^$dnstype=AAAA
 ||hmv.co.jp^$dnstype=AAAA
@@ -9799,6 +9820,9 @@
 ||iipdigital.usembassy.gov^$dnstype=AAAA
 ||iirmll.com^$dnstype=AAAA
 ||ijavhd.com^$dnstype=AAAA
+||ijavtorrent.com^$dnstype=AAAA
+||ikanhm.xyz^$dnstype=AAAA
+||ikanmh.xyz^$dnstype=AAAA
 ||ikea.cn^$dnstype=AAAA
 ||ikea.com^$dnstype=AAAA
 ||ikea.net^$dnstype=AAAA
@@ -10614,6 +10638,7 @@
 ||jitouch.com^$dnstype=AAAA
 ||jitpack.io^$dnstype=AAAA
 ||jitsi.org^$dnstype=AAAA
+||jiuse.icu^$dnstype=AAAA
 ||jiuse904.com^$dnstype=AAAA
 ||jiuse905.com^$dnstype=AAAA
 ||jiuzhouyihuo.com^$dnstype=AAAA
@@ -10789,6 +10814,7 @@
 ||kamababa.com^$dnstype=AAAA
 ||kamisama-maeda-lab.com^$dnstype=AAAA
 ||kampalaexclusiveescorts.com^$dnstype=AAAA
+||kanav.info^$dnstype=AAAA
 ||kangye.org^$dnstype=AAAA
 ||kankan.today^$dnstype=AAAA
 ||kannewyork.com^$dnstype=AAAA
@@ -11669,6 +11695,7 @@
 ||manyvoices.news^$dnstype=AAAA
 ||mapbox.cn^$dnstype=AAAA
 ||mapbox.com^$dnstype=AAAA
+||maple.finance^$dnstype=AAAA
 ||maplew.com^$dnstype=AAAA
 ||marc.info^$dnstype=AAAA
 ||marguerite.su^$dnstype=AAAA
@@ -11918,6 +11945,7 @@
 ||metacloud.com^$dnstype=AAAA
 ||metacpan.org^$dnstype=AAAA
 ||metafilter.com^$dnstype=AAAA
+||metalpha.finance^$dnstype=AAAA
 ||metapix.net^$dnstype=AAAA
 ||metaporn.com^$dnstype=AAAA
 ||metart.com^$dnstype=AAAA
@@ -12619,6 +12647,7 @@
 ||mx.hao123.com^$dnstype=AAAA
 ||mx981.com^$dnstype=AAAA
 ||mxmcdn.net^$dnstype=AAAA
+||mxshm.site^$dnstype=AAAA
 ||my-enema.com^$dnstype=AAAA
 ||my-formosa.com^$dnstype=AAAA
 ||my-magazine.me^$dnstype=AAAA
@@ -12996,6 +13025,7 @@
 ||netfirms.com^$dnstype=AAAA
 ||netflav.com^$dnstype=AAAA
 ||netflav1.com^$dnstype=AAAA
+||netflav5.com^$dnstype=AAAA
 ||netflix.com^$dnstype=AAAA
 ||netflix.com.edgesuite.net^$dnstype=AAAA
 ||netflix.net^$dnstype=AAAA
@@ -13948,6 +13978,7 @@
 ||osfoora.com^$dnstype=AAAA
 ||osha.gov^$dnstype=AAAA
 ||osiri-suki-club.com^$dnstype=AAAA
+||osl.com^$dnstype=AAAA
 ||osm.org^$dnstype=AAAA
 ||osmfoundation.org^$dnstype=AAAA
 ||ospray.net^$dnstype=AAAA
@@ -14712,6 +14743,7 @@
 ||pornbase.org^$dnstype=AAAA
 ||pornbest.org^$dnstype=AAAA
 ||pornbit.cc^$dnstype=AAAA
+||pornbl.com^$dnstype=AAAA
 ||pornbozz.com^$dnstype=AAAA
 ||pornbraze.com^$dnstype=AAAA
 ||pornbrb.com^$dnstype=AAAA
@@ -15693,6 +15725,7 @@
 ||riotgames.net^$dnstype=AAAA
 ||riotpin.com^$dnstype=AAAA
 ||riotpoints.com^$dnstype=AAAA
+||ripple.com^$dnstype=AAAA
 ||riseup.net^$dnstype=AAAA
 ||risextube.com^$dnstype=AAAA
 ||ritouki.jp^$dnstype=AAAA
@@ -15911,6 +15944,7 @@
 ||sarennasworld.com^$dnstype=AAAA
 ||satan18av.com^$dnstype=AAAA
 ||satnym.com^$dnstype=AAAA
+||satoshilabs.com^$dnstype=AAAA
 ||satv01.me^$dnstype=AAAA
 ||saveliuxiaobo.com^$dnstype=AAAA
 ||savemedia.com^$dnstype=AAAA
@@ -17688,6 +17722,7 @@
 ||thebestfetishsites.com^$dnstype=AAAA
 ||theblaze.com^$dnstype=AAAA
 ||theblemish.com^$dnstype=AAAA
+||theblock.co^$dnstype=AAAA
 ||thebobs.com^$dnstype=AAAA
 ||thebodyshop-usa.com^$dnstype=AAAA
 ||thebondagefiles.com^$dnstype=AAAA
@@ -17781,6 +17816,7 @@
 ||thepornmap.com^$dnstype=AAAA
 ||thepornscat.com^$dnstype=AAAA
 ||theporntoplist.com^$dnstype=AAAA
+||theporny.com^$dnstype=AAAA
 ||theportalwiki.com^$dnstype=AAAA
 ||theprint.in^$dnstype=AAAA
 ||thereallove.kr^$dnstype=AAAA
@@ -18604,6 +18640,7 @@
 ||uighurbiz.net^$dnstype=AAAA
 ||uiporn.com^$dnstype=AAAA
 ||ujapanesesex.com^$dnstype=AAAA
+||ujizzcn.com^$dnstype=AAAA
 ||uk-exhibitionist.com^$dnstype=AAAA
 ||uk.to^$dnstype=AAAA
 ||ukcdp.co.uk^$dnstype=AAAA
@@ -19363,6 +19400,7 @@
 ||wal-mart.com^$dnstype=AAAA
 ||wal.co^$dnstype=AAAA
 ||wallet.com^$dnstype=AAAA
+||walletconnect.com^$dnstype=AAAA
 ||wallmama.com^$dnstype=AAAA
 ||wallornot.org^$dnstype=AAAA
 ||wallpapercasa.com^$dnstype=AAAA
@@ -19702,6 +19740,7 @@
 ||winhec.com^$dnstype=AAAA
 ||winhec.net^$dnstype=AAAA
 ||winning11.com^$dnstype=AAAA
+||wintermute.com^$dnstype=AAAA
 ||winudf.com^$dnstype=AAAA
 ||winwhispers.info^$dnstype=AAAA
 ||wionews.com^$dnstype=AAAA
@@ -20246,6 +20285,7 @@
 ||xn--r8jwklh769h2mc880dk1o431a.com^$dnstype=AAAA
 ||xn--r8jwklh769hk43amcfoyl3z3a.com^$dnstype=AAAA
 ||xn--sgt856gbjl.cc^$dnstype=AAAA
+||xn--sjqr38j.com^$dnstype=AAAA
 ||xn--tkry91n.com^$dnstype=AAAA
 ||xn--ubt498knmf.com^$dnstype=AAAA
 ||xn--uis17aj9kmuf.com^$dnstype=AAAA
@@ -20317,6 +20357,7 @@
 ||xsela.cc^$dnstype=AAAA
 ||xshaker.net^$dnstype=AAAA
 ||xshr.online^$dnstype=AAAA
+||xsijishe.com^$dnstype=AAAA
 ||xskywalker.com^$dnstype=AAAA
 ||xskywalker.net^$dnstype=AAAA
 ||xsrxpwvg.com^$dnstype=AAAA
