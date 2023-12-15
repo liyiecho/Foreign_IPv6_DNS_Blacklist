@@ -1263,6 +1263,7 @@
 ||anthemgame.com^$dnstype=AAAA
 ||anthemthegame.com^$dnstype=AAAA
 ||anthonycalzadilla.com^$dnstype=AAAA
+||anthropic.com^$dnstype=AAAA
 ||anti1984.com^$dnstype=AAAA
 ||antichristendom.com^$dnstype=AAAA
 ||antiwave.net^$dnstype=AAAA
@@ -20983,6 +20984,7 @@
 ||zoohun.com^$dnstype=AAAA
 ||zoom.com^$dnstype=AAAA
 ||zoom.us^$dnstype=AAAA
+||zoomgov.com^$dnstype=AAAA
 ||zoomobileporn.com^$dnstype=AAAA
 ||zoophilist.net^$dnstype=AAAA
 ||zooporn.pro^$dnstype=AAAA
