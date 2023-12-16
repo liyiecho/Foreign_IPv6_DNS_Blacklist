@@ -345,6 +345,7 @@
 ||69gayporno.com^$dnstype=AAAA
 ||69loli.com^$dnstype=AAAA
 ||69luolie.com^$dnstype=AAAA
+||69re.net^$dnstype=AAAA
 ||69shu.com^$dnstype=AAAA
 ||69story.com^$dnstype=AAAA
 ||69tubesex.com^$dnstype=AAAA
@@ -422,12 +423,17 @@
 ||91oo.xyz^$dnstype=AAAA
 ||91porn.best^$dnstype=AAAA
 ||91porn.com^$dnstype=AAAA
+||91porn.group^$dnstype=AAAA
 ||91porn.party^$dnstype=AAAA
 ||91porn.plus^$dnstype=AAAA
 ||91porn.store^$dnstype=AAAA
 ||91porn.work^$dnstype=AAAA
+||91pornf.com^$dnstype=AAAA
 ||91pornplus.com^$dnstype=AAAA
+||91pornv.com^$dnstype=AAAA
+||91pornx.com^$dnstype=AAAA
 ||91porny.com^$dnstype=AAAA
+||91porny.store^$dnstype=AAAA
 ||91qk41rf.com^$dnstype=AAAA
 ||91quanji.com^$dnstype=AAAA
 ||91rb.com^$dnstype=AAAA
@@ -762,6 +768,7 @@
 ||afewmomentswith.com^$dnstype=AAAA
 ||affect3dstore.com^$dnstype=AAAA
 ||affirmtrust.com^$dnstype=AAAA
+||afkv28.com^$dnstype=AAAA
 ||aflamporn.com^$dnstype=AAAA
 ||aflamsex.net^$dnstype=AAAA
 ||aflamsexhd.com^$dnstype=AAAA
@@ -796,6 +803,7 @@
 ||ai-wen.net^$dnstype=AAAA
 ||ai.binwang.me^$dnstype=AAAA
 ||ai.google^$dnstype=AAAA
+||ai91porn.cc^$dnstype=AAAA
 ||aibaobei.me^$dnstype=AAAA
 ||aicoin.com^$dnstype=AAAA
 ||aimei133.com^$dnstype=AAAA
@@ -1549,6 +1557,7 @@
 ||aptoide.com^$dnstype=AAAA
 ||apture.com^$dnstype=AAAA
 ||apyle.com^$dnstype=AAAA
+||aqdlt.net^$dnstype=AAAA
 ||aqi.aqicn.org^$dnstype=AAAA
 ||aqicn.org^$dnstype=AAAA
 ||ar.hao123.com^$dnstype=AAAA
@@ -1830,6 +1839,7 @@
 ||avhbo.com^$dnstype=AAAA
 ||avhd101.com^$dnstype=AAAA
 ||avhome.one^$dnstype=AAAA
+||avhu.com^$dnstype=AAAA
 ||avidemux.org^$dnstype=AAAA
 ||avinetworks.com^$dnstype=AAAA
 ||avinin.com^$dnstype=AAAA
@@ -4260,6 +4270,7 @@
 ||cloudflareclient.com^$dnstype=AAAA
 ||cloudflareinsights.com^$dnstype=AAAA
 ||cloudflareok.com^$dnstype=AAAA
+||cloudflarepartners.com^$dnstype=AAAA
 ||cloudflareportal.com^$dnstype=AAAA
 ||cloudflarepreview.com^$dnstype=AAAA
 ||cloudflareresolve.com^$dnstype=AAAA
@@ -7358,6 +7369,7 @@
 ||fqrouter.com^$dnstype=AAAA
 ||fr-beatsbydrestore.com^$dnstype=AAAA
 ||fracebook.com^$dnstype=AAAA
+||fragment.com^$dnstype=AAAA
 ||fragrancebay.com^$dnstype=AAAA
 ||francecasquebeatssolde.com^$dnstype=AAAA
 ||francemail.com^$dnstype=AAAA
@@ -10988,6 +11000,7 @@
 ||kotlinlang.org^$dnstype=AAAA
 ||kouwobb.com^$dnstype=AAAA
 ||kphimsex.net^$dnstype=AAAA
+||kpht85.com^$dnstype=AAAA
 ||kqes.net^$dnstype=AAAA
 ||kraken.com^$dnstype=AAAA
 ||krakenjs.com^$dnstype=AAAA
@@ -11465,6 +11478,7 @@
 ||lovesexdurex.com^$dnstype=AAAA
 ||lovethiscity.com^$dnstype=AAAA
 ||lovetvshow.com^$dnstype=AAAA
+||lovex.life^$dnstype=AAAA
 ||lowergiseries.com^$dnstype=AAAA
 ||lowiro.com^$dnstype=AAAA
 ||lp99.pw^$dnstype=AAAA
@@ -11597,6 +11611,7 @@
 ||madonna-av.com^$dnstype=AAAA
 ||madou.club^$dnstype=AAAA
 ||madouav.one^$dnstype=AAAA
+||madouqu.com^$dnstype=AAAA
 ||madouzx.monster^$dnstype=AAAA
 ||madouzx.top^$dnstype=AAAA
 ||madpeople.net^$dnstype=AAAA
@@ -12292,6 +12307,7 @@
 ||mm9c63ae.xyz^$dnstype=AAAA
 ||mmaaxx.com^$dnstype=AAAA
 ||mmdnn.com^$dnstype=AAAA
+||mmgy.cc^$dnstype=AAAA
 ||mmmca.com^$dnstype=AAAA
 ||mmonsterheadphones.net^$dnstype=AAAA
 ||mmtv.life^$dnstype=AAAA
@@ -12643,6 +12659,7 @@
 ||mvg.jp^$dnstype=AAAA
 ||mvk.com^$dnstype=AAAA
 ||mvnrepository.com^$dnstype=AAAA
+||mwcu00.com^$dnstype=AAAA
 ||mwf-service.akamaized.net^$dnstype=AAAA
 ||mwhentai.net^$dnstype=AAAA
 ||mx.hao123.com^$dnstype=AAAA
@@ -14139,6 +14156,7 @@
 ||paofuyun.me^$dnstype=AAAA
 ||paoluz.com^$dnstype=AAAA
 ||paoluz.link^$dnstype=AAAA
+||paon.site^$dnstype=AAAA
 ||papalah.com^$dnstype=AAAA
 ||paper-attachments.s3.amazonaws.com^$dnstype=AAAA
 ||paper.li^$dnstype=AAAA
@@ -15331,6 +15349,7 @@
 ||qinav.com^$dnstype=AAAA
 ||qingenporn.net^$dnstype=AAAA
 ||qingse.one^$dnstype=AAAA
+||qise100.com^$dnstype=AAAA
 ||qiwen.lu^$dnstype=AAAA
 ||qixianglu.cn^$dnstype=AAAA
 ||qkjuyet.com^$dnstype=AAAA
@@ -16882,6 +16901,7 @@
 ||sopcast.com^$dnstype=AAAA
 ||sopcast.org^$dnstype=AAAA
 ||sophos.com^$dnstype=AAAA
+||soporn.com^$dnstype=AAAA
 ||sora6.com^$dnstype=AAAA
 ||sorairi.info^$dnstype=AAAA
 ||sorazone.net^$dnstype=AAAA
@@ -20361,10 +20381,12 @@
 ||xsijishe.com^$dnstype=AAAA
 ||xskywalker.com^$dnstype=AAAA
 ||xskywalker.net^$dnstype=AAAA
+||xslist.org^$dnstype=AAAA
 ||xsrxpwvg.com^$dnstype=AAAA
 ||xstas.biz^$dnstype=AAAA
 ||xsvod.xyz^$dnstype=AAAA
 ||xsz-av.com^$dnstype=AAAA
+||xtegvk.xyz^$dnstype=AAAA
 ||xteko.com^$dnstype=AAAA
 ||xtracloud.cn^$dnstype=AAAA
 ||xtube.com^$dnstype=AAAA
@@ -20586,6 +20608,7 @@
 ||yandex.ru^$dnstype=AAAA
 ||yandexcloud.net^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
+||yantaqu.com^$dnstype=AAAA
 ||yaohubaba.com^$dnstype=AAAA
 ||yaoimangaonline.com^$dnstype=AAAA
 ||yaoiotaku.com^$dnstype=AAAA
