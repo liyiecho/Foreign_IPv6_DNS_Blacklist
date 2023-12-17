@@ -426,7 +426,6 @@
 ||91porn.group^$dnstype=AAAA
 ||91porn.party^$dnstype=AAAA
 ||91porn.plus^$dnstype=AAAA
-||91porn.store^$dnstype=AAAA
 ||91porn.work^$dnstype=AAAA
 ||91pornf.com^$dnstype=AAAA
 ||91pornplus.com^$dnstype=AAAA
