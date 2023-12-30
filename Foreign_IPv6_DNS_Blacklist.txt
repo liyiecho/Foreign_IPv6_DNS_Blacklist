@@ -5322,6 +5322,7 @@
 ||dish.com^$dnstype=AAAA
 ||dishworld.com^$dnstype=AAAA
 ||disk.yandex.com^$dnstype=AAAA
+||disk.yandex.ru^$dnstype=AAAA
 ||disney-asia.com^$dnstype=AAAA
 ||disney-discount.com^$dnstype=AAAA
 ||disney-plus.net^$dnstype=AAAA
@@ -13827,6 +13828,7 @@
 ||obsrvbl.com^$dnstype=AAAA
 ||obutsumania.com^$dnstype=AAAA
 ||obutu.com^$dnstype=AAAA
+||obyte.org^$dnstype=AAAA
 ||ocaspro.com^$dnstype=AAAA
 ||ocbmwdealers.com^$dnstype=AAAA
 ||occupytiananmen.com^$dnstype=AAAA
@@ -16052,6 +16054,7 @@
 ||s-nbcnews.com^$dnstype=AAAA
 ||s-xoom.com^$dnstype=AAAA
 ||s.team^$dnstype=AAAA
+||s.yimg.com^$dnstype=AAAA
 ||s1.nudezz.com^$dnstype=AAAA
 ||s1heng.com^$dnstype=AAAA
 ||s1s1s1.com^$dnstype=AAAA
@@ -20236,7 +20239,6 @@
 ||www.aolnews.com^$dnstype=AAAA
 ||www.businessinsider.com.au^$dnstype=AAAA
 ||www.cmoinc.org^$dnstype=AAAA
-||www.cool18.com^$dnstype=AAAA
 ||www.dmm.com^$dnstype=AAAA
 ||www.dwheeler.com^$dnstype=AAAA
 ||www.eastturkistan.net^$dnstype=AAAA
