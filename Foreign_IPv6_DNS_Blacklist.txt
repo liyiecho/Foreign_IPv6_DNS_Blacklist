@@ -11585,6 +11585,7 @@
 ||localizestatus.com^$dnstype=AAAA
 ||localpresshk.com^$dnstype=AAAA
 ||localxlist.org^$dnstype=AAAA
+||location.microsoft.com^$dnstype=AAAA
 ||lockestek.com^$dnstype=AAAA
 ||logbot.net^$dnstype=AAAA
 ||logi.com^$dnstype=AAAA
