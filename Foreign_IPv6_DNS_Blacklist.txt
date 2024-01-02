@@ -15970,6 +15970,7 @@
 ||rfi.fr^$dnstype=AAAA
 ||rfi.my^$dnstype=AAAA
 ||rhodeislandbmw.com^$dnstype=AAAA
+||rhyw.me^$dnstype=AAAA
 ||rhyw31.life^$dnstype=AAAA
 ||ricefever.com^$dnstype=AAAA
 ||ridepenguin.com^$dnstype=AAAA
