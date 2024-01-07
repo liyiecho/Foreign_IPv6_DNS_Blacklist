@@ -592,7 +592,6 @@
 ||acgdv.com^$dnstype=AAAA
 ||acgfabu.com^$dnstype=AAAA
 ||acgfbw.com^$dnstype=AAAA
-||acgjump.com^$dnstype=AAAA
 ||acgkj.com^$dnstype=AAAA
 ||acgnmanhua.com^$dnstype=AAAA
 ||acgnx.se^$dnstype=AAAA
@@ -9321,7 +9320,6 @@
 ||hongmaodan100.com^$dnstype=AAAA
 ||hongmeimei.com^$dnstype=AAAA
 ||hongzhi.li^$dnstype=AAAA
-||honkaistarrail.com^$dnstype=AAAA
 ||honven.xyz^$dnstype=AAAA
 ||hoodamateurs.com^$dnstype=AAAA
 ||hooligapps.com^$dnstype=AAAA
@@ -9420,7 +9418,6 @@
 ||howtoforge.com^$dnstype=AAAA
 ||howtohackfacebook-account.com^$dnstype=AAAA
 ||hoxx.com^$dnstype=AAAA
-||hoyo.link^$dnstype=AAAA
 ||hoyolab.com^$dnstype=AAAA
 ||hp-imagine.com^$dnstype=AAAA
 ||hp-infolab.com^$dnstype=AAAA
