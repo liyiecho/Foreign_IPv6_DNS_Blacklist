@@ -497,6 +497,7 @@
 ||9xav.cc^$dnstype=AAAA
 ||9xlove.xyz^$dnstype=AAAA
 ||9zipai.net^$dnstype=AAAA
+||a-msedge.net^$dnstype=AAAA
 ||a-normal-day.com^$dnstype=AAAA
 ||a-teenz.com^$dnstype=AAAA
 ||a.ppy.sh^$dnstype=AAAA
@@ -2692,6 +2693,7 @@
 ||binancezh.top^$dnstype=AAAA
 ||bing.com^$dnstype=AAAA
 ||bing.net^$dnstype=AAAA
+||bing123.com^$dnstype=AAAA
 ||bingads.com^$dnstype=AAAA
 ||bingagencyawards.com^$dnstype=AAAA
 ||bingapis.com^$dnstype=AAAA
@@ -4220,6 +4222,7 @@
 ||clipseksi.com^$dnstype=AAAA
 ||clitgames.com^$dnstype=AAAA
 ||cloakpoint.com^$dnstype=AAAA
+||clock.isc.org^$dnstype=AAAA
 ||clojure.org^$dnstype=AAAA
 ||cloud.cupronickel.goog^$dnstype=AAAA
 ||cloud.mail.ru^$dnstype=AAAA
@@ -8016,7 +8019,6 @@
 ||globalriskregulator.com^$dnstype=AAAA
 ||globalsecurity.org^$dnstype=AAAA
 ||globalsign-media.com^$dnstype=AAAA
-||globalsign.com^$dnstype=AAAA
 ||globalsign.net^$dnstype=AAAA
 ||globalspec.com^$dnstype=AAAA
 ||globaltm.org^$dnstype=AAAA
@@ -10266,6 +10268,7 @@
 ||isaacmao.com^$dnstype=AAAA
 ||isasecret.com^$dnstype=AAAA
 ||isbgpsafeyet.com^$dnstype=AAAA
+||isc.org^$dnstype=AAAA
 ||isc.sans.edu^$dnstype=AAAA
 ||isca-speech.org^$dnstype=AAAA
 ||ischool.com^$dnstype=AAAA
@@ -12082,6 +12085,7 @@
 ||mihua.org^$dnstype=AAAA
 ||miitomo.com^$dnstype=AAAA
 ||miiverse.com^$dnstype=AAAA
+||mikanani.me^$dnstype=AAAA
 ||mike.cz.cc^$dnstype=AAAA
 ||mikesoltys.com^$dnstype=AAAA
 ||mikocon.com^$dnstype=AAAA
@@ -13518,6 +13522,7 @@
 ||ntdtv.ru^$dnstype=AAAA
 ||ntdtvla.com^$dnstype=AAAA
 ||ntdvn.com^$dnstype=AAAA
+||ntp.ripe.net^$dnstype=AAAA
 ||ntrfun.com^$dnstype=AAAA
 ||ntsna.gov.tw^$dnstype=AAAA
 ||ntten-mg.buzz^$dnstype=AAAA
@@ -14676,6 +14681,7 @@
 ||polymerproject.org^$dnstype=AAAA
 ||ponyanimalsex.com^$dnstype=AAAA
 ||poofetish.com^$dnstype=AAAA
+||pool.ntp.org^$dnstype=AAAA
 ||poolin.com^$dnstype=AAAA
 ||poop-pee.online^$dnstype=AAAA
 ||poopee-puke.com^$dnstype=AAAA
@@ -15724,6 +15730,7 @@
 ||riotgames.net^$dnstype=AAAA
 ||riotpin.com^$dnstype=AAAA
 ||riotpoints.com^$dnstype=AAAA
+||ripe.net^$dnstype=AAAA
 ||ripple.com^$dnstype=AAAA
 ||riseup.net^$dnstype=AAAA
 ||risextube.com^$dnstype=AAAA
@@ -15854,6 +15861,7 @@
 ||s-books.com^$dnstype=AAAA
 ||s-cashonmobile.com^$dnstype=AAAA
 ||s-cute.com^$dnstype=AAAA
+||s-dc-msedge.net^$dnstype=AAAA
 ||s-dragon.org^$dnstype=AAAA
 ||s-msedge.net^$dnstype=AAAA
 ||s-msft.com^$dnstype=AAAA
@@ -17073,6 +17081,7 @@
 ||sstmlt.moe^$dnstype=AAAA
 ||sstmlt.net^$dnstype=AAAA
 ||ssx3.com^$dnstype=AAAA
+||st.com^$dnstype=AAAA
 ||st.luluku.pw^$dnstype=AAAA
 ||stackage.org^$dnstype=AAAA
 ||stackapps.com^$dnstype=AAAA
