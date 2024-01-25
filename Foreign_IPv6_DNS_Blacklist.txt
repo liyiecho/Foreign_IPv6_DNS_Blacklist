@@ -5951,7 +5951,6 @@
 ||ed21.cc^$dnstype=AAAA
 ||edditstatic.com^$dnstype=AAAA
 ||edengay.net^$dnstype=AAAA
-||edge-skype-com.s-0001.s-msedge.net^$dnstype=AAAA
 ||edge.steam-dns.top.comcast.net^$dnstype=AAAA
 ||edgecastcdn.net^$dnstype=AAAA
 ||edgedatg.com^$dnstype=AAAA
