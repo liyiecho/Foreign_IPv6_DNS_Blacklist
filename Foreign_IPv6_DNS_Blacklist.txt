@@ -1143,6 +1143,10 @@
 ||amazonvideo.com^$dnstype=AAAA
 ||amazonvideodirect.com^$dnstype=AAAA
 ||amazonworkdocs.com^$dnstype=AAAA
+||amc.com^$dnstype=AAAA
+||amcn.com^$dnstype=AAAA
+||amcnetworks.com^$dnstype=AAAA
+||amcplus.com^$dnstype=AAAA
 ||amdfanstore.com^$dnstype=AAAA
 ||ameba.jp^$dnstype=AAAA
 ||amebame.com^$dnstype=AAAA
