@@ -12573,7 +12573,6 @@
 ||mschallenge2018.com^$dnstype=AAAA
 ||mscrl.microsoft.com^$dnstype=AAAA
 ||msdn.com^$dnstype=AAAA
-||msedge.net^$dnstype=AAAA
 ||msflj.vip^$dnstype=AAAA
 ||msft.info^$dnstype=AAAA
 ||msft.net^$dnstype=AAAA
