@@ -12573,6 +12573,7 @@
 ||mschallenge2018.com^$dnstype=AAAA
 ||mscrl.microsoft.com^$dnstype=AAAA
 ||msdn.com^$dnstype=AAAA
+||msedge.net^$dnstype=AAAA
 ||msflj.vip^$dnstype=AAAA
 ||msft.info^$dnstype=AAAA
 ||msft.net^$dnstype=AAAA
@@ -13692,7 +13693,6 @@
 ||oex.com^$dnstype=AAAA
 ||offbeatchina.com^$dnstype=AAAA
 ||offerairjordanlebron.com^$dnstype=AAAA
-||office365.com^$dnstype=AAAA
 ||office365love.com^$dnstype=AAAA
 ||office365tw.com^$dnstype=AAAA
 ||officecdn-microsoft-com.akamaized.net^$dnstype=AAAA
