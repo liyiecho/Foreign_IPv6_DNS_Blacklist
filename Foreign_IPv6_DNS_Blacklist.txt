@@ -1801,6 +1801,7 @@
 ||av.com^$dnstype=AAAA
 ||av.movie^$dnstype=AAAA
 ||av.nightlife141.com^$dnstype=AAAA
+||av01.tv^$dnstype=AAAA
 ||av11.org^$dnstype=AAAA
 ||av1688.cc^$dnstype=AAAA
 ||av234567.com^$dnstype=AAAA
@@ -15908,6 +15909,7 @@
 ||sahabatsetiasmartone.com^$dnstype=AAAA
 ||saintyculture.com^$dnstype=AAAA
 ||saiq.me^$dnstype=AAAA
+||sakura-paris.org^$dnstype=AAAA
 ||sakuralive.com^$dnstype=AAAA
 ||sakya.org^$dnstype=AAAA
 ||sale-nikeshoes.com^$dnstype=AAAA
@@ -16185,6 +16187,7 @@
 ||sego8.co^$dnstype=AAAA
 ||sego8.xyz^$dnstype=AAAA
 ||sehuatang.net^$dnstype=AAAA
+||sehuatang.org^$dnstype=AAAA
 ||seiroganmania.com^$dnstype=AAAA
 ||seiron-sankei.com^$dnstype=AAAA
 ||sejie.com^$dnstype=AAAA
@@ -18866,6 +18869,7 @@
 ||v-av.com^$dnstype=AAAA
 ||v-has.com^$dnstype=AAAA
 ||v.gd^$dnstype=AAAA
+||v2board.com^$dnstype=AAAA
 ||v2ex.co^$dnstype=AAAA
 ||v2ex.com^$dnstype=AAAA
 ||v2fly.org^$dnstype=AAAA
@@ -19415,6 +19419,7 @@
 ||wal.co^$dnstype=AAAA
 ||wallet.com^$dnstype=AAAA
 ||walletconnect.com^$dnstype=AAAA
+||wallhaven.cc^$dnstype=AAAA
 ||wallmama.com^$dnstype=AAAA
 ||wallornot.org^$dnstype=AAAA
 ||wallpapercasa.com^$dnstype=AAAA
