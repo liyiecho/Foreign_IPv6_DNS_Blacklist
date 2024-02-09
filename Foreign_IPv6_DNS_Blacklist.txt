@@ -887,6 +887,7 @@
 ||akademiye.org^$dnstype=AAAA
 ||akadns.com^$dnstype=AAAA
 ||akadns6.net^$dnstype=AAAA
+||akadns88.net^$dnstype=AAAA
 ||akaeai.com^$dnstype=AAAA
 ||akafms.net^$dnstype=AAAA
 ||akagtm.org^$dnstype=AAAA
@@ -907,7 +908,6 @@
 ||akamai-thailand.com^$dnstype=AAAA
 ||akamai-thailand.net^$dnstype=AAAA
 ||akamai-trials.com^$dnstype=AAAA
-||akamai.com^$dnstype=AAAA
 ||akamai.net^$dnstype=AAAA
 ||akamaiedge.net^$dnstype=AAAA
 ||akamaientrypoint.net^$dnstype=AAAA
@@ -1843,6 +1843,7 @@
 ||avizoon.site^$dnstype=AAAA
 ||avizoone.com^$dnstype=AAAA
 ||avjb.com^$dnstype=AAAA
+||avjiasu.com^$dnstype=AAAA
 ||avjoy.me^$dnstype=AAAA
 ||avjzy67.xyz^$dnstype=AAAA
 ||avlulu.cc^$dnstype=AAAA
@@ -2683,6 +2684,7 @@
 ||binance.us^$dnstype=AAAA
 ||binance.vision^$dnstype=AAAA
 ||binanceapi.com^$dnstype=AAAA
+||binancecnt.com^$dnstype=AAAA
 ||binancezh.biz^$dnstype=AAAA
 ||binancezh.cc^$dnstype=AAAA
 ||binancezh.co^$dnstype=AAAA
@@ -3784,6 +3786,7 @@
 ||cdn-terapeak.com^$dnstype=AAAA
 ||cdn.assets.lfpcontent.com^$dnstype=AAAA
 ||cdn.helixstudios.net^$dnstype=AAAA
+||cdn.js7k.com^$dnstype=AAAA
 ||cdn.jsdelivr.net^$dnstype=AAAA
 ||cdn.printfriendly.com^$dnstype=AAAA
 ||cdn.registerdisney.go.com^$dnstype=AAAA
@@ -5961,6 +5964,7 @@
 ||edgedatg.com^$dnstype=AAAA
 ||edgefonts.net^$dnstype=AAAA
 ||edgekey.net^$dnstype=AAAA
+||edgekey88.net^$dnstype=AAAA
 ||edgemeplease.com^$dnstype=AAAA
 ||edgesuite.net^$dnstype=AAAA
 ||edicypages.com^$dnstype=AAAA
@@ -10521,6 +10525,7 @@
 ||javmost.com^$dnstype=AAAA
 ||javmost.xyz^$dnstype=AAAA
 ||javmuch.com^$dnstype=AAAA
+||javmulu.net^$dnstype=AAAA
 ||javnew.net^$dnstype=AAAA
 ||javopen.co^$dnstype=AAAA
 ||javout.co^$dnstype=AAAA
@@ -10736,6 +10741,7 @@
 ||jr24h.com^$dnstype=AAAA
 ||js.org^$dnstype=AAAA
 ||js.revsci.net^$dnstype=AAAA
+||js7k.com^$dnstype=AAAA
 ||jsbridgestone.com^$dnstype=AAAA
 ||jsdelivr.com^$dnstype=AAAA
 ||jsdelivr.net^$dnstype=AAAA
@@ -11118,6 +11124,7 @@
 ||latticedata.com^$dnstype=AAAA
 ||launchpad.net^$dnstype=AAAA
 ||launchpad.wang^$dnstype=AAAA
+||launchpadcontent.net^$dnstype=AAAA
 ||launchpadlibrarian.com^$dnstype=AAAA
 ||launchpadlibrarian.net^$dnstype=AAAA
 ||launchpadlibrarian.org^$dnstype=AAAA
@@ -19107,6 +19114,7 @@
 ||virginpornlinks.com^$dnstype=AAAA
 ||virsto.com^$dnstype=AAAA
 ||virsto.net^$dnstype=AAAA
+||virtualbox.org^$dnstype=AAAA
 ||virtualearth.net^$dnstype=AAAA
 ||virtualpartyworld.com^$dnstype=AAAA
 ||virtualporn.com^$dnstype=AAAA
