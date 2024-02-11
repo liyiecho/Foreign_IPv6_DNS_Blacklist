@@ -319,6 +319,7 @@
 ||54647.global^$dnstype=AAAA
 ||54647.online^$dnstype=AAAA
 ||54647.org^$dnstype=AAAA
+||55comic.com^$dnstype=AAAA
 ||55dndn.com^$dnstype=AAAA
 ||567321.online^$dnstype=AAAA
 ||568xe.com^$dnstype=AAAA
@@ -3641,6 +3642,7 @@
 ||capitalg.com^$dnstype=AAAA
 ||capitalgames.com^$dnstype=AAAA
 ||capitaliq.com^$dnstype=AAAA
+||captainfawcett.com^$dnstype=AAAA
 ||carabinasypistolas.com^$dnstype=AAAA
 ||carbon.com^$dnstype=AAAA
 ||cardinalkungfoundation.org^$dnstype=AAAA
@@ -3656,6 +3658,7 @@
 ||caribbeancom.com^$dnstype=AAAA
 ||caribbeancompr.com^$dnstype=AAAA
 ||carmotorshow.com^$dnstype=AAAA
+||carousell.com.hk^$dnstype=AAAA
 ||carrd.co^$dnstype=AAAA
 ||carryzhou.com^$dnstype=AAAA
 ||carstagram.com^$dnstype=AAAA
@@ -8582,6 +8585,7 @@
 ||gzone-anime.info^$dnstype=AAAA
 ||h-cdn.com^$dnstype=AAAA
 ||h-china.org^$dnstype=AAAA
+||h-comic.com^$dnstype=AAAA
 ||h-doujinshi.xyz^$dnstype=AAAA
 ||h-flash.com^$dnstype=AAAA
 ||h-moe.com^$dnstype=AAAA
@@ -8952,6 +8956,7 @@
 ||heyzo.com^$dnstype=AAAA
 ||hf-iphone.com^$dnstype=AAAA
 ||hg.cool^$dnstype=AAAA
+||hgamefree.info^$dnstype=AAAA
 ||hgamer.pro^$dnstype=AAAA
 ||hgsacx.com^$dnstype=AAAA
 ||hgseav.com^$dnstype=AAAA
@@ -9133,6 +9138,7 @@
 ||hnalady.com^$dnstype=AAAA
 ||hnjhj.com^$dnstype=AAAA
 ||hnntube.com^$dnstype=AAAA
+||ho5ho.com^$dnstype=AAAA
 ||hobonichielog.com^$dnstype=AAAA
 ||hochi.news^$dnstype=AAAA
 ||hockeyapp.net^$dnstype=AAAA
@@ -11708,6 +11714,7 @@
 ||mangoporn.net^$dnstype=AAAA
 ||mangotporn.com^$dnstype=AAAA
 ||manhuabika.com^$dnstype=AAAA
+||manhuache.com^$dnstype=AAAA
 ||manhuagui.com^$dnstype=AAAA
 ||manhub.com^$dnstype=AAAA
 ||manhunt.net^$dnstype=AAAA
@@ -16199,6 +16206,7 @@
 ||seiron-sankei.com^$dnstype=AAAA
 ||sejie.com^$dnstype=AAAA
 ||sejie80.com^$dnstype=AAAA
+||seju.life^$dnstype=AAAA
 ||sekai.colorfulpalette.org^$dnstype=AAAA
 ||sekur1213.guru^$dnstype=AAAA
 ||selectanescort.com^$dnstype=AAAA
@@ -16824,6 +16832,7 @@
 ||snowmiku.com^$dnstype=AAAA
 ||so-net.net.tw^$dnstype=AAAA
 ||soasta-dswb.com^$dnstype=AAAA
+||soav.com^$dnstype=AAAA
 ||sobees.com^$dnstype=AAAA
 ||soc.mil^$dnstype=AAAA
 ||socalbmw.com^$dnstype=AAAA
@@ -16927,6 +16936,7 @@
 ||soso7778.com^$dnstype=AAAA
 ||sosreader.com^$dnstype=AAAA
 ||sostibet.org^$dnstype=AAAA
+||sotwe.com^$dnstype=AAAA
 ||sou-tong.org^$dnstype=AAAA
 ||soubory.com^$dnstype=AAAA
 ||souka.xyz^$dnstype=AAAA
