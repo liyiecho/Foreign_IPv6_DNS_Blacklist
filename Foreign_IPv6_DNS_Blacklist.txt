@@ -946,6 +946,7 @@
 ||akatns.net^$dnstype=AAAA
 ||akiba-online.com^$dnstype=AAAA
 ||akiba-web.com^$dnstype=AAAA
+||akinator.com^$dnstype=AAAA
 ||akow.org^$dnstype=AAAA
 ||akthelp.com^$dnstype=AAAA
 ||al-islam.com^$dnstype=AAAA
@@ -2808,6 +2809,7 @@
 ||blockcn.com^$dnstype=AAAA
 ||blockedbyhk.com^$dnstype=AAAA
 ||blockless.com^$dnstype=AAAA
+||blocktempo.com^$dnstype=AAAA
 ||blog.calibre-ebook.com^$dnstype=AAAA
 ||blog.cnyes.com^$dnstype=AAAA
 ||blog.com^$dnstype=AAAA
@@ -5138,6 +5140,7 @@
 ||didilist.com^$dnstype=AAAA
 ||dierectv.com^$dnstype=AAAA
 ||difangwenge.org^$dnstype=AAAA
+||digg.com^$dnstype=AAAA
 ||digicert-cn.com^$dnstype=AAAA
 ||digicert-validation.com^$dnstype=AAAA
 ||digicert.com^$dnstype=AAAA
@@ -6162,6 +6165,7 @@
 ||epochweek.com^$dnstype=AAAA
 ||epochweekly.com^$dnstype=AAAA
 ||eporner.com^$dnstype=AAAA
+||eprice.com.hk^$dnstype=AAAA
 ||eprintsw.com^$dnstype=AAAA
 ||eq.ccu.edu.tw^$dnstype=AAAA
 ||equinenow.com^$dnstype=AAAA
@@ -10807,6 +10811,7 @@
 ||juzige.xyz^$dnstype=AAAA
 ||juziyue.com^$dnstype=AAAA
 ||jvid.com^$dnstype=AAAA
+||jw.org^$dnstype=AAAA
 ||jwkcgd.xyz^$dnstype=AAAA
 ||jwmusic.org^$dnstype=AAAA
 ||jwpcdn.com^$dnstype=AAAA
@@ -13127,6 +13132,7 @@
 ||newnews.ca^$dnstype=AAAA
 ||newpppp.com^$dnstype=AAAA
 ||news.cnyes.com^$dnstype=AAAA
+||news.com.au^$dnstype=AAAA
 ||news.hk.msn.com^$dnstype=AAAA
 ||news.msn.com.tw^$dnstype=AAAA
 ||news.nationalgeographic.com^$dnstype=AAAA
@@ -13186,6 +13192,7 @@
 ||next.com^$dnstype=AAAA
 ||next11.co.jp^$dnstype=AAAA
 ||nextapple.com^$dnstype=AAAA
+||nextapple.tw^$dnstype=AAAA
 ||nextdigital.com.hk^$dnstype=AAAA
 ||nextechafrica.net^$dnstype=AAAA
 ||nextgenerationcenter.com^$dnstype=AAAA
@@ -14357,6 +14364,7 @@
 ||pchomeonline.com.tw^$dnstype=AAAA
 ||pcij.org^$dnstype=AAAA
 ||pcloud.com^$dnstype=AAAA
+||pcmarket.com.hk^$dnstype=AAAA
 ||pcre.org^$dnstype=AAAA
 ||pcstore.com.tw^$dnstype=AAAA
 ||pct.org.tw^$dnstype=AAAA
@@ -15912,6 +15920,7 @@
 ||sadistic-v.com^$dnstype=AAAA
 ||sadpanda.us^$dnstype=AAAA
 ||sae.org^$dnstype=AAAA
+||saeima.lv^$dnstype=AAAA
 ||saerock.com^$dnstype=AAAA
 ||safebooru.org^$dnstype=AAAA
 ||safechat.com^$dnstype=AAAA
@@ -18692,6 +18701,7 @@
 ||ukliferadio.co.uk^$dnstype=AAAA
 ||uku.im^$dnstype=AAAA
 ||ukwhoswho.com^$dnstype=AAAA
+||ulifestyle.com.hk^$dnstype=AAAA
 ||ulike.net^$dnstype=AAAA
 ||ulol.com^$dnstype=AAAA
 ||ulop.net^$dnstype=AAAA
@@ -20411,6 +20421,7 @@
 ||xsava.xyz^$dnstype=AAAA
 ||xscale.com^$dnstype=AAAA
 ||xsden.info^$dnstype=AAAA
+||xsden.org^$dnstype=AAAA
 ||xsela.cc^$dnstype=AAAA
 ||xshaker.net^$dnstype=AAAA
 ||xshr.online^$dnstype=AAAA
