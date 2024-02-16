@@ -284,7 +284,9 @@
 ||4kup.net^$dnstype=AAAA
 ||4mydomain.com^$dnstype=AAAA
 ||4myminicard.com^$dnstype=AAAA
+||4pcdn.org^$dnstype=AAAA
 ||4pig.com^$dnstype=AAAA
+||4plebs.org^$dnstype=AAAA
 ||4porn.com^$dnstype=AAAA
 ||4porn4.com^$dnstype=AAAA
 ||4pu.com^$dnstype=AAAA
@@ -774,6 +776,7 @@
 ||adwords.com^$dnstype=AAAA
 ||adwordsexpress.com^$dnstype=AAAA
 ||adx.promo^$dnstype=AAAA
+||ae-ad-1.myhuaweicloud.com^$dnstype=AAAA
 ||ae.hao123.com^$dnstype=AAAA
 ||ae.org^$dnstype=AAAA
 ||aeasyshop.com^$dnstype=AAAA
@@ -800,6 +803,7 @@
 ||afreecatv.com^$dnstype=AAAA
 ||afriboyz.com^$dnstype=AAAA
 ||aga-expo.com^$dnstype=AAAA
+||agedm.org^$dnstype=AAAA
 ||agemys.net^$dnstype=AAAA
 ||agendaweek.com^$dnstype=AAAA
 ||agnesb.fr^$dnstype=AAAA
@@ -889,6 +893,7 @@
 ||akadns.com^$dnstype=AAAA
 ||akadns6.net^$dnstype=AAAA
 ||akadns88.net^$dnstype=AAAA
+||akadns99.net^$dnstype=AAAA
 ||akaeai.com^$dnstype=AAAA
 ||akafms.net^$dnstype=AAAA
 ||akagtm.org^$dnstype=AAAA
@@ -1330,6 +1335,7 @@
 ||ap-mumbai.myqcloud.com^$dnstype=AAAA
 ||ap-seoul.myqcloud.com^$dnstype=AAAA
 ||ap-singapore.myqcloud.com^$dnstype=AAAA
+||ap-southeast-4.myhuaweicloud.com^$dnstype=AAAA
 ||ap-tokyo.myqcloud.com^$dnstype=AAAA
 ||ap.org^$dnstype=AAAA
 ||ap0le.com^$dnstype=AAAA
@@ -6309,6 +6315,7 @@
 ||eu-consumer-empowerment.com^$dnstype=AAAA
 ||eu-frankfurt.myqcloud.com^$dnstype=AAAA
 ||eu-moscow.myqcloud.com^$dnstype=AAAA
+||eu-west-101.myhuaweicloud.com^$dnstype=AAAA
 ||eu.org^$dnstype=AAAA
 ||eubluecardvisa.com^$dnstype=AAAA
 ||eucasino.com^$dnstype=AAAA
@@ -11894,6 +11901,7 @@
 ||mdpi.com^$dnstype=AAAA
 ||mdpj-mov.shop^$dnstype=AAAA
 ||mdpjoin.buzz^$dnstype=AAAA
+||me-east-1.myhuaweicloud.com^$dnstype=AAAA
 ||me-gay.com^$dnstype=AAAA
 ||me.me^$dnstype=AAAA
 ||me.ns.ci^$dnstype=AAAA
@@ -18245,6 +18253,7 @@
 ||tpi.org.tw^$dnstype=AAAA
 ||tpornstars.com^$dnstype=AAAA
 ||tps138.info^$dnstype=AAAA
+||tr-west-1.myhuaweicloud.com^$dnstype=AAAA
 ||tr.com^$dnstype=AAAA
 ||tracfone.com^$dnstype=AAAA
 ||tracking-location.com^$dnstype=AAAA
