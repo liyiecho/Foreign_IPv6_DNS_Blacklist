@@ -3549,6 +3549,7 @@
 ||c4rex.co^$dnstype=AAAA
 ||c4slive.com^$dnstype=AAAA
 ||ca.file.myqcloud.com^$dnstype=AAAA
+||ca.gov^$dnstype=AAAA
 ||cableav.xyz^$dnstype=AAAA
 ||cablegatesearch.net^$dnstype=AAAA
 ||cabletvdirectv.com^$dnstype=AAAA
@@ -5476,6 +5477,7 @@
 ||dopaminegirl.com^$dnstype=AAAA
 ||dorjeshugden.com^$dnstype=AAAA
 ||doseofporn.com^$dnstype=AAAA
+||dot.ca.gov^$dnstype=AAAA
 ||dot.net^$dnstype=AAAA
 ||dotcernpilot.info^$dnstype=AAAA
 ||dotdeb.org^$dnstype=AAAA
@@ -10756,6 +10758,7 @@
 ||jquerymobile.com^$dnstype=AAAA
 ||jqueryui.com^$dnstype=AAAA
 ||jr24h.com^$dnstype=AAAA
+||jrf.org.tw^$dnstype=AAAA
 ||js.org^$dnstype=AAAA
 ||js.revsci.net^$dnstype=AAAA
 ||js7k.com^$dnstype=AAAA
@@ -17200,6 +17203,7 @@
 ||statics-marketingsites-eas-ms-com.akamaized.net^$dnstype=AAAA
 ||statics-marketingsites-eus-ms-com.akamaized.net^$dnstype=AAAA
 ||statics-marketingsites-wcus-ms-com.akamaized.net^$dnstype=AAAA
+||stats.wp.com^$dnstype=AAAA
 ||statsmakemecry.com^$dnstype=AAAA
 ||statueofdemocracy.org^$dnstype=AAAA
 ||staxus.com^$dnstype=AAAA
@@ -19931,6 +19935,7 @@
 ||wrenchead.com^$dnstype=AAAA
 ||wretch.cc^$dnstype=AAAA
 ||writer.zoho.com^$dnstype=AAAA
+||wsimg.com^$dnstype=AAAA
 ||wsj.com^$dnstype=AAAA
 ||wsj.jobs^$dnstype=AAAA
 ||wsj.net^$dnstype=AAAA
