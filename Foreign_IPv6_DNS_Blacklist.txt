@@ -585,6 +585,7 @@
 ||aceros-de-hispania.com^$dnstype=AAAA
 ||acevpn.com^$dnstype=AAAA
 ||acg18.me^$dnstype=AAAA
+||acgbox.link^$dnstype=AAAA
 ||acgbox.org^$dnstype=AAAA
 ||acgcf.com^$dnstype=AAAA
 ||acgdg.com^$dnstype=AAAA
@@ -2713,6 +2714,7 @@
 ||bingagencyawards.com^$dnstype=AAAA
 ||bingapis.com^$dnstype=AAAA
 ||bingapistatistics.com^$dnstype=AAAA
+||bingparachute.com^$dnstype=AAAA
 ||bingsandbox.com^$dnstype=AAAA
 ||bingsettingssearch.trafficmanager.net^$dnstype=AAAA
 ||bingvisualsearch.com^$dnstype=AAAA
@@ -8043,6 +8045,7 @@
 ||globalriskregulator.com^$dnstype=AAAA
 ||globalsecurity.org^$dnstype=AAAA
 ||globalsign-media.com^$dnstype=AAAA
+||globalsign.cloud^$dnstype=AAAA
 ||globalsign.net^$dnstype=AAAA
 ||globalspec.com^$dnstype=AAAA
 ||globaltm.org^$dnstype=AAAA
@@ -19640,6 +19643,7 @@
 ||wetplace.com^$dnstype=AAAA
 ||wetpussygames.com^$dnstype=AAAA
 ||wetsextube.com^$dnstype=AAAA
+||wetv.qq.com^$dnstype=AAAA
 ||wexiaobo.org^$dnstype=AAAA
 ||wezhiyong.org^$dnstype=AAAA
 ||wezone.net^$dnstype=AAAA
