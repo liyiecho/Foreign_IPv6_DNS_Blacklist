@@ -11436,6 +11436,7 @@
 ||lmlicenses.wip4.adobe.com^$dnstype=AAAA
 ||lmm167.shop^$dnstype=AAAA
 ||lmmbtc.com^$dnstype=AAAA
+||lmsys.org^$dnstype=AAAA
 ||lncn.org^$dnstype=AAAA
 ||lnstagram-help.com^$dnstype=AAAA
 ||load.to^$dnstype=AAAA
