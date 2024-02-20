@@ -9551,6 +9551,7 @@
 ||huluteam.com^$dnstype=AAAA
 ||hulutv.com^$dnstype=AAAA
 ||huluusa.com^$dnstype=AAAA
+||humanparty.me^$dnstype=AAAA
 ||humanrightsbriefing.org^$dnstype=AAAA
 ||humanrightspressawards.org^$dnstype=AAAA
 ||humblebundle.com^$dnstype=AAAA
