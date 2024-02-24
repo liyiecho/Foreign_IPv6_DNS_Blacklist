@@ -5520,7 +5520,6 @@
 ||com.om^$dnstype=AAAA
 ||com.pa^$dnstype=AAAA
 ||com.pg^$dnstype=AAAA
-||com.ph^$dnstype=AAAA
 ||com.pl^$dnstype=AAAA
 ||com.pr^$dnstype=AAAA
 ||com.pt^$dnstype=AAAA
@@ -5534,7 +5533,6 @@
 ||com.sv^$dnstype=AAAA
 ||com.tj^$dnstype=AAAA
 ||com.tn^$dnstype=AAAA
-||com.tr^$dnstype=AAAA
 ||com.tt^$dnstype=AAAA
 ||com.ua^$dnstype=AAAA
 ||com.uk^$dnstype=AAAA
@@ -9641,7 +9639,6 @@
 ||globalsign.ch^$dnstype=AAAA
 ||globalsign.cloud^$dnstype=AAAA
 ||globalsign.co.uk^$dnstype=AAAA
-||globalsign.com^$dnstype=AAAA
 ||globalsign.com.au^$dnstype=AAAA
 ||globalsign.com.br^$dnstype=AAAA
 ||globalsign.com.hk^$dnstype=AAAA
@@ -9724,7 +9721,6 @@
 ||gofundme.com^$dnstype=AAAA
 ||gog-statics.com^$dnstype=AAAA
 ||gog.com^$dnstype=AAAA
-||gog.qtlglb.com^$dnstype=AAAA
 ||gogle.com^$dnstype=AAAA
 ||gogle.de^$dnstype=AAAA
 ||gogo-load.com^$dnstype=AAAA
@@ -12526,7 +12522,6 @@
 ||iyouport.org^$dnstype=AAAA
 ||iza.ne.jp^$dnstype=AAAA
 ||izaobao.us^$dnstype=AAAA
-||izatcloud.net^$dnstype=AAAA
 ||izihost.org^$dnstype=AAAA
 ||izles.net^$dnstype=AAAA
 ||izlesem.org^$dnstype=AAAA
@@ -14983,7 +14978,6 @@
 ||moeero-library.com^$dnstype=AAAA
 ||moeerolibrary.com^$dnstype=AAAA
 ||moefuns.co^$dnstype=AAAA
-||moegirl.org^$dnstype=AAAA
 ||moeimg.net^$dnstype=AAAA
 ||moemax.net^$dnstype=AAAA
 ||moez-m.com^$dnstype=AAAA
@@ -16330,7 +16324,6 @@
 ||ntp.nat.ms^$dnstype=AAAA
 ||ntp.nic.cz^$dnstype=AAAA
 ||ntp.nict.jp^$dnstype=AAAA
-||ntp.org^$dnstype=AAAA
 ||ntp.ripe.net^$dnstype=AAAA
 ||ntp.se^$dnstype=AAAA
 ||ntp.ufe.cz^$dnstype=AAAA
@@ -16833,7 +16826,6 @@
 ||org.cn^$dnstype=AAAA
 ||org.hk^$dnstype=AAAA
 ||org.il^$dnstype=AAAA
-||org.in^$dnstype=AAAA
 ||org.mx^$dnstype=AAAA
 ||org.nz^$dnstype=AAAA
 ||org.sg^$dnstype=AAAA
@@ -23616,7 +23608,6 @@
 ||weblive-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||webmoneyinfo.com^$dnstype=AAAA
 ||webmproject.org^$dnstype=AAAA
-||webnovel.com^$dnstype=AAAA
 ||webobjects.co.uk^$dnstype=AAAA
 ||webobjects.com^$dnstype=AAAA
 ||webobjects.de^$dnstype=AAAA
