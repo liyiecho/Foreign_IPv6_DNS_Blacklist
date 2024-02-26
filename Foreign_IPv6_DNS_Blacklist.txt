@@ -13884,6 +13884,7 @@
 ||macgamestore.com^$dnstype=AAAA
 ||mach-os.com^$dnstype=AAAA
 ||mach-os.net^$dnstype=AAAA
+||machbbs.com^$dnstype=AAAA
 ||machigle-sp.com^$dnstype=AAAA
 ||machigoto.jp^$dnstype=AAAA
 ||machogaytube.com^$dnstype=AAAA
