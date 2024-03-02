@@ -1634,6 +1634,7 @@
 ||apkmonk.com^$dnstype=AAAA
 ||apkplz.com^$dnstype=AAAA
 ||apkpure.com^$dnstype=AAAA
+||apkpure.net^$dnstype=AAAA
 ||apl-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||aple.com^$dnstype=AAAA
 ||aplestore.com^$dnstype=AAAA
@@ -5618,6 +5619,8 @@
 ||coobay.com^$dnstype=AAAA
 ||cooer.su^$dnstype=AAAA
 ||cookiechoices.org^$dnstype=AAAA
+||cookielaw.org^$dnstype=AAAA
+||cookiepro.com^$dnstype=AAAA
 ||cool-comics.com^$dnstype=AAAA
 ||cool18.com^$dnstype=AAAA
 ||coolaler.com^$dnstype=AAAA
