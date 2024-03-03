@@ -6398,7 +6398,6 @@
 ||disney-asia.com^$dnstype=AAAA
 ||disney-discount.com^$dnstype=AAAA
 ||disney-plus.net^$dnstype=AAAA
-||disney-portal.my.onetrust.com^$dnstype=AAAA
 ||disney-studio.com^$dnstype=AAAA
 ||disney-studio.net^$dnstype=AAAA
 ||disney.asia^$dnstype=AAAA
