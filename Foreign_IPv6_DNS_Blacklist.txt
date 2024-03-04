@@ -11924,7 +11924,6 @@
 ||insendi.com^$dnstype=AAAA
 ||inshot.cc^$dnstype=AAAA
 ||inshot.com^$dnstype=AAAA
-||inshotapp.com^$dnstype=AAAA
 ||inside.com.tw^$dnstype=AAAA
 ||insidefilms.com^$dnstype=AAAA
 ||insidemacintosh.com^$dnstype=AAAA
@@ -12878,6 +12877,7 @@
 ||jornaldacidadeonline.com.br^$dnstype=AAAA
 ||jorropo.net^$dnstype=AAAA
 ||jos.com^$dnstype=AAAA
+||jotform.com^$dnstype=AAAA
 ||journalchretien.net^$dnstype=AAAA
 ||journalofdemocracy.org^$dnstype=AAAA
 ||jove.com^$dnstype=AAAA
