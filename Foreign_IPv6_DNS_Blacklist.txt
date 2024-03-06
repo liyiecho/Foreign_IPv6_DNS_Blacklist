@@ -15700,6 +15700,7 @@
 ||nekoslovakia.net^$dnstype=AAAA
 ||nekoxxx.com^$dnstype=AAAA
 ||nemesis2.qx.net^$dnstype=AAAA
+||nengcard.com^$dnstype=AAAA
 ||nenitas.club^$dnstype=AAAA
 ||nentindo.net^$dnstype=AAAA
 ||neo-miracle.com^$dnstype=AAAA
