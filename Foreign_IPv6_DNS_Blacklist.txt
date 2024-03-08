@@ -2027,6 +2027,7 @@
 ||archive.fo^$dnstype=AAAA
 ||archive.is^$dnstype=AAAA
 ||archive.li^$dnstype=AAAA
+||archive.md^$dnstype=AAAA
 ||archive.org^$dnstype=AAAA
 ||archive.ph^$dnstype=AAAA
 ||archive.today^$dnstype=AAAA
@@ -25390,6 +25391,7 @@
 ||yyfb.cyou^$dnstype=AAAA
 ||yyii.org^$dnstype=AAAA
 ||yyjlymb.xyz^$dnstype=AAAA
+||yysub.net^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
