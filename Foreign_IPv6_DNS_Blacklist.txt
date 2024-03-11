@@ -1652,6 +1652,7 @@
 ||app.cloudcone.com^$dnstype=AAAA
 ||app.evozi.com^$dnstype=AAAA
 ||app.heywire.com^$dnstype=AAAA
+||app.link^$dnstype=AAAA
 ||app.smartmailcloud.com^$dnstype=AAAA
 ||app.smartsheet.com^$dnstype=AAAA
 ||app.tutanota.com^$dnstype=AAAA
@@ -2614,6 +2615,7 @@
 ||bbc.co.uk^$dnstype=AAAA
 ||bbc.com^$dnstype=AAAA
 ||bbc.in^$dnstype=AAAA
+||bbc.mp-pxcdn.com^$dnstype=AAAA
 ||bbc.net.uk^$dnstype=AAAA
 ||bbcchinese.com^$dnstype=AAAA
 ||bbchat.tv^$dnstype=AAAA
@@ -4819,6 +4821,7 @@
 ||cfake.com^$dnstype=AAAA
 ||cfblob.com^$dnstype=AAAA
 ||cfhks.org.hk^$dnstype=AAAA
+||cfl.re^$dnstype=AAAA
 ||cfna.com^$dnstype=AAAA
 ||cfos.de^$dnstype=AAAA
 ||cfr.org^$dnstype=AAAA
@@ -14976,6 +14979,7 @@
 ||modeltv.com^$dnstype=AAAA
 ||modernchinastudies.org^$dnstype=AAAA
 ||modmyi.com^$dnstype=AAAA
+||modperl.pl^$dnstype=AAAA
 ||modrinth.com^$dnstype=AAAA
 ||modular.im^$dnstype=AAAA
 ||moeaic.gov.tw^$dnstype=AAAA
@@ -15188,6 +15192,7 @@
 ||mozillademos.org^$dnstype=AAAA
 ||mozit.cloud^$dnstype=AAAA
 ||moztw.org^$dnstype=AAAA
+||mp-pxcdn.com^$dnstype=AAAA
 ||mp3buscador.com^$dnstype=AAAA
 ||mp3ye.eu^$dnstype=AAAA
 ||mpettis.com^$dnstype=AAAA
@@ -16605,6 +16610,9 @@
 ||okex.com^$dnstype=AAAA
 ||okk.tw^$dnstype=AAAA
 ||okkisokuho.com^$dnstype=AAAA
+||okx-dns.com^$dnstype=AAAA
+||okx-dns1.com^$dnstype=AAAA
+||okx-dns2.com^$dnstype=AAAA
 ||okx.com^$dnstype=AAAA
 ||olabloga.pl^$dnstype=AAAA
 ||old-cat.net^$dnstype=AAAA
@@ -18746,6 +18754,7 @@
 ||redchinacn.net^$dnstype=AAAA
 ||redchinacn.org^$dnstype=AAAA
 ||redd.it^$dnstype=AAAA
+||reddit.app.link^$dnstype=AAAA
 ||reddit.com^$dnstype=AAAA
 ||redditlist.com^$dnstype=AAAA
 ||redditmail.com^$dnstype=AAAA
@@ -20973,6 +20982,8 @@
 ||taiav.com^$dnstype=AAAA
 ||tail-f.com^$dnstype=AAAA
 ||tailf.com^$dnstype=AAAA
+||tailscale.com^$dnstype=AAAA
+||tailscale.io^$dnstype=AAAA
 ||tailwindtraders.com^$dnstype=AAAA
 ||taiolongdh.sbs^$dnstype=AAAA
 ||taipei.gov.tw^$dnstype=AAAA
@@ -21898,6 +21909,7 @@
 ||tryrating.com^$dnstype=AAAA
 ||tryst.link^$dnstype=AAAA
 ||ts.la^$dnstype=AAAA
+||ts.net^$dnstype=AAAA
 ||tsctv.net^$dnstype=AAAA
 ||tsdr.uspto.gov^$dnstype=AAAA
 ||tsemtulku.com^$dnstype=AAAA
