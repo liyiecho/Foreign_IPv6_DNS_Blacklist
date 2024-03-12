@@ -11774,6 +11774,7 @@
 ||imagecurl.org^$dnstype=AAAA
 ||imagefap.com^$dnstype=AAAA
 ||imageflea.com^$dnstype=AAAA
+||imageglass.org^$dnstype=AAAA
 ||imagepost.com^$dnstype=AAAA
 ||images-gaytube.com^$dnstype=AAAA
 ||images.comico.tw^$dnstype=AAAA
