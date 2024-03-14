@@ -4408,6 +4408,7 @@
 ||cablegatesearch.net^$dnstype=AAAA
 ||cabletv.com.hk^$dnstype=AAAA
 ||cabletvdirectv.com^$dnstype=AAAA
+||cachefly.com^$dnstype=AAAA
 ||cachefly.net^$dnstype=AAAA
 ||cachinese.com^$dnstype=AAAA
 ||cacnw.com^$dnstype=AAAA
@@ -5593,6 +5594,7 @@
 ||conan.xxx^$dnstype=AAAA
 ||conda.io^$dnstype=AAAA
 ||conductrics.com^$dnstype=AAAA
+||congyu.moe^$dnstype=AAAA
 ||connaissancesfinancierespratiques.ca^$dnstype=AAAA
 ||connect-in-canada.com^$dnstype=AAAA
 ||connect.facebook.net^$dnstype=AAAA
@@ -17627,7 +17629,10 @@
 ||playsexygame.com^$dnstype=AAAA
 ||playshow.io^$dnstype=AAAA
 ||playshowtv.com^$dnstype=AAAA
+||playstation.com^$dnstype=AAAA
 ||playstation.com.hk^$dnstype=AAAA
+||playstation.net^$dnstype=AAAA
+||playstationnetwork.com^$dnstype=AAAA
 ||playvalorant.com^$dnstype=AAAA
 ||playvids.com^$dnstype=AAAA
 ||playwarcraft3.com^$dnstype=AAAA
