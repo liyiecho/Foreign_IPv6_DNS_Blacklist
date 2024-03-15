@@ -598,6 +598,7 @@
 ||aapl.tw^$dnstype=AAAA
 ||aave.com^$dnstype=AAAA
 ||aavs.xyz^$dnstype=AAAA
+||ab.chatgpt.com^$dnstype=AAAA
 ||abbywintersfree.com^$dnstype=AAAA
 ||abc-studios.com^$dnstype=AAAA
 ||abc.com^$dnstype=AAAA
