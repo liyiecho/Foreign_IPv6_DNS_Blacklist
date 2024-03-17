@@ -5228,6 +5228,7 @@
 ||cloakpoint.com^$dnstype=AAAA
 ||clock.isc.org^$dnstype=AAAA
 ||clojure.org^$dnstype=AAAA
+||clonoth.com^$dnstype=AAAA
 ||cloud.cupronickel.goog^$dnstype=AAAA
 ||cloud.mail.ru^$dnstype=AAAA
 ||cloud.oracle.com^$dnstype=AAAA
@@ -17487,6 +17488,7 @@
 ||pinflix.com^$dnstype=AAAA
 ||ping.fm^$dnstype=AAAA
 ||ping.pe^$dnstype=AAAA
+||ping.sx^$dnstype=AAAA
 ||pingguotv.xyz^$dnstype=AAAA
 ||pingxiangpuer.com^$dnstype=AAAA
 ||pinimg.com^$dnstype=AAAA
@@ -18315,6 +18317,7 @@
 ||pu82.vip^$dnstype=AAAA
 ||public-sex-porn.com^$dnstype=AAAA
 ||public-trust.com^$dnstype=AAAA
+||public-us-pingsx.api.clonoth.com^$dnstype=AAAA
 ||publicagentxxx.com^$dnstype=AAAA
 ||publichealthdepartment.info^$dnstype=AAAA
 ||publicpornvideo.com^$dnstype=AAAA
@@ -21597,6 +21600,8 @@
 ||tiktokcdn-us.com^$dnstype=AAAA
 ||tiktokcdn.com^$dnstype=AAAA
 ||tiktokv.com^$dnstype=AAAA
+||tiktokv.us^$dnstype=AAAA
+||tiktokw.us^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
 ||timdir.com^$dnstype=AAAA
 ||time.com^$dnstype=AAAA
