@@ -193,6 +193,7 @@
 ||2019baidu.xyz^$dnstype=AAAA
 ||2021hkcharter.com^$dnstype=AAAA
 ||2022.dev^$dnstype=AAAA
+||2023aga.oen.tw^$dnstype=AAAA
 ||2047.name^$dnstype=AAAA
 ||20thcenturystudios.com.au^$dnstype=AAAA
 ||20thcenturystudios.com.br^$dnstype=AAAA
@@ -5614,6 +5615,7 @@
 ||corumcollege.com^$dnstype=AAAA
 ||cos-moe.com^$dnstype=AAAA
 ||cosca.myqcloud.com^$dnstype=AAAA
+||cosfans-tw.com^$dnstype=AAAA
 ||cosger.myqcloud.com^$dnstype=AAAA
 ||coshk.myqcloud.com^$dnstype=AAAA
 ||cosmic.monar.ch^$dnstype=AAAA
@@ -16369,6 +16371,7 @@
 ||oculusvr.com^$dnstype=AAAA
 ||odysee.com^$dnstype=AAAA
 ||oed.com^$dnstype=AAAA
+||oen.tw^$dnstype=AAAA
 ||oex.com^$dnstype=AAAA
 ||offbeatchina.com^$dnstype=AAAA
 ||offerairjordanlebron.com^$dnstype=AAAA
