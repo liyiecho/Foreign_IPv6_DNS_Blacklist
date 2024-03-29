@@ -1975,6 +1975,7 @@
 ||applw.com^$dnstype=AAAA
 ||appmediagroup.com^$dnstype=AAAA
 ||approvedusedbmw.com^$dnstype=AAAA
+||apps.evozi.com^$dnstype=AAAA
 ||appsflayer.com^$dnstype=AAAA
 ||appshopper.com^$dnstype=AAAA
 ||appsocks.net^$dnstype=AAAA
@@ -2013,6 +2014,7 @@
 ||archive.fo^$dnstype=AAAA
 ||archive.is^$dnstype=AAAA
 ||archive.li^$dnstype=AAAA
+||archive.md^$dnstype=AAAA
 ||archive.org^$dnstype=AAAA
 ||archive.ph^$dnstype=AAAA
 ||archive.today^$dnstype=AAAA
@@ -5056,6 +5058,7 @@
 ||ci-en.jp^$dnstype=AAAA
 ||ci-en.net^$dnstype=AAAA
 ||ciattackers.com^$dnstype=AAAA
+||ciciai.com^$dnstype=AAAA
 ||cienen.com^$dnstype=AAAA
 ||cilk.com^$dnstype=AAAA
 ||cilk.net^$dnstype=AAAA
@@ -15628,6 +15631,7 @@
 ||news.cnyes.com^$dnstype=AAAA
 ||news.co.uk^$dnstype=AAAA
 ||news.com.au^$dnstype=AAAA
+||news.ebc.net.tw^$dnstype=AAAA
 ||news.hk.msn.com^$dnstype=AAAA
 ||news.msn.com.tw^$dnstype=AAAA
 ||news.nationalgeographic.com^$dnstype=AAAA
