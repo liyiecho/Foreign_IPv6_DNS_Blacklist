@@ -657,6 +657,7 @@
 ||accountpaypal.com^$dnstype=AAAA
 ||accountpaypal.net^$dnstype=AAAA
 ||accountpaypal.org^$dnstype=AAAA
+||accounts.googlers.com^$dnstype=AAAA
 ||accuweather.com^$dnstype=AAAA
 ||accv.es^$dnstype=AAAA
 ||acebooik.com^$dnstype=AAAA
@@ -9288,6 +9289,7 @@
 ||gcmasia.com^$dnstype=AAAA
 ||gcolle.net^$dnstype=AAAA
 ||gcpnews.com^$dnstype=AAAA
+||gcpnode.com^$dnstype=AAAA
 ||gcr.io^$dnstype=AAAA
 ||gcrtires.com^$dnstype=AAAA
 ||gdansk-amazon.com^$dnstype=AAAA
@@ -9955,6 +9957,7 @@
 ||googlephotos.com^$dnstype=AAAA
 ||googleplay.com^$dnstype=AAAA
 ||googleplus.com^$dnstype=AAAA
+||googlers.com^$dnstype=AAAA
 ||googlescholar.comusa^$dnstype=AAAA
 ||googlesile.com^$dnstype=AAAA
 ||googlesource.com^$dnstype=AAAA
@@ -22117,6 +22120,7 @@
 ||uocn.org^$dnstype=AAAA
 ||uoherald.com^$dnstype=AAAA
 ||uoutside.org^$dnstype=AAAA
+||up.gcp.googlers.com^$dnstype=AAAA
 ||up01.cc^$dnstype=AAAA
 ||upcoming.yahoo.com^$dnstype=AAAA
 ||updates.tdesktop.com^$dnstype=AAAA
