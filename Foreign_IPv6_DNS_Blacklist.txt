@@ -7445,6 +7445,7 @@
 ||epizy.com^$dnstype=AAAA
 ||epoch.cloud^$dnstype=AAAA
 ||epoch.org.il^$dnstype=AAAA
+||epochbase.com^$dnstype=AAAA
 ||epochbuy.com^$dnstype=AAAA
 ||epochcar.com^$dnstype=AAAA
 ||epochhk.com^$dnstype=AAAA
