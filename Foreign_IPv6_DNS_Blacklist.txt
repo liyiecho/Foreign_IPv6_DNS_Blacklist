@@ -389,6 +389,7 @@
 ||5mb48g.com^$dnstype=AAAA
 ||5mo.fun^$dnstype=AAAA
 ||5q5zu9f1.me^$dnstype=AAAA
+||5w.ag^$dnstype=AAAA
 ||6-ar.com^$dnstype=AAAA
 ||60plusmilfs.com^$dnstype=AAAA
 ||61jxbs42.xyz^$dnstype=AAAA
@@ -5392,7 +5393,6 @@
 ||coinex.com^$dnstype=AAAA
 ||coingecko.com^$dnstype=AAAA
 ||coingi.com^$dnstype=AAAA
-||coinglass.com^$dnstype=AAAA
 ||coinmap.org^$dnstype=AAAA
 ||coinmarketcap.com^$dnstype=AAAA
 ||coinone.co.kr^$dnstype=AAAA
@@ -20632,6 +20632,7 @@
 ||svscomics.com^$dnstype=AAAA
 ||svsfx.com^$dnstype=AAAA
 ||svsgames.org^$dnstype=AAAA
+||swag-live.co^$dnstype=AAAA
 ||swag.live^$dnstype=AAAA
 ||swagbucks.com^$dnstype=AAAA
 ||swapsmut.com^$dnstype=AAAA
@@ -25137,6 +25138,7 @@
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
+||z-library.se^$dnstype=AAAA
 ||z00.world^$dnstype=AAAA
 ||z18r.co^$dnstype=AAAA
 ||z18r.com^$dnstype=AAAA
