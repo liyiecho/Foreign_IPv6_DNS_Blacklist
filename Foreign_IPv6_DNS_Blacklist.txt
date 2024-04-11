@@ -12665,7 +12665,12 @@
 ||jitpack.io^$dnstype=AAAA
 ||jitsi.org^$dnstype=AAAA
 ||jiuse.ai^$dnstype=AAAA
+||jiuse.com.co^$dnstype=AAAA
 ||jiuse.icu^$dnstype=AAAA
+||jiuse.io^$dnstype=AAAA
+||jiuse821.com^$dnstype=AAAA
+||jiuse822.com^$dnstype=AAAA
+||jiuse823.com^$dnstype=AAAA
 ||jiuse904.com^$dnstype=AAAA
 ||jiuse905.com^$dnstype=AAAA
 ||jiuzhouyihuo.com^$dnstype=AAAA
@@ -12766,6 +12771,9 @@
 ||jshell.net^$dnstype=AAAA
 ||jshint.com^$dnstype=AAAA
 ||jstage.jst.go.jp^$dnstype=AAAA
+||jstv51.com^$dnstype=AAAA
+||jstv52.com^$dnstype=AAAA
+||jstv53.com^$dnstype=AAAA
 ||jsz91.com^$dnstype=AAAA
 ||jtube.space^$dnstype=AAAA
 ||jtvnw.net^$dnstype=AAAA
@@ -18421,8 +18429,8 @@
 ||rawgithub.com^$dnstype=AAAA
 ||raxcdn.com^$dnstype=AAAA
 ||razer.com^$dnstype=AAAA
+||razerofficial.com^$dnstype=AAAA
 ||razersupport.com^$dnstype=AAAA
-||razerzone.com^$dnstype=AAAA
 ||razerzone.jp^$dnstype=AAAA
 ||razyboard.com^$dnstype=AAAA
 ||rb-crisis.com^$dnstype=AAAA
@@ -19198,6 +19206,7 @@
 ||sego8.co^$dnstype=AAAA
 ||sego8.xyz^$dnstype=AAAA
 ||sehuatang.net^$dnstype=AAAA
+||sehuatang.org^$dnstype=AAAA
 ||seiroganmania.com^$dnstype=AAAA
 ||seiron-sankei.com^$dnstype=AAAA
 ||sejie.com^$dnstype=AAAA
@@ -19656,6 +19665,7 @@
 ||sidelinessportseatery.com^$dnstype=AAAA
 ||siege-amazon.com^$dnstype=AAAA
 ||sierrafriendsoftibet.org^$dnstype=AAAA
+||sifangclub.com^$dnstype=AAAA
 ||sigmoidoscopeexam.com^$dnstype=AAAA
 ||sign.new^$dnstype=AAAA
 ||signal.art^$dnstype=AAAA
