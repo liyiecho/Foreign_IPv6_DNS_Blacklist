@@ -3388,7 +3388,6 @@
 ||blogo.jp^$dnstype=AAAA
 ||blogoverflow.com^$dnstype=AAAA
 ||blogs.com^$dnstype=AAAA
-||blogs.icerocket.com^$dnstype=AAAA
 ||blogs.libraryinformationtechnology.com^$dnstype=AAAA
 ||blogs.tampabay.com^$dnstype=AAAA
 ||blogs.yahoo.co.jp^$dnstype=AAAA
@@ -11307,6 +11306,7 @@
 ||icams.com^$dnstype=AAAA
 ||icashpassport.com.mx^$dnstype=AAAA
 ||ice.audionow.com^$dnstype=AAAA
+||icedrive.net^$dnstype=AAAA
 ||icegay.tv^$dnstype=AAAA
 ||icegaytube.tv^$dnstype=AAAA
 ||iceporn.com^$dnstype=AAAA
