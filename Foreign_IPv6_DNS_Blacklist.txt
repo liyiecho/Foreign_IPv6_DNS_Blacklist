@@ -210,6 +210,7 @@
 ||228.net.tw^$dnstype=AAAA
 ||233abc.com^$dnstype=AAAA
 ||2371tom.com^$dnstype=AAAA
+||249dw7.cn^$dnstype=AAAA
 ||24hjav.com^$dnstype=AAAA
 ||24hrs.ca^$dnstype=AAAA
 ||24porn.com^$dnstype=AAAA
@@ -5169,6 +5170,7 @@
 ||clien.net^$dnstype=AAAA
 ||client-teamviewer-com.trafficmanager.net^$dnstype=AAAA
 ||clients1.google.com^$dnstype=AAAA
+||clincha.cn^$dnstype=AAAA
 ||cling.omy.sg^$dnstype=AAAA
 ||clinica-tibet.ru^$dnstype=AAAA
 ||clinical-videos.com^$dnstype=AAAA
@@ -6830,6 +6832,7 @@
 ||dump.xxx^$dnstype=AAAA
 ||dumps69.com^$dnstype=AAAA
 ||dumpxxx.net^$dnstype=AAAA
+||dungeonkeeper.cn^$dnstype=AAAA
 ||dungeonkeeper.com^$dnstype=AAAA
 ||dunyabulteni.net^$dnstype=AAAA
 ||duolaapian126.xyz^$dnstype=AAAA
@@ -8333,6 +8336,7 @@
 ||fgmtv.net^$dnstype=AAAA
 ||fgmtv.org^$dnstype=AAAA
 ||fhreports.net^$dnstype=AAAA
+||fi11.cn^$dnstype=AAAA
 ||fi11.com^$dnstype=AAAA
 ||fi11av1.com^$dnstype=AAAA
 ||fi11tv1.com^$dnstype=AAAA
@@ -11589,6 +11593,7 @@
 ||illusionas.com^$dnstype=AAAA
 ||illusionchn.com^$dnstype=AAAA
 ||illusionfactory.com^$dnstype=AAAA
+||illusionfb.cn^$dnstype=AAAA
 ||illusiongw.com^$dnstype=AAAA
 ||illusionh.com^$dnstype=AAAA
 ||illusionl.com^$dnstype=AAAA
@@ -15101,6 +15106,7 @@
 ||muchomasporno.com^$dnstype=AAAA
 ||muchosucko.com^$dnstype=AAAA
 ||mucinex.ca^$dnstype=AAAA
+||mucinex.cn^$dnstype=AAAA
 ||mucinex.co.nz^$dnstype=AAAA
 ||mucinex.com^$dnstype=AAAA
 ||mucinex.net^$dnstype=AAAA
@@ -18285,6 +18291,7 @@
 ||qualcommlabs.com^$dnstype=AAAA
 ||qualcommmea.com^$dnstype=AAAA
 ||qualcommretail.com^$dnstype=AAAA
+||qualcommventures.cn^$dnstype=AAAA
 ||qualcommventures.com^$dnstype=AAAA
 ||qualphone.com^$dnstype=AAAA
 ||quanben-xiaoshuo.com^$dnstype=AAAA
@@ -18658,6 +18665,7 @@
 ||reut.rs^$dnstype=AAAA
 ||reuters.com^$dnstype=AAAA
 ||reuters.tv^$dnstype=AAAA
+||reutersagency.cn^$dnstype=AAAA
 ||reutersmedia.net^$dnstype=AAAA
 ||revenue-performance-management.com^$dnstype=AAAA
 ||revleft.com^$dnstype=AAAA
@@ -19253,6 +19261,7 @@
 ||service-now.com^$dnstype=AAAA
 ||services-apple.net^$dnstype=AAAA
 ||services-exchange.com^$dnstype=AAAA
+||services.googleapis.cn^$dnstype=AAAA
 ||serviceshp.com^$dnstype=AAAA
 ||servicetalk.io^$dnstype=AAAA
 ||serviporno.com^$dnstype=AAAA
@@ -19873,6 +19882,7 @@
 ||snapads.com^$dnstype=AAAA
 ||snapchat.com^$dnstype=AAAA
 ||snapcraft.io^$dnstype=AAAA
+||snapdragon.cn^$dnstype=AAAA
 ||snapdragonbooth.com^$dnstype=AAAA
 ||snapkit.co^$dnstype=AAAA
 ||snapseed.com^$dnstype=AAAA
@@ -21207,6 +21217,7 @@
 ||thlib.org^$dnstype=AAAA
 ||thomasbernhard.org^$dnstype=AAAA
 ||thomsonreuters.ca^$dnstype=AAAA
+||thomsonreuters.cn^$dnstype=AAAA
 ||thomsonreuters.co.jp^$dnstype=AAAA
 ||thomsonreuters.co.kr^$dnstype=AAAA
 ||thomsonreuters.co.nz^$dnstype=AAAA
@@ -24227,6 +24238,7 @@
 ||xn--xsq959n.com^$dnstype=AAAA
 ||xn--yf1at58a.com^$dnstype=AAAA
 ||xn--yt8h.la^$dnstype=AAAA
+||xn--ztsq84g.cn^$dnstype=AAAA
 ||xnalgas.com^$dnstype=AAAA
 ||xnertv.shop^$dnstype=AAAA
 ||xnostars.com^$dnstype=AAAA
@@ -24785,6 +24797,7 @@
 ||yinya.shop^$dnstype=AAAA
 ||yipub.com^$dnstype=AAAA
 ||yiqiedoushiganggangkaishi.org^$dnstype=AAAA
+||yiqilai99.cn^$dnstype=AAAA
 ||yiyechat.com^$dnstype=AAAA
 ||yizhihongxing.com^$dnstype=AAAA
 ||yjcontentdelivery.com^$dnstype=AAAA
@@ -25145,6 +25158,7 @@
 ||yyfb.cyou^$dnstype=AAAA
 ||yyii.org^$dnstype=AAAA
 ||yyjlymb.xyz^$dnstype=AAAA
+||yyyzgdl.cn^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
