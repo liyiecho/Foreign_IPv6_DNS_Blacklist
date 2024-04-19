@@ -4715,6 +4715,7 @@
 ||cdn.helixstudios.net^$dnstype=AAAA
 ||cdn.js7k.com^$dnstype=AAAA
 ||cdn.jsdelivr.net^$dnstype=AAAA
+||cdn.jwplayer.com^$dnstype=AAAA
 ||cdn.printfriendly.com^$dnstype=AAAA
 ||cdn.seatguru.com^$dnstype=AAAA
 ||cdn.segment.com^$dnstype=AAAA
@@ -7628,6 +7629,7 @@
 ||etherdelta.com^$dnstype=AAAA
 ||ethereum.foundation^$dnstype=AAAA
 ||ethereum.org^$dnstype=AAAA
+||ethermine.org^$dnstype=AAAA
 ||etherscan.io^$dnstype=AAAA
 ||etizer.org^$dnstype=AAAA
 ||etnet.com.hk^$dnstype=AAAA
@@ -7741,6 +7743,7 @@
 ||f-dro1d.org^$dnstype=AAAA
 ||f-droid.com^$dnstype=AAAA
 ||f-droid.org^$dnstype=AAAA
+||f2pool.com^$dnstype=AAAA
 ||f3b7q2p3.ssl.hwcdn.net^$dnstype=AAAA
 ||f5pf.com^$dnstype=AAAA
 ||f6988.com^$dnstype=AAAA
@@ -11074,6 +11077,7 @@
 ||hrea.org^$dnstype=AAAA
 ||hrecords.jp^$dnstype=AAAA
 ||hrichina.org^$dnstype=AAAA
+||hrntt.org^$dnstype=AAAA
 ||hrsaz.com^$dnstype=AAAA
 ||hrtsea.com^$dnstype=AAAA
 ||hrw.org^$dnstype=AAAA
@@ -15066,6 +15070,7 @@
 ||mschallenge2018.com^$dnstype=AAAA
 ||mscrl.microsoft.com^$dnstype=AAAA
 ||msdn.com^$dnstype=AAAA
+||msedge.net^$dnstype=AAAA
 ||msflj.vip^$dnstype=AAAA
 ||msft.info^$dnstype=AAAA
 ||msft.net^$dnstype=AAAA
@@ -16106,6 +16111,7 @@
 ||npa.go.jp^$dnstype=AAAA
 ||npa.gov.tw^$dnstype=AAAA
 ||npm.community^$dnstype=AAAA
+||npm.gov.tw^$dnstype=AAAA
 ||npmjs.com^$dnstype=AAAA
 ||npmjs.org^$dnstype=AAAA
 ||npnt.me^$dnstype=AAAA
@@ -17921,6 +17927,7 @@
 ||potatso.com^$dnstype=AAAA
 ||potenza.jp^$dnstype=AAAA
 ||potvpn.com^$dnstype=AAAA
+||pourquoi.tw^$dnstype=AAAA
 ||povpornonly.com^$dnstype=AAAA
 ||povr.com^$dnstype=AAAA
 ||power.com^$dnstype=AAAA
@@ -25172,6 +25179,7 @@
 ||zacebook.com^$dnstype=AAAA
 ||zakzak.co.jp^$dnstype=AAAA
 ||zalmos.com^$dnstype=AAAA
+||zamimg.com^$dnstype=AAAA
 ||zannel.com^$dnstype=AAAA
 ||zaobao.com^$dnstype=AAAA
 ||zaobao.com.sg^$dnstype=AAAA
