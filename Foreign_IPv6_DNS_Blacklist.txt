@@ -1052,8 +1052,6 @@
 ||akademiye.org^$dnstype=AAAA
 ||akadns.com^$dnstype=AAAA
 ||akadns6.net^$dnstype=AAAA
-||akadns88.net^$dnstype=AAAA
-||akadns99.net^$dnstype=AAAA
 ||akaeai.com^$dnstype=AAAA
 ||akafms.net^$dnstype=AAAA
 ||akagtm.org^$dnstype=AAAA
@@ -5298,6 +5296,7 @@
 ||cnbbnews.wordpress.com^$dnstype=AAAA
 ||cnbc.com^$dnstype=AAAA
 ||cnbcfm.com^$dnstype=AAAA
+||cnbeta.com.tw^$dnstype=AAAA
 ||cncrivals.com^$dnstype=AAAA
 ||cnd.org^$dnstype=AAAA
 ||cnet.com^$dnstype=AAAA
@@ -7246,7 +7245,6 @@
 ||edgedatg.com^$dnstype=AAAA
 ||edgefonts.net^$dnstype=AAAA
 ||edgekey.net^$dnstype=AAAA
-||edgekey88.net^$dnstype=AAAA
 ||edgemeplease.com^$dnstype=AAAA
 ||edgesuite.net^$dnstype=AAAA
 ||edicypages.com^$dnstype=AAAA
@@ -8501,6 +8499,7 @@
 ||firstrade.com^$dnstype=AAAA
 ||firstsearch.oclc.org^$dnstype=AAAA
 ||fishmpegs.com^$dnstype=AAAA
+||fitgirl-repacks.site^$dnstype=AAAA
 ||fitnakedgirls.com^$dnstype=AAAA
 ||fivestarpornsites.com^$dnstype=AAAA
 ||fixtracking.com^$dnstype=AAAA
