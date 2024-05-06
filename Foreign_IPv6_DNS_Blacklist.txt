@@ -6022,6 +6022,7 @@
 ||cuhk.edu.hk^$dnstype=AAAA
 ||cuhkacs.org^$dnstype=AAAA
 ||cuihua.org^$dnstype=AAAA
+||cuinc.oen.tw^$dnstype=AAAA
 ||cuinc.tw^$dnstype=AAAA
 ||cuiweiping.net^$dnstype=AAAA
 ||cultoferotica.com^$dnstype=AAAA
@@ -7035,6 +7036,17 @@
 ||drunk6.com^$dnstype=AAAA
 ||drunkenstepfather.com^$dnstype=AAAA
 ||drunkentop.com^$dnstype=AAAA
+||drweb-av.de^$dnstype=AAAA
+||drweb-av.es^$dnstype=AAAA
+||drweb-av.it^$dnstype=AAAA
+||drweb-av.pl^$dnstype=AAAA
+||drweb.by^$dnstype=AAAA
+||drweb.cn^$dnstype=AAAA
+||drweb.co.jp^$dnstype=AAAA
+||drweb.com^$dnstype=AAAA
+||drweb.fr^$dnstype=AAAA
+||drweb.kz^$dnstype=AAAA
+||drweb.uz^$dnstype=AAAA
 ||ds-linear-abematv.akamaized.net^$dnstype=AAAA
 ||ds-vod-abematv.akamaized.net^$dnstype=AAAA
 ||dscn.info^$dnstype=AAAA
