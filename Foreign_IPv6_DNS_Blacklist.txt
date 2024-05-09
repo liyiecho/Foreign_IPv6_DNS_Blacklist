@@ -3294,6 +3294,7 @@
 ||betterwithautodesk.com^$dnstype=AAAA
 ||bettween.com^$dnstype=AAAA
 ||betvictor.com^$dnstype=AAAA
+||between-legs.com^$dnstype=AAAA
 ||beurettesvideo.com^$dnstype=AAAA
 ||bewww.net^$dnstype=AAAA
 ||bexjt5wz.xyz^$dnstype=AAAA
@@ -12946,6 +12947,7 @@
 ||javynow.com^$dnstype=AAAA
 ||javzoo.com^$dnstype=AAAA
 ||jayspov.net^$dnstype=AAAA
+||jb.gg^$dnstype=AAAA
 ||jb22.lol^$dnstype=AAAA
 ||jbe-platform.com^$dnstype=AAAA
 ||jbtalks.cc^$dnstype=AAAA
@@ -16879,7 +16881,6 @@
 ||oizoblog.com^$dnstype=AAAA
 ||ok.ru^$dnstype=AAAA
 ||ok.xxx^$dnstype=AAAA
-||okaapps.com^$dnstype=AAAA
 ||okayfreedom.com^$dnstype=AAAA
 ||okazudouga.tokyo^$dnstype=AAAA
 ||okex.com^$dnstype=AAAA
