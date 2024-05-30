@@ -13913,6 +13913,7 @@
 ||login-account.net^$dnstype=AAAA
 ||login-paypal.com^$dnstype=AAAA
 ||login-paypal.info^$dnstype=AAAA
+||login.microsoftonline.com^$dnstype=AAAA
 ||login.target.com^$dnstype=AAAA
 ||logiqx.com^$dnstype=AAAA
 ||logitech.biz^$dnstype=AAAA
@@ -19720,6 +19721,7 @@
 ||sekur1213.guru^$dnstype=AAAA
 ||selectanescort.com^$dnstype=AAAA
 ||selectyourgame.com^$dnstype=AAAA
+||self.events.data.microsoft.com^$dnstype=AAAA
 ||selfloversworld.com^$dnstype=AAAA
 ||sellclassics.com^$dnstype=AAAA
 ||sellercommunity.com^$dnstype=AAAA
