@@ -18708,6 +18708,7 @@
 ||qattdh1.cc^$dnstype=AAAA
 ||qattdh2.cc^$dnstype=AAAA
 ||qattdh6.top^$dnstype=AAAA
+||qbittorrent.org^$dnstype=AAAA
 ||qbmengmei6.mom^$dnstype=AAAA
 ||qckprn.com^$dnstype=AAAA
 ||qcmod.xyz^$dnstype=AAAA
