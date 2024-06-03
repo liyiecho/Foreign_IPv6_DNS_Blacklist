@@ -3586,7 +3586,6 @@
 ||blog.workflow.is^$dnstype=AAAA
 ||blog.xuite.net^$dnstype=AAAA
 ||blog.youthwant.com.tw^$dnstype=AAAA
-||blog.youxu.info^$dnstype=AAAA
 ||blogblog.com^$dnstype=AAAA
 ||blogcatalog.com^$dnstype=AAAA
 ||blogcdn.com^$dnstype=AAAA
@@ -17842,6 +17841,7 @@
 ||pixanalytics.com^$dnstype=AAAA
 ||pixapp.net^$dnstype=AAAA
 ||pixate.com^$dnstype=AAAA
+||pixeldrain.com^$dnstype=AAAA
 ||pixelmator.com^$dnstype=AAAA
 ||pixelqi.com^$dnstype=AAAA
 ||pixfs.net^$dnstype=AAAA
@@ -25740,6 +25740,7 @@
 ||yyfb.cyou^$dnstype=AAAA
 ||yyii.org^$dnstype=AAAA
 ||yyjlymb.xyz^$dnstype=AAAA
+||yysub.net^$dnstype=AAAA
 ||yyyzgdl.cn^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
