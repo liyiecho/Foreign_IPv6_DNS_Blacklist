@@ -5045,6 +5045,7 @@
 ||charlotte-anime.jp^$dnstype=AAAA
 ||charmescorts.com^$dnstype=AAAA
 ||charticulator.com^$dnstype=AAAA
+||chat.lmsys.org^$dnstype=AAAA
 ||chat.openai.com.cdn.cloudflare.net^$dnstype=AAAA
 ||chatango.com^$dnstype=AAAA
 ||chatgpt.com^$dnstype=AAAA
@@ -13889,6 +13890,7 @@
 ||lmlicenses.wip4.adobe.com^$dnstype=AAAA
 ||lmm167.shop^$dnstype=AAAA
 ||lmmbtc.com^$dnstype=AAAA
+||lmsys.org^$dnstype=AAAA
 ||lncn.org^$dnstype=AAAA
 ||lnkd.in^$dnstype=AAAA
 ||lnstagram-help.com^$dnstype=AAAA
@@ -18842,6 +18844,7 @@
 ||radian6.com^$dnstype=AAAA
 ||radicalparty.org^$dnstype=AAAA
 ||radiko.jp^$dnstype=AAAA
+||radio-canada.ca^$dnstype=AAAA
 ||radio.garden^$dnstype=AAAA
 ||radioaustralia.net.au^$dnstype=AAAA
 ||radiofarda.com^$dnstype=AAAA
@@ -21314,6 +21317,7 @@
 ||taipei.gov.tw^$dnstype=AAAA
 ||taipeisociety.org^$dnstype=AAAA
 ||taipeitimes.com^$dnstype=AAAA
+||taisounds.com^$dnstype=AAAA
 ||taiwan-sex.com^$dnstype=AAAA
 ||taiwanadultexpo.com^$dnstype=AAAA
 ||taiwanbible.com^$dnstype=AAAA
