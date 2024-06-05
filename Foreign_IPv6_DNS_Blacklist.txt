@@ -9523,6 +9523,7 @@
 ||gandhara.ru^$dnstype=AAAA
 ||ganges.com^$dnstype=AAAA
 ||ganjing.com^$dnstype=AAAA
+||ganjing.world^$dnstype=AAAA
 ||ganjingworld.com^$dnstype=AAAA
 ||gannett-cdn.com^$dnstype=AAAA
 ||gannett.com^$dnstype=AAAA
@@ -18603,6 +18604,7 @@
 ||pttvan.org^$dnstype=AAAA
 ||ptzwx.com^$dnstype=AAAA
 ||pu82.vip^$dnstype=AAAA
+||pub.dev^$dnstype=AAAA
 ||public-sex-porn.com^$dnstype=AAAA
 ||public-trust.com^$dnstype=AAAA
 ||public-us-pingsx.api.clonoth.com^$dnstype=AAAA
