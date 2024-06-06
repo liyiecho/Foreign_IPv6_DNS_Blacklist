@@ -6456,6 +6456,7 @@
 ||devpn.com^$dnstype=AAAA
 ||devsitetest.how^$dnstype=AAAA
 ||devtools-paypal.com^$dnstype=AAAA
+||devv.ai^$dnstype=AAAA
 ||dewitwithdurex.com^$dnstype=AAAA
 ||dexterhorn.com^$dnstype=AAAA
 ||dezyred.com^$dnstype=AAAA
