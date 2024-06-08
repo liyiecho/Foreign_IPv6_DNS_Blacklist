@@ -13710,6 +13710,7 @@
 ||liberal.org.hk^$dnstype=AAAA
 ||liberapay.com^$dnstype=AAAA
 ||liberapay.org^$dnstype=AAAA
+||libertysculpturepark.com^$dnstype=AAAA
 ||libertytimes.com.tw^$dnstype=AAAA
 ||libgen.fun^$dnstype=AAAA
 ||libgen.is^$dnstype=AAAA
@@ -24360,6 +24361,7 @@
 ||wrenchead.com^$dnstype=AAAA
 ||wretch.cc^$dnstype=AAAA
 ||writer.zoho.com^$dnstype=AAAA
+||writesonic.com^$dnstype=AAAA
 ||wsj.com^$dnstype=AAAA
 ||wsj.jobs^$dnstype=AAAA
 ||wsj.net^$dnstype=AAAA
