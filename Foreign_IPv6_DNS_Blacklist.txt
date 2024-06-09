@@ -25317,6 +25317,7 @@
 ||yandex.ua^$dnstype=AAAA
 ||yandex.uz^$dnstype=AAAA
 ||yandexcloud.net^$dnstype=AAAA
+||yanghengjun.com^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
 ||yantaqu.com^$dnstype=AAAA
 ||yaohubaba.com^$dnstype=AAAA
