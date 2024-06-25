@@ -18536,6 +18536,7 @@
 ||premiumpornlist.com^$dnstype=AAAA
 ||premobay.com^$dnstype=AAAA
 ||premproxy.com^$dnstype=AAAA
+||preprod-publicca.googleapis.com^$dnstype=AAAA
 ||prepsure.com^$dnstype=AAAA
 ||presentationzen.com^$dnstype=AAAA
 ||presidentlee.tw^$dnstype=AAAA
@@ -18695,6 +18696,7 @@
 ||public-trust.com^$dnstype=AAAA
 ||public-us-pingsx.api.clonoth.com^$dnstype=AAAA
 ||publicagentxxx.com^$dnstype=AAAA
+||publicca.googleapis.com^$dnstype=AAAA
 ||publichealthdepartment.info^$dnstype=AAAA
 ||publicpornvideo.com^$dnstype=AAAA
 ||publicsexhub.com^$dnstype=AAAA
