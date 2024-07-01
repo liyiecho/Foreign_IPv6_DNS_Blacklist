@@ -5529,7 +5529,6 @@
 ||cmule.org^$dnstype=AAAA
 ||cmx.im^$dnstype=AAAA
 ||cn-proxy.com^$dnstype=AAAA
-||cn.com^$dnstype=AAAA
 ||cn.dayabook.com^$dnstype=AAAA
 ||cn.fmnnow.com^$dnstype=AAAA
 ||cn.freeones.com^$dnstype=AAAA
