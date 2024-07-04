@@ -4216,6 +4216,7 @@
 ||bookdepository.com^$dnstype=AAAA
 ||bookepub.com^$dnstype=AAAA
 ||bookfi.net^$dnstype=AAAA
+||booking.com^$dnstype=AAAA
 ||booklive.jp^$dnstype=AAAA
 ||bookmark.xxx^$dnstype=AAAA
 ||bookmybridgestonetyre.com^$dnstype=AAAA
@@ -9063,6 +9064,7 @@
 ||foxfaq.com^$dnstype=AAAA
 ||foxfdm.com^$dnstype=AAAA
 ||foxfiles.com^$dnstype=AAAA
+||foxfortmobile.com^$dnstype=AAAA
 ||foxgay.com^$dnstype=AAAA
 ||foxhq.com^$dnstype=AAAA
 ||foxinc.com^$dnstype=AAAA
@@ -22274,6 +22276,7 @@
 ||translatetheweb.com^$dnstype=AAAA
 ||translatewiki.net^$dnstype=AAAA
 ||translatewiki.org^$dnstype=AAAA
+||translomatic.foxfortmobile.com^$dnstype=AAAA
 ||transparency.org^$dnstype=AAAA
 ||transpornsites.com^$dnstype=AAAA
 ||travelcontroller.com^$dnstype=AAAA
