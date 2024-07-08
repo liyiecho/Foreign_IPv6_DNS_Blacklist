@@ -6057,6 +6057,7 @@
 ||cumswappingsis.com^$dnstype=AAAA
 ||cumteenporn.com^$dnstype=AAAA
 ||cunhua.pics^$dnstype=AAAA
+||cuniq.com^$dnstype=AAAA
 ||cuntempire.com^$dnstype=AAAA
 ||cuntwars.com^$dnstype=AAAA
 ||cup.com.hk^$dnstype=AAAA
@@ -6853,6 +6854,7 @@
 ||docleradn.com^$dnstype=AAAA
 ||doclercdn.com^$dnstype=AAAA
 ||docs.com^$dnstype=AAAA
+||docs.new^$dnstype=AAAA
 ||docs.rs^$dnstype=AAAA
 ||doctor-videos.com^$dnstype=AAAA
 ||doctorvoice.org^$dnstype=AAAA
@@ -8459,12 +8461,14 @@
 ||fapcat.com^$dnstype=AAAA
 ||fapdu.com^$dnstype=AAAA
 ||fapdude.com^$dnstype=AAAA
+||fapello.com^$dnstype=AAAA
 ||faperoni.com^$dnstype=AAAA
 ||fapforfun.net^$dnstype=AAAA
 ||faphdporn.com^$dnstype=AAAA
 ||faphouse.com^$dnstype=AAAA
 ||fapmovz.com^$dnstype=AAAA
 ||fapnado.com^$dnstype=AAAA
+||fapomania.com^$dnstype=AAAA
 ||fapopedia.net^$dnstype=AAAA
 ||fappcelebs.com^$dnstype=AAAA
 ||fappeningbook.com^$dnstype=AAAA
@@ -13673,6 +13677,7 @@
 ||leaguesharp.info^$dnstype=AAAA
 ||leaguoflegends.com^$dnstype=AAAA
 ||leakedmeat.com^$dnstype=AAAA
+||leakedzone.com^$dnstype=AAAA
 ||leaksmodels.com^$dnstype=AAAA
 ||leakxxx.com^$dnstype=AAAA
 ||leancloud.com^$dnstype=AAAA
@@ -13779,6 +13784,7 @@
 ||libgen.rs^$dnstype=AAAA
 ||libgen.st^$dnstype=AAAA
 ||liboggirls.net^$dnstype=AAAA
+||library.lol^$dnstype=AAAA
 ||library.usc.cuhk.edu.hk^$dnstype=AAAA
 ||libraryinformationtechnology.com^$dnstype=AAAA
 ||librarylovefest.com^$dnstype=AAAA
@@ -16752,6 +16758,7 @@
 ||nudistvoyeurbeach.com^$dnstype=AAAA
 ||nudity911.com^$dnstype=AAAA
 ||nudography.com^$dnstype=AAAA
+||nudostar.tv^$dnstype=AAAA
 ||nuespournous.com^$dnstype=AAAA
 ||nuexpo.com^$dnstype=AAAA
 ||nuget.org^$dnstype=AAAA
@@ -19152,11 +19159,15 @@
 ||reddit.app.link^$dnstype=AAAA
 ||reddit.com^$dnstype=AAAA
 ||reddit.map.fastly.net^$dnstype=AAAA
+||redditblog.com^$dnstype=AAAA
 ||reddithelp.com^$dnstype=AAAA
+||redditinc.com^$dnstype=AAAA
 ||redditlist.com^$dnstype=AAAA
 ||redditmail.com^$dnstype=AAAA
 ||redditmedia.com^$dnstype=AAAA
+||redditspace.com^$dnstype=AAAA
 ||redditstatic.com^$dnstype=AAAA
+||redditstatus.com^$dnstype=AAAA
 ||redfaptube.com^$dnstype=AAAA
 ||redgifs.com^$dnstype=AAAA
 ||redhat.com^$dnstype=AAAA
@@ -20131,6 +20142,7 @@
 ||shattered.io^$dnstype=AAAA
 ||shazam.com^$dnstype=AAAA
 ||shdd.ink^$dnstype=AAAA
+||sheets.new^$dnstype=AAAA
 ||sheflix.com^$dnstype=AAAA
 ||shegg.com^$dnstype=AAAA
 ||shegods.com^$dnstype=AAAA
@@ -20438,6 +20450,7 @@
 ||sleazyneasy.com^$dnstype=AAAA
 ||slheng.com^$dnstype=AAAA
 ||slickvpn.com^$dnstype=AAAA
+||slides.new^$dnstype=AAAA
 ||slideshare.com^$dnstype=AAAA
 ||slideshare.net^$dnstype=AAAA
 ||slidesharecdn.com^$dnstype=AAAA
@@ -21616,6 +21629,7 @@
 ||temetube.xyz^$dnstype=AAAA
 ||tenacy.com^$dnstype=AAAA
 ||tenbyfotolia.com^$dnstype=AAAA
+||tencent-cloud.cn^$dnstype=AAAA
 ||tenor.com^$dnstype=AAAA
 ||tensorflow.org^$dnstype=AAAA
 ||tenzinpalmo.com^$dnstype=AAAA
@@ -22868,6 +22882,7 @@
 ||upmedia.mg^$dnstype=AAAA
 ||upornia.com^$dnstype=AAAA
 ||uporno.xxx^$dnstype=AAAA
+||upos-hz-mirrorakam.akamaized.net^$dnstype=AAAA
 ||uproxy.org^$dnstype=AAAA
 ||uptodown.com^$dnstype=AAAA
 ||upwill.org^$dnstype=AAAA
@@ -24186,6 +24201,7 @@
 ||whatbrowser.org^$dnstype=AAAA
 ||whatisairwatch.com^$dnstype=AAAA
 ||whatisworkspaceone.com^$dnstype=AAAA
+||whats.new^$dnstype=AAAA
 ||whatsapp-plus.info^$dnstype=AAAA
 ||whatsapp-plus.me^$dnstype=AAAA
 ||whatsapp-plus.net^$dnstype=AAAA
@@ -25043,6 +25059,7 @@
 ||xtapes.to^$dnstype=AAAA
 ||xtegvk.xyz^$dnstype=AAAA
 ||xteko.com^$dnstype=AAAA
+||xtracloud.net^$dnstype=AAAA
 ||xtube.com^$dnstype=AAAA
 ||xtubebdsm.com^$dnstype=AAAA
 ||xtubezoo.com^$dnstype=AAAA
