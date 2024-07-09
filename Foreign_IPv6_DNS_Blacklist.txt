@@ -5866,6 +5866,11 @@
 ||cordcloud.org^$dnstype=AAAA
 ||coreduo.com^$dnstype=AAAA
 ||coreextreme.com^$dnstype=AAAA
+||corel.com^$dnstype=AAAA
+||corel.net^$dnstype=AAAA
+||coreldraw.app^$dnstype=AAAA
+||coreldraw.com^$dnstype=AAAA
+||corelstore.com^$dnstype=AAAA
 ||coreml.net^$dnstype=AAAA
 ||coreoptics.net^$dnstype=AAAA
 ||corepublishingsolutions.com^$dnstype=AAAA
@@ -11181,6 +11186,7 @@
 ||homestylerapp.com^$dnstype=AAAA
 ||homestylernews.com^$dnstype=AAAA
 ||hometrack.com.au^$dnstype=AAAA
+||hominis.media^$dnstype=AAAA
 ||homo.xxx^$dnstype=AAAA
 ||honawalaan.com^$dnstype=AAAA
 ||honestpornreviews.com^$dnstype=AAAA
@@ -13178,6 +13184,8 @@
 ||js.org^$dnstype=AAAA
 ||js.revsci.net^$dnstype=AAAA
 ||js7k.com^$dnstype=AAAA
+||jsati.com^$dnstype=AAAA
+||jsatmobile.com^$dnstype=AAAA
 ||jsbridgestone.com^$dnstype=AAAA
 ||jsdelivr.com^$dnstype=AAAA
 ||jsdelivr.net^$dnstype=AAAA
@@ -20421,6 +20429,8 @@
 ||skype.net^$dnstype=AAAA
 ||skypeassets.com^$dnstype=AAAA
 ||skypeassets.net^$dnstype=AAAA
+||skyperfectjsat.space^$dnstype=AAAA
+||skyperfectv.co.jp^$dnstype=AAAA
 ||skyporn.online^$dnstype=AAAA
 ||skysports.com^$dnstype=AAAA
 ||skysports.fr^$dnstype=AAAA
@@ -20767,6 +20777,7 @@
 ||spankwire.com^$dnstype=AAAA
 ||sparknotes.com^$dnstype=AAAA
 ||spb.com^$dnstype=AAAA
+||spcc-sp.com^$dnstype=AAAA
 ||speakerdeck.com^$dnstype=AAAA
 ||spearhead.kr^$dnstype=AAAA
 ||specialtyheadphones.com^$dnstype=AAAA
@@ -20839,6 +20850,7 @@
 ||sprite.org^$dnstype=AAAA
 ||sproutcore.com^$dnstype=AAAA
 ||sproxy.info^$dnstype=AAAA
+||sptvbroadcast.com^$dnstype=AAAA
 ||spyjinx.com^$dnstype=AAAA
 ||sqlite.org^$dnstype=AAAA
 ||sqlserveronlinux.com^$dnstype=AAAA
