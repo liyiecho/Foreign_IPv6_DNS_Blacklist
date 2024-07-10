@@ -8095,6 +8095,7 @@
 ||faasbook.com^$dnstype=AAAA
 ||fabhairypussy.com^$dnstype=AAAA
 ||fabric.io^$dnstype=AAAA
+||fabricmc.net^$dnstype=AAAA
 ||fabuye.top^$dnstype=AAAA
 ||fabuyemian.com^$dnstype=AAAA
 ||facbebook.com^$dnstype=AAAA
@@ -18601,6 +18602,7 @@
 ||printspots.net^$dnstype=AAAA
 ||prism-break.org^$dnstype=AAAA
 ||prismic.io^$dnstype=AAAA
+||prismlauncher.org^$dnstype=AAAA
 ||prismlive.com^$dnstype=AAAA
 ||prisoneralert.com^$dnstype=AAAA
 ||pritunl.com^$dnstype=AAAA
@@ -18903,6 +18905,7 @@
 ||quicktime.net^$dnstype=AAAA
 ||quicktime.tv^$dnstype=AAAA
 ||quiksee.com^$dnstype=AAAA
+||quiltmc.org^$dnstype=AAAA
 ||quip-cdn.com^$dnstype=AAAA
 ||quip.com^$dnstype=AAAA
 ||quipelements.com^$dnstype=AAAA
