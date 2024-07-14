@@ -972,7 +972,11 @@
 ||afriboyz.com^$dnstype=AAAA
 ||aga-expo.com^$dnstype=AAAA
 ||agag.tw^$dnstype=AAAA
+||agedm.app^$dnstype=AAAA
 ||agedm.org^$dnstype=AAAA
+||agedm.tv^$dnstype=AAAA
+||agefans.com^$dnstype=AAAA
+||agemys.org^$dnstype=AAAA
 ||agendaweek.com^$dnstype=AAAA
 ||agnesb.fr^$dnstype=AAAA
 ||agoogleaday.com^$dnstype=AAAA
@@ -2226,6 +2230,8 @@
 ||asto.re^$dnstype=AAAA
 ||astrill.com^$dnstype=AAAA
 ||asus.com^$dnstype=AAAA
+||asuscloud.com^$dnstype=AAAA
+||asuswebstorage.com^$dnstype=AAAA
 ||async.be^$dnstype=AAAA
 ||atandt.com^$dnstype=AAAA
 ||atasale.com^$dnstype=AAAA
@@ -10037,8 +10043,10 @@
 ||gogo-load.com^$dnstype=AAAA
 ||gogoanime.vc^$dnstype=AAAA
 ||gogoanime.wiki^$dnstype=AAAA
+||gogoanime3.co^$dnstype=AAAA
 ||gogocdn.net^$dnstype=AAAA
 ||gogole.com^$dnstype=AAAA
+||gogotaku.info^$dnstype=AAAA
 ||gogotunnel.com^$dnstype=AAAA
 ||gohappy.com.tw^$dnstype=AAAA
 ||gohentai.net^$dnstype=AAAA
