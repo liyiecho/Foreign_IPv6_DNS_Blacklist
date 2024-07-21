@@ -21653,7 +21653,6 @@
 ||temetube.xyz^$dnstype=AAAA
 ||tenacy.com^$dnstype=AAAA
 ||tenbyfotolia.com^$dnstype=AAAA
-||tencent-cloud.cn^$dnstype=AAAA
 ||tenor.com^$dnstype=AAAA
 ||tensorflow.org^$dnstype=AAAA
 ||tenzinpalmo.com^$dnstype=AAAA
