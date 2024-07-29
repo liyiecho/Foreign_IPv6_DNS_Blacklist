@@ -2622,6 +2622,7 @@
 ||azerbaycan.tv^$dnstype=AAAA
 ||azerimix.com^$dnstype=AAAA
 ||aziani.com^$dnstype=AAAA
+||azirevpn.com^$dnstype=AAAA
 ||aznude.com^$dnstype=AAAA
 ||azubu.tv^$dnstype=AAAA
 ||azure-devices-int.net^$dnstype=AAAA
@@ -5529,6 +5530,7 @@
 ||clzz2.xyz^$dnstype=AAAA
 ||cmail19.com^$dnstype=AAAA
 ||cmcn.org^$dnstype=AAAA
+||cmegroup.com^$dnstype=AAAA
 ||cmhalq.com^$dnstype=AAAA
 ||cmi.org.tw^$dnstype=AAAA
 ||cmmedia.com.tw^$dnstype=AAAA
