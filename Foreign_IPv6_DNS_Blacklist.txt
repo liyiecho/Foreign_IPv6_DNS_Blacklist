@@ -22176,6 +22176,7 @@
 ||tibetswiss.ch^$dnstype=AAAA
 ||tibettelegraph.com^$dnstype=AAAA
 ||tibettimes.net^$dnstype=AAAA
+||tibettruth.com^$dnstype=AAAA
 ||tibetwrites.org^$dnstype=AAAA
 ||tiburon.com^$dnstype=AAAA
 ||tickdata.com^$dnstype=AAAA
