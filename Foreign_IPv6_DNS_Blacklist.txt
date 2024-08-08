@@ -229,7 +229,6 @@
 ||228.net.tw^$dnstype=AAAA
 ||233abc.com^$dnstype=AAAA
 ||2371tom.com^$dnstype=AAAA
-||249dw7.cn^$dnstype=AAAA
 ||24hjav.com^$dnstype=AAAA
 ||24hrs.ca^$dnstype=AAAA
 ||24porn.com^$dnstype=AAAA
@@ -4414,6 +4413,7 @@
 ||brightcove.net^$dnstype=AAAA
 ||brightcove.services^$dnstype=AAAA
 ||brightcovecdn.com^$dnstype=AAAA
+||brightline.tv^$dnstype=AAAA
 ||briian.com^$dnstype=AAAA
 ||brill.com^$dnstype=AAAA
 ||brilliant.org^$dnstype=AAAA
@@ -4586,6 +4586,7 @@
 ||bwh81.net^$dnstype=AAAA
 ||bwh88.net^$dnstype=AAAA
 ||bwh89.net^$dnstype=AAAA
+||bwhstatus.com^$dnstype=AAAA
 ||bwin.com^$dnstype=AAAA
 ||bwsj.hk^$dnstype=AAAA
 ||bx.in.th^$dnstype=AAAA
@@ -6029,6 +6030,7 @@
 ||csis.org^$dnstype=AAAA
 ||csmonitor.com^$dnstype=AAAA
 ||csnjcbnxdnb.com^$dnstype=AAAA
+||csrankings.org^$dnstype=AAAA
 ||css.pixnet.in^$dnstype=AAAA
 ||cstatic.net^$dnstype=AAAA
 ||csuchen.de^$dnstype=AAAA
@@ -6634,6 +6636,7 @@
 ||dis.gd^$dnstype=AAAA
 ||disco-api.com^$dnstype=AAAA
 ||discoins.com^$dnstype=AAAA
+||discomax.com^$dnstype=AAAA
 ||disconnect.me^$dnstype=AAAA
 ||discord-activities.com^$dnstype=AAAA
 ||discord.co^$dnstype=AAAA
@@ -8707,7 +8710,6 @@
 ||fgmtv.net^$dnstype=AAAA
 ||fgmtv.org^$dnstype=AAAA
 ||fhreports.net^$dnstype=AAAA
-||fi11.cn^$dnstype=AAAA
 ||fi11.com^$dnstype=AAAA
 ||fi11av1.com^$dnstype=AAAA
 ||fi11tv1.com^$dnstype=AAAA
@@ -17558,6 +17560,7 @@
 ||park-now.com^$dnstype=AAAA
 ||parkansky.com^$dnstype=AAAA
 ||parkinfo.com^$dnstype=AAAA
+||parkvv.com^$dnstype=AAAA
 ||parler.com^$dnstype=AAAA
 ||parse.com^$dnstype=AAAA
 ||parsevideo.com^$dnstype=AAAA
@@ -18224,6 +18227,7 @@
 ||popcap.com^$dnstype=AAAA
 ||popjav.tv^$dnstype=AAAA
 ||popo.tw^$dnstype=AAAA
+||popo8.com^$dnstype=AAAA
 ||popporn-world.com^$dnstype=AAAA
 ||popvote.hk^$dnstype=AAAA
 ||popxi.click^$dnstype=AAAA
@@ -25258,6 +25262,7 @@
 ||xvirtual.com^$dnstype=AAAA
 ||xvxx.stream^$dnstype=AAAA
 ||xvxxtube.com^$dnstype=AAAA
+||xwbo.com^$dnstype=AAAA
 ||xx-map.com^$dnstype=AAAA
 ||xx9.app^$dnstype=AAAA
 ||xxbay.com^$dnstype=AAAA
@@ -26045,7 +26050,6 @@
 ||yyii.org^$dnstype=AAAA
 ||yyjlymb.xyz^$dnstype=AAAA
 ||yysub.net^$dnstype=AAAA
-||yyyzgdl.cn^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
