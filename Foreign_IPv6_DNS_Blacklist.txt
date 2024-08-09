@@ -5437,7 +5437,6 @@
 ||client-teamviewer-com.trafficmanager.net^$dnstype=AAAA
 ||clients1.google.com^$dnstype=AAAA
 ||climate-server.com^$dnstype=AAAA
-||clincha.cn^$dnstype=AAAA
 ||cling.omy.sg^$dnstype=AAAA
 ||clinica-tibet.ru^$dnstype=AAAA
 ||clinical-videos.com^$dnstype=AAAA
@@ -12074,7 +12073,6 @@
 ||illusionas.com^$dnstype=AAAA
 ||illusionchn.com^$dnstype=AAAA
 ||illusionfactory.com^$dnstype=AAAA
-||illusionfb.cn^$dnstype=AAAA
 ||illusiongw.com^$dnstype=AAAA
 ||illusionh.com^$dnstype=AAAA
 ||illusionl.com^$dnstype=AAAA
@@ -25688,7 +25686,6 @@
 ||yinya.shop^$dnstype=AAAA
 ||yipub.com^$dnstype=AAAA
 ||yiqiedoushiganggangkaishi.org^$dnstype=AAAA
-||yiqilai99.cn^$dnstype=AAAA
 ||yiyechat.com^$dnstype=AAAA
 ||yizhihongxing.com^$dnstype=AAAA
 ||yjcontentdelivery.com^$dnstype=AAAA
