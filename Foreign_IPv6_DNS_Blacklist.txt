@@ -1538,8 +1538,10 @@
 ||andfaraway.net^$dnstype=AAAA
 ||android-x86.org^$dnstype=AAAA
 ||android.com^$dnstype=AAAA
+||androidauthority.com^$dnstype=AAAA
 ||androidify.com^$dnstype=AAAA
 ||androidplus.co^$dnstype=AAAA
+||androidpolice.com^$dnstype=AAAA
 ||androidtv.com^$dnstype=AAAA
 ||andygod.com^$dnstype=AAAA
 ||andysparis.com^$dnstype=AAAA
@@ -6213,7 +6215,6 @@
 ||dalailama.com^$dnstype=AAAA
 ||dalailama.mn^$dnstype=AAAA
 ||dalailama.ru^$dnstype=AAAA
-||dalailama.usc.edu^$dnstype=AAAA
 ||dalailama80.org^$dnstype=AAAA
 ||dalailamacenter.org^$dnstype=AAAA
 ||dalailamafellows.org^$dnstype=AAAA
@@ -19340,6 +19341,7 @@
 ||redtube.com.br^$dnstype=AAAA
 ||redtube9.com^$dnstype=AAAA
 ||redtubepremium.com^$dnstype=AAAA
+||redvideo.io^$dnstype=AAAA
 ||redwap-xxx.com^$dnstype=AAAA
 ||redwap.me^$dnstype=AAAA
 ||redwap.pro^$dnstype=AAAA
@@ -21272,6 +21274,7 @@
 ||stories.google^$dnstype=AAAA
 ||storiesonline.net^$dnstype=AAAA
 ||storify.com^$dnstype=AAAA
+||storj.io^$dnstype=AAAA
 ||storm.mg^$dnstype=AAAA
 ||stormmediagroup.com^$dnstype=AAAA
 ||storyful.com^$dnstype=AAAA
@@ -21719,6 +21722,7 @@
 ||technics.com^$dnstype=AAAA
 ||technologyandsociety.org^$dnstype=AAAA
 ||technorati.com^$dnstype=AAAA
+||techradar.com^$dnstype=AAAA
 ||techsmith.com^$dnstype=AAAA
 ||techspot.com^$dnstype=AAAA
 ||techstreet.com^$dnstype=AAAA
@@ -22309,6 +22313,7 @@
 ||tomatespodres.com^$dnstype=AAAA
 ||tomonews.net^$dnstype=AAAA
 ||tomovie.net^$dnstype=AAAA
+||tomsguide.com^$dnstype=AAAA
 ||tomshardware.com^$dnstype=AAAA
 ||tonec.com^$dnstype=AAAA
 ||tongil.or.kr^$dnstype=AAAA
@@ -23071,6 +23076,7 @@
 ||usatoday.com^$dnstype=AAAA
 ||usatodaynetworkservice.com^$dnstype=AAAA
 ||usc.edu^$dnstype=AAAA
+||uscardforum.com^$dnstype=AAAA
 ||uscnpm.org^$dnstype=AAAA
 ||uselessjunk.com^$dnstype=AAAA
 ||usembassy.gov^$dnstype=AAAA
@@ -26098,7 +26104,9 @@
 ||zbporn.com^$dnstype=AAAA
 ||zctb.buzz^$dnstype=AAAA
 ||zdassets.com^$dnstype=AAAA
+||zdnet.com^$dnstype=AAAA
 ||zdnet.com.tw^$dnstype=AAAA
+||zdnet.redvideo.io^$dnstype=AAAA
 ||zdusercontent.com^$dnstype=AAAA
 ||zee.com^$dnstype=AAAA
 ||zee5.com^$dnstype=AAAA
