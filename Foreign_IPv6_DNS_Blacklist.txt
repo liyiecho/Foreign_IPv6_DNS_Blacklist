@@ -24230,7 +24230,6 @@
 ||wballiance.com^$dnstype=AAAA
 ||wbd.ms^$dnstype=AAAA
 ||wbdnbo.net^$dnstype=AAAA
-||wbrks.com^$dnstype=AAAA
 ||wbvm4s.com^$dnstype=AAAA
 ||wd.bible^$dnstype=AAAA
 ||wd.com^$dnstype=AAAA
