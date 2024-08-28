@@ -6878,6 +6878,7 @@
 ||doceapower.com^$dnstype=AAAA
 ||docker.com^$dnstype=AAAA
 ||docker.io^$dnstype=AAAA
+||dockerhub.com^$dnstype=AAAA
 ||dockerizer.com^$dnstype=AAAA
 ||docleradn.com^$dnstype=AAAA
 ||doclercdn.com^$dnstype=AAAA
