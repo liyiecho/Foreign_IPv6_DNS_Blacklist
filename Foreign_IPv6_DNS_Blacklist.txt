@@ -1213,6 +1213,7 @@
 ||alivevue.com^$dnstype=AAAA
 ||aljazeera.com^$dnstype=AAAA
 ||aljazeera.net^$dnstype=AAAA
+||alkalimakersuite-pa.clients6.google.com^$dnstype=AAAA
 ||alkasir.com^$dnstype=AAAA
 ||all-sex-links.com^$dnstype=AAAA
 ||all3dsexpics.com^$dnstype=AAAA
@@ -20011,6 +20012,7 @@
 ||serialssolutions.com^$dnstype=AAAA
 ||serlucap.lol^$dnstype=AAAA
 ||serlutv258.xyz^$dnstype=AAAA
+||servd-anthropic-website.b-cdn.net^$dnstype=AAAA
 ||servebom.com^$dnstype=AAAA
 ||servehttp.com^$dnstype=AAAA
 ||serverfault.com^$dnstype=AAAA
@@ -24897,6 +24899,7 @@
 ||x-caprice.com^$dnstype=AAAA
 ||x-fetish.org^$dnstype=AAAA
 ||x-wall.org^$dnstype=AAAA
+||x.ai^$dnstype=AAAA
 ||x.co^$dnstype=AAAA
 ||x.com^$dnstype=AAAA
 ||x.company^$dnstype=AAAA
