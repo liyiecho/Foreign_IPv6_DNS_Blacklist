@@ -17278,6 +17278,7 @@
 ||openamt.com^$dnstype=AAAA
 ||openapiplatform.com^$dnstype=AAAA
 ||openapiservice.com^$dnstype=AAAA
+||openart.ai^$dnstype=AAAA
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
