@@ -25016,6 +25016,7 @@
 ||xhcdn.com^$dnstype=AAAA
 ||xhot.pro^$dnstype=AAAA
 ||xhub.tv^$dnstype=AAAA
+||xianba.net^$dnstype=AAAA
 ||xianchawang.net^$dnstype=AAAA
 ||xiangrikui-app.com^$dnstype=AAAA
 ||xianir.xyz^$dnstype=AAAA
