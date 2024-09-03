@@ -1675,7 +1675,6 @@
 ||api.mixpanel.com^$dnstype=AAAA
 ||api.nebula-emby.com^$dnstype=AAAA
 ||api.news^$dnstype=AAAA
-||api.proxlet.com^$dnstype=AAAA
 ||api.pureapk.com^$dnstype=AAAA
 ||api.recaptcha.net^$dnstype=AAAA
 ||api.viu.now.com^$dnstype=AAAA
@@ -3603,7 +3602,6 @@
 ||blog.martinoei.com^$dnstype=AAAA
 ||blog.pathtosharepoint.com^$dnstype=AAAA
 ||blog.pentalogic.net^$dnstype=AAAA
-||blog.qooza.hk^$dnstype=AAAA
 ||blog.ranxiang.com^$dnstype=AAAA
 ||blog.sina.com.tw^$dnstype=AAAA
 ||blog.sogoo.org^$dnstype=AAAA
@@ -12858,6 +12856,7 @@
 ||ivacy.com^$dnstype=AAAA
 ||iverycd.com^$dnstype=AAAA
 ||ivintageporn.com^$dnstype=AAAA
+||ivonblog.com^$dnstype=AAAA
 ||ivpn.net^$dnstype=AAAA
 ||iw8j.cc^$dnstype=AAAA
 ||iwank.tv^$dnstype=AAAA
@@ -12899,6 +12898,7 @@
 ||jambotube.com^$dnstype=AAAA
 ||jamestown.org^$dnstype=AAAA
 ||jamyangnorbu.com^$dnstype=AAAA
+||jan.ai^$dnstype=AAAA
 ||jandyx.com^$dnstype=AAAA
 ||janor6.net^$dnstype=AAAA
 ||janwongphoto.com^$dnstype=AAAA
