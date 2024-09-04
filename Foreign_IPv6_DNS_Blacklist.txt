@@ -646,6 +646,7 @@
 ||abema.io^$dnstype=AAAA
 ||abema.tv^$dnstype=AAAA
 ||abematv.akamaized.net^$dnstype=AAAA
+||abematv.co.jp^$dnstype=AAAA
 ||abgsp1.buzz^$dnstype=AAAA
 ||abigass.com^$dnstype=AAAA
 ||abitno.linpie.com^$dnstype=AAAA
@@ -1004,7 +1005,9 @@
 ||ai-kan.net^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
 ||ai.binwang.me^$dnstype=AAAA
+||ai.com^$dnstype=AAAA
 ||ai.google^$dnstype=AAAA
+||ai.google.dev^$dnstype=AAAA
 ||ai7995.site^$dnstype=AAAA
 ||ai91porn.cc^$dnstype=AAAA
 ||aiasahi.jp^$dnstype=AAAA
@@ -1213,6 +1216,7 @@
 ||alivevue.com^$dnstype=AAAA
 ||aljazeera.com^$dnstype=AAAA
 ||aljazeera.net^$dnstype=AAAA
+||alkalicore-pa.clients6.google.com^$dnstype=AAAA
 ||alkalimakersuite-pa.clients6.google.com^$dnstype=AAAA
 ||alkasir.com^$dnstype=AAAA
 ||all-sex-links.com^$dnstype=AAAA
@@ -5444,6 +5448,7 @@
 ||clinicalkey.com^$dnstype=AAAA
 ||clip16.com^$dnstype=AAAA
 ||clipcake.com^$dnstype=AAAA
+||clipdrop.co^$dnstype=AAAA
 ||clipfish.de^$dnstype=AAAA
 ||cliphayho.com^$dnstype=AAAA
 ||cliphunter.com^$dnstype=AAAA
@@ -6541,6 +6546,7 @@
 ||didilist.com^$dnstype=AAAA
 ||dierectv.com^$dnstype=AAAA
 ||difangwenge.org^$dnstype=AAAA
+||dify.ai^$dnstype=AAAA
 ||digicert-cn.com^$dnstype=AAAA
 ||digicert-validation.com^$dnstype=AAAA
 ||digicert.com^$dnstype=AAAA
@@ -12924,6 +12930,7 @@
 ||jasa3dmax.com^$dnstype=AAAA
 ||jasaautocad.com^$dnstype=AAAA
 ||jasmin.com^$dnstype=AAAA
+||jasper.ai^$dnstype=AAAA
 ||jav-1080.com^$dnstype=AAAA
 ||jav-angel.net^$dnstype=AAAA
 ||jav-legend.com^$dnstype=AAAA
