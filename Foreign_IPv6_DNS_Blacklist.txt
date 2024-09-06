@@ -15072,6 +15072,7 @@
 ||mindrolling.org^$dnstype=AAAA
 ||minecraft.net^$dnstype=AAAA
 ||minecraft.wiki^$dnstype=AAAA
+||minecraftservices.com^$dnstype=AAAA
 ||minecraftshop.com^$dnstype=AAAA
 ||mingdemedia.org^$dnstype=AAAA
 ||minghui-a.org^$dnstype=AAAA
@@ -23058,7 +23059,6 @@
 ||upmedia.mg^$dnstype=AAAA
 ||upornia.com^$dnstype=AAAA
 ||uporno.xxx^$dnstype=AAAA
-||upos-hz-mirrorakam.akamaized.net^$dnstype=AAAA
 ||uproxy.org^$dnstype=AAAA
 ||uptodown.com^$dnstype=AAAA
 ||upwill.org^$dnstype=AAAA
