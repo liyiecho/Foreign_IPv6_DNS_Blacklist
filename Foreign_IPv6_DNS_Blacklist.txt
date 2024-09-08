@@ -10979,6 +10979,7 @@
 ||herringnetwork.com^$dnstype=AAAA
 ||hetzner.cloud^$dnstype=AAAA
 ||hetzner.com^$dnstype=AAAA
+||hetzner.company^$dnstype=AAAA
 ||hetzner.de^$dnstype=AAAA
 ||heungkongdiscuss.com^$dnstype=AAAA
 ||hex.pm^$dnstype=AAAA
@@ -23059,6 +23060,7 @@
 ||upmedia.mg^$dnstype=AAAA
 ||upornia.com^$dnstype=AAAA
 ||uporno.xxx^$dnstype=AAAA
+||upos-hz-mirrorakam.akamaized.net^$dnstype=AAAA
 ||uproxy.org^$dnstype=AAAA
 ||uptodown.com^$dnstype=AAAA
 ||upwill.org^$dnstype=AAAA
