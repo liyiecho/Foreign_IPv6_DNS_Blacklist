@@ -9892,6 +9892,7 @@
 ||gifnuki.com^$dnstype=AAAA
 ||gifree.com^$dnstype=AAAA
 ||giga-web.jp^$dnstype=AAAA
+||gigabyte.com^$dnstype=AAAA
 ||gigabyte2.azureedge.net^$dnstype=AAAA
 ||gigacircle.com^$dnstype=AAAA
 ||giganews.com^$dnstype=AAAA
