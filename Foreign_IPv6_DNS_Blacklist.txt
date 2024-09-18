@@ -17638,6 +17638,7 @@
 ||passion.com^$dnstype=AAAA
 ||passiontimes.hk^$dnstype=AAAA
 ||passport.net^$dnstype=AAAA
+||passwords.google^$dnstype=AAAA
 ||pastahealth.com^$dnstype=AAAA
 ||paste.ee^$dnstype=AAAA
 ||pastebin.com^$dnstype=AAAA
