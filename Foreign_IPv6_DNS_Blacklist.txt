@@ -5767,7 +5767,6 @@
 ||cccr.ac.uk^$dnstype=AAAA
 ||cccu.ac.uk^$dnstype=AAAA
 ||ccdc.ac.uk^$dnstype=AAAA
-||ccdc.cam.ac.uk^$dnstype=AAAA
 ||ccdtr.org^$dnstype=AAAA
 ||ccesd.ac.uk^$dnstype=AAAA
 ||ccfe.ac.uk^$dnstype=AAAA
