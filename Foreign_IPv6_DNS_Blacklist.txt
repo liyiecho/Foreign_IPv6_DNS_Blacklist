@@ -1058,6 +1058,7 @@
 ||aes.ac.uk^$dnstype=AAAA
 ||aesworkshops.com^$dnstype=AAAA
 ||aex.com^$dnstype=AAAA
+||af-north-1.myhuaweicloud.com^$dnstype=AAAA
 ||af.mil^$dnstype=AAAA
 ||afantibbs.com^$dnstype=AAAA
 ||afao.ac.uk^$dnstype=AAAA
@@ -1669,6 +1670,7 @@
 ||amourangels.com^$dnstype=AAAA
 ||amp.akamaized.net^$dnstype=AAAA
 ||amp.dev^$dnstype=AAAA
+||amplifi.com^$dnstype=AAAA
 ||amplifyapp.com^$dnstype=AAAA
 ||amplifyframework.com^$dnstype=AAAA
 ||amplitude.com^$dnstype=AAAA
@@ -6457,6 +6459,7 @@
 ||classics.ac.uk^$dnstype=AAAA
 ||classymomsex.com^$dnstype=AAAA
 ||claude.ai^$dnstype=AAAA
+||claudeusercontent.com^$dnstype=AAAA
 ||clb.org.hk^$dnstype=AAAA
 ||clc-london.ac.uk^$dnstype=AAAA
 ||clco.cc^$dnstype=AAAA
@@ -9986,6 +9989,7 @@
 ||facebook.ca^$dnstype=AAAA
 ||facebook.cc^$dnstype=AAAA
 ||facebook.com^$dnstype=AAAA
+||facebook.de^$dnstype=AAAA
 ||facebook.design^$dnstype=AAAA
 ||facebook.hu^$dnstype=AAAA
 ||facebook.in^$dnstype=AAAA
@@ -10368,8 +10372,10 @@
 ||fastindianporn.com^$dnstype=AAAA
 ||fastlane.ci^$dnstype=AAAA
 ||fastlane.tools^$dnstype=AAAA
+||fastly-edge.com^$dnstype=AAAA
 ||fastly-terrarium.com^$dnstype=AAAA
 ||fastly.com^$dnstype=AAAA
+||fastly.io^$dnstype=AAAA
 ||fastly.net^$dnstype=AAAA
 ||fastlylabs.com^$dnstype=AAAA
 ||fastlylb.net^$dnstype=AAAA
@@ -11283,6 +11289,7 @@
 ||frontiersin.org^$dnstype=AAAA
 ||frontiersofoncology.ac.uk^$dnstype=AAAA
 ||frontlinedefenders.org^$dnstype=AAAA
+||frontrow.com^$dnstype=AAAA
 ||froogle.com^$dnstype=AAAA
 ||frootvpn.com^$dnstype=AAAA
 ||frostbite.com^$dnstype=AAAA
@@ -11910,6 +11917,7 @@
 ||github.io^$dnstype=AAAA
 ||githubapp.com^$dnstype=AAAA
 ||githubassets.com^$dnstype=AAAA
+||githubcopilot.com^$dnstype=AAAA
 ||githubhackathon.com^$dnstype=AAAA
 ||githubnext.com^$dnstype=AAAA
 ||githubpreview.dev^$dnstype=AAAA
@@ -12158,6 +12166,7 @@
 ||googil.com^$dnstype=AAAA
 ||googl.com^$dnstype=AAAA
 ||google-access.net^$dnstype=AAAA
+||google-ohttp-relay-safebrowsing.fastly-edge.com^$dnstype=AAAA
 ||google-syndication.com^$dnstype=AAAA
 ||google.ac^$dnstype=AAAA
 ||google.ad^$dnstype=AAAA
@@ -13898,6 +13907,7 @@
 ||httpsfacebook.com^$dnstype=AAAA
 ||httpwwwfacebook.com^$dnstype=AAAA
 ||htvncdn.net^$dnstype=AAAA
+||htx.com^$dnstype=AAAA
 ||htyj-bj.com^$dnstype=AAAA
 ||hu1u.com^$dnstype=AAAA
 ||hua-yue.net^$dnstype=AAAA
@@ -19043,6 +19053,7 @@
 ||mxshm.site^$dnstype=AAAA
 ||my-enema.com^$dnstype=AAAA
 ||my-formosa.com^$dnstype=AAAA
+||my-kualalumpur-1.myhuaweicloud.com^$dnstype=AAAA
 ||my-magazine.me^$dnstype=AAAA
 ||my-private-network.co.uk^$dnstype=AAAA
 ||my-proxy.com^$dnstype=AAAA
@@ -23795,6 +23806,7 @@
 ||rtings.com^$dnstype=AAAA
 ||rtm.tnt-ea.com^$dnstype=AAAA
 ||rtycminnesota.org^$dnstype=AAAA
+||ru-moscow-1.myhuaweicloud.com^$dnstype=AAAA
 ||rua-project.ac.uk^$dnstype=AAAA
 ||ruanyifeng.com^$dnstype=AAAA
 ||ruby-lang.org^$dnstype=AAAA
@@ -24963,6 +24975,7 @@
 ||signal.org^$dnstype=AAAA
 ||signalbar.com^$dnstype=AAAA
 ||signalprocessingsociety.org^$dnstype=AAAA
+||signalr.net^$dnstype=AAAA
 ||signalusers.org^$dnstype=AAAA
 ||sihe.ac.uk^$dnstype=AAAA
 ||sijihuisuo.club^$dnstype=AAAA
@@ -27429,6 +27442,7 @@
 ||torrenty.org^$dnstype=AAAA
 ||torrentz.eu^$dnstype=AAAA
 ||torrindex.net^$dnstype=AAAA
+||tortoisesvn.net^$dnstype=AAAA
 ||torvpn.com^$dnstype=AAAA
 ||tosh.comedycentral.com^$dnstype=AAAA
 ||tospo-keiba.jp^$dnstype=AAAA
@@ -28016,7 +28030,7 @@
 ||ubistatic3-a.akamaihd.net^$dnstype=AAAA
 ||ublock.org^$dnstype=AAAA
 ||ubn.ac.uk^$dnstype=AAAA
-||ubnt.com^$dnstype=AAAA
+||ubncloud.com^$dnstype=AAAA
 ||ubnw.net^$dnstype=AAAA
 ||ubuntu-touch.io^$dnstype=AAAA
 ||ubuntu.com^$dnstype=AAAA
@@ -28114,10 +28128,12 @@
 ||uhsl.ac.uk^$dnstype=AAAA
 ||uhtube.me^$dnstype=AAAA
 ||uhub.com^$dnstype=AAAA
+||ui.com^$dnstype=AAAA
 ||uighur.narod.ru^$dnstype=AAAA
 ||uighur.nl^$dnstype=AAAA
 ||uighurbiz.net^$dnstype=AAAA
 ||uiporn.com^$dnstype=AAAA
+||uisp.com^$dnstype=AAAA
 ||ujapanesesex.com^$dnstype=AAAA
 ||ujizzcn.com^$dnstype=AAAA
 ||uk-cdi.ac.uk^$dnstype=AAAA
@@ -29120,6 +29136,7 @@
 ||vk.design^$dnstype=AAAA
 ||vk.link^$dnstype=AAAA
 ||vk.me^$dnstype=AAAA
+||vk.ru^$dnstype=AAAA
 ||vkcache.com^$dnstype=AAAA
 ||vkgo.app^$dnstype=AAAA
 ||vklive.app^$dnstype=AAAA
@@ -29949,6 +29966,7 @@
 ||wifevideos.net^$dnstype=AAAA
 ||wifewantstoplay.com^$dnstype=AAAA
 ||wifi-mx.com^$dnstype=AAAA
+||wifiman.com^$dnstype=AAAA
 ||wigan-leigh.ac.uk^$dnstype=AAAA
 ||wigs.ac.uk^$dnstype=AAAA
 ||wigstoncollege.ac.uk^$dnstype=AAAA
@@ -31772,6 +31790,7 @@
 ||zencoder.com^$dnstype=AAAA
 ||zendesk.com^$dnstype=AAAA
 ||zengjinyan.org^$dnstype=AAAA
+||zenlesszonezero.com^$dnstype=AAAA
 ||zenmate.com^$dnstype=AAAA
 ||zenmate.com.ru^$dnstype=AAAA
 ||zenodo.org^$dnstype=AAAA
