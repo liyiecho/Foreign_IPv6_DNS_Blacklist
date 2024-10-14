@@ -10724,6 +10724,7 @@
 ||firewire.cl^$dnstype=AAAA
 ||firewire.eu^$dnstype=AAAA
 ||firmaprofesional.com^$dnstype=AAAA
+||first-ns.de^$dnstype=AAAA
 ||firstanalvideos.com^$dnstype=AAAA
 ||firstasianpussy.com^$dnstype=AAAA
 ||firstchancesfife.ac.uk^$dnstype=AAAA
@@ -13909,6 +13910,7 @@
 ||htvncdn.net^$dnstype=AAAA
 ||htx.com^$dnstype=AAAA
 ||htyj-bj.com^$dnstype=AAAA
+||htznr.li^$dnstype=AAAA
 ||hu1u.com^$dnstype=AAAA
 ||hua-yue.net^$dnstype=AAAA
 ||huabansp.com^$dnstype=AAAA
@@ -19008,6 +19010,7 @@
 ||muncloud.dog^$dnstype=AAAA
 ||mundomais.com.br^$dnstype=AAAA
 ||mundus.ac.uk^$dnstype=AAAA
+||muramura.tv^$dnstype=AAAA
 ||murg.ac.uk^$dnstype=AAAA
 ||murmur.tw^$dnstype=AAAA
 ||muryouav.net^$dnstype=AAAA
@@ -24367,6 +24370,8 @@
 ||seattlefdc.com^$dnstype=AAAA
 ||secom.co.jp^$dnstype=AAAA
 ||secomtrust.net^$dnstype=AAAA
+||second-ns.com^$dnstype=AAAA
+||second-ns.de^$dnstype=AAAA
 ||secret-flirt-hub.com^$dnstype=AAAA
 ||secretbabes.co.uk^$dnstype=AAAA
 ||secretchina.com^$dnstype=AAAA
@@ -30933,6 +30938,7 @@
 ||xxvideos.xxx^$dnstype=AAAA
 ||xxvideoss.org^$dnstype=AAAA
 ||xxvids.net^$dnstype=AAAA
+||xxx-av.com^$dnstype=AAAA
 ||xxx-channel.com^$dnstype=AAAA
 ||xxx-com.cfd^$dnstype=AAAA
 ||xxx-fap.com^$dnstype=AAAA
@@ -31424,6 +31430,7 @@
 ||youpornru.com^$dnstype=AAAA
 ||youpornxvideos.net^$dnstype=AAAA
 ||your-freedom.net^$dnstype=AAAA
+||your-objectstorage.com^$dnstype=AAAA
 ||your-server.de^$dnstype=AAAA
 ||youramateurporn.com^$dnstype=AAAA
 ||yourassbig.com^$dnstype=AAAA
