@@ -2834,7 +2834,6 @@
 ||avinin.com^$dnstype=AAAA
 ||avizoon.site^$dnstype=AAAA
 ||avizoone.com^$dnstype=AAAA
-||avjb.com^$dnstype=AAAA
 ||avjiasu.com^$dnstype=AAAA
 ||avjoy.me^$dnstype=AAAA
 ||avjzy67.xyz^$dnstype=AAAA
