@@ -17289,6 +17289,7 @@
 ||m5universities.ac.uk^$dnstype=AAAA
 ||ma.hao123.com^$dnstype=AAAA
 ||ma1lib.org^$dnstype=AAAA
+||maa.plus^$dnstype=AAAA
 ||mabbank.com^$dnstype=AAAA
 ||mablethorpe.ac.uk^$dnstype=AAAA
 ||mac-migs.ac.uk^$dnstype=AAAA
