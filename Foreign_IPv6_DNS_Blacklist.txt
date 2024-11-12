@@ -20346,6 +20346,8 @@
 ||northumberland.ac.uk^$dnstype=AAAA
 ||northumbria.ac.uk^$dnstype=AAAA
 ||norwichresearchpark.ac.uk^$dnstype=AAAA
+||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
+||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||notify.dropboxapi.com^$dnstype=AAAA
 ||notify.ppy.sh^$dnstype=AAAA
