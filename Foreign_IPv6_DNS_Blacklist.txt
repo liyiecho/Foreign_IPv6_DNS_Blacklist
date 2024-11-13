@@ -6037,6 +6037,7 @@
 ||charticulator.com^$dnstype=AAAA
 ||chase.ac.uk^$dnstype=AAAA
 ||chasestudy.ac.uk^$dnstype=AAAA
+||chat.com^$dnstype=AAAA
 ||chat.lmsys.org^$dnstype=AAAA
 ||chatango.com^$dnstype=AAAA
 ||chatgpt.com^$dnstype=AAAA
@@ -14211,6 +14212,7 @@
 ||icl-fi.org^$dnstype=AAAA
 ||icloud-content.com^$dnstype=AAAA
 ||icloud-isupport.com^$dnstype=AAAA
+||icloud-sandbox.com^$dnstype=AAAA
 ||icloud.ch^$dnstype=AAAA
 ||icloud.de^$dnstype=AAAA
 ||icloud.ee^$dnstype=AAAA
