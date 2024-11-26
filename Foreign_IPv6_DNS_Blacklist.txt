@@ -13371,7 +13371,6 @@
 ||hitomi.la^$dnstype=AAAA
 ||hitun.io^$dnstype=AAAA
 ||hitxhot.com^$dnstype=AAAA
-||hiwifi.com^$dnstype=AAAA
 ||hizb-ut-tahrir.info^$dnstype=AAAA
 ||hizb-ut-tahrir.org^$dnstype=AAAA
 ||hizbuttahrir.org^$dnstype=AAAA
