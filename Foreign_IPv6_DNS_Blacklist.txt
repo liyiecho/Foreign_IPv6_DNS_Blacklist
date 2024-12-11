@@ -25524,6 +25524,7 @@
 ||sopcast.org^$dnstype=AAAA
 ||sophos.com^$dnstype=AAAA
 ||soporn.com^$dnstype=AAAA
+||sora.com^$dnstype=AAAA
 ||sora6.com^$dnstype=AAAA
 ||sorairi.info^$dnstype=AAAA
 ||sorazone.net^$dnstype=AAAA
