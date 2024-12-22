@@ -1,6 +1,7 @@
 ||000webhost.com^$dnstype=AAAA
 ||02weqj32.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA
+||04.si^$dnstype=AAAA
 ||04647.club^$dnstype=AAAA
 ||0cgdklr5sfwj.com^$dnstype=AAAA
 ||0dzn.com^$dnstype=AAAA
@@ -606,6 +607,7 @@
 ||9hentai.ru^$dnstype=AAAA
 ||9hentai.to^$dnstype=AAAA
 ||9hentaiz.com^$dnstype=AAAA
+||9ineverse.com^$dnstype=AAAA
 ||9k6v4y.cyou^$dnstype=AAAA
 ||9nation.com.au^$dnstype=AAAA
 ||9news.com.au^$dnstype=AAAA
@@ -1515,6 +1517,7 @@
 ||altporn.net^$dnstype=AAAA
 ||altrec.com^$dnstype=AAAA
 ||alvinalexander.com^$dnstype=AAAA
+||always-we-need.games^$dnstype=AAAA
 ||alwaysdata.com^$dnstype=AAAA
 ||alwaysdata.net^$dnstype=AAAA
 ||alwaysvpn.com^$dnstype=AAAA
@@ -1738,6 +1741,7 @@
 ||android-x86.org^$dnstype=AAAA
 ||android.com^$dnstype=AAAA
 ||androidauthority.com^$dnstype=AAAA
+||androidfilehost.com^$dnstype=AAAA
 ||androidify.com^$dnstype=AAAA
 ||androidplus.co^$dnstype=AAAA
 ||androidpolice.com^$dnstype=AAAA
@@ -4831,9 +4835,13 @@
 ||borderscollege.ac.uk^$dnstype=AAAA
 ||borgenmagazine.com^$dnstype=AAAA
 ||boringcompany.com^$dnstype=AAAA
+||borneo.world^$dnstype=AAAA
+||borneoasia.com^$dnstype=AAAA
+||borneoschematic.com^$dnstype=AAAA
 ||borwap.com^$dnstype=AAAA
 ||bosco.ac.uk^$dnstype=AAAA
 ||boshancy.com^$dnstype=AAAA
+||bosharso.net^$dnstype=AAAA
 ||boslife.biz^$dnstype=AAAA
 ||boslife.net^$dnstype=AAAA
 ||bossae.com^$dnstype=AAAA
@@ -5190,6 +5198,7 @@
 ||buhidoh.net^$dnstype=AAAA
 ||bui.ac.uk^$dnstype=AAAA
 ||buic.ac.uk^$dnstype=AAAA
+||buicha.social^$dnstype=AAAA
 ||buila.ac.uk^$dnstype=AAAA
 ||building3dcontent.com^$dnstype=AAAA
 ||builtenvsigns.ac.uk^$dnstype=AAAA
@@ -5344,6 +5353,7 @@
 ||c-scaipe.ac.uk^$dnstype=AAAA
 ||c-span.org^$dnstype=AAAA
 ||c-spanvideo.org^$dnstype=AAAA
+||c.mi.com^$dnstype=AAAA
 ||c.ppy.sh^$dnstype=AAAA
 ||c0930.com^$dnstype=AAAA
 ||c100tibet.org^$dnstype=AAAA
@@ -6041,6 +6051,7 @@
 ||chat.lmsys.org^$dnstype=AAAA
 ||chatango.com^$dnstype=AAAA
 ||chatgpt.com^$dnstype=AAAA
+||chatgpt.livekit.cloud^$dnstype=AAAA
 ||chatgptvideo.xyz^$dnstype=AAAA
 ||chatgptvideob.buzz^$dnstype=AAAA
 ||chatnook.com^$dnstype=AAAA
@@ -7399,6 +7410,10 @@
 ||currenttime.tv^$dnstype=AAAA
 ||cursecdn.com^$dnstype=AAAA
 ||curseforge.com^$dnstype=AAAA
+||cursor-cdn.com^$dnstype=AAAA
+||cursor.com^$dnstype=AAAA
+||cursor.sh^$dnstype=AAAA
+||cursorapi.com^$dnstype=AAAA
 ||curve.fi^$dnstype=AAAA
 ||curvefish.com^$dnstype=AAAA
 ||curvybbwwives.com^$dnstype=AAAA
@@ -7414,6 +7429,7 @@
 ||custombeatssbydreus.com^$dnstype=AAAA
 ||customdrdrebeats.com^$dnstype=AAAA
 ||customer-stories-feed.fastgit.org^$dnstype=AAAA
+||customercontrolpanel.de^$dnstype=AAAA
 ||customizedbeatbydre.com^$dnstype=AAAA
 ||customizedbeatsbydre.com^$dnstype=AAAA
 ||customizedbeatsdre.com^$dnstype=AAAA
@@ -7780,6 +7796,8 @@
 ||dell-brand.com^$dnstype=AAAA
 ||dell.com^$dnstype=AAAA
 ||dellcdn.com^$dnstype=AAAA
+||dellsupportcenter.com^$dnstype=AAAA
+||delltechnologies.com^$dnstype=AAAA
 ||deluxe.com.hk^$dnstype=AAAA
 ||delvenetworks.com^$dnstype=AAAA
 ||demand.ac.uk^$dnstype=AAAA
@@ -8927,6 +8945,7 @@
 ||eastturkistangovernmentinexile.us^$dnstype=AAAA
 ||eastview.com^$dnstype=AAAA
 ||eastweek.com.hk^$dnstype=AAAA
+||easy-jtag.com^$dnstype=AAAA
 ||easy.ac^$dnstype=AAAA
 ||easyanticheat.net^$dnstype=AAAA
 ||easybib.com^$dnstype=AAAA
@@ -9372,6 +9391,7 @@
 ||embs.ac.uk^$dnstype=AAAA
 ||embs.org^$dnstype=AAAA
 ||emc.ac.uk^$dnstype=AAAA
+||emc.com^$dnstype=AAAA
 ||emcs.org^$dnstype=AAAA
 ||eme.ac.uk^$dnstype=AAAA
 ||emec.ac.uk^$dnstype=AAAA
@@ -9506,6 +9526,7 @@
 ||epicbrowser.com^$dnstype=AAAA
 ||epicgames.com^$dnstype=AAAA
 ||epicgames.dev^$dnstype=AAAA
+||epicgamescdn.com^$dnstype=AAAA
 ||epicreads.com^$dnstype=AAAA
 ||epics.ac.uk^$dnstype=AAAA
 ||epicure.ac.uk^$dnstype=AAAA
@@ -11518,6 +11539,7 @@
 ||gamedownloads-rockstargames-com.akamaized.net^$dnstype=AAAA
 ||gamejolt.com^$dnstype=AAAA
 ||gameloft.com^$dnstype=AAAA
+||gamelore.fun^$dnstype=AAAA
 ||gameon-masters.com^$dnstype=AAAA
 ||gamepass.com^$dnstype=AAAA
 ||gamepedia.com^$dnstype=AAAA
@@ -11989,6 +12011,7 @@
 ||gllm.ac.uk^$dnstype=AAAA
 ||global-sci.org^$dnstype=AAAA
 ||global.bing.com^$dnstype=AAAA
+||global.market.xiaomi.com^$dnstype=AAAA
 ||globalbanking.ac.uk^$dnstype=AAAA
 ||globalbusinessofforcedlabour.ac.uk^$dnstype=AAAA
 ||globaledu.org^$dnstype=AAAA
@@ -12585,6 +12608,8 @@
 ||greenfieldbookstore.com.hk^$dnstype=AAAA
 ||greenhead.ac.uk^$dnstype=AAAA
 ||greenhill.ac.uk^$dnstype=AAAA
+||greenlakeaas.com^$dnstype=AAAA
+||greenlakehybridcloud.com^$dnstype=AAAA
 ||greenparty.org.tw^$dnstype=AAAA
 ||greenpeace.com.tw^$dnstype=AAAA
 ||greenpeace.org^$dnstype=AAAA
@@ -12704,6 +12729,7 @@
 ||gyatsostudio.com^$dnstype=AAAA
 ||gyc.ac.uk^$dnstype=AAAA
 ||gynoexam.info^$dnstype=AAAA
+||gyutte.site^$dnstype=AAAA
 ||gyutto.com^$dnstype=AAAA
 ||gzm.tv^$dnstype=AAAA
 ||gzone-anime.info^$dnstype=AAAA
@@ -13262,6 +13288,16 @@
 ||heungkongdiscuss.com^$dnstype=AAAA
 ||hew.ac.uk^$dnstype=AAAA
 ||hewit.ac.uk^$dnstype=AAAA
+||hewlett-packard.asia^$dnstype=AAAA
+||hewlett-packard.ch^$dnstype=AAAA
+||hewlett-packard.co^$dnstype=AAAA
+||hewlett-packard.co.il^$dnstype=AAAA
+||hewlett-packard.co.uk^$dnstype=AAAA
+||hewlett-packard.com.mx^$dnstype=AAAA
+||hewlett-packard.com.sg^$dnstype=AAAA
+||hewlett-packard.jp^$dnstype=AAAA
+||hewlett-packard.mobi^$dnstype=AAAA
+||hewlettpackard.enterprises^$dnstype=AAAA
 ||hex.pm^$dnstype=AAAA
 ||hexatronik.com^$dnstype=AAAA
 ||hexdocs.pm^$dnstype=AAAA
@@ -13390,6 +13426,7 @@
 ||hk.rd.yahoo.com^$dnstype=AAAA
 ||hk.search.yahoo.com^$dnstype=AAAA
 ||hk.video.news.yahoo.com^$dnstype=AAAA
+||hk.weibo.com^$dnstype=AAAA
 ||hk.yahoo.com^$dnstype=AAAA
 ||hk01.com^$dnstype=AAAA
 ||hk1lib.org^$dnstype=AAAA
@@ -13600,6 +13637,8 @@
 ||horsedicks.net^$dnstype=AAAA
 ||horsemecum.com^$dnstype=AAAA
 ||horseporn.tv^$dnstype=AAAA
+||host.livekit.cloud^$dnstype=AAAA
+||hostborneo.org^$dnstype=AAAA
 ||hosting.co.uk^$dnstype=AAAA
 ||hostloc.com^$dnstype=AAAA
 ||hot-arab-films.com^$dnstype=AAAA
@@ -13739,7 +13778,10 @@
 ||hpdriver.com^$dnstype=AAAA
 ||hpdrivers.com^$dnstype=AAAA
 ||hpdrivers.org^$dnstype=AAAA
+||hpe.com^$dnstype=AAAA
 ||hpeclipse.com^$dnstype=AAAA
+||hpecyber.com^$dnstype=AAAA
+||hpefonts.s3.amazonaws.com^$dnstype=AAAA
 ||hpengage.com^$dnstype=AAAA
 ||hpeprint.com^$dnstype=AAAA
 ||hpeprintcenter.com^$dnstype=AAAA
@@ -14539,6 +14581,7 @@
 ||illusiony.com^$dnstype=AAAA
 ||illusionze.com^$dnstype=AAAA
 ||illusnoi.com^$dnstype=AAAA
+||ilnk.info^$dnstype=AAAA
 ||ilongman.com^$dnstype=AAAA
 ||ilove-movies.com^$dnstype=AAAA
 ||ilove80.be^$dnstype=AAAA
@@ -16081,6 +16124,7 @@
 ||keezmovies.com^$dnstype=AAAA
 ||keiba.net^$dnstype=AAAA
 ||keighleycollege.ac.uk^$dnstype=AAAA
+||kemomi.me^$dnstype=AAAA
 ||kemono.party^$dnstype=AAAA
 ||kemono.su^$dnstype=AAAA
 ||kendal.ac.uk^$dnstype=AAAA
@@ -16231,6 +16275,7 @@
 ||kisscos.net^$dnstype=AAAA
 ||kissjav.com^$dnstype=AAAA
 ||kissjav.li^$dnstype=AAAA
+||kitazawa.me^$dnstype=AAAA
 ||kitts.ac.uk^$dnstype=AAAA
 ||kiwi.kz^$dnstype=AAAA
 ||kiwibrowser.com^$dnstype=AAAA
@@ -16272,6 +16317,7 @@
 ||kobe-pastel.com^$dnstype=AAAA
 ||kobo.com^$dnstype=AAAA
 ||kobobooks.com^$dnstype=AAAA
+||kochudaho.me^$dnstype=AAAA
 ||kodi.tv^$dnstype=AAAA
 ||kodi.wiki^$dnstype=AAAA
 ||kodingen.com^$dnstype=AAAA
@@ -16370,6 +16416,7 @@
 ||laban.ac.uk^$dnstype=AAAA
 ||labiennale.org^$dnstype=AAAA
 ||labinacell.ac.uk^$dnstype=AAAA
+||labo.wovs.tk^$dnstype=AAAA
 ||lackcoll.ac.uk^$dnstype=AAAA
 ||lackham.ac.uk^$dnstype=AAAA
 ||lacomics.org^$dnstype=AAAA
@@ -16898,6 +16945,7 @@
 ||livehdcams.com^$dnstype=AAAA
 ||livejasmin.com^$dnstype=AAAA
 ||livejasminbabes.net^$dnstype=AAAA
+||livekit.cloud^$dnstype=AAAA
 ||liveleak.com^$dnstype=AAAA
 ||livemint.com^$dnstype=AAAA
 ||livemodels.co^$dnstype=AAAA
@@ -17505,6 +17553,7 @@
 ||manhuntdaily.com^$dnstype=AAAA
 ||manhwa24h.com^$dnstype=AAAA
 ||manhwahentai.me^$dnstype=AAAA
+||maniakey.homes^$dnstype=AAAA
 ||maniash.com^$dnstype=AAAA
 ||manicur4ik.ru^$dnstype=AAAA
 ||manlitphil.ac.uk^$dnstype=AAAA
@@ -17601,6 +17650,7 @@
 ||mash.to^$dnstype=AAAA
 ||mashaalradio.com^$dnstype=AAAA
 ||mashable.com^$dnstype=AAAA
+||mashiro.site^$dnstype=AAAA
 ||maskedip.com^$dnstype=AAAA
 ||maskedsingerfox.com^$dnstype=AAAA
 ||massage-in-taipei.com^$dnstype=AAAA
@@ -18055,6 +18105,7 @@
 ||meyou.jp^$dnstype=AAAA
 ||meyul.com^$dnstype=AAAA
 ||mfg-inspector.com^$dnstype=AAAA
+||mfmf.club^$dnstype=AAAA
 ||mfo.ac.uk^$dnstype=AAAA
 ||mfxmedia.com^$dnstype=AAAA
 ||mgo-images.com^$dnstype=AAAA
@@ -18072,6 +18123,9 @@
 ||mhs-relay.ac.uk^$dnstype=AAAA
 ||mhs.ac.uk^$dnstype=AAAA
 ||mhshosting.com^$dnstype=AAAA
+||mi.kochudaho.me^$dnstype=AAAA
+||mi.mashiro.site^$dnstype=AAAA
+||mi.nakn.jp^$dnstype=AAAA
 ||mi9.com.au^$dnstype=AAAA
 ||mi9cdn.com^$dnstype=AAAA
 ||miamifintechfestival.com^$dnstype=AAAA
@@ -18570,6 +18624,21 @@
 ||missav.uno^$dnstype=AAAA
 ||missendenabbey.ac.uk^$dnstype=AAAA
 ||misshotgirls.com^$dnstype=AAAA
+||misskey-square.net^$dnstype=AAAA
+||misskey.04.si^$dnstype=AAAA
+||misskey.always-we-need.games^$dnstype=AAAA
+||misskey.art^$dnstype=AAAA
+||misskey.cloud^$dnstype=AAAA
+||misskey.design^$dnstype=AAAA
+||misskey.flowers^$dnstype=AAAA
+||misskey.gamelore.fun^$dnstype=AAAA
+||misskey.gg^$dnstype=AAAA
+||misskey.io^$dnstype=AAAA
+||misskey.noellabo.jp^$dnstype=AAAA
+||misskey.ranranhome.info^$dnstype=AAAA
+||misskey.stream^$dnstype=AAAA
+||misskey.yukineko.me^$dnstype=AAAA
+||misskeyusercontent.jp^$dnstype=AAAA
 ||mist.ac.uk^$dnstype=AAAA
 ||mist.vip^$dnstype=AAAA
 ||mistresskym.com^$dnstype=AAAA
@@ -18595,6 +18664,8 @@
 ||mjib.gov.tw^$dnstype=AAAA
 ||mjlsh.usc.cuhk.edu.hk^$dnstype=AAAA
 ||mjv-art.org^$dnstype=AAAA
+||mk.shrimpia.network^$dnstype=AAAA
+||mk.yopo.work^$dnstype=AAAA
 ||mk5000.com^$dnstype=AAAA
 ||mkcollege.ac.uk^$dnstype=AAAA
 ||mkncc.ac.uk^$dnstype=AAAA
@@ -18678,6 +18749,7 @@
 ||moeimg.net^$dnstype=AAAA
 ||moemax.net^$dnstype=AAAA
 ||moez-m.com^$dnstype=AAAA
+||mof.kemomi.me^$dnstype=AAAA
 ||mofa.gov.tw^$dnstype=AAAA
 ||mofaxiehui.com^$dnstype=AAAA
 ||mofos.com^$dnstype=AAAA
@@ -18973,6 +19045,8 @@
 ||msguancha.com^$dnstype=AAAA
 ||msha.gov^$dnstype=AAAA
 ||msinnovationchallenge.com^$dnstype=AAAA
+||msk.ilnk.info^$dnstype=AAAA
+||msk.kitazawa.me^$dnstype=AAAA
 ||msn.com^$dnstype=AAAA
 ||msn.com.tw^$dnstype=AAAA
 ||msn.net^$dnstype=AAAA
@@ -19096,6 +19170,7 @@
 ||my.mail.ru^$dnstype=AAAA
 ||my.opera.com^$dnstype=AAAA
 ||my.pcloud.com^$dnstype=AAAA
+||my.weibo.com^$dnstype=AAAA
 ||my03.com^$dnstype=AAAA
 ||my13la.com^$dnstype=AAAA
 ||my1stflame.com^$dnstype=AAAA
@@ -19374,6 +19449,7 @@
 ||nakednews.com^$dnstype=AAAA
 ||nakedsecurity.sophos.com^$dnstype=AAAA
 ||nakido.com^$dnstype=AAAA
+||nakn.jp^$dnstype=AAAA
 ||nakuz.com^$dnstype=AAAA
 ||nalandabodhi.org^$dnstype=AAAA
 ||nalandawest.org^$dnstype=AAAA
@@ -19688,6 +19764,12 @@
 ||netbig.com^$dnstype=AAAA
 ||netbirds.com^$dnstype=AAAA
 ||netcolony.com^$dnstype=AAAA
+||netcup-news.de^$dnstype=AAAA
+||netcup-sonderangebote.de^$dnstype=AAAA
+||netcup.com^$dnstype=AAAA
+||netcup.de^$dnstype=AAAA
+||netcup.eu^$dnstype=AAAA
+||netcup.net^$dnstype=AAAA
 ||netdna-cdn.com^$dnstype=AAAA
 ||netfapx.com^$dnstype=AAAA
 ||netfirms.com^$dnstype=AAAA
@@ -20014,6 +20096,7 @@
 ||nijieronavi.com^$dnstype=AAAA
 ||nijifeti.com^$dnstype=AAAA
 ||nijigen-daiaru.com^$dnstype=AAAA
+||nijimiss.moe^$dnstype=AAAA
 ||nijinchu.com^$dnstype=AAAA
 ||nijioma.blog^$dnstype=AAAA
 ||nijiyome.jp^$dnstype=AAAA
@@ -20286,6 +20369,7 @@
 ||nodes.ac.uk^$dnstype=AAAA
 ||nodesnoop.com^$dnstype=AAAA
 ||nodesource.com^$dnstype=AAAA
+||noellabo.jp^$dnstype=AAAA
 ||nofile.io^$dnstype=AAAA
 ||noisullifb.com^$dnstype=AAAA
 ||nokiantyres.com^$dnstype=AAAA
@@ -20824,6 +20908,7 @@
 ||ocvc.ac.uk^$dnstype=AAAA
 ||odysee.com^$dnstype=AAAA
 ||oed.com^$dnstype=AAAA
+||oekakiskey.com^$dnstype=AAAA
 ||oen.tw^$dnstype=AAAA
 ||oeps.ac.uk^$dnstype=AAAA
 ||oercymru.ac.uk^$dnstype=AAAA
@@ -21264,6 +21349,7 @@
 ||overleaf.com^$dnstype=AAAA
 ||overplay.net^$dnstype=AAAA
 ||oversea.istarshine.com^$dnstype=AAAA
+||overseas.weibo.com^$dnstype=AAAA
 ||overthumbs.com^$dnstype=AAAA
 ||ovi.com^$dnstype=AAAA
 ||ovpn.com^$dnstype=AAAA
@@ -23190,6 +23276,7 @@
 ||rangzen.com^$dnstype=AAAA
 ||rangzen.net^$dnstype=AAAA
 ||rangzen.org^$dnstype=AAAA
+||ranranhome.info^$dnstype=AAAA
 ||ranxiang.com^$dnstype=AAAA
 ||ranyunfei.com^$dnstype=AAAA
 ||rapbull.net^$dnstype=AAAA
@@ -24754,6 +24841,7 @@
 ||sfx.ac.uk^$dnstype=AAAA
 ||sfx.ms^$dnstype=AAAA
 ||sfxc.ac.uk^$dnstype=AAAA
+||sg.weibo.com^$dnstype=AAAA
 ||sg120.me^$dnstype=AAAA
 ||sg1lib.org^$dnstype=AAAA
 ||sgeulnagaidhlig.ac.uk^$dnstype=AAAA
@@ -24985,6 +25073,7 @@
 ||showybeauty.com^$dnstype=AAAA
 ||shp.ee^$dnstype=AAAA
 ||shrewsbury.ac.uk^$dnstype=AAAA
+||shrimpia.network^$dnstype=AAAA
 ||shrkurl.com^$dnstype=AAAA
 ||shsh201.com^$dnstype=AAAA
 ||shu.ac.uk^$dnstype=AAAA
@@ -25162,6 +25251,7 @@
 ||skybet.com^$dnstype=AAAA
 ||skyking.com.tw^$dnstype=AAAA
 ||skykiwi.com^$dnstype=AAAA
+||skymansion.net^$dnstype=AAAA
 ||skymatter.com^$dnstype=AAAA
 ||skynet.be^$dnstype=AAAA
 ||skyoceanrescue.com^$dnstype=AAAA
@@ -25313,6 +25403,8 @@
 ||sneakme.net^$dnstype=AAAA
 ||sni1dcb6gl.wpc.edgecastcdn.net^$dnstype=AAAA
 ||snjulebu.com^$dnstype=AAAA
+||snk-corp.co.jp^$dnstype=AAAA
+||snkplaymore.info^$dnstype=AAAA
 ||snow.me^$dnstype=AAAA
 ||snowcorp.com^$dnstype=AAAA
 ||snowlionpub.com^$dnstype=AAAA
@@ -25660,6 +25752,8 @@
 ||speedrun.com^$dnstype=AAAA
 ||speedsmart.net^$dnstype=AAAA
 ||speedtest.com.hk^$dnstype=AAAA
+||speedtest.hk.chinamobile.com^$dnstype=AAAA
+||speedtestbb.hk.chinamobile.com^$dnstype=AAAA
 ||speedxtra.com^$dnstype=AAAA
 ||spektral.cc^$dnstype=AAAA
 ||spelthorne.ac.uk^$dnstype=AAAA
@@ -26234,6 +26328,7 @@
 ||subacme.rerouted.org^$dnstype=AAAA
 ||sublimedirectory.com^$dnstype=AAAA
 ||sublimetext.com^$dnstype=AAAA
+||submarin.online^$dnstype=AAAA
 ||submittal-log.com^$dnstype=AAAA
 ||submityourflicks.com^$dnstype=AAAA
 ||subscene.com^$dnstype=AAAA
@@ -26295,6 +26390,8 @@
 ||supc.ac.uk^$dnstype=AAAA
 ||supchina.com^$dnstype=AAAA
 ||superadultgames.com^$dnstype=AAAA
+||supercell.helpshift.com^$dnstype=AAAA
+||supercell.net^$dnstype=AAAA
 ||supercoach.com.au^$dnstype=AAAA
 ||supercomputingwales.ac.uk^$dnstype=AAAA
 ||superdarn.ac.uk^$dnstype=AAAA
@@ -26350,6 +26447,7 @@
 ||surveynet.ac.uk^$dnstype=AAAA
 ||suschem-nottingham-cdt.ac.uk^$dnstype=AAAA
 ||sushi.com^$dnstype=AAAA
+||sushi.ski^$dnstype=AAAA
 ||susiewildin.com^$dnstype=AAAA
 ||sussex.ac.uk^$dnstype=AAAA
 ||sussexbusinessschool.ac.uk^$dnstype=AAAA
@@ -26888,6 +26986,7 @@
 ||tgtube.com^$dnstype=AAAA
 ||tgutube.com^$dnstype=AAAA
 ||th.hao123.com^$dnstype=AAAA
+||th.weibo.com^$dnstype=AAAA
 ||thai-xxx.com^$dnstype=AAAA
 ||thai69.com^$dnstype=AAAA
 ||thaicherry.com^$dnstype=AAAA
@@ -27297,10 +27396,13 @@
 ||tiipple.ac.uk^$dnstype=AAAA
 ||tik-tokapi.com^$dnstype=AAAA
 ||tiktok.com^$dnstype=AAAA
+||tiktokcdn-eu.com^$dnstype=AAAA
 ||tiktokcdn-us.com^$dnstype=AAAA
 ||tiktokcdn.com^$dnstype=AAAA
 ||tiktokv.com^$dnstype=AAAA
+||tiktokv.eu^$dnstype=AAAA
 ||tiktokv.us^$dnstype=AAAA
+||tiktokw.eu^$dnstype=AAAA
 ||tiktokw.us^$dnstype=AAAA
 ||tilehill.ac.uk^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
@@ -27638,6 +27740,7 @@
 ||tropictube.com^$dnstype=AAAA
 ||tropmed.ac.uk^$dnstype=AAAA
 ||trouw.nl^$dnstype=AAAA
+||trpger.us^$dnstype=AAAA
 ||trs.ac.uk^$dnstype=AAAA
 ||trt.net.tr^$dnstype=AAAA
 ||trtc.com.tw^$dnstype=AAAA
@@ -27729,6 +27832,7 @@
 ||tteshop.com^$dnstype=AAAA
 ||ttetraining.ac.uk^$dnstype=AAAA
 ||ttk.ru^$dnstype=AAAA
+||ttlivecdn.com^$dnstype=AAAA
 ||ttrb.ac.uk^$dnstype=AAAA
 ||tttan.com^$dnstype=AAAA
 ||ttv.com.tw^$dnstype=AAAA
@@ -27825,6 +27929,7 @@
 ||turingsafehaven.ac.uk^$dnstype=AAAA
 ||turkeyblocks.org^$dnstype=AAAA
 ||turkistantimes.com^$dnstype=AAAA
+||turn.livekit.cloud^$dnstype=AAAA
 ||turntable.fm^$dnstype=AAAA
 ||tushy.com^$dnstype=AAAA
 ||tushycash.com^$dnstype=AAAA
@@ -27877,6 +27982,7 @@
 ||tw.streetvoice.com^$dnstype=AAAA
 ||tw.tomonews.net^$dnstype=AAAA
 ||tw.voa.mobi^$dnstype=AAAA
+||tw.weibo.com^$dnstype=AAAA
 ||tw.yahoo.com^$dnstype=AAAA
 ||tw01.org^$dnstype=AAAA
 ||tw985.com^$dnstype=AAAA
@@ -28388,6 +28494,7 @@
 ||unkoscene.com^$dnstype=AAAA
 ||unl.ac.uk^$dnstype=AAAA
 ||unlocklimitlesslearning.com^$dnstype=AAAA
+||unlocktool.net^$dnstype=AAAA
 ||unn.ac.uk^$dnstype=AAAA
 ||unodedos.com^$dnstype=AAAA
 ||unpkg.com^$dnstype=AAAA
@@ -28466,6 +28573,7 @@
 ||urlparser.com^$dnstype=AAAA
 ||urukawa.com^$dnstype=AAAA
 ||us.to^$dnstype=AAAA
+||us.weibo.com^$dnstype=AAAA
 ||usa-beatsbydreheadphonesonsale.net^$dnstype=AAAA
 ||usablepast.ac.uk^$dnstype=AAAA
 ||usacn.com^$dnstype=AAAA
@@ -30288,6 +30396,7 @@
 ||worldvpn.net^$dnstype=AAAA
 ||wortech.ac.uk^$dnstype=AAAA
 ||worthing.ac.uk^$dnstype=AAAA
+||wovs.tk^$dnstype=AAAA
 ||wow-life.net^$dnstype=AAAA
 ||wow.com^$dnstype=AAAA
 ||wowgirls.com^$dnstype=AAAA
@@ -31428,6 +31537,7 @@
 ||yomiuri-systec.co.jp^$dnstype=AAAA
 ||yomiuri.co.jp^$dnstype=AAAA
 ||yong.hu^$dnstype=AAAA
+||yopo.work^$dnstype=AAAA
 ||yopornshop.com^$dnstype=AAAA
 ||york-sfc.ac.uk^$dnstype=AAAA
 ||york.ac.uk^$dnstype=AAAA
@@ -31761,6 +31871,7 @@
 ||yuanzhengtang.org^$dnstype=AAAA
 ||yuenuge113.xyz^$dnstype=AAAA
 ||yuenuge18.cc^$dnstype=AAAA
+||yukineko.me^$dnstype=AAAA
 ||yulghun.com^$dnstype=AAAA
 ||yunchao.net^$dnstype=AAAA
 ||yunlaopo.cc^$dnstype=AAAA
@@ -31789,6 +31900,7 @@
 ||z00.world^$dnstype=AAAA
 ||z18r.co^$dnstype=AAAA
 ||z18r.com^$dnstype=AAAA
+||z3x-team.com^$dnstype=AAAA
 ||z5.app^$dnstype=AAAA
 ||z5.com^$dnstype=AAAA
 ||z676869.com^$dnstype=AAAA
