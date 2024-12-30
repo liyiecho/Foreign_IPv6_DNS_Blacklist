@@ -31457,6 +31457,7 @@
 ||ydds.ac.uk^$dnstype=AAAA
 ||ydn.com.tw^$dnstype=AAAA
 ||ydrindoddewisant.ac.uk^$dnstype=AAAA
+||ydy.com^$dnstype=AAAA
 ||yeahteentube.com^$dnstype=AAAA
 ||yecl.net^$dnstype=AAAA
 ||yeelou.com^$dnstype=AAAA
