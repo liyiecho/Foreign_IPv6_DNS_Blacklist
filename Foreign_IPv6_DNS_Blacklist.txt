@@ -7755,6 +7755,7 @@
 ||decrypt.day^$dnstype=AAAA
 ||decymru.ac.uk^$dnstype=AAAA
 ||deed.ac.uk^$dnstype=AAAA
+||deepai.org^$dnstype=AAAA
 ||deepdiscount.com^$dnstype=AAAA
 ||deeper.com^$dnstype=AAAA
 ||deepfake-porn.com^$dnstype=AAAA
@@ -29641,6 +29642,7 @@
 ||vraiesagesse.net^$dnstype=AAAA
 ||vrbgay.com^$dnstype=AAAA
 ||vrcams.io^$dnstype=AAAA
+||vrchat.com^$dnstype=AAAA
 ||vred-essentials.com^$dnstype=AAAA
 ||vredessentials.com^$dnstype=AAAA
 ||vredprofessional.com^$dnstype=AAAA
