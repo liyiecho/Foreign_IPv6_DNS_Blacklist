@@ -12636,6 +12636,7 @@
 ||grindr.com^$dnstype=AAAA
 ||grooby.com^$dnstype=AAAA
 ||grotty-monday.com^$dnstype=AAAA
+||ground.news^$dnstype=AAAA
 ||groupfun.com^$dnstype=AAAA
 ||groups.com^$dnstype=AAAA
 ||groups.google.cn^$dnstype=AAAA
@@ -13800,6 +13801,7 @@
 ||hpinkjet.com^$dnstype=AAAA
 ||hpinstantink.ca^$dnstype=AAAA
 ||hpinstantink.com^$dnstype=AAAA
+||hpjav.com^$dnstype=AAAA
 ||hpjav.tv^$dnstype=AAAA
 ||hpkeyboard.com^$dnstype=AAAA
 ||hplaptop.com^$dnstype=AAAA
@@ -14198,6 +14200,7 @@
 ||iask.ca^$dnstype=AAAA
 ||iat.ac.uk^$dnstype=AAAA
 ||iav19.com^$dnstype=AAAA
+||iavian.net^$dnstype=AAAA
 ||iavnight.com^$dnstype=AAAA
 ||ib.metapix.net^$dnstype=AAAA
 ||ibb.co^$dnstype=AAAA
@@ -21735,6 +21738,7 @@
 ||pcdvd.com.tw^$dnstype=AAAA
 ||pcfe.ac.uk^$dnstype=AAAA
 ||pcfeonline.ac.uk^$dnstype=AAAA
+||pcgamestorrents.com^$dnstype=AAAA
 ||pchome.com.tw^$dnstype=AAAA
 ||pchomeec.tw^$dnstype=AAAA
 ||pchomeonline.com.tw^$dnstype=AAAA
