@@ -31964,7 +31964,6 @@
 ||zencoder.com^$dnstype=AAAA
 ||zendesk.com^$dnstype=AAAA
 ||zengjinyan.org^$dnstype=AAAA
-||zenlesszonezero.com^$dnstype=AAAA
 ||zenmate.com^$dnstype=AAAA
 ||zenmate.com.ru^$dnstype=AAAA
 ||zenodo.org^$dnstype=AAAA
