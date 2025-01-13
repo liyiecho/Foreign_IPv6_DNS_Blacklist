@@ -189,6 +189,7 @@
 ||1mobile.tw^$dnstype=AAAA
 ||1monsterbeatsbydreus.com^$dnstype=AAAA
 ||1password.com^$dnstype=AAAA
+||1point3acres.com^$dnstype=AAAA
 ||1pondo.tv^$dnstype=AAAA
 ||1pornlist.com^$dnstype=AAAA
 ||1thek.com^$dnstype=AAAA
@@ -2629,6 +2630,7 @@
 ||aucheapbeats.com^$dnstype=AAAA
 ||auctions.yahoo.co.jp^$dnstype=AAAA
 ||aucyfrwngcymraeg.ac.uk^$dnstype=AAAA
+||audacy.com^$dnstype=AAAA
 ||aude.ac.uk^$dnstype=AAAA
 ||audelondon.ac.uk^$dnstype=AAAA
 ||audible.com^$dnstype=AAAA
@@ -5895,6 +5897,7 @@
 ||cdp2006.org^$dnstype=AAAA
 ||cdpa.url.tw^$dnstype=AAAA
 ||cdpeu.org^$dnstype=AAAA
+||cdpuk.co.uk^$dnstype=AAAA
 ||cdpusa.org^$dnstype=AAAA
 ||cdpweb.org^$dnstype=AAAA
 ||cdpwu.org^$dnstype=AAAA
@@ -7727,6 +7730,7 @@
 ||de-montfort.ac.uk^$dnstype=AAAA
 ||de-sci.org^$dnstype=AAAA
 ||de1lib.org^$dnstype=AAAA
+||deadhouse.org^$dnstype=AAAA
 ||deadline.com^$dnstype=AAAA
 ||deadspacegame.com^$dnstype=AAAA
 ||deafandcreative.ac.uk^$dnstype=AAAA
@@ -10778,6 +10782,7 @@
 ||firstrade.com^$dnstype=AAAA
 ||firstsearch.oclc.org^$dnstype=AAAA
 ||fiscalstudies.ac.uk^$dnstype=AAAA
+||fish.audio^$dnstype=AAAA
 ||fishmpegs.com^$dnstype=AAAA
 ||fitbit.com^$dnstype=AAAA
 ||fitgirl-repacks.site^$dnstype=AAAA
@@ -14768,6 +14773,7 @@
 ||ingress.com^$dnstype=AAAA
 ||ingyenszexvideo.top^$dnstype=AAAA
 ||inherd.mom^$dnstype=AAAA
+||inherit.live^$dnstype=AAAA
 ||inhumanity.com^$dnstype=AAAA
 ||inikesneakers.com^$dnstype=AAAA
 ||init.shop^$dnstype=AAAA
@@ -23239,6 +23245,7 @@
 ||radicalparty.org^$dnstype=AAAA
 ||radiko.jp^$dnstype=AAAA
 ||radio-canada.ca^$dnstype=AAAA
+||radio-en-ligne.fr^$dnstype=AAAA
 ||radio.garden^$dnstype=AAAA
 ||radioaustralia.net.au^$dnstype=AAAA
 ||radiofarda.com^$dnstype=AAAA
@@ -25300,6 +25307,7 @@
 ||sldolls.com^$dnstype=AAAA
 ||sleaford.ac.uk^$dnstype=AAAA
 ||sleazydream.com^$dnstype=AAAA
+||sleazyfork.org^$dnstype=AAAA
 ||sleazyneasy.com^$dnstype=AAAA
 ||sleepandwakefulnessresearch.ac.uk^$dnstype=AAAA
 ||slg.ac.uk^$dnstype=AAAA
@@ -25814,6 +25822,7 @@
 ||spreadporn.org^$dnstype=AAAA
 ||spreadprivacy.com^$dnstype=AAAA
 ||spreadshirt.es^$dnstype=AAAA
+||spreaker.com^$dnstype=AAAA
 ||sprg.ac.uk^$dnstype=AAAA
 ||spring-plus.net^$dnstype=AAAA
 ||spring.io^$dnstype=AAAA
@@ -31902,6 +31911,7 @@
 ||yysub.net^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
+||z-lib.io^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
 ||z-library.se^$dnstype=AAAA
 ||z00.world^$dnstype=AAAA
