@@ -672,6 +672,7 @@
 ||abdn-online.ac.uk^$dnstype=AAAA
 ||abdn.ac.uk^$dnstype=AAAA
 ||abeatsbydrdre.com^$dnstype=AAAA
+||abebooks.co.uk^$dnstype=AAAA
 ||abebooks.com^$dnstype=AAAA
 ||abellalist.com^$dnstype=AAAA
 ||abema-tv.com^$dnstype=AAAA
@@ -3819,6 +3820,7 @@
 ||biaoqs1.xyz^$dnstype=AAAA
 ||biaoqs2.xyz^$dnstype=AAAA
 ||biblesforamerica.org^$dnstype=AAAA
+||bibliocommons.com^$dnstype=AAAA
 ||bibliography.ac.uk^$dnstype=AAAA
 ||bibox.com^$dnstype=AAAA
 ||bic2011.org^$dnstype=AAAA
@@ -5654,6 +5656,7 @@
 ||carnegie.ac.uk^$dnstype=AAAA
 ||carnegiecollege.ac.uk^$dnstype=AAAA
 ||carnet.hr^$dnstype=AAAA
+||carousell.com.hk^$dnstype=AAAA
 ||carr-lse.ac.uk^$dnstype=AAAA
 ||carrd.co^$dnstype=AAAA
 ||carryzhou.com^$dnstype=AAAA
@@ -6035,6 +6038,7 @@
 ||channel4.com^$dnstype=AAAA
 ||channel5.com^$dnstype=AAAA
 ||channelnewsasia.com^$dnstype=AAAA
+||chanworld.org^$dnstype=AAAA
 ||chaoex.com^$dnstype=AAAA
 ||chapm25.com^$dnstype=AAAA
 ||chargenow.com^$dnstype=AAAA
@@ -6642,7 +6646,6 @@
 ||cmule.org^$dnstype=AAAA
 ||cmx.im^$dnstype=AAAA
 ||cn-proxy.com^$dnstype=AAAA
-||cn.dayabook.com^$dnstype=AAAA
 ||cn.fmnnow.com^$dnstype=AAAA
 ||cn.freeones.com^$dnstype=AAAA
 ||cn.giganews.com^$dnstype=AAAA
@@ -7645,6 +7648,7 @@
 ||dasg.ac.uk^$dnstype=AAAA
 ||dash-1.ac.uk^$dnstype=AAAA
 ||dash.cloudflare.com^$dnstype=AAAA
+||dashlane.com^$dnstype=AAAA
 ||dashwood360.com^$dnstype=AAAA
 ||dassh.ac.uk^$dnstype=AAAA
 ||dastanhisexy.cc^$dnstype=AAAA
@@ -22294,6 +22298,7 @@
 ||poop-pee.online^$dnstype=AAAA
 ||poopee-puke.com^$dnstype=AAAA
 ||poopeegirls.com^$dnstype=AAAA
+||popai.pro^$dnstype=AAAA
 ||popcap.com^$dnstype=AAAA
 ||popjav.tv^$dnstype=AAAA
 ||popo.tw^$dnstype=AAAA
@@ -29606,6 +29611,7 @@
 ||voyeurstyle.com^$dnstype=AAAA
 ||voyeurweb.com^$dnstype=AAAA
 ||vpejey.xyz^$dnstype=AAAA
+||vpl.bibliocommons.com^$dnstype=AAAA
 ||vpn.ac^$dnstype=AAAA
 ||vpn.cmu.edu^$dnstype=AAAA
 ||vpn.sv.cmu.edu^$dnstype=AAAA
@@ -30157,7 +30163,6 @@
 ||wikaba.com^$dnstype=AAAA
 ||wikawika.xyz^$dnstype=AAAA
 ||wiki.cnitter.com^$dnstype=AAAA
-||wiki.esu.im^$dnstype=AAAA
 ||wiki.gamerp.jp^$dnstype=AAAA
 ||wiki.jqueryui.com^$dnstype=AAAA
 ||wiki.keso.cn^$dnstype=AAAA
