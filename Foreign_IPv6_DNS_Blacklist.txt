@@ -29773,7 +29773,6 @@
 ||wailaike.net^$dnstype=AAAA
 ||wainao.me^$dnstype=AAAA
 ||waisongcha.com^$dnstype=AAAA
-||waittingfor001.weebly.com^$dnstype=AAAA
 ||waiwaier.com^$dnstype=AAAA
 ||wakcoll.ac.uk^$dnstype=AAAA
 ||wakefield.ac.uk^$dnstype=AAAA
