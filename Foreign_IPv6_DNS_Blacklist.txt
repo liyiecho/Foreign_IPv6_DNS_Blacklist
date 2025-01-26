@@ -15531,7 +15531,6 @@
 ||izmirautodeskegitimleri.com^$dnstype=AAAA
 ||j.mp^$dnstype=AAAA
 ||j2objc.org^$dnstype=AAAA
-||ja.wikipedia.org^$dnstype=AAAA
 ||jabcomix.com^$dnstype=AAAA
 ||jable.one^$dnstype=AAAA
 ||jable.org^$dnstype=AAAA
@@ -22005,7 +22004,6 @@
 ||phimsexnhanh.club^$dnstype=AAAA
 ||phmsociety.org^$dnstype=AAAA
 ||phncdn.com^$dnstype=AAAA
-||phobos.apple.com^$dnstype=AAAA
 ||phoenix.ac.uk^$dnstype=AAAA
 ||phonegap.com^$dnstype=AAAA
 ||phosphation13.rssing.com^$dnstype=AAAA
