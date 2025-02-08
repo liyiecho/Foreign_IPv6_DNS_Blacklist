@@ -5823,6 +5823,7 @@
 ||ccdc.ac.uk^$dnstype=AAAA
 ||ccdtr.org^$dnstype=AAAA
 ||ccesd.ac.uk^$dnstype=AAAA
+||ccfd.org.tw^$dnstype=AAAA
 ||ccfe.ac.uk^$dnstype=AAAA
 ||cch.ac.uk^$dnstype=AAAA
 ||cchere.com^$dnstype=AAAA
@@ -12637,6 +12638,7 @@
 ||grcb.ac.uk^$dnstype=AAAA
 ||gre.ac.uk^$dnstype=AAAA
 ||greasespot.net^$dnstype=AAAA
+||greasyfork.org^$dnstype=AAAA
 ||great-firewall.com^$dnstype=AAAA
 ||great-roc.org^$dnstype=AAAA
 ||greatapedictionary.ac.uk^$dnstype=AAAA
@@ -15205,6 +15207,7 @@
 ||ipadpro.buzz^$dnstype=AAAA
 ||ipalter.com^$dnstype=AAAA
 ||ipcc-wg3.ac.uk^$dnstype=AAAA
+||ipdefenseforum.com^$dnstype=AAAA
 ||ipem.ac.uk^$dnstype=AAAA
 ||ipfire.org^$dnstype=AAAA
 ||ipforesightforum.ac.uk^$dnstype=AAAA
@@ -20440,6 +20443,7 @@
 ||nocs.ac.uk^$dnstype=AAAA
 ||nodejs.org^$dnstype=AAAA
 ||nodes.ac.uk^$dnstype=AAAA
+||nodeseek.com^$dnstype=AAAA
 ||nodesnoop.com^$dnstype=AAAA
 ||nodesource.com^$dnstype=AAAA
 ||noellabo.jp^$dnstype=AAAA
@@ -21491,6 +21495,7 @@
 ||packer.io^$dnstype=AAAA
 ||packetix.net^$dnstype=AAAA
 ||pacloudflare.com^$dnstype=AAAA
+||pacom.mil^$dnstype=AAAA
 ||pacopacomama.com^$dnstype=AAAA
 ||pact.ac.uk^$dnstype=AAAA
 ||paddle.com^$dnstype=AAAA
@@ -28705,7 +28710,6 @@
 ||ushare.ac.uk^$dnstype=AAAA
 ||ushaw.ac.uk^$dnstype=AAAA
 ||ushuarencity.echainhost.com^$dnstype=AAAA
-||usinfo.state.gov^$dnstype=AAAA
 ||usma.edu^$dnstype=AAAA
 ||usmc.mil^$dnstype=AAAA
 ||usmgtcg.ning.com^$dnstype=AAAA
@@ -30709,7 +30713,6 @@
 ||www.abclite.net^$dnstype=AAAA
 ||www.acgnx.se^$dnstype=AAAA
 ||www.ajsands.com^$dnstype=AAAA
-||www.americorps.gov^$dnstype=AAAA
 ||www.anix.moe^$dnstype=AAAA
 ||www.antd.org^$dnstype=AAAA
 ||www.aolnews.com^$dnstype=AAAA
