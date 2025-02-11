@@ -1150,7 +1150,6 @@
 ||ai-kan.net^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
 ||ai.binwang.me^$dnstype=AAAA
-||ai.com^$dnstype=AAAA
 ||ai.google^$dnstype=AAAA
 ||ai.google.dev^$dnstype=AAAA
 ||ai3sd.ac.uk^$dnstype=AAAA
