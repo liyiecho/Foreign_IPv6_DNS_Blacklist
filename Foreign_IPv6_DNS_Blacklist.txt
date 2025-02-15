@@ -16414,6 +16414,7 @@
 ||kpptoto.info^$dnstype=AAAA
 ||kqes.net^$dnstype=AAAA
 ||kraken.com^$dnstype=AAAA
+||kraken.onl^$dnstype=AAAA
 ||krakenjs.com^$dnstype=AAAA
 ||krhentai.com^$dnstype=AAAA
 ||kristenbjorn.com^$dnstype=AAAA
@@ -27293,6 +27294,7 @@
 ||thetimes.co.uk^$dnstype=AAAA
 ||thetimes.ie^$dnstype=AAAA
 ||thetinhat.com^$dnstype=AAAA
+||thetrackernetwork.com^$dnstype=AAAA
 ||thetranny.com^$dnstype=AAAA
 ||thetread.com^$dnstype=AAAA
 ||thetrotskymovie.com^$dnstype=AAAA
@@ -27749,6 +27751,8 @@
 ||trac.ac.uk^$dnstype=AAAA
 ||tracfone.com^$dnstype=AAAA
 ||tracingnetworks.ac.uk^$dnstype=AAAA
+||tracker.gg^$dnstype=AAAA
+||tracker.network^$dnstype=AAAA
 ||tracking-location.com^$dnstype=AAAA
 ||tradevip1.com^$dnstype=AAAA
 ||tradingview.com^$dnstype=AAAA
