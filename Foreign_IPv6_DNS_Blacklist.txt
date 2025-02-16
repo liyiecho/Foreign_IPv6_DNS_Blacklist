@@ -853,6 +853,7 @@
 ||adas.ac.uk^$dnstype=AAAA
 ||adbecrsl.com^$dnstype=AAAA
 ||adbkm.com^$dnstype=AAAA
+||adblockcdn.com^$dnstype=AAAA
 ||adblockplus.org^$dnstype=AAAA
 ||adcex.com^$dnstype=AAAA
 ||adcommerce.tv^$dnstype=AAAA
@@ -31720,6 +31721,8 @@
 ||your-freedom.net^$dnstype=AAAA
 ||your-objectstorage.com^$dnstype=AAAA
 ||your-server.de^$dnstype=AAAA
+||your-storagebox.de^$dnstype=AAAA
+||your-storageshare.de^$dnstype=AAAA
 ||youramateurporn.com^$dnstype=AAAA
 ||yourassbig.com^$dnstype=AAAA
 ||yourbrain.com^$dnstype=AAAA
