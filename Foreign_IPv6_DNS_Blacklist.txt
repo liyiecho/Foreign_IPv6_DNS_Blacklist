@@ -19239,7 +19239,12 @@
 ||mwrc.ac.uk^$dnstype=AAAA
 ||mx.hao123.com^$dnstype=AAAA
 ||mx981.com^$dnstype=AAAA
+||mxlogin.com^$dnstype=AAAA
 ||mxmcdn.net^$dnstype=AAAA
+||mxroute.com^$dnstype=AAAA
+||mxroutedocs.com^$dnstype=AAAA
+||mxroutehelp.com^$dnstype=AAAA
+||mxrouting.net^$dnstype=AAAA
 ||mxshm.site^$dnstype=AAAA
 ||my-enema.com^$dnstype=AAAA
 ||my-formosa.com^$dnstype=AAAA
