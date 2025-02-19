@@ -443,6 +443,7 @@
 ||5xsq.com^$dnstype=AAAA
 ||6-ar.com^$dnstype=AAAA
 ||60plusmilfs.com^$dnstype=AAAA
+||611study.icu^$dnstype=AAAA
 ||61jxbs42.xyz^$dnstype=AAAA
 ||62fh1bnj.me^$dnstype=AAAA
 ||634.tv^$dnstype=AAAA
@@ -19994,6 +19995,7 @@
 ||news.tvbs.com.tw^$dnstype=AAAA
 ||news.yahoo.com^$dnstype=AAAA
 ||news.ycombinator.com^$dnstype=AAAA
+||news1.kr^$dnstype=AAAA
 ||news100.com.tw^$dnstype=AAAA
 ||newsadds.com.au^$dnstype=AAAA
 ||newsamerica.com^$dnstype=AAAA
@@ -22074,6 +22076,7 @@
 ||picturedip.com^$dnstype=AAAA
 ||pictures.playboy.com^$dnstype=AAAA
 ||picturesocial.com^$dnstype=AAAA
+||picuki.com^$dnstype=AAAA
 ||pieceofplastic.com^$dnstype=AAAA
 ||pier18.ac.uk^$dnstype=AAAA
 ||pifpafarabia.com^$dnstype=AAAA
