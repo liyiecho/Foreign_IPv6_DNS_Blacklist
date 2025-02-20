@@ -13271,6 +13271,7 @@
 ||hentaivn.de^$dnstype=AAAA
 ||hentaivn.la^$dnstype=AAAA
 ||hentaivn.net^$dnstype=AAAA
+||hentaivox.com^$dnstype=AAAA
 ||hentaivvz.com^$dnstype=AAAA
 ||hentaiworld.eu^$dnstype=AAAA
 ||hentaiworld.tv^$dnstype=AAAA
