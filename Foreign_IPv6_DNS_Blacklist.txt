@@ -6396,6 +6396,7 @@
 ||cineastentreff.de^$dnstype=AAAA
 ||cinemax.com^$dnstype=AAAA
 ||cinepornogratis.com^$dnstype=AAAA
+||cinny.in^$dnstype=AAAA
 ||cios.org^$dnstype=AAAA
 ||ciota.ac.uk^$dnstype=AAAA
 ||cipfg.org^$dnstype=AAAA
@@ -8645,6 +8646,7 @@
 ||drweb.com^$dnstype=AAAA
 ||drweb.fr^$dnstype=AAAA
 ||drweb.kz^$dnstype=AAAA
+||drweb.ru^$dnstype=AAAA
 ||drweb.uz^$dnstype=AAAA
 ||ds-linear-abematv.akamaized.net^$dnstype=AAAA
 ||ds-vod-abematv.akamaized.net^$dnstype=AAAA
@@ -10888,6 +10890,7 @@
 ||flowfront.net^$dnstype=AAAA
 ||flowhongkong.net^$dnstype=AAAA
 ||flowtype.org^$dnstype=AAAA
+||fluffychat.im^$dnstype=AAAA
 ||fluidfxapp.com^$dnstype=AAAA
 ||fluidpreview.com^$dnstype=AAAA
 ||fluids.ac.uk^$dnstype=AAAA
@@ -12689,6 +12692,7 @@
 ||grimsby.ac.uk^$dnstype=AAAA
 ||grimsbytec.ac.uk^$dnstype=AAAA
 ||grindr.com^$dnstype=AAAA
+||grok.com^$dnstype=AAAA
 ||grooby.com^$dnstype=AAAA
 ||groq.com^$dnstype=AAAA
 ||grotty-monday.com^$dnstype=AAAA
@@ -20056,6 +20060,8 @@
 ||nexitally.com^$dnstype=AAAA
 ||nexitallysafe.com^$dnstype=AAAA
 ||nexitcore.com^$dnstype=AAAA
+||nexo.com^$dnstype=AAAA
+||nexo.io^$dnstype=AAAA
 ||nexon.co.jp^$dnstype=AAAA
 ||nexon.com^$dnstype=AAAA
 ||nexon.io^$dnstype=AAAA
@@ -22192,7 +22198,9 @@
 ||pixfs.net^$dnstype=AAAA
 ||pixhost.to^$dnstype=AAAA
 ||pixinsight.com.tw^$dnstype=AAAA
+||pixiv-recommend.net^$dnstype=AAAA
 ||pixiv.co.jp^$dnstype=AAAA
+||pixiv.help^$dnstype=AAAA
 ||pixiv.me^$dnstype=AAAA
 ||pixiv.net^$dnstype=AAAA
 ||pixiv.org^$dnstype=AAAA
