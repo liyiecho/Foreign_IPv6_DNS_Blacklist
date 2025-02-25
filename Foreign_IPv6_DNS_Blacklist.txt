@@ -9711,7 +9711,6 @@
 ||erohentai.net^$dnstype=AAAA
 ||erolabs.cloud^$dnstype=AAAA
 ||erolabs.com^$dnstype=AAAA
-||erolabs.fun^$dnstype=AAAA
 ||erolabs.game^$dnstype=AAAA
 ||erolabs.net^$dnstype=AAAA
 ||erolabs.online^$dnstype=AAAA
@@ -16517,7 +16516,6 @@
 ||kzaobao.com^$dnstype=AAAA
 ||kzeng.info^$dnstype=AAAA
 ||l-0005.dc-msedge.net^$dnstype=AAAA
-||l-0005.l-msedge.net^$dnstype=AAAA
 ||l-msedge.net^$dnstype=AAAA
 ||la-forum.org^$dnstype=AAAA
 ||la-mama.ru^$dnstype=AAAA
