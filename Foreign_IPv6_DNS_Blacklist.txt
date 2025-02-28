@@ -19941,6 +19941,7 @@
 ||netcup-news.de^$dnstype=AAAA
 ||netcup-sonderangebote.de^$dnstype=AAAA
 ||netcup-wiki.de^$dnstype=AAAA
+||netcup.cafe^$dnstype=AAAA
 ||netcup.com^$dnstype=AAAA
 ||netcup.de^$dnstype=AAAA
 ||netcup.eu^$dnstype=AAAA
@@ -28169,7 +28170,9 @@
 ||tubevintageporn.com^$dnstype=AAAA
 ||tubewolf.com^$dnstype=AAAA
 ||tubexclips.com^$dnstype=AAAA
+||tubi.io^$dnstype=AAAA
 ||tubinge.com^$dnstype=AAAA
+||tubitv.com^$dnstype=AAAA
 ||tubous.com^$dnstype=AAAA
 ||tubsexer.com^$dnstype=AAAA
 ||tubxporn.com^$dnstype=AAAA
