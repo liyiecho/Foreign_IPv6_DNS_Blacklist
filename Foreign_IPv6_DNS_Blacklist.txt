@@ -1811,6 +1811,7 @@
 ||ankarazirvesi2018.com^$dnstype=AAAA
 ||anm.co.uk^$dnstype=AAAA
 ||annamilk.com^$dnstype=AAAA
+||annas-archive.se^$dnstype=AAAA
 ||annatam.com^$dnstype=AAAA
 ||anniesland-fe.ac.uk^$dnstype=AAAA
 ||anniesland.ac.uk^$dnstype=AAAA
@@ -3156,6 +3157,7 @@
 ||bangkokstreetwhores.com^$dnstype=AAAA
 ||bangor-university-london.ac.uk^$dnstype=AAAA
 ||bangor.ac.uk^$dnstype=AAAA
+||bangumi.moe^$dnstype=AAAA
 ||bangumi.tv^$dnstype=AAAA
 ||bangyoulater.com^$dnstype=AAAA
 ||bangyourwife.com^$dnstype=AAAA
@@ -4980,6 +4982,7 @@
 ||bravoteens.com^$dnstype=AAAA
 ||bravotube.net^$dnstype=AAAA
 ||bravotube.tv^$dnstype=AAAA
+||brawlstarsgame.com^$dnstype=AAAA
 ||brazilpartneruniversity.com^$dnstype=AAAA
 ||brazzer.com^$dnstype=AAAA
 ||brazzers-porno.online^$dnstype=AAAA
@@ -7339,6 +7342,7 @@
 ||crypto.com^$dnstype=AAAA
 ||cryptocompare.com^$dnstype=AAAA
 ||cryptographyengineering.com^$dnstype=AAAA
+||cryptomus.com^$dnstype=AAAA
 ||crypton.co.jp^$dnstype=AAAA
 ||crysis.jp^$dnstype=AAAA
 ||crystalgunnsworld.com^$dnstype=AAAA
@@ -8496,6 +8500,7 @@
 ||doodhwali.com^$dnstype=AAAA
 ||doom.com^$dnstype=AAAA
 ||doom9.org^$dnstype=AAAA
+||doosho.com^$dnstype=AAAA
 ||doourbest.org^$dnstype=AAAA
 ||dopaminegirl.com^$dnstype=AAAA
 ||dorjeshugden.com^$dnstype=AAAA
@@ -11261,6 +11266,7 @@
 ||free-strip-games.com^$dnstype=AAAA
 ||free-wap-tube.com^$dnstype=AAAA
 ||free-xxx-porn.org^$dnstype=AAAA
+||free.bg^$dnstype=AAAA
 ||free.fr^$dnstype=AAAA
 ||free00.com^$dnstype=AAAA
 ||free18.net^$dnstype=AAAA
@@ -13640,6 +13646,7 @@
 ||hola.org^$dnstype=AAAA
 ||holaporno.xxx^$dnstype=AAAA
 ||holdemstripem.com^$dnstype=AAAA
+||hole.thu.monster^$dnstype=AAAA
 ||holloporn.com^$dnstype=AAAA
 ||hollyrandall.com^$dnstype=AAAA
 ||holmelacy.ac.uk^$dnstype=AAAA
@@ -13822,6 +13829,7 @@
 ||howtogetmo.co.uk^$dnstype=AAAA
 ||howtohackfacebook-account.com^$dnstype=AAAA
 ||hoxx.com^$dnstype=AAAA
+||hoy.tv^$dnstype=AAAA
 ||hoyolab.com^$dnstype=AAAA
 ||hp-imagine.com^$dnstype=AAAA
 ||hp-infolab.com^$dnstype=AAAA
@@ -14105,7 +14113,6 @@
 ||huaxin80.com^$dnstype=AAAA
 ||huaxinvip.top^$dnstype=AAAA
 ||huayuworld.org^$dnstype=AAAA
-||hub.docker.com^$dnstype=AAAA
 ||hub.fastgit.org^$dnstype=AAAA
 ||hubbard-theory-consortium.ac.uk^$dnstype=AAAA
 ||hubblephone.com^$dnstype=AAAA
@@ -16472,6 +16479,7 @@
 ||kphimsex.net^$dnstype=AAAA
 ||kpht85.com^$dnstype=AAAA
 ||kpinsurances.com^$dnstype=AAAA
+||kpkuang.org^$dnstype=AAAA
 ||kpptoto.info^$dnstype=AAAA
 ||kqes.net^$dnstype=AAAA
 ||kraken.com^$dnstype=AAAA
@@ -17680,6 +17688,7 @@
 ||mandiant.com^$dnstype=AAAA
 ||manga-mill.com^$dnstype=AAAA
 ||manga18.art^$dnstype=AAAA
+||mangabz.com^$dnstype=AAAA
 ||mangafox.com^$dnstype=AAAA
 ||mangafox.me^$dnstype=AAAA
 ||mangahasu.se^$dnstype=AAAA
@@ -18220,6 +18229,7 @@
 ||metacafe.com^$dnstype=AAAA
 ||metacloud.com^$dnstype=AAAA
 ||metacpan.org^$dnstype=AAAA
+||metacubex.one^$dnstype=AAAA
 ||metadac.ac.uk^$dnstype=AAAA
 ||metafilter.com^$dnstype=AAAA
 ||metalpha.finance^$dnstype=AAAA
@@ -20133,6 +20143,7 @@
 ||newtaiwan.com.tw^$dnstype=AAAA
 ||newtalk.tw^$dnstype=AAAA
 ||newtec.ac.uk^$dnstype=AAAA
+||newthuhole.com^$dnstype=AAAA
 ||newtofea.com^$dnstype=AAAA
 ||newton.ac.uk^$dnstype=AAAA
 ||newton.com^$dnstype=AAAA
@@ -21635,6 +21646,7 @@
 ||paidpornsites.com^$dnstype=AAAA
 ||paily.net^$dnstype=AAAA
 ||paily.org^$dnstype=AAAA
+||paimon.moe^$dnstype=AAAA
 ||painfulpussytortures.com^$dnstype=AAAA
 ||painnovel.com^$dnstype=AAAA
 ||paipal.com^$dnstype=AAAA
@@ -22044,6 +22056,7 @@
 ||penchinese.net^$dnstype=AAAA
 ||pencoed.ac.uk^$dnstype=AAAA
 ||pendcoll.ac.uk^$dnstype=AAAA
+||pendrivelinux.com^$dnstype=AAAA
 ||pengwerncollege.ac.uk^$dnstype=AAAA
 ||pengyulong.com^$dnstype=AAAA
 ||peninsula.ac.uk^$dnstype=AAAA
@@ -22136,6 +22149,7 @@
 ||photolia.net^$dnstype=AAAA
 ||photonics.ac.uk^$dnstype=AAAA
 ||photonicssociety.org^$dnstype=AAAA
+||photonmedia.net^$dnstype=AAAA
 ||photos18.com^$dnstype=AAAA
 ||photoshop.com^$dnstype=AAAA
 ||php.net^$dnstype=AAAA
@@ -22324,6 +22338,7 @@
 ||pki.goog^$dnstype=AAAA
 ||pki.google.com^$dnstype=AAAA
 ||pkqjiasu.com^$dnstype=AAAA
+||pkuanvil.com^$dnstype=AAAA
 ||placemix.com^$dnstype=AAAA
 ||placemyad.com.au^$dnstype=AAAA
 ||placesdocs.com^$dnstype=AAAA
@@ -22429,6 +22444,7 @@
 ||point.ac.uk^$dnstype=AAAA
 ||pointblank.ac.uk^$dnstype=AAAA
 ||pointblankmusicschool.ac.uk^$dnstype=AAAA
+||points-media.com^$dnstype=AAAA
 ||poisontube.com^$dnstype=AAAA
 ||pojapp.cfd^$dnstype=AAAA
 ||pojbayj1030.top^$dnstype=AAAA
@@ -27287,6 +27303,7 @@
 ||thecandidbay.com^$dnstype=AAAA
 ||thecandidforum-voyeur.ru^$dnstype=AAAA
 ||thecenter.mit.edu^$dnstype=AAAA
+||thechasernews.co.uk^$dnstype=AAAA
 ||thechesterfieldcollegegroup.ac.uk^$dnstype=AAAA
 ||thechinabeat.org^$dnstype=AAAA
 ||thechinacollection.org^$dnstype=AAAA
@@ -27516,6 +27533,8 @@
 ||thron.com^$dnstype=AAAA
 ||throughnightsfire.com^$dnstype=AAAA
 ||thtmod1.com^$dnstype=AAAA
+||thu.monster^$dnstype=AAAA
+||thuhole.com^$dnstype=AAAA
 ||thumbnailseries.com^$dnstype=AAAA
 ||thumbzilla.com^$dnstype=AAAA
 ||thunderbird.net^$dnstype=AAAA
@@ -28875,6 +28894,7 @@
 ||uscg.mil^$dnstype=AAAA
 ||uscnpm.org^$dnstype=AAAA
 ||use-of-mans.ac.uk^$dnstype=AAAA
+||use.typekit.net^$dnstype=AAAA
 ||uselessjunk.com^$dnstype=AAAA
 ||usembassy.gov^$dnstype=AAAA
 ||useplannr.com^$dnstype=AAAA
@@ -30454,6 +30474,7 @@
 ||wiki.gamerp.jp^$dnstype=AAAA
 ||wiki.jqueryui.com^$dnstype=AAAA
 ||wiki.keso.cn^$dnstype=AAAA
+||wiki.metacubex.one^$dnstype=AAAA
 ||wiki.oauth.net^$dnstype=AAAA
 ||wiki.phonegap.com^$dnstype=AAAA
 ||wikia.com^$dnstype=AAAA
@@ -30500,6 +30521,7 @@
 ||williamhill.com^$dnstype=AAAA
 ||willw.net^$dnstype=AAAA
 ||willyporn.com^$dnstype=AAAA
+||wilsoncenter.org^$dnstype=AAAA
 ||wiltscoll.ac.uk^$dnstype=AAAA
 ||wiltshire.ac.uk^$dnstype=AAAA
 ||wiltshirecollege.ac.uk^$dnstype=AAAA
