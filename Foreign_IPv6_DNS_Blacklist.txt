@@ -785,6 +785,7 @@
 ||aces.ac.uk^$dnstype=AAAA
 ||acets.ac.uk^$dnstype=AAAA
 ||acevpn.com^$dnstype=AAAA
+||acg.rip^$dnstype=AAAA
 ||acg18.me^$dnstype=AAAA
 ||acgbox.org^$dnstype=AAAA
 ||acgcf.com^$dnstype=AAAA
@@ -862,6 +863,7 @@
 ||addictedtocoffee.de^$dnstype=AAAA
 ||addison-wesley.ch^$dnstype=AAAA
 ||addison.ac.uk^$dnstype=AAAA
+||addons.mozilla.org^$dnstype=AAAA
 ||addthis.com^$dnstype=AAAA
 ||addthiscdn.com^$dnstype=AAAA
 ||addthisedge.com^$dnstype=AAAA
@@ -1811,6 +1813,7 @@
 ||ankarazirvesi2018.com^$dnstype=AAAA
 ||anm.co.uk^$dnstype=AAAA
 ||annamilk.com^$dnstype=AAAA
+||annas-archive.org^$dnstype=AAAA
 ||annas-archive.se^$dnstype=AAAA
 ||annatam.com^$dnstype=AAAA
 ||anniesland-fe.ac.uk^$dnstype=AAAA
@@ -5316,7 +5319,6 @@
 ||buugaa.com^$dnstype=AAAA
 ||buxtoncollege.ac.uk^$dnstype=AAAA
 ||buy-from-shanghai.com^$dnstype=AAAA
-||buy.yahoo.com.tw^$dnstype=AAAA
 ||buyaapl.com^$dnstype=AAAA
 ||buyaapl.net^$dnstype=AAAA
 ||buyaltera.com^$dnstype=AAAA
@@ -6068,6 +6070,7 @@
 ||cfos.de^$dnstype=AAAA
 ||cfr.org^$dnstype=AAAA
 ||cfs.ac.uk^$dnstype=AAAA
+||cfsh99.com^$dnstype=AAAA
 ||cftfc.com^$dnstype=AAAA
 ||cfwives.com^$dnstype=AAAA
 ||cgdepot.org^$dnstype=AAAA
@@ -6587,6 +6590,7 @@
 ||clinicalskillscentre.ac.uk^$dnstype=AAAA
 ||clip16.com^$dnstype=AAAA
 ||clipcake.com^$dnstype=AAAA
+||clipconverter.cc^$dnstype=AAAA
 ||clipdrop.co^$dnstype=AAAA
 ||clipfish.de^$dnstype=AAAA
 ||cliphayho.com^$dnstype=AAAA
@@ -6605,6 +6609,7 @@
 ||closer.ac.uk^$dnstype=AAAA
 ||cloud.ac.uk^$dnstype=AAAA
 ||cloud.cupronickel.goog^$dnstype=AAAA
+||cloud.dify.ai^$dnstype=AAAA
 ||cloud.mail.ru^$dnstype=AAAA
 ||cloud.oracle.com^$dnstype=AAAA
 ||cloudapp.net^$dnstype=AAAA
@@ -6859,6 +6864,7 @@
 ||coitustube.com^$dnstype=AAAA
 ||col-westanglia.ac.uk^$dnstype=AAAA
 ||col.ac.uk^$dnstype=AAAA
+||colacloud.net^$dnstype=AAAA
 ||colc.ac.uk^$dnstype=AAAA
 ||colcc.ac.uk^$dnstype=AAAA
 ||colch-inst.ac.uk^$dnstype=AAAA
@@ -7001,6 +7007,7 @@
 ||comefromchina.com^$dnstype=AAAA
 ||comet-study.ac.uk^$dnstype=AAAA
 ||cometotheduckside.com^$dnstype=AAAA
+||comfastgpt.run^$dnstype=AAAA
 ||comic-mega.me^$dnstype=AAAA
 ||comicbox.xyz^$dnstype=AAAA
 ||comico.tw^$dnstype=AAAA
@@ -7878,6 +7885,7 @@
 ||dementiaresearchinstitute.ac.uk^$dnstype=AAAA
 ||demfhz.xyz^$dnstype=AAAA
 ||demo.opera-mini.net^$dnstype=AAAA
+||demo.unlock-music.dev^$dnstype=AAAA
 ||democracy.earth^$dnstype=AAAA
 ||democrats.org^$dnstype=AAAA
 ||demonoid.is^$dnstype=AAAA
@@ -9390,6 +9398,7 @@
 ||elasticbeanstalk.com^$dnstype=AAAA
 ||elatt.ac.uk^$dnstype=AAAA
 ||elc.ac.uk^$dnstype=AAAA
+||elconfidencial.com^$dnstype=AAAA
 ||elder-cove.ac.uk^$dnstype=AAAA
 ||elderscrolls.com^$dnstype=AAAA
 ||elearning.ac.uk^$dnstype=AAAA
@@ -10497,6 +10506,7 @@
 ||fastech.ac.uk^$dnstype=AAAA
 ||fastestvpn.com^$dnstype=AAAA
 ||fastgit.org^$dnstype=AAAA
+||fastgpt.run^$dnstype=AAAA
 ||fastindianporn.com^$dnstype=AAAA
 ||fastlane.ci^$dnstype=AAAA
 ||fastlane.tools^$dnstype=AAAA
@@ -10618,6 +10628,7 @@
 ||feeder.co^$dnstype=AAAA
 ||feedherfuckher.com^$dnstype=AAAA
 ||feedly.com^$dnstype=AAAA
+||feedly.comfastgpt.run^$dnstype=AAAA
 ||feeds.fileforum.com^$dnstype=AAAA
 ||feedsportal.com^$dnstype=AAAA
 ||feedx.net^$dnstype=AAAA
@@ -11267,6 +11278,7 @@
 ||free-wap-tube.com^$dnstype=AAAA
 ||free-xxx-porn.org^$dnstype=AAAA
 ||free.bg^$dnstype=AAAA
+||free.com.tw^$dnstype=AAAA
 ||free.fr^$dnstype=AAAA
 ||free00.com^$dnstype=AAAA
 ||free18.net^$dnstype=AAAA
@@ -11430,6 +11442,7 @@
 ||froogle.com^$dnstype=AAAA
 ||frootvpn.com^$dnstype=AAAA
 ||frostbite.com^$dnstype=AAAA
+||froth.zone^$dnstype=AAAA
 ||frprn.com^$dnstype=AAAA
 ||fruitycams.com^$dnstype=AAAA
 ||fsacebok.com^$dnstype=AAAA
@@ -11518,6 +11531,7 @@
 ||fulltaboo.tv^$dnstype=AAAA
 ||fullxxxmovies.net^$dnstype=AAAA
 ||fulue.com^$dnstype=AAAA
+||funami.tech^$dnstype=AAAA
 ||fundaiphone5s.com^$dnstype=AAAA
 ||fundfire.com^$dnstype=AAAA
 ||fundinginstitutional.com^$dnstype=AAAA
@@ -12204,6 +12218,7 @@
 ||go-lang.net^$dnstype=AAAA
 ||go-lang.org^$dnstype=AAAA
 ||go-pki.com^$dnstype=AAAA
+||go-to-zlibrary.se^$dnstype=AAAA
 ||go.com^$dnstype=AAAA
 ||go.dev^$dnstype=AAAA
 ||go.jp^$dnstype=AAAA
@@ -13528,14 +13543,7 @@
 ||hk.gradconnection.com^$dnstype=AAAA
 ||hk.hao123img.com^$dnstype=AAAA
 ||hk.jiepang.com^$dnstype=AAAA
-||hk.knowledge.yahoo.com^$dnstype=AAAA
-||hk.myblog.yahoo.com^$dnstype=AAAA
-||hk.news.yahoo.com^$dnstype=AAAA
-||hk.rd.yahoo.com^$dnstype=AAAA
-||hk.search.yahoo.com^$dnstype=AAAA
-||hk.video.news.yahoo.com^$dnstype=AAAA
 ||hk.weibo.com^$dnstype=AAAA
-||hk.yahoo.com^$dnstype=AAAA
 ||hk01.com^$dnstype=AAAA
 ||hk1lib.org^$dnstype=AAAA
 ||hk32168.com^$dnstype=AAAA
@@ -13659,6 +13667,7 @@
 ||home-made-videos.com^$dnstype=AAAA
 ||home-sex-tapes.com^$dnstype=AAAA
 ||home-song.com^$dnstype=AAAA
+||home.saxo^$dnstype=AAAA
 ||home.sina.com^$dnstype=AAAA
 ||home.so-net.net.tw^$dnstype=AAAA
 ||homealonemilfs.com^$dnstype=AAAA
@@ -14679,6 +14688,7 @@
 ||ilife.eu^$dnstype=AAAA
 ||ilife.gr^$dnstype=AAAA
 ||ilife.wang^$dnstype=AAAA
+||illawarramercury.com.au^$dnstype=AAAA
 ||illianacomputerrecycling.com^$dnstype=AAAA
 ||illusion.co.jp^$dnstype=AAAA
 ||illusion.jp^$dnstype=AAAA
@@ -14744,6 +14754,7 @@
 ||imaginationsengine.com^$dnstype=AAAA
 ||imaginecup.pl^$dnstype=AAAA
 ||imagineecommerce.com^$dnstype=AAAA
+||imago-images.com^$dnstype=AAAA
 ||imaypb.com^$dnstype=AAAA
 ||imb.org^$dnstype=AAAA
 ||imdb.com^$dnstype=AAAA
@@ -15887,6 +15898,7 @@
 ||jiehua.tv^$dnstype=AAAA
 ||jiepang.com^$dnstype=AAAA
 ||jieshibaobao.com^$dnstype=AAAA
+||jifangge.com^$dnstype=AAAA
 ||jigglegifs.com^$dnstype=AAAA
 ||jigong1024.com^$dnstype=AAAA
 ||jigsy.com^$dnstype=AAAA
@@ -17011,6 +17023,7 @@
 ||linksalpha.com^$dnstype=AAAA
 ||linkshit.com^$dnstype=AAAA
 ||linksintolanguages.ac.uk^$dnstype=AAAA
+||linktr.ee^$dnstype=AAAA
 ||linkuswell.com^$dnstype=AAAA
 ||linode.com^$dnstype=AAAA
 ||linotype.com^$dnstype=AAAA
@@ -17602,6 +17615,7 @@
 ||magnacartacollege.ac.uk^$dnstype=AAAA
 ||mahabodhi.org^$dnstype=AAAA
 ||mahajantech.com^$dnstype=AAAA
+||mahjongsoul.com^$dnstype=AAAA
 ||mahsc.ac.uk^$dnstype=AAAA
 ||maiio.net^$dnstype=AAAA
 ||mail-archive.com^$dnstype=AAAA
@@ -18169,7 +18183,6 @@
 ||melonbooks.co.jp^$dnstype=AAAA
 ||melonstube.com^$dnstype=AAAA
 ||meltoday.com^$dnstype=AAAA
-||meme.yahoo.com^$dnstype=AAAA
 ||meme111.com^$dnstype=AAAA
 ||memehk.com^$dnstype=AAAA
 ||memes.tw^$dnstype=AAAA
@@ -18813,6 +18826,7 @@
 ||mitbbsau.com^$dnstype=AAAA
 ||mitnaka.com^$dnstype=AAAA
 ||mitpressjournals.org^$dnstype=AAAA
+||miuipolska.pl^$dnstype=AAAA
 ||mixasiansex.com^$dnstype=AAAA
 ||mixero.com^$dnstype=AAAA
 ||mixi.jp^$dnstype=AAAA
@@ -20094,7 +20108,6 @@
 ||news.sinchew.com.my^$dnstype=AAAA
 ||news.singtao.ca^$dnstype=AAAA
 ||news.tvbs.com.tw^$dnstype=AAAA
-||news.yahoo.com^$dnstype=AAAA
 ||news.ycombinator.com^$dnstype=AAAA
 ||news1.kr^$dnstype=AAAA
 ||news100.com.tw^$dnstype=AAAA
@@ -21628,7 +21641,6 @@
 ||padmanet.com^$dnstype=AAAA
 ||pads.ac.uk^$dnstype=AAAA
 ||paerosnen.club^$dnstype=AAAA
-||page.bid.yahoo.com^$dnstype=AAAA
 ||page.link^$dnstype=AAAA
 ||page.tl^$dnstype=AAAA
 ||page2rss.com^$dnstype=AAAA
@@ -22162,6 +22174,7 @@
 ||physiology.org^$dnstype=AAAA
 ||pi-project.ac.uk^$dnstype=AAAA
 ||pi-vr.com^$dnstype=AAAA
+||piaotia.com^$dnstype=AAAA
 ||piaotian.net^$dnstype=AAAA
 ||piapp.com.tw^$dnstype=AAAA
 ||piapro.net^$dnstype=AAAA
@@ -23164,6 +23177,7 @@
 ||ptt3.cc^$dnstype=AAAA
 ||pttgame.com^$dnstype=AAAA
 ||pttvan.org^$dnstype=AAAA
+||ptwxz.com^$dnstype=AAAA
 ||ptzwx.com^$dnstype=AAAA
 ||pu82.vip^$dnstype=AAAA
 ||pub.dev^$dnstype=AAAA
@@ -23194,7 +23208,6 @@
 ||pugpig.com^$dnstype=AAAA
 ||pullfolio.com^$dnstype=AAAA
 ||pullstring.net^$dnstype=AAAA
-||pulse.yahoo.com^$dnstype=AAAA
 ||pulsebrowser.app^$dnstype=AAAA
 ||punishbang.com^$dnstype=AAAA
 ||punishworld.com^$dnstype=AAAA
@@ -24724,7 +24737,6 @@
 ||search.com^$dnstype=AAAA
 ||search.xxx^$dnstype=AAAA
 ||search.yahoo.co.jp^$dnstype=AAAA
-||search.yahoo.com^$dnstype=AAAA
 ||search25.ac.uk^$dnstype=AAAA
 ||searchtruth.com^$dnstype=AAAA
 ||searx.me^$dnstype=AAAA
@@ -25393,6 +25405,7 @@
 ||singlelogin.app^$dnstype=AAAA
 ||singlelogin.me^$dnstype=AAAA
 ||singlelogin.re^$dnstype=AAAA
+||singlelogin.se^$dnstype=AAAA
 ||singlelogin.site^$dnstype=AAAA
 ||singpao.com.hk^$dnstype=AAAA
 ||singtao.ca^$dnstype=AAAA
@@ -25438,6 +25451,7 @@
 ||sislovesme.com^$dnstype=AAAA
 ||sissc.ac.uk^$dnstype=AAAA
 ||sissy-university.com^$dnstype=AAAA
+||sissy.eu.org^$dnstype=AAAA
 ||sissy.game^$dnstype=AAAA
 ||sissyporncrossdresser.com^$dnstype=AAAA
 ||site.com^$dnstype=AAAA
@@ -25539,6 +25553,7 @@
 ||slheng.com^$dnstype=AAAA
 ||sli-institute.ac.uk^$dnstype=AAAA
 ||slickvpn.com^$dnstype=AAAA
+||slides.com^$dnstype=AAAA
 ||slides.new^$dnstype=AAAA
 ||slideshare.com^$dnstype=AAAA
 ||slideshare.net^$dnstype=AAAA
@@ -26630,6 +26645,8 @@
 ||sunglassessale2014.com^$dnstype=AAAA
 ||sunitec.ac.uk^$dnstype=AAAA
 ||sunmedia.ca^$dnstype=AAAA
+||suno.ai^$dnstype=AAAA
+||suno.com^$dnstype=AAAA
 ||sunporno.com^$dnstype=AAAA
 ||sunskyforum.com^$dnstype=AAAA
 ||sunta.com.tw^$dnstype=AAAA
@@ -26837,6 +26854,7 @@
 ||sybj91.one^$dnstype=AAAA
 ||sybjav.online^$dnstype=AAAA
 ||sycolleges.ac.uk^$dnstype=AAAA
+||sydney.bing.com^$dnstype=AAAA
 ||sydneytoday.com^$dnstype=AAAA
 ||syfec.ac.uk^$dnstype=AAAA
 ||syfor.click^$dnstype=AAAA
@@ -27444,6 +27462,7 @@
 ||thesun.co.uk^$dnstype=AAAA
 ||thesun.ie^$dnstype=AAAA
 ||thesundaytimes.co.uk^$dnstype=AAAA
+||thetatoken.org^$dnstype=AAAA
 ||theteenhome.com^$dnstype=AAAA
 ||thethothub.com^$dnstype=AAAA
 ||thetibetcenter.org^$dnstype=AAAA
@@ -27808,6 +27827,7 @@
 ||tombola.ac.uk^$dnstype=AAAA
 ||tomonews.net^$dnstype=AAAA
 ||tomovie.net^$dnstype=AAAA
+||tomp3.cc^$dnstype=AAAA
 ||tomsguide.com^$dnstype=AAAA
 ||tomshardware.com^$dnstype=AAAA
 ||tonec.com^$dnstype=AAAA
@@ -28208,6 +28228,7 @@
 ||tuidang.se^$dnstype=AAAA
 ||tuitui.info^$dnstype=AAAA
 ||tuitwit.com^$dnstype=AAAA
+||tukaani.org^$dnstype=AAAA
 ||tukif.com^$dnstype=AAAA
 ||tumbex.com^$dnstype=AAAA
 ||tumblr.co^$dnstype=AAAA
@@ -28272,23 +28293,14 @@
 ||tvunetworks.com^$dnstype=AAAA
 ||tw-blog.com^$dnstype=AAAA
 ||tw-npo.org^$dnstype=AAAA
-||tw.answers.yahoo.com^$dnstype=AAAA
-||tw.bid.yahoo.com^$dnstype=AAAA
 ||tw.gigacircle.com^$dnstype=AAAA
 ||tw.hao123.com^$dnstype=AAAA
 ||tw.iqiyi.com^$dnstype=AAAA
 ||tw.jiepang.com^$dnstype=AAAA
-||tw.knowledge.yahoo.com^$dnstype=AAAA
-||tw.mall.yahoo.com^$dnstype=AAAA
-||tw.mobi.yahoo.com^$dnstype=AAAA
-||tw.money.yahoo.com^$dnstype=AAAA
-||tw.myblog.yahoo.com^$dnstype=AAAA
-||tw.news.yahoo.com^$dnstype=AAAA
 ||tw.streetvoice.com^$dnstype=AAAA
 ||tw.tomonews.net^$dnstype=AAAA
 ||tw.voa.mobi^$dnstype=AAAA
 ||tw.weibo.com^$dnstype=AAAA
-||tw.yahoo.com^$dnstype=AAAA
 ||tw01.org^$dnstype=AAAA
 ||tw985.com^$dnstype=AAAA
 ||twaitter.com^$dnstype=AAAA
@@ -28454,6 +28466,7 @@
 ||typekit.net^$dnstype=AAAA
 ||typenetwork.com^$dnstype=AAAA
 ||typepad.com^$dnstype=AAAA
+||typeset.io^$dnstype=AAAA
 ||typesquare.com^$dnstype=AAAA
 ||typography.com^$dnstype=AAAA
 ||typora.io^$dnstype=AAAA
@@ -28800,6 +28813,7 @@
 ||unknownspace.org^$dnstype=AAAA
 ||unkoscene.com^$dnstype=AAAA
 ||unl.ac.uk^$dnstype=AAAA
+||unlock-music.dev^$dnstype=AAAA
 ||unlocklimitlesslearning.com^$dnstype=AAAA
 ||unlocktool.net^$dnstype=AAAA
 ||unn.ac.uk^$dnstype=AAAA
@@ -28827,7 +28841,6 @@
 ||up.gcp.googlers.com^$dnstype=AAAA
 ||up01.cc^$dnstype=AAAA
 ||upa.ac.uk^$dnstype=AAAA
-||upcoming.yahoo.com^$dnstype=AAAA
 ||updates.ac.uk^$dnstype=AAAA
 ||updates.tdesktop.com^$dnstype=AAAA
 ||updatestar.com^$dnstype=AAAA
@@ -29237,6 +29250,7 @@
 ||verizonmedia.com^$dnstype=AAAA
 ||verizonwireless.com^$dnstype=AAAA
 ||vermonttibet.org^$dnstype=AAAA
+||vern.cc^$dnstype=AAAA
 ||verpeliculasporno.gratis^$dnstype=AAAA
 ||versavpn.com^$dnstype=AAAA
 ||versign.net^$dnstype=AAAA
@@ -29325,7 +29339,6 @@
 ||video.ap.org^$dnstype=AAAA
 ||video.fdbox.com^$dnstype=AAAA
 ||video.foxbusiness.com^$dnstype=AAAA
-||video.yahoo.com^$dnstype=AAAA
 ||video01.org^$dnstype=AAAA
 ||videoactive.ac.uk^$dnstype=AAAA
 ||videobam.com^$dnstype=AAAA
@@ -30494,6 +30507,7 @@
 ||wikileaks.lu^$dnstype=AAAA
 ||wikileaks.org^$dnstype=AAAA
 ||wikileaks.pl^$dnstype=AAAA
+||wikiless.funami.tech^$dnstype=AAAA
 ||wikilivres.info^$dnstype=AAAA
 ||wikimapia.org^$dnstype=AAAA
 ||wikimedia.org^$dnstype=AAAA
@@ -30799,6 +30813,7 @@
 ||wulfrun.ac.uk^$dnstype=AAAA
 ||wumashe.com^$dnstype=AAAA
 ||wun.ac.uk^$dnstype=AAAA
+||wunderground.com^$dnstype=AAAA
 ||wunvb.com^$dnstype=AAAA
 ||wuso.me^$dnstype=AAAA
 ||wuw.red^$dnstype=AAAA
@@ -30938,6 +30953,7 @@
 ||www.lamenhu.com^$dnstype=AAAA
 ||www.lib.virginia.edu^$dnstype=AAAA
 ||www.linksalpha.com^$dnstype=AAAA
+||www.lorenzetti.com.br^$dnstype=AAAA
 ||www.m-sport.co.uk^$dnstype=AAAA
 ||www.monlamit.org^$dnstype=AAAA
 ||www.moztw.org^$dnstype=AAAA
@@ -32314,13 +32330,12 @@
 ||zfreet.com^$dnstype=AAAA
 ||zgsddh.com^$dnstype=AAAA
 ||zgzcjj.net^$dnstype=AAAA
+||zh-hans.cfsh99.com^$dnstype=AAAA
 ||zh.ecdm.wikia.com^$dnstype=AAAA
 ||zh.pokerstrategy.com^$dnstype=AAAA
 ||zh.pttpedia.wikia.com^$dnstype=AAAA
 ||zh.uncyclopedia.wikia.com^$dnstype=AAAA
-||zh.wikinews.org^$dnstype=AAAA
 ||zh.wikiquote.org^$dnstype=AAAA
-||zh.wikisource.org^$dnstype=AAAA
 ||zh99.net^$dnstype=AAAA
 ||zhaimankan.com^$dnstype=AAAA
 ||zhainanjidi.xyz^$dnstype=AAAA
