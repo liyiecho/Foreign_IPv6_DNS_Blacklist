@@ -217,6 +217,7 @@
 ||2022.dev^$dnstype=AAAA
 ||2023aga.oen.tw^$dnstype=AAAA
 ||2047.name^$dnstype=AAAA
+||2049bbs.xyz^$dnstype=AAAA
 ||20thcenturystudios.com.au^$dnstype=AAAA
 ||20thcenturystudios.com.br^$dnstype=AAAA
 ||20thcenturystudios.jp^$dnstype=AAAA
@@ -2589,7 +2590,6 @@
 ||atasale.com^$dnstype=AAAA
 ||atc.org.au^$dnstype=AAAA
 ||atchinese.com^$dnstype=AAAA
-||atdmt.com^$dnstype=AAAA
 ||atdmt2.com^$dnstype=AAAA
 ||ateam-oracle.com^$dnstype=AAAA
 ||atgfw.org^$dnstype=AAAA
@@ -4211,6 +4211,7 @@
 ||bloggrowup.com^$dnstype=AAAA
 ||blogimg.jp^$dnstype=AAAA
 ||blogism.jp^$dnstype=AAAA
+||blogjav.net^$dnstype=AAAA
 ||bloglines.com^$dnstype=AAAA
 ||bloglovin.com^$dnstype=AAAA
 ||blogo.jp^$dnstype=AAAA
@@ -5210,6 +5211,8 @@
 ||btas.ac.uk^$dnstype=AAAA
 ||btbit.net^$dnstype=AAAA
 ||btbtav.com^$dnstype=AAAA
+||btbtt.co^$dnstype=AAAA
+||btbtt.me^$dnstype=AAAA
 ||btc.ac.uk^$dnstype=AAAA
 ||btc.com^$dnstype=AAAA
 ||btc98.com^$dnstype=AAAA
@@ -5555,6 +5558,7 @@
 ||camgirlvideos.org^$dnstype=AAAA
 ||camgoddess.tv^$dnstype=AAAA
 ||camonster.com^$dnstype=AAAA
+||campaign-archive.com^$dnstype=AAAA
 ||campaignforuyghurs.org^$dnstype=AAAA
 ||camphill.ac.uk^$dnstype=AAAA
 ||campushp.com^$dnstype=AAAA
@@ -6327,6 +6331,7 @@
 ||chinatopsex.com^$dnstype=AAAA
 ||chinatown.com.au^$dnstype=AAAA
 ||chinatweeps.com^$dnstype=AAAA
+||chinauncensored.tv^$dnstype=AAAA
 ||chinaview.wordpress.com^$dnstype=AAAA
 ||chinaway.org^$dnstype=AAAA
 ||chinaworker.info^$dnstype=AAAA
@@ -6543,6 +6548,7 @@
 ||civilwarpetitions.ac.uk^$dnstype=AAAA
 ||civisec.org^$dnstype=AAAA
 ||civitai.com^$dnstype=AAAA
+||cixiaoya.club^$dnstype=AAAA
 ||cixp.net^$dnstype=AAAA
 ||ciyuanjie.cc^$dnstype=AAAA
 ||ck101.com^$dnstype=AAAA
@@ -7801,6 +7807,7 @@
 ||ddacn6pr5v0tl.cloudfront.net^$dnstype=AAAA
 ||ddc.com.tw^$dnstype=AAAA
 ||ddd-smart.net^$dnstype=AAAA
+||ddex.io^$dnstype=AAAA
 ||ddff66.com^$dnstype=AAAA
 ||ddff77.com^$dnstype=AAAA
 ||ddg.co^$dnstype=AAAA
@@ -7844,6 +7851,7 @@
 ||decentr.net^$dnstype=AAAA
 ||dechamora.com^$dnstype=AAAA
 ||deck.ly^$dnstype=AAAA
+||deck.new^$dnstype=AAAA
 ||decodet.co^$dnstype=AAAA
 ||decorativemodels.com^$dnstype=AAAA
 ||decrypt.day^$dnstype=AAAA
@@ -8453,6 +8461,7 @@
 ||do.co^$dnstype=AAAA
 ||dobbyporn.com^$dnstype=AAAA
 ||dobendan.de^$dnstype=AAAA
+||doc.new^$dnstype=AAAA
 ||doceapower.com^$dnstype=AAAA
 ||docker.com^$dnstype=AAAA
 ||docker.io^$dnstype=AAAA
@@ -9958,6 +9967,7 @@
 ||eventsinfocus.org^$dnstype=AAAA
 ||evergage.com^$dnstype=AAAA
 ||everia.club^$dnstype=AAAA
+||everipedia.org^$dnstype=AAAA
 ||evernote.com^$dnstype=AAAA
 ||every1dns.net^$dnstype=AAAA
 ||everydayporn.co^$dnstype=AAAA
@@ -11040,9 +11050,11 @@
 ||forestyouth.ac.uk^$dnstype=AAAA
 ||forgecdn.net^$dnstype=AAAA
 ||forhertube.com^$dnstype=AAAA
+||form.new^$dnstype=AAAA
 ||formission.ac.uk^$dnstype=AAAA
 ||formit360.com^$dnstype=AAAA
 ||formitfactory.com^$dnstype=AAAA
+||forms.new^$dnstype=AAAA
 ||forpojie.pics^$dnstype=AAAA
 ||forster.ac.uk^$dnstype=AAAA
 ||fortawesome.com^$dnstype=AAAA
@@ -15276,6 +15288,7 @@
 ||investigating.wordpress.com^$dnstype=AAAA
 ||investing.com^$dnstype=AAAA
 ||investorschronicle.co.uk^$dnstype=AAAA
+||invidio.us^$dnstype=AAAA
 ||invity.io^$dnstype=AAAA
 ||inxian.com^$dnstype=AAAA
 ||inxporn.com^$dnstype=AAAA
@@ -16166,6 +16179,7 @@
 ||justmysocks1.net^$dnstype=AAAA
 ||justmysocks2.net^$dnstype=AAAA
 ||justmysocks4.net^$dnstype=AAAA
+||justmysockscn.com^$dnstype=AAAA
 ||justnudepic.com^$dnstype=AAAA
 ||justpaste.it^$dnstype=AAAA
 ||justpicsplease.com^$dnstype=AAAA
@@ -17797,6 +17811,7 @@
 ||mappingtheunderworld.ac.uk^$dnstype=AAAA
 ||mappingwales.ac.uk^$dnstype=AAAA
 ||mappingwelshmarches.ac.uk^$dnstype=AAAA
+||maps.googleapis.com^$dnstype=AAAA
 ||marble.ac.uk^$dnstype=AAAA
 ||marc.info^$dnstype=AAAA
 ||marchmont.ac.uk^$dnstype=AAAA
@@ -18253,6 +18268,7 @@
 ||mercatox.com^$dnstype=AAAA
 ||mercdn.net^$dnstype=AAAA
 ||mercyprophet.org^$dnstype=AAAA
+||mergersandinquisitions.com^$dnstype=AAAA
 ||mergersandinquisitions.org^$dnstype=AAAA
 ||meridian-trust.org^$dnstype=AAAA
 ||meridian.net^$dnstype=AAAA
@@ -18443,6 +18459,7 @@
 ||microsoftonline-p.com^$dnstype=AAAA
 ||microsoftpartnercommunity.com^$dnstype=AAAA
 ||microsoftpartnersolutions.com^$dnstype=AAAA
+||microsoftpersonalcontent.com^$dnstype=AAAA
 ||microsoftreactor.info^$dnstype=AAAA
 ||microsoftreactor.net^$dnstype=AAAA
 ||microsoftreactor.org^$dnstype=AAAA
@@ -20335,6 +20352,7 @@
 ||nightlife141.com^$dnstype=AAAA
 ||nightline.ac.uk^$dnstype=AAAA
 ||nights.fun^$dnstype=AAAA
+||nightswatch.top^$dnstype=AAAA
 ||nih.gov^$dnstype=AAAA
 ||nihcc.ac.uk^$dnstype=AAAA
 ||nihr.ac.uk^$dnstype=AAAA
@@ -21326,6 +21344,7 @@
 ||onestore.ms^$dnstype=AAAA
 ||oneteamconference.com^$dnstype=AAAA
 ||onetrust.com^$dnstype=AAAA
+||onevps.com^$dnstype=AAAA
 ||oneworldmanystories.com^$dnstype=AAAA
 ||onindiansex.com^$dnstype=AAAA
 ||oninstagram.com^$dnstype=AAAA
@@ -21740,6 +21759,7 @@
 ||pancolle-movie.jp^$dnstype=AAAA
 ||panda.ac.uk^$dnstype=AAAA
 ||panda30.shop^$dnstype=AAAA
+||pandafan.pub^$dnstype=AAAA
 ||pandamovies.pw^$dnstype=AAAA
 ||pandanet-igs.com^$dnstype=AAAA
 ||pandapow.co^$dnstype=AAAA
@@ -21833,6 +21853,7 @@
 ||paygonline.com^$dnstype=AAAA
 ||payhulu.com^$dnstype=AAAA
 ||paylike.com^$dnstype=AAAA
+||payments-jp.amazon.com^$dnstype=AAAA
 ||paypa1.com^$dnstype=AAAA
 ||paypa1.org^$dnstype=AAAA
 ||paypaal.com^$dnstype=AAAA
@@ -23040,6 +23061,7 @@
 ||prepsure.com^$dnstype=AAAA
 ||prescribe.ac.uk^$dnstype=AAAA
 ||prescribingsafetyassessment.ac.uk^$dnstype=AAAA
+||presentation.new^$dnstype=AAAA
 ||presentationzen.com^$dnstype=AAAA
 ||presidencylondoncollege.ac.uk^$dnstype=AAAA
 ||presidentlee.tw^$dnstype=AAAA
@@ -23194,6 +23216,7 @@
 ||proxyrarbg.org^$dnstype=AAAA
 ||proxyroad.com^$dnstype=AAAA
 ||proxytunnel.net^$dnstype=AAAA
+||proxz.com^$dnstype=AAAA
 ||proyectoclubes.com^$dnstype=AAAA
 ||prozz.net^$dnstype=AAAA
 ||prpops.com^$dnstype=AAAA
@@ -23367,6 +23390,7 @@
 ||qianglie.com^$dnstype=AAAA
 ||qiangwaikan.com^$dnstype=AAAA
 ||qiangyou.org^$dnstype=AAAA
+||qianmo.tw^$dnstype=AAAA
 ||qidian.ca^$dnstype=AAAA
 ||qienkuen.org^$dnstype=AAAA
 ||qinav.com^$dnstype=AAAA
@@ -24320,7 +24344,6 @@
 ||s1s1s1.com^$dnstype=AAAA
 ||s2csntp.miz.nao.ac.jp^$dnstype=AAAA
 ||s2stagehance.com^$dnstype=AAAA
-||s3-ap-northeast-1.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-1.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-2.amazonaws.com^$dnstype=AAAA
 ||s3.amazonaws.com^$dnstype=AAAA
@@ -24813,6 +24836,7 @@
 ||secure.hustler.com^$dnstype=AAAA
 ||secure.logmein.com^$dnstype=AAAA
 ||secure.raxcdn.com^$dnstype=AAAA
+||secure.shadowsocks.nu^$dnstype=AAAA
 ||secureharvests.ac.uk^$dnstype=AAAA
 ||securepaypal.info^$dnstype=AAAA
 ||secureservercdn.net^$dnstype=AAAA
@@ -25176,6 +25200,7 @@
 ||shadowsocks.com^$dnstype=AAAA
 ||shadowsocks.com.hk^$dnstype=AAAA
 ||shadowsocks.nl^$dnstype=AAAA
+||shadowsocks.nu^$dnstype=AAAA
 ||shadowsocks.org^$dnstype=AAAA
 ||shadowsocks9.com^$dnstype=AAAA
 ||shadowverse.jp^$dnstype=AAAA
@@ -25195,7 +25220,6 @@
 ||share.acgnx.net^$dnstype=AAAA
 ||share.acgnx.se^$dnstype=AAAA
 ||share.america.gov^$dnstype=AAAA
-||share.dmhy.org^$dnstype=AAAA
 ||share.ovi.com^$dnstype=AAAA
 ||share.youthwant.com.tw^$dnstype=AAAA
 ||sharebee.com^$dnstype=AAAA
@@ -25223,6 +25247,7 @@
 ||shdd.ink^$dnstype=AAAA
 ||shdf.ac.uk^$dnstype=AAAA
 ||sheef.ac.uk^$dnstype=AAAA
+||sheet.new^$dnstype=AAAA
 ||sheets.new^$dnstype=AAAA
 ||shef.ac.uk^$dnstype=AAAA
 ||shefc.ac.uk^$dnstype=AAAA
@@ -25350,6 +25375,7 @@
 ||shoppercentre.com^$dnstype=AAAA
 ||shopping-days.net^$dnstype=AAAA
 ||shopping.com^$dnstype=AAAA
+||shopping.yahoo.co.jp^$dnstype=AAAA
 ||shoppinguheadphones.com^$dnstype=AAAA
 ||shops-disney.com^$dnstype=AAAA
 ||shopspeedtv.com^$dnstype=AAAA
@@ -25424,6 +25450,7 @@
 ||silkbook.com^$dnstype=AAAA
 ||silkengirl.com^$dnstype=AAAA
 ||silverchair-cdn.com^$dnstype=AAAA
+||silvergatebank.com^$dnstype=AAAA
 ||silversluts.com^$dnstype=AAAA
 ||simbios.ac.uk^$dnstype=AAAA
 ||simbolostwitter.com^$dnstype=AAAA
@@ -25437,6 +25464,7 @@
 ||simonsgirls.com^$dnstype=AAAA
 ||simp.ly^$dnstype=AAAA
 ||simpcity.su^$dnstype=AAAA
+||simplecd.me^$dnstype=AAAA
 ||simplecd.org^$dnstype=AAAA
 ||simplenote.com^$dnstype=AAAA
 ||simpleproductivityblog.com^$dnstype=AAAA
@@ -25510,6 +25538,7 @@
 ||sissy.game^$dnstype=AAAA
 ||sissyporncrossdresser.com^$dnstype=AAAA
 ||site.com^$dnstype=AAAA
+||site.new^$dnstype=AAAA
 ||site2unblock.com^$dnstype=AAAA
 ||site90.net^$dnstype=AAAA
 ||sitebro.tw^$dnstype=AAAA
@@ -25520,6 +25549,7 @@
 ||siterips.org^$dnstype=AAAA
 ||siteripz.com^$dnstype=AAAA
 ||siteripz.net^$dnstype=AAAA
+||sites.new^$dnstype=AAAA
 ||siti.ac.uk^$dnstype=AAAA
 ||situero.com^$dnstype=AAAA
 ||siva.ac.uk^$dnstype=AAAA
@@ -26128,6 +26158,7 @@
 ||spraynwash.com^$dnstype=AAAA
 ||spreadporn.org^$dnstype=AAAA
 ||spreadprivacy.com^$dnstype=AAAA
+||spreadsheet.new^$dnstype=AAAA
 ||spreadshirt.es^$dnstype=AAAA
 ||spreaker.com^$dnstype=AAAA
 ||sprg.ac.uk^$dnstype=AAAA
@@ -26216,6 +26247,7 @@
 ||ssrpass.pw^$dnstype=AAAA
 ||ssrshare.com^$dnstype=AAAA
 ||ssrshare.us^$dnstype=AAAA
+||ssrtool.com^$dnstype=AAAA
 ||sss.camp^$dnstype=AAAA
 ||sss.xxx^$dnstype=AAAA
 ||sssfc.ac.uk^$dnstype=AAAA
@@ -26556,6 +26588,7 @@
 ||stream-mydirtyhobby.biz^$dnstype=AAAA
 ||streamable.com^$dnstype=AAAA
 ||streamate.com^$dnstype=AAAA
+||streamguys1.com^$dnstype=AAAA
 ||streamhentaimovies.com^$dnstype=AAAA
 ||streaming.mediaservices.windows.net^$dnstype=AAAA
 ||streamingdisney.net^$dnstype=AAAA
@@ -26928,6 +26961,7 @@
 ||symcb.com^$dnstype=AAAA
 ||symcd.com^$dnstype=AAAA
 ||symonds.ac.uk^$dnstype=AAAA
+||synapse.org^$dnstype=AAAA
 ||synaptic.net^$dnstype=AAAA
 ||synbio-cdt.ac.uk^$dnstype=AAAA
 ||syncback.com^$dnstype=AAAA
@@ -27990,6 +28024,7 @@
 ||totalvpn.com^$dnstype=AAAA
 ||totoleak.com^$dnstype=AAAA
 ||totton.ac.uk^$dnstype=AAAA
+||tou.tv^$dnstype=AAAA
 ||toucan-network.ac.uk^$dnstype=AAAA
 ||touchid.tv^$dnstype=AAAA
 ||touchid.wang^$dnstype=AAAA
@@ -28306,6 +28341,7 @@
 ||tumview.com^$dnstype=AAAA
 ||tuncommercialbank.com^$dnstype=AAAA
 ||tunein.com^$dnstype=AAAA
+||tunein.streamguys1.com^$dnstype=AAAA
 ||tunnelbear.com^$dnstype=AAAA
 ||tunnelblick.net^$dnstype=AAAA
 ||tunnelr.com^$dnstype=AAAA
@@ -29339,6 +29375,7 @@
 ||vetset2go.ac.uk^$dnstype=AAAA
 ||vetvaccnet.ac.uk^$dnstype=AAAA
 ||vevo.com^$dnstype=AAAA
+||vewas.net^$dnstype=AAAA
 ||vfabric.net^$dnstype=AAAA
 ||vfsco.at^$dnstype=AAAA
 ||vfsco.be^$dnstype=AAAA
@@ -29462,6 +29499,7 @@
 ||vijayatemple.org^$dnstype=AAAA
 ||vikacg.com^$dnstype=AAAA
 ||vikiporn.com^$dnstype=AAAA
+||vilanet.me^$dnstype=AAAA
 ||vilavpn.com^$dnstype=AAAA
 ||vilavpn.xyz^$dnstype=AAAA
 ||vilavpn1.xyz^$dnstype=AAAA
@@ -30331,6 +30369,7 @@
 ||webrush.net^$dnstype=AAAA
 ||webs-tv.net^$dnstype=AAAA
 ||website.informer.com^$dnstype=AAAA
+||website.new^$dnstype=AAAA
 ||websitepulse.com^$dnstype=AAAA
 ||websnapr.com^$dnstype=AAAA
 ||webster.ac.uk^$dnstype=AAAA
