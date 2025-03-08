@@ -473,6 +473,7 @@
 ||69loli.com^$dnstype=AAAA
 ||69luolie.com^$dnstype=AAAA
 ||69re.net^$dnstype=AAAA
+||69shuba.cx^$dnstype=AAAA
 ||69story.com^$dnstype=AAAA
 ||69tubesex.com^$dnstype=AAAA
 ||69vj.com^$dnstype=AAAA
@@ -4875,6 +4876,7 @@
 ||bookwalker.com.tw^$dnstype=AAAA
 ||booloo.com^$dnstype=AAAA
 ||boomba.club^$dnstype=AAAA
+||boombeach.com^$dnstype=AAAA
 ||boomerang.com^$dnstype=AAAA
 ||boomssr.com^$dnstype=AAAA
 ||boomtrain.com^$dnstype=AAAA
@@ -4997,6 +4999,7 @@
 ||bravoteens.com^$dnstype=AAAA
 ||bravotube.net^$dnstype=AAAA
 ||bravotube.tv^$dnstype=AAAA
+||brawlstars.com^$dnstype=AAAA
 ||brawlstarsgame.com^$dnstype=AAAA
 ||brazilpartneruniversity.com^$dnstype=AAAA
 ||brazzer.com^$dnstype=AAAA
@@ -6567,6 +6570,10 @@
 ||clarendon.ac.uk^$dnstype=AAAA
 ||clarin.ac.uk^$dnstype=AAAA
 ||clarionproject.org^$dnstype=AAAA
+||clash.com^$dnstype=AAAA
+||clashmini.com^$dnstype=AAAA
+||clashofclans.com^$dnstype=AAAA
+||clashroyale.com^$dnstype=AAAA
 ||clasporno.org^$dnstype=AAAA
 ||classicalguitarblog.net^$dnstype=AAAA
 ||classicnike.com^$dnstype=AAAA
@@ -11700,6 +11707,7 @@
 ||gamerotic.com^$dnstype=AAAA
 ||gamerp.jp^$dnstype=AAAA
 ||gamesathletes.com^$dnstype=AAAA
+||gamesfirsthelsinki.com^$dnstype=AAAA
 ||gamesfuckgirls.com^$dnstype=AAAA
 ||gamesofdesire.com^$dnstype=AAAA
 ||gamesstack.com^$dnstype=AAAA
@@ -13061,6 +13069,8 @@
 ||hayabusa.dev^$dnstype=AAAA
 ||hayabusa.io^$dnstype=AAAA
 ||hayabusa.media^$dnstype=AAAA
+||hayday.com^$dnstype=AAAA
+||haydaygame.com^$dnstype=AAAA
 ||hayle.ac.uk^$dnstype=AAAA
 ||haywardsheath.ac.uk^$dnstype=AAAA
 ||hbabit.com^$dnstype=AAAA
@@ -17810,7 +17820,6 @@
 ||mappingtheunderworld.ac.uk^$dnstype=AAAA
 ||mappingwales.ac.uk^$dnstype=AAAA
 ||mappingwelshmarches.ac.uk^$dnstype=AAAA
-||maps.googleapis.com^$dnstype=AAAA
 ||marble.ac.uk^$dnstype=AAAA
 ||marc.info^$dnstype=AAAA
 ||marchmont.ac.uk^$dnstype=AAAA
@@ -18944,6 +18953,7 @@
 ||mnc.ac.uk^$dnstype=AAAA
 ||mndregister.ac.uk^$dnstype=AAAA
 ||mnewstv.com^$dnstype=AAAA
+||mo.co^$dnstype=AAAA
 ||mo.nightlife141.com^$dnstype=AAAA
 ||moapi.site^$dnstype=AAAA
 ||moapi1.club^$dnstype=AAAA
@@ -22571,6 +22581,7 @@
 ||poloniex.com^$dnstype=AAAA
 ||poly-of-wales.ac.uk^$dnstype=AAAA
 ||polygon.com^$dnstype=AAAA
+||polymarket.com^$dnstype=AAAA
 ||polymer-project.org^$dnstype=AAAA
 ||polymerhk.com^$dnstype=AAAA
 ||polymerproject.org^$dnstype=AAAA
@@ -24858,6 +24869,7 @@
 ||seemygf.com^$dnstype=AAAA
 ||seemyporn.com^$dnstype=AAAA
 ||seesmic.com^$dnstype=AAAA
+||seeurlpcl.com^$dnstype=AAAA
 ||seevic-college.ac.uk^$dnstype=AAAA
 ||seevic.ac.uk^$dnstype=AAAA
 ||seevpn.com^$dnstype=AAAA
@@ -26183,6 +26195,7 @@
 ||sqlite.org^$dnstype=AAAA
 ||sqlserveronlinux.com^$dnstype=AAAA
 ||squ1.com^$dnstype=AAAA
+||squadbusters.com^$dnstype=AAAA
 ||squarecapital.com^$dnstype=AAAA
 ||squarecdn.com^$dnstype=AAAA
 ||squarecloudservices.com^$dnstype=AAAA
@@ -26756,6 +26769,10 @@
 ||superadultgames.com^$dnstype=AAAA
 ||supercell.helpshift.com^$dnstype=AAAA
 ||supercell.net^$dnstype=AAAA
+||supercellcreators.com^$dnstype=AAAA
+||supercellgames.com^$dnstype=AAAA
+||supercellid.com^$dnstype=AAAA
+||supercellstore.com^$dnstype=AAAA
 ||supercoach.com.au^$dnstype=AAAA
 ||supercomputingwales.ac.uk^$dnstype=AAAA
 ||superdarn.ac.uk^$dnstype=AAAA
@@ -28094,7 +28111,6 @@
 ||transitwestyorkshire.ac.uk^$dnstype=AAAA
 ||translate-medtech.ac.uk^$dnstype=AAAA
 ||translate.goog^$dnstype=AAAA
-||translate.googleapis.com^$dnstype=AAAA
 ||translatetheweb.com^$dnstype=AAAA
 ||translatewiki.net^$dnstype=AAAA
 ||translatewiki.org^$dnstype=AAAA
