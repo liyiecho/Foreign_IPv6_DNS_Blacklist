@@ -28543,6 +28543,7 @@
 ||twitvid.com^$dnstype=AAAA
 ||twitzap.com^$dnstype=AAAA
 ||twiyia.com^$dnstype=AAAA
+||twkan.com^$dnstype=AAAA
 ||twlegs.com^$dnstype=AAAA
 ||twline5.com^$dnstype=AAAA
 ||twnextdigital.com^$dnstype=AAAA
