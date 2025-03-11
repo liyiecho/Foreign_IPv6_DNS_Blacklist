@@ -6135,6 +6135,7 @@
 ||chasestudy.ac.uk^$dnstype=AAAA
 ||chat.com^$dnstype=AAAA
 ||chat.lmsys.org^$dnstype=AAAA
+||chat.openai.com^$dnstype=AAAA
 ||chatango.com^$dnstype=AAAA
 ||chatgpt.com^$dnstype=AAAA
 ||chatgpt.livekit.cloud^$dnstype=AAAA
@@ -21425,6 +21426,7 @@
 ||open.ac.uk^$dnstype=AAAA
 ||open.com.hk^$dnstype=AAAA
 ||open.firstory.me^$dnstype=AAAA
+||open.spotify.com^$dnstype=AAAA
 ||openai.com^$dnstype=AAAA
 ||openaiapi-site.azureedge.net^$dnstype=AAAA
 ||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net^$dnstype=AAAA
