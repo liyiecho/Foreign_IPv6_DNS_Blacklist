@@ -23041,6 +23041,8 @@
 ||ppe.lawyer^$dnstype=AAAA
 ||pplah.com^$dnstype=AAAA
 ||pplusstatic.com^$dnstype=AAAA
+||pplx-res.cloudinary.com^$dnstype=AAAA
+||pplx.ai^$dnstype=AAAA
 ||ppp91.cc^$dnstype=AAAA
 ||pppds.com^$dnstype=AAAA
 ||ppre.ac.uk^$dnstype=AAAA
