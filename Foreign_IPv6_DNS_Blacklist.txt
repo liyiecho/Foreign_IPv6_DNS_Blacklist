@@ -217,6 +217,7 @@
 ||2022.dev^$dnstype=AAAA
 ||2023aga.oen.tw^$dnstype=AAAA
 ||2047.name^$dnstype=AAAA
+||2047.one^$dnstype=AAAA
 ||2049bbs.xyz^$dnstype=AAAA
 ||20thcenturystudios.com.au^$dnstype=AAAA
 ||20thcenturystudios.com.br^$dnstype=AAAA
@@ -3365,6 +3366,7 @@
 ||bdsmvideos.net^$dnstype=AAAA
 ||beaa.ac.uk^$dnstype=AAAA
 ||beaconevents.com^$dnstype=AAAA
+||bearteach.com^$dnstype=AAAA
 ||beascoremodel.com^$dnstype=AAAA
 ||beastiegals.com^$dnstype=AAAA
 ||beastysexlinks.com^$dnstype=AAAA
@@ -5447,6 +5449,7 @@
 ||cabletv.com.hk^$dnstype=AAAA
 ||cabletvdirectv.com^$dnstype=AAAA
 ||cabot.ac.uk^$dnstype=AAAA
+||cachefly.com^$dnstype=AAAA
 ||cachefly.net^$dnstype=AAAA
 ||cachinese.com^$dnstype=AAAA
 ||cacnw.com^$dnstype=AAAA
@@ -7543,6 +7546,7 @@
 ||customnikeshoes.com^$dnstype=AAAA
 ||cusu.hk^$dnstype=AAAA
 ||cutg.ac.uk^$dnstype=AAAA
+||cutout.pro^$dnstype=AAAA
 ||cutscenes.net^$dnstype=AAAA
 ||cutt.ly^$dnstype=AAAA
 ||cuv.ac.uk^$dnstype=AAAA
@@ -10338,6 +10342,7 @@
 ||facnbook.com^$dnstype=AAAA
 ||facoccmed.ac.uk^$dnstype=AAAA
 ||facrbook.com^$dnstype=AAAA
+||factchecklab.org^$dnstype=AAAA
 ||factograph.info^$dnstype=AAAA
 ||factpedia.org^$dnstype=AAAA
 ||factwire.org^$dnstype=AAAA
@@ -11852,6 +11857,7 @@
 ||gcu.ac.uk^$dnstype=AAAA
 ||gculondon.ac.uk^$dnstype=AAAA
 ||gda.ac.uk^$dnstype=AAAA
+||gdaily.org^$dnstype=AAAA
 ||gdansk-amazon.com^$dnstype=AAAA
 ||gdbt.net^$dnstype=AAAA
 ||gdian-dh.mom^$dnstype=AAAA
@@ -11980,6 +11986,7 @@
 ||getpricetag.com^$dnstype=AAAA
 ||getprintersupports.com^$dnstype=AAAA
 ||getscorecash.com^$dnstype=AAAA
+||getsession.org^$dnstype=AAAA
 ||getsexgames.com^$dnstype=AAAA
 ||getsocialscope.com^$dnstype=AAAA
 ||getsync.com^$dnstype=AAAA
@@ -25999,6 +26006,7 @@
 ||soundofhope.eu^$dnstype=AAAA
 ||soundofhope.kr^$dnstype=AAAA
 ||soundofhope.org^$dnstype=AAAA
+||soundon.fm^$dnstype=AAAA
 ||soundsoftware.ac.uk^$dnstype=AAAA
 ||soundwell.ac.uk^$dnstype=AAAA
 ||soup.io^$dnstype=AAAA
@@ -27372,6 +27380,7 @@
 ||tfhub.dev^$dnstype=AAAA
 ||tfiflve.com^$dnstype=AAAA
 ||tfsallin.net^$dnstype=AAAA
+||tg-me.com^$dnstype=AAAA
 ||tg.dev^$dnstype=AAAA
 ||tgac.ac.uk^$dnstype=AAAA
 ||tgirlcentral.com^$dnstype=AAAA
