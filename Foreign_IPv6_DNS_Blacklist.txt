@@ -15978,6 +15978,7 @@
 ||jiuse823.com^$dnstype=AAAA
 ||jiuse904.com^$dnstype=AAAA
 ||jiuse905.com^$dnstype=AAAA
+||jiuzhouyihuo.com^$dnstype=AAAA
 ||jiyou520.com^$dnstype=AAAA
 ||jiyu-kobo.co.jp^$dnstype=AAAA
 ||jizzboom.com^$dnstype=AAAA
@@ -22986,6 +22987,7 @@
 ||pramu.ac.uk^$dnstype=AAAA
 ||prastitutki.ru^$dnstype=AAAA
 ||prayforchina.net^$dnstype=AAAA
+||prcleader.org^$dnstype=AAAA
 ||prd-priconne-redive.akamaized.net^$dnstype=AAAA
 ||pre-bmwgroup.jobs^$dnstype=AAAA
 ||predictivetechnologies.com^$dnstype=AAAA
