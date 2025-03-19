@@ -639,7 +639,6 @@
 ||a7sex.com^$dnstype=AAAA
 ||aa1141.com^$dnstype=AAAA
 ||aa1142.com^$dnstype=AAAA
-||aa77kk.com^$dnstype=AAAA
 ||aaacymru.ac.uk^$dnstype=AAAA
 ||aaagradeheadphones.com^$dnstype=AAAA
 ||aaapp.cyou^$dnstype=AAAA
@@ -5221,7 +5220,6 @@
 ||btt804.com^$dnstype=AAAA
 ||btt904.com^$dnstype=AAAA
 ||bttzyw.com^$dnstype=AAAA
-||bttzyw.net^$dnstype=AAAA
 ||btwrdn.com^$dnstype=AAAA
 ||buba.ac.uk^$dnstype=AAAA
 ||bubbaporn.com^$dnstype=AAAA
@@ -8959,7 +8957,6 @@
 ||e122475.dscg.akamaiedge.net^$dnstype=AAAA
 ||e123.hk^$dnstype=AAAA
 ||e3an.ac.uk^$dnstype=AAAA
-||e53w.com^$dnstype=AAAA
 ||e621.net^$dnstype=AAAA
 ||ea-anz-press.com^$dnstype=AAAA
 ||ea.com^$dnstype=AAAA
@@ -22193,7 +22190,6 @@
 ||piapp.com.tw^$dnstype=AAAA
 ||piapro.net^$dnstype=AAAA
 ||picacg2022.com^$dnstype=AAAA
-||picacgy.com^$dnstype=AAAA
 ||picacn.xyz^$dnstype=AAAA
 ||picacomic.com^$dnstype=AAAA
 ||picacomic.xyz^$dnstype=AAAA
@@ -23653,7 +23649,6 @@
 ||rds-yes.buzz^$dnstype=AAAA
 ||rdtcdn.com^$dnstype=AAAA
 ||re-net.ac.uk^$dnstype=AAAA
-||re25.vip^$dnstype=AAAA
 ||rea-asia.com^$dnstype=AAAA
 ||rea-group.com^$dnstype=AAAA
 ||rea.design^$dnstype=AAAA
@@ -31267,7 +31262,6 @@
 ||xn--203-4g6em5t.com^$dnstype=AAAA
 ||xn--204-4g6em5t.com^$dnstype=AAAA
 ||xn--205-4g6em5t.com^$dnstype=AAAA
-||xn--2vxsp6vi4j.com^$dnstype=AAAA
 ||xn--3et96bj49ahpq.com^$dnstype=AAAA
 ||xn--4gq171p.com^$dnstype=AAAA
 ||xn--4vq475g.com^$dnstype=AAAA
