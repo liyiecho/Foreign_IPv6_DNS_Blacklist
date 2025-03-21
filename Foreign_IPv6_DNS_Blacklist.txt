@@ -4791,7 +4791,6 @@
 ||bod.asia^$dnstype=AAAA
 ||bodc.ac.uk^$dnstype=AAAA
 ||bodgirls.com^$dnstype=AAAA
-||bodog88.com^$dnstype=AAAA
 ||bodyandsoul.com.au^$dnstype=AAAA
 ||bodyfluids-jav.com^$dnstype=AAAA
 ||bognor-training.ac.uk^$dnstype=AAAA
@@ -31403,7 +31402,6 @@
 ||xtube.com^$dnstype=AAAA
 ||xtubebdsm.com^$dnstype=AAAA
 ||xtubezoo.com^$dnstype=AAAA
-||xu97.vip^$dnstype=AAAA
 ||xuchao.net^$dnstype=AAAA
 ||xuchao.org^$dnstype=AAAA
 ||xuehua.us^$dnstype=AAAA
