@@ -2526,7 +2526,6 @@
 ||askynz.net^$dnstype=AAAA
 ||asmhentai.com^$dnstype=AAAA
 ||asminternational.org^$dnstype=AAAA
-||asmr.gay^$dnstype=AAAA
 ||asmrbuluo.com^$dnstype=AAAA
 ||asn-online.org^$dnstype=AAAA
 ||asp-cc.com^$dnstype=AAAA
@@ -3038,7 +3037,6 @@
 ||b.hatena.ne.jp^$dnstype=AAAA
 ||b0ne.com^$dnstype=AAAA
 ||b3boos.com^$dnstype=AAAA
-||b3bos.com^$dnstype=AAAA
 ||b6b33.com^$dnstype=AAAA
 ||b6fc.ac.uk^$dnstype=AAAA
 ||baa.ac.uk^$dnstype=AAAA
@@ -5255,7 +5253,6 @@
 ||bullguard.com^$dnstype=AAAA
 ||bullog.org^$dnstype=AAAA
 ||bullogger.com^$dnstype=AAAA
-||bululusexdoll.com^$dnstype=AAAA
 ||bumingbai.net^$dnstype=AAAA
 ||bumpshare.com^$dnstype=AAAA
 ||bumptop.ca^$dnstype=AAAA
@@ -6813,7 +6810,6 @@
 ||cobrasearch.com^$dnstype=AAAA
 ||coccfea.ac.uk^$dnstype=AAAA
 ||cochina.co^$dnstype=AAAA
-||cochina.org^$dnstype=AAAA
 ||cochrane-airways.ac.uk^$dnstype=AAAA
 ||cochrane.ac.uk^$dnstype=AAAA
 ||cochranelibrary.com^$dnstype=AAAA
@@ -7424,7 +7420,6 @@
 ||cttoolkit.ac.uk^$dnstype=AAAA
 ||ctv.com.tw^$dnstype=AAAA
 ||ctwant.com^$dnstype=AAAA
-||ctyun.online^$dnstype=AAAA
 ||cubo.ac.uk^$dnstype=AAAA
 ||cuc.ac.uk^$dnstype=AAAA
 ||cuckfilmswifefuck.com^$dnstype=AAAA
@@ -8578,6 +8573,7 @@
 ||downloadsforipod.com^$dnstype=AAAA
 ||dphk.org^$dnstype=AAAA
 ||dpoc.ac.uk^$dnstype=AAAA
+||dpool.top^$dnstype=AAAA
 ||dpp.org.tw^$dnstype=AAAA
 ||dpr.info^$dnstype=AAAA
 ||dpscitt.ac.uk^$dnstype=AAAA
@@ -8808,7 +8804,6 @@
 ||duping.net^$dnstype=AAAA
 ||duplicati.com^$dnstype=AAAA
 ||dupola.com^$dnstype=AAAA
-||dupola.net^$dnstype=AAAA
 ||dur.ac.uk^$dnstype=AAAA
 ||durex-shop.ch^$dnstype=AAAA
 ||durex-shopline.com^$dnstype=AAAA
@@ -9248,7 +9243,6 @@
 ||ebsco.com^$dnstype=AAAA
 ||ebsl.ac.uk^$dnstype=AAAA
 ||ebslondon.ac.uk^$dnstype=AAAA
-||ebtcbank.com^$dnstype=AAAA
 ||ebuyheadphones.com^$dnstype=AAAA
 ||eca.ac.uk^$dnstype=AAAA
 ||ecampus-leeds.ac.uk^$dnstype=AAAA
@@ -9326,7 +9320,6 @@
 ||editorx.com^$dnstype=AAAA
 ||edlab.ac.uk^$dnstype=AAAA
 ||edmontonchina.cn^$dnstype=AAAA
-||edmontonservice.com^$dnstype=AAAA
 ||edninfo.com^$dnstype=AAAA
 ||edns.biz^$dnstype=AAAA
 ||edoors.com^$dnstype=AAAA
@@ -10709,7 +10702,6 @@
 ||fgmtv.net^$dnstype=AAAA
 ||fgmtv.org^$dnstype=AAAA
 ||fhreports.net^$dnstype=AAAA
-||fi11.com^$dnstype=AAAA
 ||fi11av1.com^$dnstype=AAAA
 ||fi11tv1.com^$dnstype=AAAA
 ||fibre-diffraction.ac.uk^$dnstype=AAAA
@@ -11627,7 +11619,6 @@
 ||fzh999.com^$dnstype=AAAA
 ||fzh999.net^$dnstype=AAAA
 ||fzlm.com^$dnstype=AAAA
-||fzlm.net^$dnstype=AAAA
 ||g-area.org^$dnstype=AAAA
 ||g-queen.com^$dnstype=AAAA
 ||g-technology.com^$dnstype=AAAA
@@ -12023,6 +12014,7 @@
 ||ghostgames.com^$dnstype=AAAA
 ||ghostnoteapp.com^$dnstype=AAAA
 ||ghostpath.com^$dnstype=AAAA
+||ghtv666.top^$dnstype=AAAA
 ||ghut.org^$dnstype=AAAA
 ||giantessbooru.com^$dnstype=AAAA
 ||giantessnight.com^$dnstype=AAAA
@@ -12216,7 +12208,6 @@
 ||gmims.ac.uk^$dnstype=AAAA
 ||gmll.org^$dnstype=AAAA
 ||gmms.ac.uk^$dnstype=AAAA
-||gmnetworks.net^$dnstype=AAAA
 ||gmocloud.com^$dnstype=AAAA
 ||gmodules.com^$dnstype=AAAA
 ||gmoney.org^$dnstype=AAAA
@@ -15845,6 +15836,7 @@
 ||jbtalks.cc^$dnstype=AAAA
 ||jbtalks.com^$dnstype=AAAA
 ||jbtalks.my^$dnstype=AAAA
+||jburl.top^$dnstype=AAAA
 ||jc11.tw^$dnstype=AAAA
 ||jca.ac.uk^$dnstype=AAAA
 ||jcc.ac.uk^$dnstype=AAAA
@@ -15910,7 +15902,6 @@
 ||jieav.com^$dnstype=AAAA
 ||jiehua.cz^$dnstype=AAAA
 ||jiehua.tv^$dnstype=AAAA
-||jiepang.com^$dnstype=AAAA
 ||jieshibaobao.com^$dnstype=AAAA
 ||jifangge.com^$dnstype=AAAA
 ||jigglegifs.com^$dnstype=AAAA
@@ -16228,7 +16219,6 @@
 ||kanald.com.tr^$dnstype=AAAA
 ||kanav.info^$dnstype=AAAA
 ||kangye.org^$dnstype=AAAA
-||kankan.today^$dnstype=AAAA
 ||kannewyork.com^$dnstype=AAAA
 ||kanporno.com^$dnstype=AAAA
 ||kanshifang.com^$dnstype=AAAA
@@ -19022,6 +19012,7 @@
 ||monkwear.ac.uk^$dnstype=AAAA
 ||monlamit.org^$dnstype=AAAA
 ||mono-project.com^$dnstype=AAAA
+||mono33.top^$dnstype=AAAA
 ||monocloud.me^$dnstype=AAAA
 ||monogram.ac.uk^$dnstype=AAAA
 ||monotype.com^$dnstype=AAAA
@@ -19974,7 +19965,6 @@
 ||netalert.me^$dnstype=AAAA
 ||netarabic.com^$dnstype=AAAA
 ||netbig.com^$dnstype=AAAA
-||netbirds.com^$dnstype=AAAA
 ||netcolony.com^$dnstype=AAAA
 ||netcup-news.de^$dnstype=AAAA
 ||netcup-sonderangebote.de^$dnstype=AAAA
@@ -21107,7 +21097,6 @@
 ||oclp.hk^$dnstype=AAAA
 ||ocms.ac.uk^$dnstype=AAAA
 ||ocnkm.ac.uk^$dnstype=AAAA
-||ocnttv.com^$dnstype=AAAA
 ||ocreampies.com^$dnstype=AAAA
 ||ocry.com^$dnstype=AAAA
 ||ocsp-certum.com^$dnstype=AAAA
@@ -21368,7 +21357,6 @@
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
-||opendn.xyz^$dnstype=AAAA
 ||opendroneid.org^$dnstype=AAAA
 ||opened.ac.uk^$dnstype=AAAA
 ||openengineeringlaboratory.ac.uk^$dnstype=AAAA
@@ -21431,7 +21419,6 @@
 ||opticsforthecloud.net^$dnstype=AAAA
 ||optima-cdt.ac.uk^$dnstype=AAAA
 ||optimumssl.com^$dnstype=AAAA
-||opus-gaming.com^$dnstype=AAAA
 ||opwall.ac.uk^$dnstype=AAAA
 ||or.id^$dnstype=AAAA
 ||or.jp^$dnstype=AAAA
@@ -22142,6 +22129,7 @@
 ||petroc.ac.uk^$dnstype=AAAA
 ||pggc.ac.uk^$dnstype=AAAA
 ||pgreen.ac.uk^$dnstype=AAAA
+||pgyy67.top^$dnstype=AAAA
 ||phantomjs.org^$dnstype=AAAA
 ||phapluan.org^$dnstype=AAAA
 ||pharmacy.ac.uk^$dnstype=AAAA
@@ -23306,8 +23294,10 @@
 ||qanote.com^$dnstype=AAAA
 ||qatarescortsvip.com^$dnstype=AAAA
 ||qattdh.cc^$dnstype=AAAA
+||qattdh.top^$dnstype=AAAA
 ||qattdh1.cc^$dnstype=AAAA
 ||qattdh2.cc^$dnstype=AAAA
+||qattdh6.top^$dnstype=AAAA
 ||qbittorrent.org^$dnstype=AAAA
 ||qbmengmei6.mom^$dnstype=AAAA
 ||qbsc.ac.uk^$dnstype=AAAA
@@ -25674,7 +25664,6 @@
 ||sneakerskick.com^$dnstype=AAAA
 ||sneakme.net^$dnstype=AAAA
 ||sni1dcb6gl.wpc.edgecastcdn.net^$dnstype=AAAA
-||snjulebu.com^$dnstype=AAAA
 ||snk-corp.co.jp^$dnstype=AAAA
 ||snkplaymore.info^$dnstype=AAAA
 ||snow.me^$dnstype=AAAA
@@ -27001,7 +26990,6 @@
 ||takporn.com^$dnstype=AAAA
 ||talentlens.com^$dnstype=AAAA
 ||taleofthenight.com^$dnstype=AAAA
-||talk853.com^$dnstype=AAAA
 ||talkboxapp.com^$dnstype=AAAA
 ||talkcc.com^$dnstype=AAAA
 ||talkinghealthmatters.ac.uk^$dnstype=AAAA
@@ -28977,7 +28965,6 @@
 ||utcreading.ac.uk^$dnstype=AAAA
 ||utopianpal.com^$dnstype=AAAA
 ||uu-gg.com^$dnstype=AAAA
-||uug22.com^$dnstype=AAAA
 ||uug23.com^$dnstype=AAAA
 ||uug25.com^$dnstype=AAAA
 ||uug26.com^$dnstype=AAAA
@@ -29207,7 +29194,6 @@
 ||velkaepocha.sk^$dnstype=AAAA
 ||velocloud.com^$dnstype=AAAA
 ||velostrata.com^$dnstype=AAAA
-||venbbs.com^$dnstype=AAAA
 ||venchina.com^$dnstype=AAAA
 ||vendu.com^$dnstype=AAAA
 ||venetianmacao.com^$dnstype=AAAA
@@ -30071,11 +30057,9 @@
 ||vxxsred.xyz^$dnstype=AAAA
 ||vzw.com^$dnstype=AAAA
 ||w-mt.co^$dnstype=AAAA
-||w-pool.com^$dnstype=AAAA
 ||w.idaiwan.com^$dnstype=AAAA
 ||w.org^$dnstype=AAAA
 ||w.wiki^$dnstype=AAAA
-||w0512.com^$dnstype=AAAA
 ||w3.org^$dnstype=AAAA
 ||w3schools.com^$dnstype=AAAA
 ||w6un.com^$dnstype=AAAA
@@ -31808,7 +31792,6 @@
 ||yandex.ua^$dnstype=AAAA
 ||yandex.uz^$dnstype=AAAA
 ||yandexcloud.net^$dnstype=AAAA
-||yanghengjun.com^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
 ||yaohubaba.com^$dnstype=AAAA
 ||yaoimangaonline.com^$dnstype=AAAA
