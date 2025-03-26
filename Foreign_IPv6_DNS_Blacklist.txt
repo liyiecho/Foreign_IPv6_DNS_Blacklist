@@ -30830,7 +30830,6 @@
 ||wufafangwen.com^$dnstype=AAAA
 ||wufi.org.tw^$dnstype=AAAA
 ||wuguoguang.com^$dnstype=AAAA
-||wujie.net^$dnstype=AAAA
 ||wujieliulan.com^$dnstype=AAAA
 ||wukangrui.net^$dnstype=AAAA
 ||wulfrun.ac.uk^$dnstype=AAAA
