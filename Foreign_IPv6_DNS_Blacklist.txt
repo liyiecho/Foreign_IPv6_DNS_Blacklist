@@ -948,6 +948,7 @@
 ||adobesigncdn.com^$dnstype=AAAA
 ||adobespark.com^$dnstype=AAAA
 ||adobess.com^$dnstype=AAAA
+||adobestats.io^$dnstype=AAAA
 ||adobestock.com^$dnstype=AAAA
 ||adobetag.com^$dnstype=AAAA
 ||adobetarget.com^$dnstype=AAAA
@@ -3780,6 +3781,7 @@
 ||bestrecipes.com.au^$dnstype=AAAA
 ||bestsexcam.com^$dnstype=AAAA
 ||bestshoesale2014.net^$dnstype=AAAA
+||bestsrv.de^$dnstype=AAAA
 ||besttitstube.com^$dnstype=AAAA
 ||besttube4you.com^$dnstype=AAAA
 ||bestvpn.com^$dnstype=AAAA
@@ -12333,6 +12335,7 @@
 ||goodreads.com^$dnstype=AAAA
 ||goodsdunk.net^$dnstype=AAAA
 ||goodsexporn.org^$dnstype=AAAA
+||goodsrv.de^$dnstype=AAAA
 ||goodtv.com.tw^$dnstype=AAAA
 ||goodtv.tv^$dnstype=AAAA
 ||goofind.com^$dnstype=AAAA
@@ -12967,6 +12970,7 @@
 ||happymeal.com.au^$dnstype=AAAA
 ||happymealdigital.com^$dnstype=AAAA
 ||happyon.jp^$dnstype=AAAA
+||happysrv.de^$dnstype=AAAA
 ||haproxy.org^$dnstype=AAAA
 ||hardanalfucking.com^$dnstype=AAAA
 ||hardcore-sex-filme.com^$dnstype=AAAA
@@ -13450,6 +13454,7 @@
 ||heywire.com^$dnstype=AAAA
 ||heyzo.com^$dnstype=AAAA
 ||hf-iphone.com^$dnstype=AAAA
+||hf.co^$dnstype=AAAA
 ||hfaes.ac.uk^$dnstype=AAAA
 ||hfals.ac.uk^$dnstype=AAAA
 ||hfma.ac.uk^$dnstype=AAAA
@@ -13827,6 +13832,7 @@
 ||hotsexydolls.com^$dnstype=AAAA
 ||hotshame.com^$dnstype=AAAA
 ||hotspotshield.com^$dnstype=AAAA
+||hotsrv.de^$dnstype=AAAA
 ||hotstar-cdn.net^$dnstype=AAAA
 ||hotstar-labs.com^$dnstype=AAAA
 ||hotstar.com^$dnstype=AAAA
@@ -15522,6 +15528,8 @@
 ||itasoftware.com^$dnstype=AAAA
 ||itcanwait.com^$dnstype=AAAA
 ||itcfonts.com^$dnstype=AAAA
+||itch.io^$dnstype=AAAA
+||itch.zone^$dnstype=AAAA
 ||itchen.ac.uk^$dnstype=AAAA
 ||iteach.ac.uk^$dnstype=AAAA
 ||itec.ac.uk^$dnstype=AAAA
@@ -18174,6 +18182,7 @@
 ||megapornpics.com^$dnstype=AAAA
 ||megaproxy.com^$dnstype=AAAA
 ||megarotic.com^$dnstype=AAAA
+||megasrv.de^$dnstype=AAAA
 ||megatitsminka.com^$dnstype=AAAA
 ||megaupload.com^$dnstype=AAAA
 ||megavideo.com^$dnstype=AAAA
@@ -20271,6 +20280,7 @@
 ||niceanimegames.com^$dnstype=AAAA
 ||niceporn.tv^$dnstype=AAAA
 ||nicer.ac.uk^$dnstype=AAAA
+||nicesrv.de^$dnstype=AAAA
 ||nicesshop.net^$dnstype=AAAA
 ||nichepornsite.com^$dnstype=AAAA
 ||nichepornsites.com^$dnstype=AAAA
@@ -21360,6 +21370,7 @@
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
+||opendns.com^$dnstype=AAAA
 ||opendroneid.org^$dnstype=AAAA
 ||opened.ac.uk^$dnstype=AAAA
 ||openengineeringlaboratory.ac.uk^$dnstype=AAAA
@@ -21375,6 +21386,7 @@
 ||openmaps.org^$dnstype=AAAA
 ||openreality.com^$dnstype=AAAA
 ||openresty.org^$dnstype=AAAA
+||openrouter.ai^$dnstype=AAAA
 ||opensciencelab.ac.uk^$dnstype=AAAA
 ||opensciencelaboratory.ac.uk^$dnstype=AAAA
 ||opensea.io^$dnstype=AAAA
@@ -22943,6 +22955,7 @@
 ||powershape-e.com^$dnstype=AAAA
 ||powershape.com^$dnstype=AAAA
 ||powershellgallery.com^$dnstype=AAAA
+||powersrv.de^$dnstype=AAAA
 ||powersunitedvr.com^$dnstype=AAAA
 ||powia.ac.uk^$dnstype=AAAA
 ||pp-soc.com^$dnstype=AAAA
@@ -23409,6 +23422,7 @@
 ||quickconnect.to^$dnstype=AAAA
 ||quickiepage.com^$dnstype=AAAA
 ||quickoffice.com^$dnstype=AAAA
+||quicksrv.de^$dnstype=AAAA
 ||quicktake.video^$dnstype=AAAA
 ||quicktime.cc^$dnstype=AAAA
 ||quicktime.com^$dnstype=AAAA
@@ -28730,6 +28744,7 @@
 ||ultimaonline.com^$dnstype=AAAA
 ||ultradonkey.com^$dnstype=AAAA
 ||ultralab.ac.uk^$dnstype=AAAA
+||ultrasrv.de^$dnstype=AAAA
 ||ultrasurf.us^$dnstype=AAAA
 ||ultravpn.com^$dnstype=AAAA
 ||ultravpn.fr^$dnstype=AAAA
@@ -28738,6 +28753,7 @@
 ||ulyssesapp.com^$dnstype=AAAA
 ||umagazine.com.hk^$dnstype=AAAA
 ||umass.edu^$dnstype=AAAA
+||umbrella.com^$dnstype=AAAA
 ||umd.edu^$dnstype=AAAA
 ||umds.ac.uk^$dnstype=AAAA
 ||umich.edu^$dnstype=AAAA
@@ -30473,6 +30489,7 @@
 ||whystudylanguages.ac.uk^$dnstype=AAAA
 ||whystudymaterials.ac.uk^$dnstype=AAAA
 ||whyx.org^$dnstype=AAAA
+||wi-fi.org^$dnstype=AAAA
 ||wias.ac.uk^$dnstype=AAAA
 ||wicn.ac.uk^$dnstype=AAAA
 ||widevine.com^$dnstype=AAAA
