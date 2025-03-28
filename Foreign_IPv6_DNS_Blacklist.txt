@@ -187,7 +187,9 @@
 ||1mobile.com^$dnstype=AAAA
 ||1mobile.tw^$dnstype=AAAA
 ||1monsterbeatsbydreus.com^$dnstype=AAAA
+||1password.ca^$dnstype=AAAA
 ||1password.com^$dnstype=AAAA
+||1password.eu^$dnstype=AAAA
 ||1point3acres.com^$dnstype=AAAA
 ||1pondo.tv^$dnstype=AAAA
 ||1pornlist.com^$dnstype=AAAA
@@ -646,6 +648,7 @@
 ||aabb1803.com^$dnstype=AAAA
 ||aacrjournals.org^$dnstype=AAAA
 ||aadmv.com^$dnstype=AAAA
+||aadrm.com^$dnstype=AAAA
 ||aaex.uk^$dnstype=AAAA
 ||aalah.me^$dnstype=AAAA
 ||aamacau.com^$dnstype=AAAA
@@ -1111,6 +1114,7 @@
 ||agemys.org^$dnstype=AAAA
 ||agendaweek.com^$dnstype=AAAA
 ||agenet.ac.uk^$dnstype=AAAA
+||agilebits.com^$dnstype=AAAA
 ||agnesb.fr^$dnstype=AAAA
 ||agocg.ac.uk^$dnstype=AAAA
 ||agoogleaday.com^$dnstype=AAAA
@@ -2017,6 +2021,7 @@
 ||apple-pay.wang^$dnstype=AAAA
 ||apple-store.net^$dnstype=AAAA
 ||apple-store.wang^$dnstype=AAAA
+||apple-tv-plus-press.apple.com^$dnstype=AAAA
 ||apple-usa.net^$dnstype=AAAA
 ||apple-watch.com.ru^$dnstype=AAAA
 ||apple.ae^$dnstype=AAAA
@@ -8077,7 +8082,9 @@
 ||dify.ai^$dnstype=AAAA
 ||digicert-cn.com^$dnstype=AAAA
 ||digicert-validation.com^$dnstype=AAAA
+||digicert.co.jp^$dnstype=AAAA
 ||digicert.com^$dnstype=AAAA
+||digicert.eu^$dnstype=AAAA
 ||digiland.tw^$dnstype=AAAA
 ||digimap.ac.uk^$dnstype=AAAA
 ||digisfera.com^$dnstype=AAAA
@@ -9611,6 +9618,8 @@
 ||enterprisepaging.com^$dnstype=AAAA
 ||enterpriseresearch.ac.uk^$dnstype=AAAA
 ||enterprisessl.com^$dnstype=AAAA
+||entrust.cn^$dnstype=AAAA
+||entrust.com^$dnstype=AAAA
 ||entrust.net^$dnstype=AAAA
 ||entrustdatacard.com^$dnstype=AAAA
 ||enveast.ac.uk^$dnstype=AAAA
@@ -13020,6 +13029,7 @@
 ||haskellstack.org^$dnstype=AAAA
 ||hastings.ac.uk^$dnstype=AAAA
 ||hastingsonline.ac.uk^$dnstype=AAAA
+||hatena.ne.jp^$dnstype=AAAA
 ||hath.network^$dnstype=AAAA
 ||hau.ac.uk^$dnstype=AAAA
 ||hautelook.com^$dnstype=AAAA
@@ -13647,6 +13657,8 @@
 ||hlg.ac.uk^$dnstype=AAAA
 ||hlnsc.ac.uk^$dnstype=AAAA
 ||hlrcv.stage.adobe.com^$dnstype=AAAA
+||hls-amt.itunes.apple.com^$dnstype=AAAA
+||hls.itunes.apple.com^$dnstype=AAAA
 ||hlsp1.pw^$dnstype=AAAA
 ||hm.com^$dnstype=AAAA
 ||hmd.site^$dnstype=AAAA
@@ -15617,6 +15629,7 @@
 ||iwyn138.com^$dnstype=AAAA
 ||ixnxx.tv^$dnstype=AAAA
 ||ixquick.com^$dnstype=AAAA
+||ixsystems.com^$dnstype=AAAA
 ||ixxx.com^$dnstype=AAAA
 ||iyalc.com^$dnstype=AAAA
 ||iyf.tv^$dnstype=AAAA
@@ -17309,6 +17322,7 @@
 ||looporn.com^$dnstype=AAAA
 ||looti.net^$dnstype=AAAA
 ||lordofultima.com^$dnstype=AAAA
+||lorenzetti.com.br^$dnstype=AAAA
 ||loreto.ac.uk^$dnstype=AAAA
 ||lostbetsgames.com^$dnstype=AAAA
 ||lotcrap.com^$dnstype=AAAA
@@ -18347,6 +18361,7 @@
 ||microsoft.cat^$dnstype=AAAA
 ||microsoft.ch^$dnstype=AAAA
 ||microsoft.cl^$dnstype=AAAA
+||microsoft.com^$dnstype=AAAA
 ||microsoft.cz^$dnstype=AAAA
 ||microsoft.de^$dnstype=AAAA
 ||microsoft.dk^$dnstype=AAAA
@@ -18385,6 +18400,7 @@
 ||microsoftadvertisingregionalawards.com^$dnstype=AAAA
 ||microsoftaffiliates.com^$dnstype=AAAA
 ||microsoftapp.net^$dnstype=AAAA
+||microsoftazuread-sso.com^$dnstype=AAAA
 ||microsoftazuresponsorships.com^$dnstype=AAAA
 ||microsoftcloud.com^$dnstype=AAAA
 ||microsoftcloudsummit.com^$dnstype=AAAA
@@ -21629,6 +21645,9 @@
 ||ozeex.com^$dnstype=AAAA
 ||ozodi.org^$dnstype=AAAA
 ||ozodlik.org^$dnstype=AAAA
+||ozon.ru^$dnstype=AAAA
+||ozone.ru^$dnstype=AAAA
+||ozonusercontent.com^$dnstype=AAAA
 ||ozvoice.org^$dnstype=AAAA
 ||ozyoyo.com^$dnstype=AAAA
 ||p-cdn.us^$dnstype=AAAA
@@ -22376,6 +22395,7 @@
 ||play-asia.com^$dnstype=AAAA
 ||play-bmm.shop^$dnstype=AAAA
 ||play-bmmer.buzz^$dnstype=AAAA
+||play-edge.itunes.apple.com^$dnstype=AAAA
 ||play4free.com^$dnstype=AAAA
 ||playapex.com^$dnstype=AAAA
 ||playartifact.com^$dnstype=AAAA
@@ -22387,6 +22407,8 @@
 ||playcover.io^$dnstype=AAAA
 ||player.fm^$dnstype=AAAA
 ||playerjs.io^$dnstype=AAAA
+||playfab.com^$dnstype=AAAA
+||playfabapi.com^$dnstype=AAAA
 ||playforceone.com^$dnstype=AAAA
 ||playhearthstone.com^$dnstype=AAAA
 ||playmation.com^$dnstype=AAAA
@@ -24826,7 +24848,6 @@
 ||seldensociety.ac.uk^$dnstype=AAAA
 ||selectanescort.com^$dnstype=AAAA
 ||selectyourgame.com^$dnstype=AAAA
-||self.events.data.microsoft.com^$dnstype=AAAA
 ||selfloversworld.com^$dnstype=AAAA
 ||sellclassics.com^$dnstype=AAAA
 ||sellercommunity.com^$dnstype=AAAA
@@ -28110,6 +28131,7 @@
 ||truedepth3d.com^$dnstype=AAAA
 ||truedwg.com^$dnstype=AAAA
 ||truefi.io^$dnstype=AAAA
+||truenas.com^$dnstype=AAAA
 ||trulyergonomic.com^$dnstype=AAAA
 ||trunest.com^$dnstype=AAAA
 ||truro-penwith.ac.uk^$dnstype=AAAA
@@ -28301,6 +28323,7 @@
 ||tutanota.de^$dnstype=AAAA
 ||tuvpn.com^$dnstype=AAAA
 ||tuzaijidi.com^$dnstype=AAAA
+||tv.applemusic.com^$dnstype=AAAA
 ||tv.br^$dnstype=AAAA
 ||tv.com^$dnstype=AAAA
 ||tv.google^$dnstype=AAAA
@@ -28983,6 +29006,7 @@
 ||utcnist3.colorado.edu^$dnstype=AAAA
 ||utcreading.ac.uk^$dnstype=AAAA
 ||utopianpal.com^$dnstype=AAAA
+||uts-api.itunes.apple.com^$dnstype=AAAA
 ||uu-gg.com^$dnstype=AAAA
 ||uug23.com^$dnstype=AAAA
 ||uug25.com^$dnstype=AAAA
@@ -29581,6 +29605,7 @@
 ||visabank.org^$dnstype=AAAA
 ||visabg.com^$dnstype=AAAA
 ||visabusinessinsights.com^$dnstype=AAAA
+||visaca.com^$dnstype=AAAA
 ||visacarddesignlab.com^$dnstype=AAAA
 ||visacards.com^$dnstype=AAAA
 ||visacheckout.net^$dnstype=AAAA
