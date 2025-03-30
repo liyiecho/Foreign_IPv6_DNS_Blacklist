@@ -23801,7 +23801,6 @@
 ||redd.it^$dnstype=AAAA
 ||reddit.app.link^$dnstype=AAAA
 ||reddit.com^$dnstype=AAAA
-||reddit.map.fastly.net^$dnstype=AAAA
 ||redditblog.com^$dnstype=AAAA
 ||reddithelp.com^$dnstype=AAAA
 ||redditinc.com^$dnstype=AAAA
