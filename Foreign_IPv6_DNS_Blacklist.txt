@@ -4991,6 +4991,7 @@
 ||brawlstars.com^$dnstype=AAAA
 ||brawlstarsgame.com^$dnstype=AAAA
 ||brazilpartneruniversity.com^$dnstype=AAAA
+||brazz.org^$dnstype=AAAA
 ||brazzer.com^$dnstype=AAAA
 ||brazzers-porno.online^$dnstype=AAAA
 ||brazzers-xxx.net^$dnstype=AAAA
@@ -9994,6 +9995,7 @@
 ||exe-coll.ac.uk^$dnstype=AAAA
 ||exec-appointments.com^$dnstype=AAAA
 ||exemplashe.ac.uk^$dnstype=AAAA
+||exeporn.net^$dnstype=AAAA
 ||exeter.ac.uk^$dnstype=AAAA
 ||exetercollege.ac.uk^$dnstype=AAAA
 ||exeterdeafacademy.ac.uk^$dnstype=AAAA
@@ -13677,6 +13679,7 @@
 ||hnntube.com^$dnstype=AAAA
 ||hobonichielog.com^$dnstype=AAAA
 ||hochi.news^$dnstype=AAAA
+||hochu.tv^$dnstype=AAAA
 ||hockeyapp.net^$dnstype=AAAA
 ||hoes.com^$dnstype=AAAA
 ||hogarth.ac.uk^$dnstype=AAAA
@@ -16844,6 +16847,7 @@
 ||lemonde.fr^$dnstype=AAAA
 ||lencr.org^$dnstype=AAAA
 ||lenkino.xxx^$dnstype=AAAA
+||lenporno.net^$dnstype=AAAA
 ||lenporno.red^$dnstype=AAAA
 ||lenwhite.com^$dnstype=AAAA
 ||leorockwell.com^$dnstype=AAAA
@@ -30084,6 +30088,7 @@
 ||vsphere.com^$dnstype=AAAA
 ||vsphere.net^$dnstype=AAAA
 ||vssn.ac.uk^$dnstype=AAAA
+||vtrahe.page^$dnstype=AAAA
 ||vtri.ac.uk^$dnstype=AAAA
 ||vts.ac.uk^$dnstype=AAAA
 ||vtsociety.org^$dnstype=AAAA
@@ -31638,6 +31643,7 @@
 ||yadi.sk^$dnstype=AAAA
 ||yadori.club^$dnstype=AAAA
 ||yaeby.info^$dnstype=AAAA
+||yaeby.pro^$dnstype=AAAA
 ||yahoo-news.com.hk^$dnstype=AAAA
 ||yahoo.ae^$dnstype=AAAA
 ||yahoo.am^$dnstype=AAAA
