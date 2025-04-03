@@ -5226,6 +5226,7 @@
 ||btt804.com^$dnstype=AAAA
 ||btt904.com^$dnstype=AAAA
 ||bttzyw.com^$dnstype=AAAA
+||bttzyw.net^$dnstype=AAAA
 ||btwrdn.com^$dnstype=AAAA
 ||buba.ac.uk^$dnstype=AAAA
 ||bubbaporn.com^$dnstype=AAAA
