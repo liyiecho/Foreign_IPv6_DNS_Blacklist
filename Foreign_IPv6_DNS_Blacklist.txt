@@ -31493,7 +31493,6 @@
 ||xxbook.cc^$dnstype=AAAA
 ||xxbrits.com^$dnstype=AAAA
 ||xxeronetxx.info^$dnstype=AAAA
-||xxfbiaa.xyz^$dnstype=AAAA
 ||xxgasm.com^$dnstype=AAAA
 ||xxindianporn.com^$dnstype=AAAA
 ||xxiqiyiavxx.buzz^$dnstype=AAAA
