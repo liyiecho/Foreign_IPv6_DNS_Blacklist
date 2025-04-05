@@ -2687,6 +2687,7 @@
 ||auricularesbeatsmarkt.com^$dnstype=AAAA
 ||auroraoss.com^$dnstype=AAAA
 ||ausbeatsbydrdre.com^$dnstype=AAAA
+||auth.openai.com^$dnstype=AAAA
 ||auth0.com^$dnstype=AAAA
 ||authorizeddns.net^$dnstype=AAAA
 ||authorizeddns.org^$dnstype=AAAA
@@ -21391,6 +21392,7 @@
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
+||opendesktop.org^$dnstype=AAAA
 ||opendns.com^$dnstype=AAAA
 ||opendroneid.org^$dnstype=AAAA
 ||opened.ac.uk^$dnstype=AAAA
