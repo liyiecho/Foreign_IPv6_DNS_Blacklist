@@ -25405,7 +25405,11 @@
 ||sign.ac.uk^$dnstype=AAAA
 ||sign.new^$dnstype=AAAA
 ||signal.art^$dnstype=AAAA
+||signal.group^$dnstype=AAAA
+||signal.link^$dnstype=AAAA
+||signal.me^$dnstype=AAAA
 ||signal.org^$dnstype=AAAA
+||signal.tube^$dnstype=AAAA
 ||signalbar.com^$dnstype=AAAA
 ||signalprocessingsociety.org^$dnstype=AAAA
 ||signalr.net^$dnstype=AAAA
