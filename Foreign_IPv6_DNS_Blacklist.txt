@@ -526,6 +526,7 @@
 ||8664av.com^$dnstype=AAAA
 ||881903.com^$dnstype=AAAA
 ||888.com^$dnstype=AAAA
+||8888.google^$dnstype=AAAA
 ||888poker.com^$dnstype=AAAA
 ||88av.one^$dnstype=AAAA
 ||88gals.com^$dnstype=AAAA
@@ -10468,6 +10469,7 @@
 ||fanhaodian.com^$dnstype=AAAA
 ||fanhaolou.com^$dnstype=AAAA
 ||fanhowab.buzz^$dnstype=AAAA
+||fani.com^$dnstype=AAAA
 ||fank.ru^$dnstype=AAAA
 ||fanleakstoday.com^$dnstype=AAAA
 ||fanqiang.network^$dnstype=AAAA
@@ -10585,6 +10587,7 @@
 ||fatstube.com^$dnstype=AAAA
 ||fau11.com^$dnstype=AAAA
 ||fault-analysis-group.ac.uk^$dnstype=AAAA
+||favcomic.com^$dnstype=AAAA
 ||favebook.com^$dnstype=AAAA
 ||favelaporno.com^$dnstype=AAAA
 ||favepornmovs.com^$dnstype=AAAA
@@ -12931,6 +12934,7 @@
 ||gzone-anime.info^$dnstype=AAAA
 ||h-cdn.com^$dnstype=AAAA
 ||h-china.org^$dnstype=AAAA
+||h-ciyuan.com^$dnstype=AAAA
 ||h-doujinshi.xyz^$dnstype=AAAA
 ||h-flash.com^$dnstype=AAAA
 ||h-moe.com^$dnstype=AAAA
@@ -14361,6 +14365,7 @@
 ||hypothes.is^$dnstype=AAAA
 ||hyread.com.tw^$dnstype=AAAA
 ||hysbys.ac.uk^$dnstype=AAAA
+||hysteria.network^$dnstype=AAAA
 ||hyu2.com^$dnstype=AAAA
 ||hzmn.net^$dnstype=AAAA
 ||i-123-hp.com^$dnstype=AAAA
@@ -17834,6 +17839,7 @@
 ||mantochichi.com^$dnstype=AAAA
 ||manufacturingedc.ac.uk^$dnstype=AAAA
 ||manurefetish.com^$dnstype=AAAA
+||manwa.me^$dnstype=AAAA
 ||manytoon.com^$dnstype=AAAA
 ||manyvids.com^$dnstype=AAAA
 ||manyvoices.news^$dnstype=AAAA
@@ -25540,6 +25546,7 @@
 ||sinchew.com.my^$dnstype=AAAA
 ||sinchew.my^$dnstype=AAAA
 ||sinet.ac.uk^$dnstype=AAAA
+||sing-box.sagernet.org^$dnstype=AAAA
 ||sing4.lat^$dnstype=AAAA
 ||sing68.com^$dnstype=AAAA
 ||singaporepools.com.sg^$dnstype=AAAA
@@ -26031,6 +26038,7 @@
 ||sothebys-institute.ac.uk^$dnstype=AAAA
 ||soton.ac.uk^$dnstype=AAAA
 ||sots.ac.uk^$dnstype=AAAA
+||sotwe.com^$dnstype=AAAA
 ||sou-tong.org^$dnstype=AAAA
 ||soubory.com^$dnstype=AAAA
 ||souka.xyz^$dnstype=AAAA
@@ -26295,6 +26303,7 @@
 ||ssl.webpack.de^$dnstype=AAAA
 ||ssl443.org^$dnstype=AAAA
 ||sslpaypal.org^$dnstype=AAAA
+||ssm.fun^$dnstype=AAAA
 ||ssmh.ac.uk^$dnstype=AAAA
 ||sspanel.net^$dnstype=AAAA
 ||sspanel.org^$dnstype=AAAA
@@ -27711,6 +27720,7 @@
 ||thotbook.tv^$dnstype=AAAA
 ||thothub.ru^$dnstype=AAAA
 ||thothub.to^$dnstype=AAAA
+||thotsbay.tv^$dnstype=AAAA
 ||thottok.com^$dnstype=AAAA
 ||thotvids.com^$dnstype=AAAA
 ||threadreaderapp.com^$dnstype=AAAA
@@ -29206,6 +29216,7 @@
 ||v.gd^$dnstype=AAAA
 ||v.roucdn^$dnstype=AAAA
 ||v2.help^$dnstype=AAAA
+||v2.hysteria.network^$dnstype=AAAA
 ||v2ex.co^$dnstype=AAAA
 ||v2ex.com^$dnstype=AAAA
 ||v2fly.org^$dnstype=AAAA
