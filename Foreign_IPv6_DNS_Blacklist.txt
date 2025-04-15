@@ -320,6 +320,7 @@
 ||3dtin.net^$dnstype=AAAA
 ||3go.fun^$dnstype=AAAA
 ||3hentai.net^$dnstype=AAAA
+||3lateral.com^$dnstype=AAAA
 ||3lib.net^$dnstype=AAAA
 ||3movs.com^$dnstype=AAAA
 ||3movs.xyz^$dnstype=AAAA
@@ -887,6 +888,7 @@
 ||adguard.info^$dnstype=AAAA
 ||adguard.io^$dnstype=AAAA
 ||adguard.org^$dnstype=AAAA
+||adguardaccount.com^$dnstype=AAAA
 ||adguardvpn.com^$dnstype=AAAA
 ||adhelpnews.com^$dnstype=AAAA
 ||adidas.at^$dnstype=AAAA
@@ -2963,6 +2965,7 @@
 ||awjq.cc^$dnstype=AAAA
 ||awlc.ac.uk^$dnstype=AAAA
 ||aws-iot-hackathon.com^$dnstype=AAAA
+||aws.com^$dnstype=AAAA
 ||awsautopilot.com^$dnstype=AAAA
 ||awsautoscaling.com^$dnstype=AAAA
 ||awsbraket.com^$dnstype=AAAA
@@ -5700,6 +5703,7 @@
 ||capitaliq.com^$dnstype=AAAA
 ||capitalisingoncreativity.ac.uk^$dnstype=AAAA
 ||capsule.ac.uk^$dnstype=AAAA
+||capturingreality.com^$dnstype=AAAA
 ||carabinasypistolas.com^$dnstype=AAAA
 ||carbo-biocrop.ac.uk^$dnstype=AAAA
 ||carbobiocrop.ac.uk^$dnstype=AAAA
@@ -6431,6 +6435,7 @@
 ||churchill.ac.uk^$dnstype=AAAA
 ||churchinhongkong.org^$dnstype=AAAA
 ||chushigangdrug.ch^$dnstype=AAAA
+||chutes.ai^$dnstype=AAAA
 ||chutuno.fun^$dnstype=AAAA
 ||chuzs2.xyz^$dnstype=AAAA
 ||chwr7s8u.com^$dnstype=AAAA
@@ -7455,6 +7460,7 @@
 ||cttoolkit.ac.uk^$dnstype=AAAA
 ||ctv.com.tw^$dnstype=AAAA
 ||ctwant.com^$dnstype=AAAA
+||cubicmotion.com^$dnstype=AAAA
 ||cubo.ac.uk^$dnstype=AAAA
 ||cuc.ac.uk^$dnstype=AAAA
 ||cuckfilmswifefuck.com^$dnstype=AAAA
@@ -10106,6 +10112,7 @@
 ||faam.ac.uk^$dnstype=AAAA
 ||faapy.com^$dnstype=AAAA
 ||faasbook.com^$dnstype=AAAA
+||fab.com^$dnstype=AAAA
 ||fabhairypussy.com^$dnstype=AAAA
 ||fablabplymouth.ac.uk^$dnstype=AAAA
 ||fabric.io^$dnstype=AAAA
@@ -14363,6 +14370,7 @@
 ||hypodermic-injection.com^$dnstype=AAAA
 ||hypodermicinjectiononline.com^$dnstype=AAAA
 ||hypothes.is^$dnstype=AAAA
+||hyprsense.com^$dnstype=AAAA
 ||hyread.com.tw^$dnstype=AAAA
 ||hysbys.ac.uk^$dnstype=AAAA
 ||hysteria.network^$dnstype=AAAA
@@ -18927,6 +18935,7 @@
 ||misskeyusercontent.jp^$dnstype=AAAA
 ||mist.ac.uk^$dnstype=AAAA
 ||mist.vip^$dnstype=AAAA
+||mistral.ai^$dnstype=AAAA
 ||mistresskym.com^$dnstype=AAAA
 ||mit.edu^$dnstype=AAAA
 ||mit.net^$dnstype=AAAA
@@ -23553,6 +23562,8 @@
 ||quipelements.com^$dnstype=AAAA
 ||quitccp.net^$dnstype=AAAA
 ||quitccp.org^$dnstype=AAAA
+||quixel.com^$dnstype=AAAA
+||quixel.se^$dnstype=AAAA
 ||quiz.directory^$dnstype=AAAA
 ||qumingwz.com^$dnstype=AAAA
 ||qumrancavesdispersed.ac.uk^$dnstype=AAAA
@@ -23601,6 +23612,7 @@
 ||rad-sat.ac.uk^$dnstype=AAAA
 ||rada.ac.uk^$dnstype=AAAA
 ||radeon.com^$dnstype=AAAA
+||radgametools.com^$dnstype=AAAA
 ||radian6.com^$dnstype=AAAA
 ||radicalparty.org^$dnstype=AAAA
 ||radiko.jp^$dnstype=AAAA
@@ -23838,6 +23850,7 @@
 ||realisingopportunities.ac.uk^$dnstype=AAAA
 ||reality-computing.com^$dnstype=AAAA
 ||realitykings.com^$dnstype=AAAA
+||realityscan.com^$dnstype=AAAA
 ||reallesbianexposed.com^$dnstype=AAAA
 ||reallifemethods.ac.uk^$dnstype=AAAA
 ||realmaturesfuck.com^$dnstype=AAAA
@@ -25637,6 +25650,7 @@
 ||sketchbookmobile.com^$dnstype=AAAA
 ||sketchbooknews.com^$dnstype=AAAA
 ||sketchbookpro.com^$dnstype=AAAA
+||sketchfab.com^$dnstype=AAAA
 ||skillsbridge.ac.uk^$dnstype=AAAA
 ||skillscompetitionwales.ac.uk^$dnstype=AAAA
 ||skillsgroupuk.ac.uk^$dnstype=AAAA
@@ -27885,6 +27899,7 @@
 ||time-e-g.nist.gov^$dnstype=AAAA
 ||time-e-wwv.nist.gov^$dnstype=AAAA
 ||time.apple.com^$dnstype=AAAA
+||time.aws.com^$dnstype=AAAA
 ||time.com^$dnstype=AAAA
 ||time.euro.apple.com^$dnstype=AAAA
 ||time.facebook.com^$dnstype=AAAA
@@ -28564,6 +28579,7 @@
 ||twinkboyfriends.tv^$dnstype=AAAA
 ||twinkspornos.com^$dnstype=AAAA
 ||twinkybf.com^$dnstype=AAAA
+||twinmotion.com^$dnstype=AAAA
 ||twinprime.com^$dnstype=AAAA
 ||twinsuk.ac.uk^$dnstype=AAAA
 ||twip.me^$dnstype=AAAA
@@ -32188,6 +32204,7 @@
 ||youthforfreechina.org^$dnstype=AAAA
 ||youthnetradio.org^$dnstype=AAAA
 ||youthwant.com.tw^$dnstype=AAAA
+||youtrack.cloud^$dnstype=AAAA
 ||youtrannytube.com^$dnstype=AAAA
 ||youtu.be^$dnstype=AAAA
 ||youtube-nocookie.com^$dnstype=AAAA
