@@ -13499,6 +13499,7 @@
 ||hetzner.com^$dnstype=AAAA
 ||hetzner.company^$dnstype=AAAA
 ||hetzner.de^$dnstype=AAAA
+||hetzner.social^$dnstype=AAAA
 ||heungkongdiscuss.com^$dnstype=AAAA
 ||hew.ac.uk^$dnstype=AAAA
 ||hewit.ac.uk^$dnstype=AAAA
