@@ -16317,6 +16317,7 @@
 ||kanald.com.tr^$dnstype=AAAA
 ||kanav.info^$dnstype=AAAA
 ||kangye.org^$dnstype=AAAA
+||kankan.today^$dnstype=AAAA
 ||kannewyork.com^$dnstype=AAAA
 ||kanporno.com^$dnstype=AAAA
 ||kanshifang.com^$dnstype=AAAA
@@ -19351,6 +19352,7 @@
 ||msgamesresearch.com^$dnstype=AAAA
 ||msguancha.com^$dnstype=AAAA
 ||msha.gov^$dnstype=AAAA
+||mshome.net^$dnstype=AAAA
 ||msinnovationchallenge.com^$dnstype=AAAA
 ||msk.ilnk.info^$dnstype=AAAA
 ||msk.kitazawa.me^$dnstype=AAAA
