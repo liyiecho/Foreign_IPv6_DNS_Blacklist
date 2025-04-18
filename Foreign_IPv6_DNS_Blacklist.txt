@@ -182,6 +182,7 @@
 ||1lib.eu^$dnstype=AAAA
 ||1lib.limited^$dnstype=AAAA
 ||1lib.pl^$dnstype=AAAA
+||1lib.sk^$dnstype=AAAA
 ||1lib.to^$dnstype=AAAA
 ||1lib.tw^$dnstype=AAAA
 ||1mobile.com^$dnstype=AAAA
@@ -12299,6 +12300,7 @@
 ||go-lang.net^$dnstype=AAAA
 ||go-lang.org^$dnstype=AAAA
 ||go-pki.com^$dnstype=AAAA
+||go-to-library.sk^$dnstype=AAAA
 ||go-to-zlibrary.se^$dnstype=AAAA
 ||go.com^$dnstype=AAAA
 ||go.dev^$dnstype=AAAA
@@ -15608,6 +15610,7 @@
 ||itaeromanga.com^$dnstype=AAAA
 ||itaiwan.gov.tw^$dnstype=AAAA
 ||italiabeatsbydrdre.com^$dnstype=AAAA
+||italian-books.sk^$dnstype=AAAA
 ||italiatibet.org^$dnstype=AAAA
 ||itasoftware.com^$dnstype=AAAA
 ||itcanwait.com^$dnstype=AAAA
@@ -32473,9 +32476,13 @@
 ||yysub.net^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
+||z-lib.gd^$dnstype=AAAA
+||z-lib.gs^$dnstype=AAAA
 ||z-lib.io^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
+||z-lib.ps^$dnstype=AAAA
 ||z-library.se^$dnstype=AAAA
+||z-library.sk^$dnstype=AAAA
 ||z00.world^$dnstype=AAAA
 ||z18r.co^$dnstype=AAAA
 ||z18r.com^$dnstype=AAAA
