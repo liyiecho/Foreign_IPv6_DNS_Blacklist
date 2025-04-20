@@ -173,6 +173,7 @@
 ||1e100.net^$dnstype=AAAA
 ||1eew.com^$dnstype=AAAA
 ||1inch.io^$dnstype=AAAA
+||1infra.net^$dnstype=AAAA
 ||1jjdg2.vip^$dnstype=AAAA
 ||1jsa22.vip^$dnstype=AAAA
 ||1lib.cloud^$dnstype=AAAA
@@ -189,8 +190,16 @@
 ||1mobile.tw^$dnstype=AAAA
 ||1monsterbeatsbydreus.com^$dnstype=AAAA
 ||1password.ca^$dnstype=AAAA
+||1password.co^$dnstype=AAAA
 ||1password.com^$dnstype=AAAA
+||1password.community^$dnstype=AAAA
+||1password.drift.click^$dnstype=AAAA
 ||1password.eu^$dnstype=AAAA
+||1password.io^$dnstype=AAAA
+||1passwordservices.com^$dnstype=AAAA
+||1passwordusercontent.ca^$dnstype=AAAA
+||1passwordusercontent.com^$dnstype=AAAA
+||1passwordusercontent.eu^$dnstype=AAAA
 ||1point3acres.com^$dnstype=AAAA
 ||1pondo.tv^$dnstype=AAAA
 ||1pornlist.com^$dnstype=AAAA
@@ -539,6 +548,7 @@
 ||89.64.charter.constitutionalism.solutions^$dnstype=AAAA
 ||8949.voto^$dnstype=AAAA
 ||8964museum.com^$dnstype=AAAA
+||8chan.moe^$dnstype=AAAA
 ||8kcosplay.com^$dnstype=AAAA
 ||8kpornvids.com^$dnstype=AAAA
 ||8muses.com^$dnstype=AAAA
@@ -5246,6 +5256,7 @@
 ||btt904.com^$dnstype=AAAA
 ||bttzyw.com^$dnstype=AAAA
 ||bttzyw.net^$dnstype=AAAA
+||btwrdn.co^$dnstype=AAAA
 ||btwrdn.com^$dnstype=AAAA
 ||buba.ac.uk^$dnstype=AAAA
 ||bubbaporn.com^$dnstype=AAAA
@@ -6094,6 +6105,7 @@
 ||cf-ipfs.com^$dnstype=AAAA
 ||cf.ac.uk^$dnstype=AAAA
 ||cfake.com^$dnstype=AAAA
+||cfargotunnel.com^$dnstype=AAAA
 ||cfas.ac.uk^$dnstype=AAAA
 ||cfblob.com^$dnstype=AAAA
 ||cfd-tv.com^$dnstype=AAAA
@@ -8366,6 +8378,9 @@
 ||disqusservice.com^$dnstype=AAAA
 ||distillate.ac.uk^$dnstype=AAAA
 ||distinct.ac.uk^$dnstype=AAAA
+||distribution.qatp1.net^$dnstype=AAAA
+||distribution.qcpp1.net^$dnstype=AAAA
+||distribution.qpdp1.net^$dnstype=AAAA
 ||dit-inc.us^$dnstype=AAAA
 ||divas.com.uy^$dnstype=AAAA
 ||diversityuk.ac.uk^$dnstype=AAAA
@@ -8619,6 +8634,8 @@
 ||download.cnet.com^$dnstype=AAAA
 ||download.com^$dnstype=AAAA
 ||download.fastgit.org^$dnstype=AAAA
+||download.qcpp1.net^$dnstype=AAAA
+||download.qpdp1.net^$dnstype=AAAA
 ||downloadpass.com^$dnstype=AAAA
 ||downloadsforipod.com^$dnstype=AAAA
 ||dphk.org^$dnstype=AAAA
@@ -8708,6 +8725,7 @@
 ||drgan.net^$dnstype=AAAA
 ||dri.ac.uk^$dnstype=AAAA
 ||dribbble.com^$dnstype=AAAA
+||drift.click^$dnstype=AAAA
 ||drindod.ac.uk^$dnstype=AAAA
 ||driverxxx.com^$dnstype=AAAA
 ||drivevideo.xyz^$dnstype=AAAA
@@ -12660,6 +12678,7 @@
 ||googlepagecreator.com^$dnstype=AAAA
 ||googlephotos.com^$dnstype=AAAA
 ||googleplay.com^$dnstype=AAAA
+||googleplex.com^$dnstype=AAAA
 ||googleplus.com^$dnstype=AAAA
 ||googlers.com^$dnstype=AAAA
 ||googlescholar.com^$dnstype=AAAA
@@ -16923,6 +16942,7 @@
 ||lelavement.com^$dnstype=AAAA
 ||leliao1.com^$dnstype=AAAA
 ||lematin.ch^$dnstype=AAAA
+||lemmynsfw.com^$dnstype=AAAA
 ||lemoncams.com^$dnstype=AAAA
 ||lemonde.fr^$dnstype=AAAA
 ||lencr.org^$dnstype=AAAA
@@ -19123,6 +19143,8 @@
 ||mongodb.org^$dnstype=AAAA
 ||monica.im^$dnstype=AAAA
 ||monitorchina.org^$dnstype=AAAA
+||monitoring.qatp1.net^$dnstype=AAAA
+||monitoring.qcpp1.net^$dnstype=AAAA
 ||monitorware.com^$dnstype=AAAA
 ||monitrix.net^$dnstype=AAAA
 ||monkwear.ac.uk^$dnstype=AAAA
@@ -19356,6 +19378,7 @@
 ||msguancha.com^$dnstype=AAAA
 ||msha.gov^$dnstype=AAAA
 ||mshome.net^$dnstype=AAAA
+||msidentity.com^$dnstype=AAAA
 ||msinnovationchallenge.com^$dnstype=AAAA
 ||msk.ilnk.info^$dnstype=AAAA
 ||msk.kitazawa.me^$dnstype=AAAA
@@ -21882,6 +21905,7 @@
 ||pashtovoa.com^$dnstype=AAAA
 ||pasionmujeres.com^$dnstype=AAAA
 ||paskoocheh.com^$dnstype=AAAA
+||passage.id^$dnstype=AAAA
 ||passion-hd.com^$dnstype=AAAA
 ||passion.com^$dnstype=AAAA
 ||passiontimes.hk^$dnstype=AAAA
@@ -23438,6 +23462,8 @@
 ||qaa.ac.uk^$dnstype=AAAA
 ||qac.ac.uk^$dnstype=AAAA
 ||qacollege.ac.uk^$dnstype=AAAA
+||qagpublic.qcpp1.net^$dnstype=AAAA
+||qagpublic.qpdp1.net^$dnstype=AAAA
 ||qanote.com^$dnstype=AAAA
 ||qatarescortsvip.com^$dnstype=AAAA
 ||qattdh.cc^$dnstype=AAAA
@@ -23454,6 +23480,8 @@
 ||qdiehzz7.me^$dnstype=AAAA
 ||qdmomentum.com^$dnstype=AAAA
 ||qeliz.ac.uk^$dnstype=AAAA
+||qgadmin.qatp1.net^$dnstype=AAAA
+||qgadmin.qpdp1.net^$dnstype=AAAA
 ||qgirl.com.tw^$dnstype=AAAA
 ||qhigh.com^$dnstype=AAAA
 ||qi-gong.me^$dnstype=AAAA
@@ -23533,6 +23561,10 @@
 ||qualcommventures.com^$dnstype=AAAA
 ||qualidata.ac.uk^$dnstype=AAAA
 ||qualphone.com^$dnstype=AAAA
+||qualysapi.qcpp1.net^$dnstype=AAAA
+||qualysapi.qpdp1.net^$dnstype=AAAA
+||qualysguard.qatp1.net^$dnstype=AAAA
+||qualysguard.qcpp1.net^$dnstype=AAAA
 ||quanben-xiaoshuo.com^$dnstype=AAAA
 ||quanben.io^$dnstype=AAAA
 ||quannengshen.org^$dnstype=AAAA
@@ -24398,6 +24430,7 @@
 ||rwcmd.ac.uk^$dnstype=AAAA
 ||rxhj.net^$dnstype=AAAA
 ||ryokoyomiuri.co.jp^$dnstype=AAAA
+||rzr.to^$dnstype=AAAA
 ||s-bluemix.net^$dnstype=AAAA
 ||s-books.com^$dnstype=AAAA
 ||s-cashonmobile.com^$dnstype=AAAA
@@ -24629,6 +24662,8 @@
 ||scaleform.com^$dnstype=AAAA
 ||scandalplanet.com^$dnstype=AAAA
 ||scanlover.com^$dnstype=AAAA
+||scanservice1.qatp1.net^$dnstype=AAAA
+||scanservice1.qpdp1.net^$dnstype=AAAA
 ||scapa.ac.uk^$dnstype=AAAA
 ||scarb-6-form.ac.uk^$dnstype=AAAA
 ||scarboroughtec.ac.uk^$dnstype=AAAA
@@ -26130,6 +26165,8 @@
 ||sowers.org.hk^$dnstype=AAAA
 ||sowiki.net^$dnstype=AAAA
 ||soyinyj.top^$dnstype=AAAA
+||soyjak.party^$dnstype=AAAA
+||soyjak.st^$dnstype=AAAA
 ||soylent.com^$dnstype=AAAA
 ||soylentnews.org^$dnstype=AAAA
 ||sp.cool^$dnstype=AAAA
@@ -30193,6 +30230,7 @@
 ||vpnproxymaster.com^$dnstype=AAAA
 ||vpnreactor.com^$dnstype=AAAA
 ||vpnreviewz.com^$dnstype=AAAA
+||vpnrouter.homes^$dnstype=AAAA
 ||vpnsecure.me^$dnstype=AAAA
 ||vpnshazam.com^$dnstype=AAAA
 ||vpnshieldapp.com^$dnstype=AAAA
@@ -31470,6 +31508,7 @@
 ||xn--80aaazx1an0a.lol^$dnstype=AAAA
 ||xn--8uq428d76d.tokyo^$dnstype=AAAA
 ||xn--90wwvt03e.com^$dnstype=AAAA
+||xn--9kr7l.com^$dnstype=AAAA
 ||xn--9pr62r24a.com^$dnstype=AAAA
 ||xn--9trs65b.com^$dnstype=AAAA
 ||xn--av-o44ep1d.com^$dnstype=AAAA
