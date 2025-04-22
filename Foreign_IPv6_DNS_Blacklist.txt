@@ -537,7 +537,6 @@
 ||8664av.com^$dnstype=AAAA
 ||881903.com^$dnstype=AAAA
 ||888.com^$dnstype=AAAA
-||8888.google^$dnstype=AAAA
 ||888poker.com^$dnstype=AAAA
 ||88av.one^$dnstype=AAAA
 ||88gals.com^$dnstype=AAAA
@@ -563,6 +562,7 @@
 ||9001700.com^$dnstype=AAAA
 ||908taiwan.org^$dnstype=AAAA
 ||90seconds.asia^$dnstype=AAAA
+||91-cg.com^$dnstype=AAAA
 ||91av.one^$dnstype=AAAA
 ||91avfuli.com^$dnstype=AAAA
 ||91beiyong.com^$dnstype=AAAA
@@ -1005,7 +1005,6 @@
 ||adult-list.com^$dnstype=AAAA
 ||adult-sex-games.com^$dnstype=AAAA
 ||adult-web-site.net^$dnstype=AAAA
-||adult.contents.fc2.com^$dnstype=AAAA
 ||adult.friendfinder.com^$dnstype=AAAA
 ||adult.toonsearch.net^$dnstype=AAAA
 ||adult3dcomics.com^$dnstype=AAAA
@@ -2043,6 +2042,7 @@
 ||apple-pay.wang^$dnstype=AAAA
 ||apple-store.net^$dnstype=AAAA
 ||apple-store.wang^$dnstype=AAAA
+||apple-studies.com^$dnstype=AAAA
 ||apple-tv-plus-press.apple.com^$dnstype=AAAA
 ||apple-usa.net^$dnstype=AAAA
 ||apple-watch.com.ru^$dnstype=AAAA
@@ -2712,7 +2712,6 @@
 ||auricularesbeatsmarkt.com^$dnstype=AAAA
 ||auroraoss.com^$dnstype=AAAA
 ||ausbeatsbydrdre.com^$dnstype=AAAA
-||auth.openai.com^$dnstype=AAAA
 ||auth0.com^$dnstype=AAAA
 ||authorizeddns.net^$dnstype=AAAA
 ||authorizeddns.org^$dnstype=AAAA
@@ -8956,6 +8955,7 @@
 ||dwnews.net^$dnstype=AAAA
 ||dx9527.cc^$dnstype=AAAA
 ||dxiong.com^$dnstype=AAAA
+||dxk4h.com^$dnstype=AAAA
 ||dxyav.co^$dnstype=AAAA
 ||dydx.exchange^$dnstype=AAAA
 ||dyfl1.pw^$dnstype=AAAA
@@ -9584,6 +9584,7 @@
 ||emuparadise.me^$dnstype=AAAA
 ||emwprep.ac.uk^$dnstype=AAAA
 ||en-compass.ac.uk^$dnstype=AAAA
+||en.favotter.net^$dnstype=AAAA
 ||en.hao123.com^$dnstype=AAAA
 ||enablementadobe.com^$dnstype=AAAA
 ||enanyang.my^$dnstype=AAAA
@@ -10483,7 +10484,6 @@
 ||fanfox.net^$dnstype=AAAA
 ||fangbinxing.com^$dnstype=AAAA
 ||fangeming.com^$dnstype=AAAA
-||fangeming.comffvpn.com^$dnstype=AAAA
 ||fangeqiang.com^$dnstype=AAAA
 ||fanglizhi.info^$dnstype=AAAA
 ||fangmincn.org^$dnstype=AAAA
@@ -10589,6 +10589,7 @@
 ||fashionretailacademy.ac.uk^$dnstype=AAAA
 ||fashiontechnologyacademy.ac.uk^$dnstype=AAAA
 ||fast.com^$dnstype=AAAA
+||fast.wistia.com^$dnstype=AAAA
 ||fastech.ac.uk^$dnstype=AAAA
 ||fastestvpn.com^$dnstype=AAAA
 ||fastgit.org^$dnstype=AAAA
@@ -12730,6 +12731,7 @@
 ||gotgeeks.com^$dnstype=AAAA
 ||gothdporn.com^$dnstype=AAAA
 ||gotporn.com^$dnstype=AAAA
+||gotquestions.org^$dnstype=AAAA
 ||gotraffic.net^$dnstype=AAAA
 ||gotrusted.com^$dnstype=AAAA
 ||gotw.ca^$dnstype=AAAA
@@ -13045,6 +13047,7 @@
 ||hanime.me^$dnstype=AAAA
 ||hanime.tv^$dnstype=AAAA
 ||hanime.xxx^$dnstype=AAAA
+||hanime.xyz^$dnstype=AAAA
 ||hanime1.me^$dnstype=AAAA
 ||hanminzu.org^$dnstype=AAAA
 ||hannah.ac.uk^$dnstype=AAAA
@@ -14569,6 +14572,7 @@
 ||idlcoyote.com^$dnstype=AAAA
 ||idnike.com^$dnstype=AAAA
 ||idol-sagasukun.com^$dnstype=AAAA
+||idope.se^$dnstype=AAAA
 ||idouga.com^$dnstype=AAAA
 ||idras.ac.uk^$dnstype=AAAA
 ||idreamx.com^$dnstype=AAAA
@@ -15005,6 +15009,7 @@
 ||infraworks.com^$dnstype=AAAA
 ||infura.io^$dnstype=AAAA
 ||ingads.com^$dnstype=AAAA
+||ingest.apple-studies.com^$dnstype=AAAA
 ||ingka.com^$dnstype=AAAA
 ||ingka.dev^$dnstype=AAAA
 ||ingkacentres.com^$dnstype=AAAA
@@ -21394,7 +21399,6 @@
 ||oncars.in^$dnstype=AAAA
 ||one.one^$dnstype=AAAA
 ||one.one.one^$dnstype=AAAA
-||one.one.one.one^$dnstype=AAAA
 ||one889.app^$dnstype=AAAA
 ||oneapi.com^$dnstype=AAAA
 ||onedinesfree.com^$dnstype=AAAA
@@ -23020,6 +23024,7 @@
 ||pornvideotube.online^$dnstype=AAAA
 ||pornvidhd.club^$dnstype=AAAA
 ||pornvisit.com^$dnstype=AAAA
+||pornvr.me^$dnstype=AAAA
 ||pornwatchers.com^$dnstype=AAAA
 ||pornwebmasters.com^$dnstype=AAAA
 ||pornwhite.com^$dnstype=AAAA
@@ -24456,7 +24461,6 @@
 ||s3-ap-southeast-1.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-2.amazonaws.com^$dnstype=AAAA
 ||s3.amazonaws.com^$dnstype=AAAA
-||s3.eu-central-1.amazonaws.com^$dnstype=AAAA
 ||s4miniarchive.com^$dnstype=AAAA
 ||s81c.com^$dnstype=AAAA
 ||s8ds5gfm.xyz^$dnstype=AAAA
@@ -25600,7 +25604,6 @@
 ||sinchew.com.my^$dnstype=AAAA
 ||sinchew.my^$dnstype=AAAA
 ||sinet.ac.uk^$dnstype=AAAA
-||sing-box.sagernet.org^$dnstype=AAAA
 ||sing4.lat^$dnstype=AAAA
 ||sing68.com^$dnstype=AAAA
 ||singaporepools.com.sg^$dnstype=AAAA
@@ -26817,6 +26820,7 @@
 ||stxmosquitoproject.org^$dnstype=AAAA
 ||sub147.com^$dnstype=AAAA
 ||subacme.rerouted.org^$dnstype=AAAA
+||subhd.tv^$dnstype=AAAA
 ||sublimedirectory.com^$dnstype=AAAA
 ||sublimetext.com^$dnstype=AAAA
 ||submarin.online^$dnstype=AAAA
@@ -29275,7 +29279,6 @@
 ||v.gd^$dnstype=AAAA
 ||v.roucdn^$dnstype=AAAA
 ||v2.help^$dnstype=AAAA
-||v2.hysteria.network^$dnstype=AAAA
 ||v2ex.co^$dnstype=AAAA
 ||v2ex.com^$dnstype=AAAA
 ||v2fly.org^$dnstype=AAAA
@@ -29598,7 +29601,7 @@
 ||video.aol.co.uk^$dnstype=AAAA
 ||video.aol.com^$dnstype=AAAA
 ||video.ap.org^$dnstype=AAAA
-||video.fc2.com^$dnstype=AAAA
+||video.fdbox.com^$dnstype=AAAA
 ||video.foxbusiness.com^$dnstype=AAAA
 ||video01.org^$dnstype=AAAA
 ||videoactive.ac.uk^$dnstype=AAAA
