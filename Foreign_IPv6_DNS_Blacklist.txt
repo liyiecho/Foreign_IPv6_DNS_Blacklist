@@ -537,6 +537,7 @@
 ||8664av.com^$dnstype=AAAA
 ||881903.com^$dnstype=AAAA
 ||888.com^$dnstype=AAAA
+||8888.google^$dnstype=AAAA
 ||888poker.com^$dnstype=AAAA
 ||88av.one^$dnstype=AAAA
 ||88gals.com^$dnstype=AAAA
@@ -1005,6 +1006,7 @@
 ||adult-list.com^$dnstype=AAAA
 ||adult-sex-games.com^$dnstype=AAAA
 ||adult-web-site.net^$dnstype=AAAA
+||adult.contents.fc2.com^$dnstype=AAAA
 ||adult.friendfinder.com^$dnstype=AAAA
 ||adult.toonsearch.net^$dnstype=AAAA
 ||adult3dcomics.com^$dnstype=AAAA
@@ -2712,6 +2714,7 @@
 ||auricularesbeatsmarkt.com^$dnstype=AAAA
 ||auroraoss.com^$dnstype=AAAA
 ||ausbeatsbydrdre.com^$dnstype=AAAA
+||auth.openai.com^$dnstype=AAAA
 ||auth0.com^$dnstype=AAAA
 ||authorizeddns.net^$dnstype=AAAA
 ||authorizeddns.org^$dnstype=AAAA
@@ -9584,7 +9587,6 @@
 ||emuparadise.me^$dnstype=AAAA
 ||emwprep.ac.uk^$dnstype=AAAA
 ||en-compass.ac.uk^$dnstype=AAAA
-||en.favotter.net^$dnstype=AAAA
 ||en.hao123.com^$dnstype=AAAA
 ||enablementadobe.com^$dnstype=AAAA
 ||enanyang.my^$dnstype=AAAA
@@ -10484,6 +10486,7 @@
 ||fanfox.net^$dnstype=AAAA
 ||fangbinxing.com^$dnstype=AAAA
 ||fangeming.com^$dnstype=AAAA
+||fangeming.comffvpn.com^$dnstype=AAAA
 ||fangeqiang.com^$dnstype=AAAA
 ||fanglizhi.info^$dnstype=AAAA
 ||fangmincn.org^$dnstype=AAAA
@@ -10589,7 +10592,6 @@
 ||fashionretailacademy.ac.uk^$dnstype=AAAA
 ||fashiontechnologyacademy.ac.uk^$dnstype=AAAA
 ||fast.com^$dnstype=AAAA
-||fast.wistia.com^$dnstype=AAAA
 ||fastech.ac.uk^$dnstype=AAAA
 ||fastestvpn.com^$dnstype=AAAA
 ||fastgit.org^$dnstype=AAAA
@@ -20255,6 +20257,7 @@
 ||news.com.au^$dnstype=AAAA
 ||news.ebc.net.tw^$dnstype=AAAA
 ||news.msn.com.tw^$dnstype=AAAA
+||news.mt.co.kr^$dnstype=AAAA
 ||news.nationalgeographic.com^$dnstype=AAAA
 ||news.net.au^$dnstype=AAAA
 ||news.omy.sg^$dnstype=AAAA
@@ -21399,6 +21402,7 @@
 ||oncars.in^$dnstype=AAAA
 ||one.one^$dnstype=AAAA
 ||one.one.one^$dnstype=AAAA
+||one.one.one.one^$dnstype=AAAA
 ||one889.app^$dnstype=AAAA
 ||oneapi.com^$dnstype=AAAA
 ||onedinesfree.com^$dnstype=AAAA
@@ -24461,6 +24465,7 @@
 ||s3-ap-southeast-1.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-2.amazonaws.com^$dnstype=AAAA
 ||s3.amazonaws.com^$dnstype=AAAA
+||s3.eu-central-1.amazonaws.com^$dnstype=AAAA
 ||s4miniarchive.com^$dnstype=AAAA
 ||s81c.com^$dnstype=AAAA
 ||s8ds5gfm.xyz^$dnstype=AAAA
@@ -25604,6 +25609,7 @@
 ||sinchew.com.my^$dnstype=AAAA
 ||sinchew.my^$dnstype=AAAA
 ||sinet.ac.uk^$dnstype=AAAA
+||sing-box.sagernet.org^$dnstype=AAAA
 ||sing4.lat^$dnstype=AAAA
 ||sing68.com^$dnstype=AAAA
 ||singaporepools.com.sg^$dnstype=AAAA
@@ -29279,6 +29285,7 @@
 ||v.gd^$dnstype=AAAA
 ||v.roucdn^$dnstype=AAAA
 ||v2.help^$dnstype=AAAA
+||v2.hysteria.network^$dnstype=AAAA
 ||v2ex.co^$dnstype=AAAA
 ||v2ex.com^$dnstype=AAAA
 ||v2fly.org^$dnstype=AAAA
@@ -29601,7 +29608,7 @@
 ||video.aol.co.uk^$dnstype=AAAA
 ||video.aol.com^$dnstype=AAAA
 ||video.ap.org^$dnstype=AAAA
-||video.fdbox.com^$dnstype=AAAA
+||video.fc2.com^$dnstype=AAAA
 ||video.foxbusiness.com^$dnstype=AAAA
 ||video01.org^$dnstype=AAAA
 ||videoactive.ac.uk^$dnstype=AAAA
