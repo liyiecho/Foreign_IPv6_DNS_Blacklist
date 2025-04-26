@@ -12733,7 +12733,6 @@
 ||gotgeeks.com^$dnstype=AAAA
 ||gothdporn.com^$dnstype=AAAA
 ||gotporn.com^$dnstype=AAAA
-||gotquestions.org^$dnstype=AAAA
 ||gotraffic.net^$dnstype=AAAA
 ||gotrusted.com^$dnstype=AAAA
 ||gotw.ca^$dnstype=AAAA
@@ -14574,7 +14573,6 @@
 ||idlcoyote.com^$dnstype=AAAA
 ||idnike.com^$dnstype=AAAA
 ||idol-sagasukun.com^$dnstype=AAAA
-||idope.se^$dnstype=AAAA
 ||idouga.com^$dnstype=AAAA
 ||idras.ac.uk^$dnstype=AAAA
 ||idreamx.com^$dnstype=AAAA
@@ -26826,7 +26824,6 @@
 ||stxmosquitoproject.org^$dnstype=AAAA
 ||sub147.com^$dnstype=AAAA
 ||subacme.rerouted.org^$dnstype=AAAA
-||subhd.tv^$dnstype=AAAA
 ||sublimedirectory.com^$dnstype=AAAA
 ||sublimetext.com^$dnstype=AAAA
 ||submarin.online^$dnstype=AAAA
@@ -31640,6 +31637,7 @@
 ||xsvod.xyz^$dnstype=AAAA
 ||xsz-av.com^$dnstype=AAAA
 ||xt.com^$dnstype=AAAA
+||xt.pub^$dnstype=AAAA
 ||xtapes.to^$dnstype=AAAA
 ||xtegvk.xyz^$dnstype=AAAA
 ||xteko.com^$dnstype=AAAA
