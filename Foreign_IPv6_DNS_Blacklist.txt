@@ -27788,6 +27788,7 @@
 ||thottok.com^$dnstype=AAAA
 ||thotvids.com^$dnstype=AAAA
 ||threadreaderapp.com^$dnstype=AAAA
+||threads.com^$dnstype=AAAA
 ||threads.net^$dnstype=AAAA
 ||threatchaos.com^$dnstype=AAAA
 ||thri.xxx^$dnstype=AAAA
