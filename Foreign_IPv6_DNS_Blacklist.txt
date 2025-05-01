@@ -5162,6 +5162,7 @@
 ||broadbandreports.com^$dnstype=AAAA
 ||broadbook.com^$dnstype=AAAA
 ||broadcast.co.nz^$dnstype=AAAA
+||broadcom.com^$dnstype=AAAA
 ||broadpressinc.com^$dnstype=AAAA
 ||broadstairscollege.ac.uk^$dnstype=AAAA
 ||brocaproject.com^$dnstype=AAAA
@@ -19383,6 +19384,8 @@
 ||msguancha.com^$dnstype=AAAA
 ||msha.gov^$dnstype=AAAA
 ||mshome.net^$dnstype=AAAA
+||msi.cn^$dnstype=AAAA
+||msi.com^$dnstype=AAAA
 ||msidentity.com^$dnstype=AAAA
 ||msinnovationchallenge.com^$dnstype=AAAA
 ||msk.ilnk.info^$dnstype=AAAA
@@ -25607,6 +25610,7 @@
 ||sinchew.com.my^$dnstype=AAAA
 ||sinchew.my^$dnstype=AAAA
 ||sinet.ac.uk^$dnstype=AAAA
+||sing-box.app^$dnstype=AAAA
 ||sing-box.sagernet.org^$dnstype=AAAA
 ||sing4.lat^$dnstype=AAAA
 ||sing68.com^$dnstype=AAAA
@@ -31434,7 +31438,6 @@
 ||xiaohexie.com^$dnstype=AAAA
 ||xiaolan.me^$dnstype=AAAA
 ||xiaoma.org^$dnstype=AAAA
-||xiaomi.eu^$dnstype=AAAA
 ||xiaoou.io^$dnstype=AAAA
 ||xiaoou.tv^$dnstype=AAAA
 ||xiaoshuobb.life^$dnstype=AAAA
