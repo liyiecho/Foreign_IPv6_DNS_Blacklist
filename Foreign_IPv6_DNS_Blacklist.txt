@@ -537,7 +537,6 @@
 ||8664av.com^$dnstype=AAAA
 ||881903.com^$dnstype=AAAA
 ||888.com^$dnstype=AAAA
-||8888.google^$dnstype=AAAA
 ||888poker.com^$dnstype=AAAA
 ||88av.one^$dnstype=AAAA
 ||88gals.com^$dnstype=AAAA
@@ -1006,7 +1005,6 @@
 ||adult-list.com^$dnstype=AAAA
 ||adult-sex-games.com^$dnstype=AAAA
 ||adult-web-site.net^$dnstype=AAAA
-||adult.contents.fc2.com^$dnstype=AAAA
 ||adult.friendfinder.com^$dnstype=AAAA
 ||adult.toonsearch.net^$dnstype=AAAA
 ||adult3dcomics.com^$dnstype=AAAA
@@ -2714,7 +2712,6 @@
 ||auricularesbeatsmarkt.com^$dnstype=AAAA
 ||auroraoss.com^$dnstype=AAAA
 ||ausbeatsbydrdre.com^$dnstype=AAAA
-||auth.openai.com^$dnstype=AAAA
 ||auth0.com^$dnstype=AAAA
 ||authorizeddns.net^$dnstype=AAAA
 ||authorizeddns.org^$dnstype=AAAA
@@ -3148,7 +3145,6 @@
 ||bailer.ac.uk^$dnstype=AAAA
 ||bais.ac.uk^$dnstype=AAAA
 ||baixing.me^$dnstype=AAAA
-||baizhi.org^$dnstype=AAAA
 ||baj.ac.uk^$dnstype=AAAA
 ||bakgeekhome.tk^$dnstype=AAAA
 ||balance.ac.uk^$dnstype=AAAA
@@ -9588,6 +9584,7 @@
 ||emuparadise.me^$dnstype=AAAA
 ||emwprep.ac.uk^$dnstype=AAAA
 ||en-compass.ac.uk^$dnstype=AAAA
+||en.favotter.net^$dnstype=AAAA
 ||en.hao123.com^$dnstype=AAAA
 ||enablementadobe.com^$dnstype=AAAA
 ||enanyang.my^$dnstype=AAAA
@@ -10487,7 +10484,6 @@
 ||fanfox.net^$dnstype=AAAA
 ||fangbinxing.com^$dnstype=AAAA
 ||fangeming.com^$dnstype=AAAA
-||fangeming.comffvpn.com^$dnstype=AAAA
 ||fangeqiang.com^$dnstype=AAAA
 ||fanglizhi.info^$dnstype=AAAA
 ||fangmincn.org^$dnstype=AAAA
@@ -10593,6 +10589,7 @@
 ||fashionretailacademy.ac.uk^$dnstype=AAAA
 ||fashiontechnologyacademy.ac.uk^$dnstype=AAAA
 ||fast.com^$dnstype=AAAA
+||fast.wistia.com^$dnstype=AAAA
 ||fastech.ac.uk^$dnstype=AAAA
 ||fastestvpn.com^$dnstype=AAAA
 ||fastgit.org^$dnstype=AAAA
@@ -12734,6 +12731,7 @@
 ||gotgeeks.com^$dnstype=AAAA
 ||gothdporn.com^$dnstype=AAAA
 ||gotporn.com^$dnstype=AAAA
+||gotquestions.org^$dnstype=AAAA
 ||gotraffic.net^$dnstype=AAAA
 ||gotrusted.com^$dnstype=AAAA
 ||gotw.ca^$dnstype=AAAA
@@ -14574,6 +14572,7 @@
 ||idlcoyote.com^$dnstype=AAAA
 ||idnike.com^$dnstype=AAAA
 ||idol-sagasukun.com^$dnstype=AAAA
+||idope.se^$dnstype=AAAA
 ||idouga.com^$dnstype=AAAA
 ||idras.ac.uk^$dnstype=AAAA
 ||idreamx.com^$dnstype=AAAA
@@ -16668,7 +16667,6 @@
 ||kum.com^$dnstype=AAAA
 ||kumo.com^$dnstype=AAAA
 ||kun.im^$dnstype=AAAA
-||kun66.xyz^$dnstype=AAAA
 ||kundun1069.com^$dnstype=AAAA
 ||kurashsultan.com^$dnstype=AAAA
 ||kurtmunger.com^$dnstype=AAAA
@@ -20721,6 +20719,7 @@
 ||nocookie.net^$dnstype=AAAA
 ||nocs.ac.uk^$dnstype=AAAA
 ||nodejs.org^$dnstype=AAAA
+||nodeloc.com^$dnstype=AAAA
 ||nodes.ac.uk^$dnstype=AAAA
 ||nodeseek.com^$dnstype=AAAA
 ||nodesnoop.com^$dnstype=AAAA
@@ -21403,7 +21402,6 @@
 ||oncars.in^$dnstype=AAAA
 ||one.one^$dnstype=AAAA
 ||one.one.one^$dnstype=AAAA
-||one.one.one.one^$dnstype=AAAA
 ||one889.app^$dnstype=AAAA
 ||oneapi.com^$dnstype=AAAA
 ||onedinesfree.com^$dnstype=AAAA
@@ -23485,7 +23483,6 @@
 ||qbmengmei6.mom^$dnstype=AAAA
 ||qbsc.ac.uk^$dnstype=AAAA
 ||qckprn.com^$dnstype=AAAA
-||qcmod.xyz^$dnstype=AAAA
 ||qctconnect.com^$dnstype=AAAA
 ||qdiehzz7.me^$dnstype=AAAA
 ||qdmomentum.com^$dnstype=AAAA
@@ -24158,7 +24155,6 @@
 ||rightbtc.com^$dnstype=AAAA
 ||rightster.com^$dnstype=AAAA
 ||rigpa.org^$dnstype=AAAA
-||rigums.xyz^$dnstype=AAAA
 ||riku.me^$dnstype=AAAA
 ||rileyguide.com^$dnstype=AAAA
 ||rime.im^$dnstype=AAAA
@@ -24466,7 +24462,6 @@
 ||s3-ap-southeast-1.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-2.amazonaws.com^$dnstype=AAAA
 ||s3.amazonaws.com^$dnstype=AAAA
-||s3.eu-central-1.amazonaws.com^$dnstype=AAAA
 ||s4miniarchive.com^$dnstype=AAAA
 ||s81c.com^$dnstype=AAAA
 ||s8ds5gfm.xyz^$dnstype=AAAA
@@ -25312,7 +25307,6 @@
 ||sgwritings.com^$dnstype=AAAA
 ||sgzhan.com^$dnstype=AAAA
 ||sh-xuxingda.com^$dnstype=AAAA
-||sh83.xyz^$dnstype=AAAA
 ||shadbase.com^$dnstype=AAAA
 ||shadeyouvpn.com^$dnstype=AAAA
 ||shadow.ma^$dnstype=AAAA
@@ -25611,7 +25605,6 @@
 ||sinchew.my^$dnstype=AAAA
 ||sinet.ac.uk^$dnstype=AAAA
 ||sing-box.app^$dnstype=AAAA
-||sing-box.sagernet.org^$dnstype=AAAA
 ||sing4.lat^$dnstype=AAAA
 ||sing68.com^$dnstype=AAAA
 ||singaporepools.com.sg^$dnstype=AAAA
@@ -26828,6 +26821,7 @@
 ||stxmosquitoproject.org^$dnstype=AAAA
 ||sub147.com^$dnstype=AAAA
 ||subacme.rerouted.org^$dnstype=AAAA
+||subhd.tv^$dnstype=AAAA
 ||sublimedirectory.com^$dnstype=AAAA
 ||sublimetext.com^$dnstype=AAAA
 ||submarin.online^$dnstype=AAAA
@@ -29287,7 +29281,6 @@
 ||v.gd^$dnstype=AAAA
 ||v.roucdn^$dnstype=AAAA
 ||v2.help^$dnstype=AAAA
-||v2.hysteria.network^$dnstype=AAAA
 ||v2ex.co^$dnstype=AAAA
 ||v2ex.com^$dnstype=AAAA
 ||v2fly.org^$dnstype=AAAA
@@ -29610,7 +29603,7 @@
 ||video.aol.co.uk^$dnstype=AAAA
 ||video.aol.com^$dnstype=AAAA
 ||video.ap.org^$dnstype=AAAA
-||video.fc2.com^$dnstype=AAAA
+||video.fdbox.com^$dnstype=AAAA
 ||video.foxbusiness.com^$dnstype=AAAA
 ||video01.org^$dnstype=AAAA
 ||videoactive.ac.uk^$dnstype=AAAA
@@ -31446,7 +31439,6 @@
 ||xihua.es^$dnstype=AAAA
 ||xii.jp^$dnstype=AAAA
 ||xijie.wordpress.com^$dnstype=AAAA
-||xin21.xyz^$dnstype=AAAA
 ||xinaia-av.buzz^$dnstype=AAAA
 ||xinbao.de^$dnstype=AAAA
 ||xindelu.com^$dnstype=AAAA
@@ -32476,7 +32468,6 @@
 ||ysmass.com^$dnstype=AAAA
 ||ysmeal.com^$dnstype=AAAA
 ||ysmeat.com^$dnstype=AAAA
-||ysmeet.com^$dnstype=AAAA
 ||ysmelf.com^$dnstype=AAAA
 ||ysmere.com^$dnstype=AAAA
 ||ysmuch.com^$dnstype=AAAA
