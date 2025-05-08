@@ -11704,6 +11704,7 @@
 ||fzh999.com^$dnstype=AAAA
 ||fzh999.net^$dnstype=AAAA
 ||fzlm.com^$dnstype=AAAA
+||fzlm.net^$dnstype=AAAA
 ||g-area.org^$dnstype=AAAA
 ||g-queen.com^$dnstype=AAAA
 ||g-technology.com^$dnstype=AAAA
@@ -18642,6 +18643,7 @@
 ||mindmeld.com^$dnstype=AAAA
 ||mindnode.com^$dnstype=AAAA
 ||mindrolling.org^$dnstype=AAAA
+||minecraft-services.net^$dnstype=AAAA
 ||minecraft.net^$dnstype=AAAA
 ||minecraft.wiki^$dnstype=AAAA
 ||minecraftservices.com^$dnstype=AAAA
@@ -25867,6 +25869,7 @@
 ||sneakerskick.com^$dnstype=AAAA
 ||sneakme.net^$dnstype=AAAA
 ||sni1dcb6gl.wpc.edgecastcdn.net^$dnstype=AAAA
+||snjulebu.com^$dnstype=AAAA
 ||snk-corp.co.jp^$dnstype=AAAA
 ||snkplaymore.info^$dnstype=AAAA
 ||snow.me^$dnstype=AAAA
@@ -25943,6 +25946,7 @@
 ||softwaredownload.gitbooks.io^$dnstype=AAAA
 ||softwareoutlook.ac.uk^$dnstype=AAAA
 ||sogclub.com^$dnstype=AAAA
+||sogoo.org^$dnstype=AAAA
 ||sogrady.me^$dnstype=AAAA
 ||soh.tw^$dnstype=AAAA
 ||sohcradio.com^$dnstype=AAAA
@@ -29148,6 +29152,7 @@
 ||urhtbooks.com^$dnstype=AAAA
 ||url.com.tw^$dnstype=AAAA
 ||url.tw^$dnstype=AAAA
+||urlborg.com^$dnstype=AAAA
 ||urlgalleries.net^$dnstype=AAAA
 ||urlparser.com^$dnstype=AAAA
 ||urukawa.com^$dnstype=AAAA
