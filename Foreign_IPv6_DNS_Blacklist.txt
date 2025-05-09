@@ -19425,6 +19425,7 @@
 ||mu6bce1c.xyz^$dnstype=AAAA
 ||muarc.ac.uk^$dnstype=AAAA
 ||mubi.com^$dnstype=AAAA
+||mubicdn.net^$dnstype=AAAA
 ||muchohentai.com^$dnstype=AAAA
 ||muchomasporno.com^$dnstype=AAAA
 ||muchosucko.com^$dnstype=AAAA
