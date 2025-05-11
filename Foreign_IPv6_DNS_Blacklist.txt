@@ -31,6 +31,7 @@
 ||1111mod-tube.buzz^$dnstype=AAAA
 ||1111mode.xyz^$dnstype=AAAA
 ||1111modpo.info^$dnstype=AAAA
+||111666.best^$dnstype=AAAA
 ||112263.com^$dnstype=AAAA
 ||114av.xyz^$dnstype=AAAA
 ||11jav.com^$dnstype=AAAA
@@ -1174,7 +1175,6 @@
 ||ai-kan.net^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
 ||ai.binwang.me^$dnstype=AAAA
-||ai.google^$dnstype=AAAA
 ||ai.google.dev^$dnstype=AAAA
 ||ai3sd.ac.uk^$dnstype=AAAA
 ||ai7995.site^$dnstype=AAAA
@@ -12302,6 +12302,7 @@
 ||gmodules.com^$dnstype=AAAA
 ||gmoney.org^$dnstype=AAAA
 ||gmozomg.izihost.org^$dnstype=AAAA
+||gmp4.com^$dnstype=AAAA
 ||gmsa.ac.uk^$dnstype=AAAA
 ||gmx.net^$dnstype=AAAA
 ||gnai-dh.sbs^$dnstype=AAAA
@@ -14410,6 +14411,7 @@
 ||i-o-u.info^$dnstype=AAAA
 ||i-part.com.tw^$dnstype=AAAA
 ||i-scmp.com^$dnstype=AAAA
+||i.111666.best^$dnstype=AAAA
 ||i.jeded.com^$dnstype=AAAA
 ||i.lithium.com^$dnstype=AAAA
 ||i.org^$dnstype=AAAA
@@ -21404,6 +21406,7 @@
 ||oncars.in^$dnstype=AAAA
 ||one.one^$dnstype=AAAA
 ||one.one.one^$dnstype=AAAA
+||one.one.one.one^$dnstype=AAAA
 ||one889.app^$dnstype=AAAA
 ||oneapi.com^$dnstype=AAAA
 ||onedinesfree.com^$dnstype=AAAA
@@ -22533,6 +22536,7 @@
 ||play-bmm.shop^$dnstype=AAAA
 ||play-bmmer.buzz^$dnstype=AAAA
 ||play-edge.itunes.apple.com^$dnstype=AAAA
+||play.google^$dnstype=AAAA
 ||play4free.com^$dnstype=AAAA
 ||playapex.com^$dnstype=AAAA
 ||playartifact.com^$dnstype=AAAA
@@ -23397,6 +23401,7 @@
 ||pure18.com^$dnstype=AAAA
 ||pureapk.com^$dnstype=AAAA
 ||pureconcepts.net^$dnstype=AAAA
+||puredns.org^$dnstype=AAAA
 ||pureinsight.org^$dnstype=AAAA
 ||purelov5.com^$dnstype=AAAA
 ||purelyceleb.com^$dnstype=AAAA
@@ -23517,6 +23522,7 @@
 ||qml.ac.uk^$dnstype=AAAA
 ||qmov.com^$dnstype=AAAA
 ||qmov.net^$dnstype=AAAA
+||qmp4.com^$dnstype=AAAA
 ||qmpgmc.ac.uk^$dnstype=AAAA
 ||qmttqg3k.me^$dnstype=AAAA
 ||qmu.ac.uk^$dnstype=AAAA
@@ -32523,7 +32529,10 @@
 ||yysub.net^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
+||z-lib.fm^$dnstype=AAAA
+||z-lib.fo^$dnstype=AAAA
 ||z-lib.gd^$dnstype=AAAA
+||z-lib.gl^$dnstype=AAAA
 ||z-lib.gs^$dnstype=AAAA
 ||z-lib.io^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
