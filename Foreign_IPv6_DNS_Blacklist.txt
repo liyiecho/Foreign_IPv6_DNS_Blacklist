@@ -1175,6 +1175,7 @@
 ||ai-kan.net^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
 ||ai.binwang.me^$dnstype=AAAA
+||ai.google^$dnstype=AAAA
 ||ai.google.dev^$dnstype=AAAA
 ||ai3sd.ac.uk^$dnstype=AAAA
 ||ai7995.site^$dnstype=AAAA
@@ -13896,6 +13897,7 @@
 ||hotbeatsonsale.com^$dnstype=AAAA
 ||hotbed.ac.uk^$dnstype=AAAA
 ||hotcandyland.com^$dnstype=AAAA
+||hotcool.tw^$dnstype=AAAA
 ||hotcuckoldwife.com^$dnstype=AAAA
 ||hotcumporn.com^$dnstype=AAAA
 ||hotels.cn^$dnstype=AAAA
@@ -20600,6 +20602,7 @@
 ||nikezoom.com^$dnstype=AAAA
 ||nikkan-gendai.com^$dnstype=AAAA
 ||nikkansports.com^$dnstype=AAAA
+||nikke.hotcool.tw^$dnstype=AAAA
 ||nikkei-cnbc.co.jp^$dnstype=AAAA
 ||nikkei.co.jp^$dnstype=AAAA
 ||nikkei.com^$dnstype=AAAA
@@ -20793,6 +20796,7 @@
 ||nos.nl^$dnstype=AAAA
 ||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
 ||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
+||notebooklm.google^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||notify.ppy.sh^$dnstype=AAAA
 ||notion-static.com^$dnstype=AAAA
@@ -21521,6 +21525,7 @@
 ||opencreate.org^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
 ||opendesktop.org^$dnstype=AAAA
+||opendn.xyz^$dnstype=AAAA
 ||opendns.com^$dnstype=AAAA
 ||opendroneid.org^$dnstype=AAAA
 ||opened.ac.uk^$dnstype=AAAA
@@ -29207,6 +29212,7 @@
 ||ustibetcommittee.org^$dnstype=AAAA
 ||ustream.tv^$dnstype=AAAA
 ||usunitednews.com^$dnstype=AAAA
+||usus.cc^$dnstype=AAAA
 ||usvimosquito.com^$dnstype=AAAA
 ||usvimosquitoproject.com^$dnstype=AAAA
 ||usw.ac.uk^$dnstype=AAAA
