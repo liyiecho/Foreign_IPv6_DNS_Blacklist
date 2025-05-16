@@ -2698,7 +2698,6 @@
 ||audio4-ak-spotify-com.akamaized.net^$dnstype=AAAA
 ||audiobeatsau.com^$dnstype=AAAA
 ||audiobeatsbydre.com^$dnstype=AAAA
-||audiomack.com^$dnstype=AAAA
 ||audiomonsterbeatsonline.com^$dnstype=AAAA
 ||audionow.com^$dnstype=AAAA
 ||aue.ac.uk^$dnstype=AAAA
@@ -10495,7 +10494,6 @@
 ||fanhaodian.com^$dnstype=AAAA
 ||fanhaolou.com^$dnstype=AAAA
 ||fanhowab.buzz^$dnstype=AAAA
-||fani.com^$dnstype=AAAA
 ||fank.ru^$dnstype=AAAA
 ||fanleakstoday.com^$dnstype=AAAA
 ||fanqiang.network^$dnstype=AAAA
@@ -10614,7 +10612,6 @@
 ||fatstube.com^$dnstype=AAAA
 ||fau11.com^$dnstype=AAAA
 ||fault-analysis-group.ac.uk^$dnstype=AAAA
-||favcomic.com^$dnstype=AAAA
 ||favebook.com^$dnstype=AAAA
 ||favelaporno.com^$dnstype=AAAA
 ||favepornmovs.com^$dnstype=AAAA
@@ -12321,7 +12318,6 @@
 ||go-lang.net^$dnstype=AAAA
 ||go-lang.org^$dnstype=AAAA
 ||go-pki.com^$dnstype=AAAA
-||go-to-library.sk^$dnstype=AAAA
 ||go-to-zlibrary.se^$dnstype=AAAA
 ||go.com^$dnstype=AAAA
 ||go.dev^$dnstype=AAAA
@@ -12966,7 +12962,6 @@
 ||gzone-anime.info^$dnstype=AAAA
 ||h-cdn.com^$dnstype=AAAA
 ||h-china.org^$dnstype=AAAA
-||h-ciyuan.com^$dnstype=AAAA
 ||h-doujinshi.xyz^$dnstype=AAAA
 ||h-flash.com^$dnstype=AAAA
 ||h-moe.com^$dnstype=AAAA
@@ -14401,7 +14396,6 @@
 ||hyprsense.com^$dnstype=AAAA
 ||hyread.com.tw^$dnstype=AAAA
 ||hysbys.ac.uk^$dnstype=AAAA
-||hysteria.network^$dnstype=AAAA
 ||hyu2.com^$dnstype=AAAA
 ||hzmn.net^$dnstype=AAAA
 ||i-123-hp.com^$dnstype=AAAA
@@ -15638,7 +15632,6 @@
 ||itaeromanga.com^$dnstype=AAAA
 ||itaiwan.gov.tw^$dnstype=AAAA
 ||italiabeatsbydrdre.com^$dnstype=AAAA
-||italian-books.sk^$dnstype=AAAA
 ||italiatibet.org^$dnstype=AAAA
 ||itasoftware.com^$dnstype=AAAA
 ||itcanwait.com^$dnstype=AAAA
@@ -17880,7 +17873,6 @@
 ||mantochichi.com^$dnstype=AAAA
 ||manufacturingedc.ac.uk^$dnstype=AAAA
 ||manurefetish.com^$dnstype=AAAA
-||manwa.me^$dnstype=AAAA
 ||manytoon.com^$dnstype=AAAA
 ||manyvids.com^$dnstype=AAAA
 ||manyvoices.news^$dnstype=AAAA
@@ -19413,6 +19405,7 @@
 ||msudalosti.com^$dnstype=AAAA
 ||msunlimitedcloudsummit.com^$dnstype=AAAA
 ||mswe1.org^$dnstype=AAAA
+||mt.co.kr^$dnstype=AAAA
 ||mt.lv^$dnstype=AAAA
 ||mt0011.site^$dnstype=AAAA
 ||mtalk-dev.google.com^$dnstype=AAAA
@@ -26112,7 +26105,6 @@
 ||sothebys-institute.ac.uk^$dnstype=AAAA
 ||soton.ac.uk^$dnstype=AAAA
 ||sots.ac.uk^$dnstype=AAAA
-||sotwe.com^$dnstype=AAAA
 ||sou-tong.org^$dnstype=AAAA
 ||soubory.com^$dnstype=AAAA
 ||souka.xyz^$dnstype=AAAA
@@ -26379,7 +26371,6 @@
 ||ssl.webpack.de^$dnstype=AAAA
 ||ssl443.org^$dnstype=AAAA
 ||sslpaypal.org^$dnstype=AAAA
-||ssm.fun^$dnstype=AAAA
 ||ssmh.ac.uk^$dnstype=AAAA
 ||sspanel.net^$dnstype=AAAA
 ||sspanel.org^$dnstype=AAAA
@@ -27797,7 +27788,6 @@
 ||thotbook.tv^$dnstype=AAAA
 ||thothub.ru^$dnstype=AAAA
 ||thothub.to^$dnstype=AAAA
-||thotsbay.tv^$dnstype=AAAA
 ||thottok.com^$dnstype=AAAA
 ||thotvids.com^$dnstype=AAAA
 ||threadreaderapp.com^$dnstype=AAAA
@@ -32539,10 +32529,8 @@
 ||z-lib.fo^$dnstype=AAAA
 ||z-lib.gd^$dnstype=AAAA
 ||z-lib.gl^$dnstype=AAAA
-||z-lib.gs^$dnstype=AAAA
 ||z-lib.io^$dnstype=AAAA
 ||z-lib.org^$dnstype=AAAA
-||z-lib.ps^$dnstype=AAAA
 ||z-library.se^$dnstype=AAAA
 ||z-library.sk^$dnstype=AAAA
 ||z00.world^$dnstype=AAAA
