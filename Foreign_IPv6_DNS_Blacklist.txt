@@ -3306,6 +3306,7 @@
 ||bbs.mikocon.com^$dnstype=AAAA
 ||bbs.morbell.com^$dnstype=AAAA
 ||bbs.mychat.to^$dnstype=AAAA
+||bbs.naixi.net^$dnstype=AAAA
 ||bbs.netbig.com^$dnstype=AAAA
 ||bbs.nyinfor.com^$dnstype=AAAA
 ||bbs.ozchinese.com^$dnstype=AAAA
@@ -16838,6 +16839,7 @@
 ||lcwc.ac.uk^$dnstype=AAAA
 ||ld.hao123img.com^$dnstype=AAAA
 ||ldoc-cdt.ac.uk^$dnstype=AAAA
+||ldplayer.tw^$dnstype=AAAA
 ||le-direct.tv^$dnstype=AAAA
 ||le-vpn.com^$dnstype=AAAA
 ||le.ac.uk^$dnstype=AAAA
