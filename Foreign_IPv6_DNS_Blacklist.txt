@@ -6883,6 +6883,7 @@
 ||codeish.co^$dnstype=AAAA
 ||codeish.io^$dnstype=AAAA
 ||codeplex.com^$dnstype=AAAA
+||coderabbit.ai^$dnstype=AAAA
 ||codeshare.io^$dnstype=AAAA
 ||codeskulptor.org^$dnstype=AAAA
 ||codespot.com^$dnstype=AAAA
@@ -8279,6 +8280,7 @@
 ||disinhe.ac.uk^$dnstype=AAAA
 ||disk.yandex.com^$dnstype=AAAA
 ||disk.yandex.ru^$dnstype=AAAA
+||diskstation.me^$dnstype=AAAA
 ||disney-asia.com^$dnstype=AAAA
 ||disney-discount.com^$dnstype=AAAA
 ||disney-plus.net^$dnstype=AAAA
@@ -8505,10 +8507,13 @@
 ||dobendan.de^$dnstype=AAAA
 ||doc.new^$dnstype=AAAA
 ||doceapower.com^$dnstype=AAAA
+||docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com^$dnstype=AAAA
+||docker-pinata-support.s3.amazonaws.com^$dnstype=AAAA
 ||docker.com^$dnstype=AAAA
 ||docker.io^$dnstype=AAAA
 ||dockerhub.com^$dnstype=AAAA
 ||dockerizer.com^$dnstype=AAAA
+||dockerstatic.com^$dnstype=AAAA
 ||docleradn.com^$dnstype=AAAA
 ||doclercdn.com^$dnstype=AAAA
 ||docs.cfw.lbyczf.com^$dnstype=AAAA
@@ -8771,6 +8776,9 @@
 ||ds-vod-abematv.akamaized.net^$dnstype=AAAA
 ||ds0h3roq6wcgc.cloudfront.net^$dnstype=AAAA
 ||dscis.ac.uk^$dnstype=AAAA
+||dscloud.biz^$dnstype=AAAA
+||dscloud.me^$dnstype=AAAA
+||dscloud.mobi^$dnstype=AAAA
 ||dscn.info^$dnstype=AAAA
 ||dses.ac.uk^$dnstype=AAAA
 ||dsex.to^$dnstype=AAAA
@@ -8779,6 +8787,9 @@
 ||dslr.net^$dnstype=AAAA
 ||dslreports.com^$dnstype=AAAA
 ||dsmtp.com^$dnstype=AAAA
+||dsmynas.com^$dnstype=AAAA
+||dsmynas.net^$dnstype=AAAA
+||dsmynas.org^$dnstype=AAAA
 ||dssott.com^$dnstype=AAAA
 ||dst-dtc.ac.uk^$dnstype=AAAA
 ||dstk.dk^$dnstype=AAAA
@@ -9913,7 +9924,6 @@
 ||esopworld.com^$dnstype=AAAA
 ||esp-scotland.ac.uk^$dnstype=AAAA
 ||esp32.com^$dnstype=AAAA
-||esp8266.com^$dnstype=AAAA
 ||espa-headlines.ac.uk^$dnstype=AAAA
 ||espa.ac.uk^$dnstype=AAAA
 ||espadoldettol.com.ar^$dnstype=AAAA
@@ -9927,7 +9937,6 @@
 ||espndotcom.tt.omtrdc.net^$dnstype=AAAA
 ||espnqa.com^$dnstype=AAAA
 ||esposasymaridos.com^$dnstype=AAAA
-||espressif.com^$dnstype=AAAA
 ||esrc.ac.uk^$dnstype=AAAA
 ||esrcfestival.ac.uk^$dnstype=AAAA
 ||esrcmanchesterfest.ac.uk^$dnstype=AAAA
@@ -10452,6 +10461,9 @@
 ||family-simulator.io^$dnstype=AAAA
 ||family.co.jp^$dnstype=AAAA
 ||family.com.tw^$dnstype=AAAA
+||familyds.com^$dnstype=AAAA
+||familyds.net^$dnstype=AAAA
+||familyds.org^$dnstype=AAAA
 ||familyfed.org^$dnstype=AAAA
 ||familylifestudy.ac.uk^$dnstype=AAAA
 ||familymart.com.my^$dnstype=AAAA
@@ -14413,6 +14425,7 @@
 ||i.lithium.com^$dnstype=AAAA
 ||i.org^$dnstype=AAAA
 ||i1.hk^$dnstype=AAAA
+||i234.me^$dnstype=AAAA
 ||i2p2.de^$dnstype=AAAA
 ||i2runner.com^$dnstype=AAAA
 ||i69.com.tw^$dnstype=AAAA
@@ -14451,6 +14464,7 @@
 ||ibit.am^$dnstype=AAAA
 ||ibkr.com^$dnstype=AAAA
 ||iblist.com^$dnstype=AAAA
+||ibllc.com^$dnstype=AAAA
 ||iblogserv-f.net^$dnstype=AAAA
 ||ibm.com^$dnstype=AAAA
 ||ibm.eu^$dnstype=AAAA
@@ -19590,6 +19604,7 @@
 ||mydirectgroove.com^$dnstype=AAAA
 ||mydirectvchannels.com^$dnstype=AAAA
 ||mydirtyhobby.com^$dnstype=AAAA
+||myds.me^$dnstype=AAAA
 ||myeasytv.com^$dnstype=AAAA
 ||myebay.com^$dnstype=AAAA
 ||myeclipseide.com^$dnstype=AAAA
@@ -27113,6 +27128,7 @@
 ||syncbak.com^$dnstype=AAAA
 ||synergyse.com^$dnstype=AAAA
 ||synology.com^$dnstype=AAAA
+||synology.me^$dnstype=AAAA
 ||synologydownload.com^$dnstype=AAAA
 ||synologyupdate.com^$dnstype=AAAA
 ||synsym.ac.uk^$dnstype=AAAA
@@ -28343,6 +28359,7 @@
 ||trustedpeach.com^$dnstype=AAAA
 ||trustisfps.com^$dnstype=AAAA
 ||trustsign.ch^$dnstype=AAAA
+||trustwallet.com^$dnstype=AAAA
 ||trustwave.com^$dnstype=AAAA
 ||truth101.co.tv^$dnstype=AAAA
 ||truthontour.org^$dnstype=AAAA
@@ -30495,6 +30512,7 @@
 ||webcammedellin.co^$dnstype=AAAA
 ||webcams.tv^$dnstype=AAAA
 ||webcamtubexxx.com^$dnstype=AAAA
+||webchannel-alkalimakersuite-pa.clients6.google.com^$dnstype=AAAA
 ||webevader.org^$dnstype=AAAA
 ||webex.ca^$dnstype=AAAA
 ||webex.co.in^$dnstype=AAAA
