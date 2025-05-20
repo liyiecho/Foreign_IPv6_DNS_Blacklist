@@ -19387,6 +19387,7 @@
 ||msft.info^$dnstype=AAAA
 ||msft.net^$dnstype=AAAA
 ||msftauth.net^$dnstype=AAAA
+||msftauthimages.net^$dnstype=AAAA
 ||msftconnecttest.com^$dnstype=AAAA
 ||msfteducation.ca^$dnstype=AAAA
 ||msftncsi.com^$dnstype=AAAA
