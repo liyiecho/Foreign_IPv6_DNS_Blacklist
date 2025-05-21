@@ -3296,6 +3296,7 @@
 ||bbs-cove.ac.uk^$dnstype=AAAA
 ||bbs-tw.com^$dnstype=AAAA
 ||bbs.acgrip.com^$dnstype=AAAA
+||bbs.boingboing.net^$dnstype=AAAA
 ||bbs.brockbbs.com^$dnstype=AAAA
 ||bbs.cantonese.asia^$dnstype=AAAA
 ||bbs.ecstart.com^$dnstype=AAAA
@@ -4829,6 +4830,7 @@
 ||bodyfluids-jav.com^$dnstype=AAAA
 ||bognor-training.ac.uk^$dnstype=AAAA
 ||bognor.ac.uk^$dnstype=AAAA
+||boingboing.net^$dnstype=AAAA
 ||bokep.net^$dnstype=AAAA
 ||bokepseks.org^$dnstype=AAAA
 ||bokepvidz.com^$dnstype=AAAA
@@ -16854,6 +16856,7 @@
 ||ld.hao123img.com^$dnstype=AAAA
 ||ldoc-cdt.ac.uk^$dnstype=AAAA
 ||ldplayer.tw^$dnstype=AAAA
+||ldstatic.com^$dnstype=AAAA
 ||le-direct.tv^$dnstype=AAAA
 ||le-vpn.com^$dnstype=AAAA
 ||le.ac.uk^$dnstype=AAAA
@@ -17179,6 +17182,7 @@
 ||linpie.com^$dnstype=AAAA
 ||linseysworld.com^$dnstype=AAAA
 ||linst.ac.uk^$dnstype=AAAA
+||linux.do^$dnstype=AAAA
 ||linux.org^$dnstype=AAAA
 ||linux.org.hk^$dnstype=AAAA
 ||linuxfoundation.org^$dnstype=AAAA
