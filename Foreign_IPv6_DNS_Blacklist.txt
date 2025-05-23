@@ -1283,6 +1283,9 @@
 ||ajsands.com^$dnstype=AAAA
 ||ajsjx.com^$dnstype=AAAA
 ||ajtalk.com^$dnstype=AAAA
+||ak-p.tripcdn.com^$dnstype=AAAA
+||ak-s-cw.tripcdn.com^$dnstype=AAAA
+||ak-s.tripcdn.com^$dnstype=AAAA
 ||ak1.net^$dnstype=AAAA
 ||aka-ai.com^$dnstype=AAAA
 ||aka-ai.net^$dnstype=AAAA
@@ -1347,6 +1350,7 @@
 ||akasha.world^$dnstype=AAAA
 ||akastream.com^$dnstype=AAAA
 ||akastream.net^$dnstype=AAAA
+||akatest.tripcdn.com^$dnstype=AAAA
 ||akatns.net^$dnstype=AAAA
 ||akiba-online.com^$dnstype=AAAA
 ||akiba-web.com^$dnstype=AAAA
@@ -2965,6 +2969,9 @@
 ||avxlive.icu^$dnstype=AAAA
 ||avxxc.com^$dnstype=AAAA
 ||avyahoo.com^$dnstype=AAAA
+||aw-d.tripcdn.com^$dnstype=AAAA
+||aw-p.tripcdn.com^$dnstype=AAAA
+||aw-s.tripcdn.com^$dnstype=AAAA
 ||awayoutgame.com^$dnstype=AAAA
 ||aweencore.com^$dnstype=AAAA
 ||awempire.com^$dnstype=AAAA
