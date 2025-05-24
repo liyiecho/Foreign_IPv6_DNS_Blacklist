@@ -19404,6 +19404,7 @@
 ||msftncsi.com^$dnstype=AAAA
 ||msftnet.org^$dnstype=AAAA
 ||msgamesresearch.com^$dnstype=AAAA
+||msgamestudios.com^$dnstype=AAAA
 ||msguancha.com^$dnstype=AAAA
 ||msha.gov^$dnstype=AAAA
 ||mshome.net^$dnstype=AAAA
