@@ -6738,6 +6738,7 @@
 ||clova.ai^$dnstype=AAAA
 ||clp.ac.uk^$dnstype=AAAA
 ||clrc.ac.uk^$dnstype=AAAA
+||clstorage.net^$dnstype=AAAA
 ||club.tw^$dnstype=AAAA
 ||club1069.com^$dnstype=AAAA
 ||clubhouse.com^$dnstype=AAAA
@@ -14471,7 +14472,16 @@
 ||ibiblio.org^$dnstype=AAAA
 ||ibis.ac.uk^$dnstype=AAAA
 ||ibit.am^$dnstype=AAAA
+||ibkr.ca^$dnstype=AAAA
+||ibkr.co.in^$dnstype=AAAA
+||ibkr.co.uk^$dnstype=AAAA
 ||ibkr.com^$dnstype=AAAA
+||ibkr.com.au^$dnstype=AAAA
+||ibkr.com.hk^$dnstype=AAAA
+||ibkr.com.sg^$dnstype=AAAA
+||ibkr.eu^$dnstype=AAAA
+||ibkr.ie^$dnstype=AAAA
+||ibkrguides.com^$dnstype=AAAA
 ||iblist.com^$dnstype=AAAA
 ||ibllc.com^$dnstype=AAAA
 ||iblogserv-f.net^$dnstype=AAAA
@@ -19358,6 +19368,7 @@
 ||mqxd.org^$dnstype=AAAA
 ||mr-apple.com.tw^$dnstype=AAAA
 ||mr-tireman.jp^$dnstype=AAAA
+||mradx.net^$dnstype=AAAA
 ||mray.club^$dnstype=AAAA
 ||mrbasic.com^$dnstype=AAAA
 ||mrbdsm.com^$dnstype=AAAA
@@ -20979,6 +20990,7 @@
 ||ntp.t.ring.gr.jp^$dnstype=AAAA
 ||ntp.tohoku.ac.jp^$dnstype=AAAA
 ||ntp.tut.ac.jp^$dnstype=AAAA
+||ntp.ubuntu.com^$dnstype=AAAA
 ||ntp.ufe.cz^$dnstype=AAAA
 ||ntp0.ntp-servers.net^$dnstype=AAAA
 ||ntp0.ring.gr.jp^$dnstype=AAAA
@@ -24306,6 +24318,7 @@
 ||rosetta.ac.uk^$dnstype=AAAA
 ||roshy.tv^$dnstype=AAAA
 ||roslin.ac.uk^$dnstype=AAAA
+||rostaxi.org^$dnstype=AAAA
 ||rothamsted.ac.uk^$dnstype=AAAA
 ||rotherham-coll.ac.uk^$dnstype=AAAA
 ||rotherham.ac.uk^$dnstype=AAAA
@@ -27985,6 +27998,7 @@
 ||time-e-wwv.nist.gov^$dnstype=AAAA
 ||time.apple.com^$dnstype=AAAA
 ||time.aws.com^$dnstype=AAAA
+||time.cloudflare.com^$dnstype=AAAA
 ||time.com^$dnstype=AAAA
 ||time.euro.apple.com^$dnstype=AAAA
 ||time.facebook.com^$dnstype=AAAA
@@ -27992,6 +28006,7 @@
 ||time.gov^$dnstype=AAAA
 ||time.nist.gov^$dnstype=AAAA
 ||time.nrc.ca^$dnstype=AAAA
+||time.windows.com^$dnstype=AAAA
 ||time1.facebook.com^$dnstype=AAAA
 ||time1.google.com^$dnstype=AAAA
 ||time2.facebook.com^$dnstype=AAAA
@@ -29924,6 +29939,7 @@
 ||vizvaz.com^$dnstype=AAAA
 ||vjav.com^$dnstype=AAAA
 ||vjmedia.com.hk^$dnstype=AAAA
+||vk-analytics.ru^$dnstype=AAAA
 ||vk-apps.com^$dnstype=AAAA
 ||vk-apps.ru^$dnstype=AAAA
 ||vk-cdn.me^$dnstype=AAAA
@@ -32056,6 +32072,8 @@
 ||yammer.com^$dnstype=AAAA
 ||yamoon.club^$dnstype=AAAA
 ||yande.re^$dnstype=AAAA
+||yandex-bank.net^$dnstype=AAAA
+||yandex-images.clstorage.net^$dnstype=AAAA
 ||yandex.aero^$dnstype=AAAA
 ||yandex.az^$dnstype=AAAA
 ||yandex.by^$dnstype=AAAA
@@ -32087,7 +32105,10 @@
 ||yandex.tm^$dnstype=AAAA
 ||yandex.ua^$dnstype=AAAA
 ||yandex.uz^$dnstype=AAAA
+||yandexadexchange.net^$dnstype=AAAA
 ||yandexcloud.net^$dnstype=AAAA
+||yandexcom.net^$dnstype=AAAA
+||yandexwebcache.org^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
 ||yaohubaba.com^$dnstype=AAAA
 ||yaoimangaonline.com^$dnstype=AAAA
