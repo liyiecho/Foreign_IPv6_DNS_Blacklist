@@ -1777,6 +1777,7 @@
 ||andovercollege.ac.uk^$dnstype=AAAA
 ||android-x86.org^$dnstype=AAAA
 ||android.com^$dnstype=AAAA
+||android.googlesource.com^$dnstype=AAAA
 ||androidapksfree.com^$dnstype=AAAA
 ||androidauthority.com^$dnstype=AAAA
 ||androidfilehost.com^$dnstype=AAAA
@@ -11971,6 +11972,7 @@
 ||gemfire.net^$dnstype=AAAA
 ||gemfury.com^$dnstype=AAAA
 ||gemini.com^$dnstype=AAAA
+||gemini.google^$dnstype=AAAA
 ||gen.lib.rus.ec^$dnstype=AAAA
 ||gen.tr^$dnstype=AAAA
 ||gen2.ac.uk^$dnstype=AAAA
