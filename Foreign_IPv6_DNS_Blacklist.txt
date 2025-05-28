@@ -724,7 +724,6 @@
 ||ablmm.com^$dnstype=AAAA
 ||ablwang.com^$dnstype=AAAA
 ||aboluowang.com^$dnstype=AAAA
-||about.google^$dnstype=AAAA
 ||about.me^$dnstype=AAAA
 ||aboutamazon.co.uk^$dnstype=AAAA
 ||aboutamazon.com^$dnstype=AAAA
@@ -1175,7 +1174,6 @@
 ||ai-kan.net^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
 ||ai.binwang.me^$dnstype=AAAA
-||ai.google^$dnstype=AAAA
 ||ai.google.dev^$dnstype=AAAA
 ||ai3sd.ac.uk^$dnstype=AAAA
 ||ai7995.site^$dnstype=AAAA
@@ -4208,7 +4206,6 @@
 ||blog.foolsmountain.com^$dnstype=AAAA
 ||blog.fuckgfw233.org^$dnstype=AAAA
 ||blog.goo.ne.jp^$dnstype=AAAA
-||blog.google^$dnstype=AAAA
 ||blog.istef.info^$dnstype=AAAA
 ||blog.jackjia.com^$dnstype=AAAA
 ||blog.jp^$dnstype=AAAA
@@ -6431,7 +6428,6 @@
 ||chrome.com^$dnstype=AAAA
 ||chromebook.com^$dnstype=AAAA
 ||chromecast.com^$dnstype=AAAA
-||chromeenterprise.google^$dnstype=AAAA
 ||chromeexperiments.com^$dnstype=AAAA
 ||chromeos.dev^$dnstype=AAAA
 ||chromercise.com^$dnstype=AAAA
@@ -7014,7 +7010,6 @@
 ||com.ge^$dnstype=AAAA
 ||com.gh^$dnstype=AAAA
 ||com.gi^$dnstype=AAAA
-||com.google^$dnstype=AAAA
 ||com.gr^$dnstype=AAAA
 ||com.gt^$dnstype=AAAA
 ||com.gy^$dnstype=AAAA
@@ -7366,7 +7361,6 @@
 ||crick.ac.uk^$dnstype=AAAA
 ||cricketcountry.com^$dnstype=AAAA
 ||cricklade.ac.uk^$dnstype=AAAA
-||crisisresponse.google^$dnstype=AAAA
 ||crisp.chat^$dnstype=AAAA
 ||cristyli.com^$dnstype=AAAA
 ||crit-staging.com^$dnstype=AAAA
@@ -7998,7 +7992,6 @@
 ||desertbmw.com^$dnstype=AAAA
 ||design-ledrev.com^$dnstype=AAAA
 ||design-ledrevolution.com^$dnstype=AAAA
-||design.google^$dnstype=AAAA
 ||designeriphonescases.com^$dnstype=AAAA
 ||designledrevolution.com^$dnstype=AAAA
 ||designsformovement.com^$dnstype=AAAA
@@ -8570,7 +8563,6 @@
 ||dollnight.com^$dnstype=AAAA
 ||dolphiners.com^$dnstype=AAAA
 ||domain.club.tw^$dnstype=AAAA
-||domains.google^$dnstype=AAAA
 ||domaintoday.com.au^$dnstype=AAAA
 ||dombosco.com.br^$dnstype=AAAA
 ||domesticabuserisk.ac.uk^$dnstype=AAAA
@@ -9706,7 +9698,6 @@
 ||entrustdatacard.com^$dnstype=AAAA
 ||enveast.ac.uk^$dnstype=AAAA
 ||environment-health.ac.uk^$dnstype=AAAA
-||environment.google^$dnstype=AAAA
 ||epa.gov.tw^$dnstype=AAAA
 ||epac.to^$dnstype=AAAA
 ||epc.ac.uk^$dnstype=AAAA
@@ -11972,7 +11963,6 @@
 ||gemfire.net^$dnstype=AAAA
 ||gemfury.com^$dnstype=AAAA
 ||gemini.com^$dnstype=AAAA
-||gemini.google^$dnstype=AAAA
 ||gen.lib.rus.ec^$dnstype=AAAA
 ||gen.tr^$dnstype=AAAA
 ||gen2.ac.uk^$dnstype=AAAA
@@ -12890,7 +12880,6 @@
 ||groupfun.com^$dnstype=AAAA
 ||groups.com^$dnstype=AAAA
 ||groups.google.cn^$dnstype=AAAA
-||grow.google^$dnstype=AAAA
 ||grows.ac.uk^$dnstype=AAAA
 ||grpeng.ac.uk^$dnstype=AAAA
 ||grss-ieee.org^$dnstype=AAAA
@@ -16996,7 +16985,6 @@
 ||lepornochaud.com^$dnstype=AAAA
 ||lepornofrais.com^$dnstype=AAAA
 ||lerosua.org^$dnstype=AAAA
-||lers.google^$dnstype=AAAA
 ||lersnet.ac.uk^$dnstype=AAAA
 ||lesbian8.com^$dnstype=AAAA
 ||lesbianpics.org^$dnstype=AAAA
@@ -20458,7 +20446,6 @@
 ||nibsc.ac.uk^$dnstype=AAAA
 ||nic.cz^$dnstype=AAAA
 ||nic.cz.cc^$dnstype=AAAA
-||nic.google^$dnstype=AAAA
 ||nic.gov^$dnstype=AAAA
 ||nicats.ac.uk^$dnstype=AAAA
 ||nicd.ac.uk^$dnstype=AAAA
@@ -20832,7 +20819,6 @@
 ||nos.nl^$dnstype=AAAA
 ||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
 ||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
-||notebooklm.google^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||notify.ppy.sh^$dnstype=AAAA
 ||notion-static.com^$dnstype=AAAA
@@ -21584,7 +21570,6 @@
 ||opensciencelaboratory.ac.uk^$dnstype=AAAA
 ||opensea.io^$dnstype=AAAA
 ||opensource.ac.uk^$dnstype=AAAA
-||opensource.google^$dnstype=AAAA
 ||opensource.guide^$dnstype=AAAA
 ||opensourceinsight.dev^$dnstype=AAAA
 ||opensourceinsights.dev^$dnstype=AAAA
@@ -21963,7 +21948,6 @@
 ||passion.com^$dnstype=AAAA
 ||passiontimes.hk^$dnstype=AAAA
 ||passport.net^$dnstype=AAAA
-||passwords.google^$dnstype=AAAA
 ||pastahealth.com^$dnstype=AAAA
 ||paste.ee^$dnstype=AAAA
 ||pastebin.com^$dnstype=AAAA
@@ -22578,7 +22562,6 @@
 ||play-bmm.shop^$dnstype=AAAA
 ||play-bmmer.buzz^$dnstype=AAAA
 ||play-edge.itunes.apple.com^$dnstype=AAAA
-||play.google^$dnstype=AAAA
 ||play4free.com^$dnstype=AAAA
 ||playapex.com^$dnstype=AAAA
 ||playartifact.com^$dnstype=AAAA
@@ -23238,7 +23221,6 @@
 ||pricelesstoronto.ca^$dnstype=AAAA
 ||pricelesstv.com^$dnstype=AAAA
 ||priconne-redive.jp^$dnstype=AAAA
-||pride.google^$dnstype=AAAA
 ||pridetube.com^$dnstype=AAAA
 ||priestley.ac.uk^$dnstype=AAAA
 ||priestleycollege.ac.uk^$dnstype=AAAA
@@ -24067,7 +24049,6 @@
 ||regiongold.com^$dnstype=AAAA
 ||registerhulu.com^$dnstype=AAAA
 ||registeridm.com^$dnstype=AAAA
-||registry.google^$dnstype=AAAA
 ||reid-kerr.ac.uk^$dnstype=AAAA
 ||reidkerr.ac.uk^$dnstype=AAAA
 ||reigate.ac.uk^$dnstype=AAAA
@@ -24111,7 +24092,6 @@
 ||research-councils.ac.uk^$dnstype=AAAA
 ||research-scotland.ac.uk^$dnstype=AAAA
 ||research-socialsciences.ac.uk^$dnstype=AAAA
-||research.google^$dnstype=AAAA
 ||research4justice.ac.uk^$dnstype=AAAA
 ||researchandcare.org^$dnstype=AAAA
 ||researchconcordat.ac.uk^$dnstype=AAAA
@@ -24546,7 +24526,6 @@
 ||safeguarddefenders.com^$dnstype=AAAA
 ||safepodnetwork.ac.uk^$dnstype=AAAA
 ||safervpn.com^$dnstype=AAAA
-||safety.google^$dnstype=AAAA
 ||saffrontech.com^$dnstype=AAAA
 ||sagernet.org^$dnstype=AAAA
 ||sages.ac.uk^$dnstype=AAAA
@@ -26740,7 +26719,6 @@
 ||store-bridgestonesports.com^$dnstype=AAAA
 ||store.steampowered.com^$dnstype=AAAA
 ||storesense.com^$dnstype=AAAA
-||stories.google^$dnstype=AAAA
 ||storiesofchange.ac.uk^$dnstype=AAAA
 ||storiesonline.net^$dnstype=AAAA
 ||storify.com^$dnstype=AAAA
@@ -27010,7 +26988,6 @@
 ||sussexvirtualcollege.ac.uk^$dnstype=AAAA
 ||sussp.ac.uk^$dnstype=AAAA
 ||sustain.ac.uk^$dnstype=AAAA
-||sustainability.google^$dnstype=AAAA
 ||sustainabilityexchange.ac.uk^$dnstype=AAAA
 ||sustainablebuildingstudio.com^$dnstype=AAAA
 ||sustainabledesigncouncil.com^$dnstype=AAAA
@@ -27145,6 +27122,7 @@
 ||syhacked.com^$dnstype=AAAA
 ||sylfoundation.org^$dnstype=AAAA
 ||symantec.com^$dnstype=AAAA
+||symantecliveupdate.com^$dnstype=AAAA
 ||symauth.com^$dnstype=AAAA
 ||symcb.com^$dnstype=AAAA
 ||symcd.com^$dnstype=AAAA
@@ -28577,7 +28555,6 @@
 ||tv.applemusic.com^$dnstype=AAAA
 ||tv.br^$dnstype=AAAA
 ||tv.com^$dnstype=AAAA
-||tv.google^$dnstype=AAAA
 ||tv.jtbc.joins.com^$dnstype=AAAA
 ||tvappstore.net^$dnstype=AAAA
 ||tvb.com^$dnstype=AAAA
