@@ -24574,9 +24574,15 @@
 ||s1s1s1.com^$dnstype=AAAA
 ||s2csntp.miz.nao.ac.jp^$dnstype=AAAA
 ||s2stagehance.com^$dnstype=AAAA
+||s3-ap-northeast-1.amazonaws.com^$dnstype=AAAA
+||s3-ap-northeast-2.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-1.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-2.amazonaws.com^$dnstype=AAAA
+||s3-eu-central-1.amazonaws.com^$dnstype=AAAA
 ||s3.amazonaws.com^$dnstype=AAAA
+||s3.ap-northeast-2.amazonaws.com^$dnstype=AAAA
+||s3.eu-central-1.amazonaws.com^$dnstype=AAAA
+||s3.us-east-1.amazonaws.com^$dnstype=AAAA
 ||s4miniarchive.com^$dnstype=AAAA
 ||s81c.com^$dnstype=AAAA
 ||s8ds5gfm.xyz^$dnstype=AAAA
