@@ -4171,6 +4171,7 @@
 ||blackfridaydrebeatsshop.com^$dnstype=AAAA
 ||blackhomeporn.com^$dnstype=AAAA
 ||blacklogic.com^$dnstype=AAAA
+||blackmagicdesign.com^$dnstype=AAAA
 ||blackmonsterterror.com^$dnstype=AAAA
 ||blackpool-acl.ac.uk^$dnstype=AAAA
 ||blackpool.ac.uk^$dnstype=AAAA
