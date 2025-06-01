@@ -10827,6 +10827,7 @@
 ||fhreports.net^$dnstype=AAAA
 ||fi11av1.com^$dnstype=AAAA
 ||fi11tv1.com^$dnstype=AAAA
+||fibank.bg^$dnstype=AAAA
 ||fibre-diffraction.ac.uk^$dnstype=AAAA
 ||ficeboock.com^$dnstype=AAAA
 ||ficm.ac.uk^$dnstype=AAAA
@@ -18330,6 +18331,7 @@
 ||meadjohnson.net^$dnstype=AAAA
 ||meansys.com^$dnstype=AAAA
 ||mearki.com^$dnstype=AAAA
+||meawallet.app^$dnstype=AAAA
 ||meb.gov.mm^$dnstype=AAAA
 ||mebank.ir^$dnstype=AAAA
 ||meddyliwchamgymru.ac.uk^$dnstype=AAAA
@@ -19696,6 +19698,7 @@
 ||myfavoritearcade.com^$dnstype=AAAA
 ||myfbfans.com^$dnstype=AAAA
 ||myferrariheadphones.com^$dnstype=AAAA
+||myfin.bg^$dnstype=AAAA
 ||myfirstflame.com^$dnstype=AAAA
 ||myfistingporn.com^$dnstype=AAAA
 ||myfontastic.com^$dnstype=AAAA
