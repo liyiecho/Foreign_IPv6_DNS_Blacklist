@@ -7491,6 +7491,7 @@
 ||ctfassets.net^$dnstype=AAAA
 ||ctfriend.net^$dnstype=AAAA
 ||ctg.ac.uk^$dnstype=AAAA
+||ctinews.com^$dnstype=AAAA
 ||ctitv.com.tw^$dnstype=AAAA
 ||ctk.ac.uk^$dnstype=AAAA
 ||ctkaquinas.ac.uk^$dnstype=AAAA
