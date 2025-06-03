@@ -2572,6 +2572,7 @@
 ||asminternational.org^$dnstype=AAAA
 ||asmrbuluo.com^$dnstype=AAAA
 ||asn-online.org^$dnstype=AAAA
+||asobostudio.com^$dnstype=AAAA
 ||asp-cc.com^$dnstype=AAAA
 ||asp.net^$dnstype=AAAA
 ||aspbjournals.org^$dnstype=AAAA
@@ -11052,6 +11053,8 @@
 ||flickr.net^$dnstype=AAAA
 ||flickrhivemind.net^$dnstype=AAAA
 ||flickriver.com^$dnstype=AAAA
+||flightsimulator.azureedge.net^$dnstype=AAAA
+||flightsimulator.com^$dnstype=AAAA
 ||fling.com^$dnstype=AAAA
 ||flipboard.com^$dnstype=AAAA
 ||flipfap.com^$dnstype=AAAA
@@ -11181,6 +11184,7 @@
 ||forum.xinbao.de^$dnstype=AAAA
 ||forum4hk.com^$dnstype=AAAA
 ||forums-free.com^$dnstype=AAAA
+||forza.net^$dnstype=AAAA
 ||forzamotorsport.net^$dnstype=AAAA
 ||forzaracingchampionship.com^$dnstype=AAAA
 ||forzarc.com^$dnstype=AAAA
@@ -23361,6 +23365,7 @@
 ||procatstudent.ac.uk^$dnstype=AAAA
 ||procopytips.com^$dnstype=AAAA
 ||proctoscopeexam.com^$dnstype=AAAA
+||prodforza.blob.core.windows.net^$dnstype=AAAA
 ||prodrive-japan.com^$dnstype=AAAA
 ||product.co.jp^$dnstype=AAAA
 ||production-openaicom-storage.azureedge.net^$dnstype=AAAA
