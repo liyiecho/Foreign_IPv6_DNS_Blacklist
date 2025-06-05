@@ -2456,6 +2456,7 @@
 ||arphic.com.tw^$dnstype=AAAA
 ||arrc.ac.uk^$dnstype=AAAA
 ||ars.ac.uk^$dnstype=AAAA
+||arstechnica.net^$dnstype=AAAA
 ||art1lib.com^$dnstype=AAAA
 ||art4tibet1998.org^$dnstype=AAAA
 ||artcam.com^$dnstype=AAAA
@@ -6003,6 +6004,7 @@
 ||cdn-telegram.org^$dnstype=AAAA
 ||cdn-terapeak.com^$dnstype=AAAA
 ||cdn.ac.uk^$dnstype=AAAA
+||cdn.arstechnica.net^$dnstype=AAAA
 ||cdn.assets.lfpcontent.com^$dnstype=AAAA
 ||cdn.helixstudios.net^$dnstype=AAAA
 ||cdn.js7k.com^$dnstype=AAAA
@@ -6491,6 +6493,7 @@
 ||cias.ac.uk^$dnstype=AAAA
 ||ciattackers.com^$dnstype=AAAA
 ||cib.ac.uk^$dnstype=AAAA
+||cici.com^$dnstype=AAAA
 ||ciciai.com^$dnstype=AAAA
 ||cicl.ac.uk^$dnstype=AAAA
 ||cied.ac.uk^$dnstype=AAAA
