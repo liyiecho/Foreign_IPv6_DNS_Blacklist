@@ -6933,6 +6933,7 @@
 ||coem.ac.uk^$dnstype=AAAA
 ||cof.ac.uk^$dnstype=AAAA
 ||cofacts.tw^$dnstype=AAAA
+||coffeemanga.to^$dnstype=AAAA
 ||cogc.ac.uk^$dnstype=AAAA
 ||coin2co.in^$dnstype=AAAA
 ||coinalyze.net^$dnstype=AAAA
