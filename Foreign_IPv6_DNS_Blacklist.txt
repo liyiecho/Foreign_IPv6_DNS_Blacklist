@@ -570,6 +570,7 @@
 ||91av.one^$dnstype=AAAA
 ||91avfuli.com^$dnstype=AAAA
 ||91beiyong.com^$dnstype=AAAA
+||91dasai.com^$dnstype=AAAA
 ||91dy.club^$dnstype=AAAA
 ||91fans.org^$dnstype=AAAA
 ||91gay.me^$dnstype=AAAA
