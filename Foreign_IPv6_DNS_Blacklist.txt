@@ -30518,6 +30518,7 @@
 ||walker.ac.uk^$dnstype=AAAA
 ||wallet.com^$dnstype=AAAA
 ||walletconnect.com^$dnstype=AAAA
+||wallhaven.cc^$dnstype=AAAA
 ||wallmama.com^$dnstype=AAAA
 ||wallornot.org^$dnstype=AAAA
 ||wallpapercasa.com^$dnstype=AAAA
@@ -30882,6 +30883,7 @@
 ||whorevintagesex.com^$dnstype=AAAA
 ||whosthehost.com^$dnstype=AAAA
 ||whotalking.com^$dnstype=AAAA
+||whvn.cc^$dnstype=AAAA
 ||whvuxtub.com^$dnstype=AAAA
 ||whychoosehorizon.com^$dnstype=AAAA
 ||whychooseview.com^$dnstype=AAAA
