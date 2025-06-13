@@ -7325,6 +7325,7 @@
 ||cppe.ac.uk^$dnstype=AAAA
 ||cppr.ac.uk^$dnstype=AAAA
 ||cptt.ac.uk^$dnstype=AAAA
+||cpu-monkey.com^$dnstype=AAAA
 ||cpz.to^$dnstype=AAAA
 ||cq99.us^$dnstype=AAAA
 ||cqcorea.com^$dnstype=AAAA
