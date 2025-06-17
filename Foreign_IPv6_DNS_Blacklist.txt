@@ -21542,6 +21542,7 @@
 ||onxxxvideo.com^$dnstype=AAAA
 ||oocdtp.ac.uk^$dnstype=AAAA
 ||ood.opsource.net^$dnstype=AAAA
+||oojj.de^$dnstype=AAAA
 ||ooni.org^$dnstype=AAAA
 ||oopsforum.com^$dnstype=AAAA
 ||ootbstudio.co.kr^$dnstype=AAAA
