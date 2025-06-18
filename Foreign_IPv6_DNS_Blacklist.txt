@@ -15434,6 +15434,7 @@
 ||ipfire.org^$dnstype=AAAA
 ||ipforesightforum.ac.uk^$dnstype=AAAA
 ||ipfs-gateway.cloud^$dnstype=AAAA
+||ipfs.4everland.io^$dnstype=AAAA
 ||ipfs.anonymize.com^$dnstype=AAAA
 ||ipfs.best-practice.se^$dnstype=AAAA
 ||ipfs.eternum.io^$dnstype=AAAA
@@ -26774,6 +26775,7 @@
 ||storj.io^$dnstype=AAAA
 ||storm.mg^$dnstype=AAAA
 ||stormmediagroup.com^$dnstype=AAAA
+||storry.tv^$dnstype=AAAA
 ||storyful.com^$dnstype=AAAA
 ||stourbridge.ac.uk^$dnstype=AAAA
 ||stow.ac.uk^$dnstype=AAAA
@@ -30392,6 +30394,7 @@
 ||w.org^$dnstype=AAAA
 ||w.wiki^$dnstype=AAAA
 ||w3.org^$dnstype=AAAA
+||w3s.link^$dnstype=AAAA
 ||w3schools.com^$dnstype=AAAA
 ||w6un.com^$dnstype=AAAA
 ||wa.me^$dnstype=AAAA
