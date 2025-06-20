@@ -22399,6 +22399,7 @@
 ||piapp.com.tw^$dnstype=AAAA
 ||piapro.net^$dnstype=AAAA
 ||picacg2022.com^$dnstype=AAAA
+||picacgy.com^$dnstype=AAAA
 ||picacn.xyz^$dnstype=AAAA
 ||picacomic.com^$dnstype=AAAA
 ||picacomic.xyz^$dnstype=AAAA
