@@ -1735,6 +1735,7 @@
 ||amsterdamhotescort.com^$dnstype=AAAA
 ||amsterdamluxescort.com^$dnstype=AAAA
 ||amtb-taipei.org^$dnstype=AAAA
+||amuletmc.com^$dnstype=AAAA
 ||amytele.com^$dnstype=AAAA
 ||amzn.asia^$dnstype=AAAA
 ||amzn.com^$dnstype=AAAA
