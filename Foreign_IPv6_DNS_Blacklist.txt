@@ -2481,6 +2481,7 @@
 ||arukas.io^$dnstype=AAAA
 ||arunachalforests.gov.in^$dnstype=AAAA
 ||arupoc.ac.uk^$dnstype=AAAA
+||arvanstorage.ir^$dnstype=AAAA
 ||arxiv.org^$dnstype=AAAA
 ||arzon.jp^$dnstype=AAAA
 ||as-dash-uk-live.akamaized.net^$dnstype=AAAA
@@ -12746,6 +12747,7 @@
 ||gouri.xyz^$dnstype=AAAA
 ||gov.hk^$dnstype=AAAA
 ||gov.in^$dnstype=AAAA
+||gov.ir^$dnstype=AAAA
 ||gov.mm^$dnstype=AAAA
 ||gov.taipei^$dnstype=AAAA
 ||gov.tw^$dnstype=AAAA
@@ -15567,6 +15569,7 @@
 ||iqq2.cc^$dnstype=AAAA
 ||iqq3.cc^$dnstype=AAAA
 ||iqqtv.net^$dnstype=AAAA
+||irangov.ir^$dnstype=AAAA
 ||iranianboobs.com^$dnstype=AAAA
 ||iranlms.ir^$dnstype=AAAA
 ||iransextv.com^$dnstype=AAAA
@@ -15581,6 +15584,7 @@
 ||iridiumbrowser.de^$dnstype=AAAA
 ||iris.ac.uk^$dnstype=AAAA
 ||iriss.ac.uk^$dnstype=AAAA
+||irna.ir^$dnstype=AAAA
 ||iromod91.info^$dnstype=AAAA
 ||ironna.jp^$dnstype=AAAA
 ||ironpython.net^$dnstype=AAAA
@@ -23219,6 +23223,7 @@
 ||presentation.new^$dnstype=AAAA
 ||presentationzen.com^$dnstype=AAAA
 ||presidencylondoncollege.ac.uk^$dnstype=AAAA
+||president.ir^$dnstype=AAAA
 ||presidentlee.tw^$dnstype=AAAA
 ||press.vin^$dnstype=AAAA
 ||pressreader.com^$dnstype=AAAA
