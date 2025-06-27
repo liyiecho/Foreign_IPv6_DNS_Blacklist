@@ -23738,6 +23738,7 @@
 ||radiovaticana.org^$dnstype=AAAA
 ||radiovncr.com^$dnstype=AAAA
 ||radiyoyacuvoa.com^$dnstype=AAAA
+||radmin-vpn.com^$dnstype=AAAA
 ||rae.ac.uk^$dnstype=AAAA
 ||rael.org^$dnstype=AAAA
 ||raft.ac.uk^$dnstype=AAAA
