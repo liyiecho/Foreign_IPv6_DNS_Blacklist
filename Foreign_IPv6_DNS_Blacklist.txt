@@ -346,6 +346,7 @@
 ||3xplanet.net^$dnstype=AAAA
 ||3xplanetimg.com^$dnstype=AAAA
 ||3xxx.pro^$dnstype=AAAA
+||4040940.xyz^$dnstype=AAAA
 ||404museum.com^$dnstype=AAAA
 ||40momporntube.com^$dnstype=AAAA
 ||40shopping.com^$dnstype=AAAA
@@ -2492,6 +2493,7 @@
 ||asahi.com^$dnstype=AAAA
 ||asahicom.jp^$dnstype=AAAA
 ||asahishimbun.sc.omtrdc.net^$dnstype=AAAA
+||asailor.org^$dnstype=AAAA
 ||asakonet.co.jp^$dnstype=AAAA
 ||ascent.ac.uk^$dnstype=AAAA
 ||ascentis.ac.uk^$dnstype=AAAA
@@ -7807,6 +7809,7 @@
 ||datasig.ac.uk^$dnstype=AAAA
 ||datawav.club^$dnstype=AAAA
 ||date2night.xyz^$dnstype=AAAA
+||datuan.dev^$dnstype=AAAA
 ||daum.net^$dnstype=AAAA
 ||daumcdn.net^$dnstype=AAAA
 ||daumkakao.io^$dnstype=AAAA
@@ -9548,6 +9551,7 @@
 ||emagic.de^$dnstype=AAAA
 ||emahsn.ac.uk^$dnstype=AAAA
 ||email-bimm.ac.uk^$dnstype=AAAA
+||email-once.com^$dnstype=AAAA
 ||emanna.com^$dnstype=AAAA
 ||emas.ac.uk^$dnstype=AAAA
 ||embase.com^$dnstype=AAAA
@@ -10132,6 +10136,7 @@
 ||f-droid.org^$dnstype=AAAA
 ||f2pool.com^$dnstype=AAAA
 ||f3b7q2p3.ssl.hwcdn.net^$dnstype=AAAA
+||f5.si^$dnstype=AAAA
 ||f5pf.com^$dnstype=AAAA
 ||f6988.com^$dnstype=AAAA
 ||f8.com^$dnstype=AAAA
@@ -13328,6 +13333,7 @@
 ||henleycollege.ac.uk^$dnstype=AAAA
 ||henleymc.ac.uk^$dnstype=AAAA
 ||henry-moore.ac.uk^$dnstype=AAAA
+||henry.wang^$dnstype=AAAA
 ||henryfordcollege.ac.uk^$dnstype=AAAA
 ||hensa.ac.uk^$dnstype=AAAA
 ||henshaws.ac.uk^$dnstype=AAAA
@@ -13792,6 +13798,7 @@
 ||hollyrandall.com^$dnstype=AAAA
 ||holmelacy.ac.uk^$dnstype=AAAA
 ||hololens.com^$dnstype=AAAA
+||holoxx.f5.si^$dnstype=AAAA
 ||holts.ac.uk^$dnstype=AAAA
 ||holycross.ac.uk^$dnstype=AAAA
 ||holymountaincn.com^$dnstype=AAAA
@@ -14250,6 +14257,7 @@
 ||huaxinvip.top^$dnstype=AAAA
 ||huayuworld.org^$dnstype=AAAA
 ||hub.fastgit.org^$dnstype=AAAA
+||hub.slarker.me^$dnstype=AAAA
 ||hubbard-theory-consortium.ac.uk^$dnstype=AAAA
 ||hubblephone.com^$dnstype=AAAA
 ||hubg.org^$dnstype=AAAA
@@ -15637,6 +15645,7 @@
 ||isohunt.com^$dnstype=AAAA
 ||ispan.ac.uk^$dnstype=AAAA
 ||israbox.com^$dnstype=AAAA
+||isrss.com^$dnstype=AAAA
 ||iss138.com^$dnstype=AAAA
 ||issitedownrightnow.com^$dnstype=AAAA
 ||issquaredown.com^$dnstype=AAAA
@@ -16686,6 +16695,7 @@
 ||kssacademy.ac.uk^$dnstype=AAAA
 ||kssdeanery.ac.uk^$dnstype=AAAA
 ||ksyp10.com^$dnstype=AAAA
+||ktachibana.party^$dnstype=AAAA
 ||ktvu.com^$dnstype=AAAA
 ||ktzhk.com^$dnstype=AAAA
 ||ku77.xyz^$dnstype=AAAA
@@ -17244,6 +17254,7 @@
 ||lithium.com^$dnstype=AAAA
 ||litt.ac.uk^$dnstype=AAAA
 ||littleasians.com^$dnstype=AAAA
+||littlebaby.life^$dnstype=AAAA
 ||littlehampton.ac.uk^$dnstype=AAAA
 ||littlehj.com^$dnstype=AAAA
 ||littlesexdolls.com^$dnstype=AAAA
@@ -21791,6 +21802,7 @@
 ||owl-elearning.ac.uk^$dnstype=AAAA
 ||owl.li^$dnstype=AAAA
 ||owltail.com^$dnstype=AAAA
+||owo.nz^$dnstype=AAAA
 ||owsc.ac.uk^$dnstype=AAAA
 ||ox.ac.uk^$dnstype=AAAA
 ||oxademy.ac.uk^$dnstype=AAAA
@@ -23395,6 +23407,7 @@
 ||pscp.tv^$dnstype=AAAA
 ||psds.ac.uk^$dnstype=AAAA
 ||pse.is^$dnstype=AAAA
+||pseudoyu.com^$dnstype=AAAA
 ||psg-int-centralus.cloudapp.net^$dnstype=AAAA
 ||psg-int-eastus.cloudapp.net^$dnstype=AAAA
 ||pshvpn.com^$dnstype=AAAA
@@ -24419,7 +24432,24 @@
 ||rsms.ac.uk^$dnstype=AAAA
 ||rsp.ac.uk^$dnstype=AAAA
 ||rspao.com^$dnstype=AAAA
+||rss.4040940.xyz^$dnstype=AAAA
+||rss.datuan.dev^$dnstype=AAAA
+||rss.littlebaby.life^$dnstype=AAAA
+||rss.owo.nz^$dnstype=AAAA
+||rss.tips^$dnstype=AAAA
+||rss.wudifeixue.com^$dnstype=AAAA
 ||rsshub.app^$dnstype=AAAA
+||rsshub.asailor.org^$dnstype=AAAA
+||rsshub.email-once.com^$dnstype=AAAA
+||rsshub.henry.wang^$dnstype=AAAA
+||rsshub.isrss.com^$dnstype=AAAA
+||rsshub.ktachibana.party^$dnstype=AAAA
+||rsshub.pseudoyu.com^$dnstype=AAAA
+||rsshub.rss.tips^$dnstype=AAAA
+||rsshub.rssforever.com^$dnstype=AAAA
+||rsshub.umzzz.com^$dnstype=AAAA
+||rsshub.woodland.cafe^$dnstype=AAAA
+||rsshub2.asailor.org^$dnstype=AAAA
 ||rssing.com^$dnstype=AAAA
 ||rssmeme.com^$dnstype=AAAA
 ||rstatic.net^$dnstype=AAAA
@@ -25833,6 +25863,7 @@
 ||slacker.com^$dnstype=AAAA
 ||slackhq.com^$dnstype=AAAA
 ||slandr.net^$dnstype=AAAA
+||slarker.me^$dnstype=AAAA
 ||slashdot.org^$dnstype=AAAA
 ||slashine.onl^$dnstype=AAAA
 ||slaytizle.com^$dnstype=AAAA
@@ -29075,6 +29106,7 @@
 ||ums.ac.uk^$dnstype=AAAA
 ||umslg.ac.uk^$dnstype=AAAA
 ||umtc.ac.uk^$dnstype=AAAA
+||umzzz.com^$dnstype=AAAA
 ||unblock-us.com^$dnstype=AAAA
 ||unblock.cn.com^$dnstype=AAAA
 ||unblockdmm.com^$dnstype=AAAA
@@ -31051,6 +31083,7 @@
 ||wonporn.com^$dnstype=AAAA
 ||wonporn.net^$dnstype=AAAA
 ||woodhouse.ac.uk^$dnstype=AAAA
+||woodland.cafe^$dnstype=AAAA
 ||woodmancastingx.com^$dnstype=AAAA
 ||woolite.ca^$dnstype=AAAA
 ||woolite.com^$dnstype=AAAA
@@ -31168,6 +31201,7 @@
 ||wton-acl.ac.uk^$dnstype=AAAA
 ||wton-adulteducation.ac.uk^$dnstype=AAAA
 ||wttw.ac.uk^$dnstype=AAAA
+||wudifeixue.com^$dnstype=AAAA
 ||wuerkaixi.com^$dnstype=AAAA
 ||wufafangwen.com^$dnstype=AAAA
 ||wufi.org.tw^$dnstype=AAAA
@@ -32138,6 +32172,7 @@
 ||yandexcom.net^$dnstype=AAAA
 ||yandexwebcache.org^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
+||yangzhi.app^$dnstype=AAAA
 ||yaohubaba.com^$dnstype=AAAA
 ||yaoimangaonline.com^$dnstype=AAAA
 ||yaoiotaku.com^$dnstype=AAAA
