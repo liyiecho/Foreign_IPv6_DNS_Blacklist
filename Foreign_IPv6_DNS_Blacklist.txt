@@ -14919,6 +14919,7 @@
 ||img-s-msn-com.akamaized.net^$dnstype=AAAA
 ||img.dlsite.jp^$dnstype=AAAA
 ||img.ly^$dnstype=AAAA
+||img.picgo.net^$dnstype=AAAA
 ||imgasd.com^$dnstype=AAAA
 ||imgbb.com^$dnstype=AAAA
 ||imgchili.net^$dnstype=AAAA
@@ -22425,6 +22426,7 @@
 ||picasaweb.com^$dnstype=AAAA
 ||picasaweb.net^$dnstype=AAAA
 ||picasaweb.org^$dnstype=AAAA
+||picgo.net^$dnstype=AAAA
 ||pichunter.com^$dnstype=AAAA
 ||picidae.net^$dnstype=AAAA
 ||picjs.xyz^$dnstype=AAAA
