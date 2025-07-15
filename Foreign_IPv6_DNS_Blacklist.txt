@@ -31371,6 +31371,7 @@
 ||www.thechinastory.org^$dnstype=AAAA
 ||www.wan-press.org^$dnstype=AAAA
 ||www.websnapr.com^$dnstype=AAAA
+||www.xicons.org^$dnstype=AAAA
 ||www.zensur.freerk.com^$dnstype=AAAA
 ||www1.american.edu^$dnstype=AAAA
 ||www1.biz^$dnstype=AAAA
@@ -31555,6 +31556,7 @@
 ||xiaoshuobb.life^$dnstype=AAAA
 ||xiaoyaoge.xyz^$dnstype=AAAA
 ||xiaxiaoqiang.net^$dnstype=AAAA
+||xicons.org^$dnstype=AAAA
 ||xihua.es^$dnstype=AAAA
 ||xii.jp^$dnstype=AAAA
 ||xijie.wordpress.com^$dnstype=AAAA
@@ -31565,6 +31567,7 @@
 ||xing.com^$dnstype=AAAA
 ||xing66.life^$dnstype=AAAA
 ||xing840.info^$dnstype=AAAA
+||xinggan77.vip^$dnstype=AAAA
 ||xingrz.me^$dnstype=AAAA
 ||xinhuanet.org^$dnstype=AAAA
 ||xinjiangpolicefiles.org^$dnstype=AAAA
@@ -31573,6 +31576,7 @@
 ||xinmiao.com.hk^$dnstype=AAAA
 ||xinqimeng.over-blog.com^$dnstype=AAAA
 ||xinsheng.net^$dnstype=AAAA
+||xinshijue.com^$dnstype=AAAA
 ||xinyubbs.net^$dnstype=AAAA
 ||xiongpian.com^$dnstype=AAAA
 ||xiti.com^$dnstype=AAAA
