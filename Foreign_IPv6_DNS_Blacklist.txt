@@ -17189,6 +17189,7 @@
 ||linetv.tw^$dnstype=AAAA
 ||lingeriepornonly.com^$dnstype=AAAA
 ||linglingfa.com^$dnstype=AAAA
+||lingualeo.com^$dnstype=AAAA
 ||linguee.com^$dnstype=AAAA
 ||linguistics.ac.uk^$dnstype=AAAA
 ||lingvodics.com^$dnstype=AAAA
