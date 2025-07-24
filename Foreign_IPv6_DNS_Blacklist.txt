@@ -3161,6 +3161,7 @@
 ||bailer.ac.uk^$dnstype=AAAA
 ||bais.ac.uk^$dnstype=AAAA
 ||baixing.me^$dnstype=AAAA
+||baizhi.org^$dnstype=AAAA
 ||baj.ac.uk^$dnstype=AAAA
 ||bakgeekhome.tk^$dnstype=AAAA
 ||balance.ac.uk^$dnstype=AAAA
