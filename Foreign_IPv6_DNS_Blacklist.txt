@@ -32182,6 +32182,7 @@
 ||yandexwebcache.org^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
 ||yangzhi.app^$dnstype=AAAA
+||yangzhi.org^$dnstype=AAAA
 ||yaohubaba.com^$dnstype=AAAA
 ||yaoimangaonline.com^$dnstype=AAAA
 ||yaoiotaku.com^$dnstype=AAAA
