@@ -32688,6 +32688,7 @@
 ||zb.app^$dnstype=AAAA
 ||zb.com^$dnstype=AAAA
 ||zb.io^$dnstype=AAAA
+||zb.live^$dnstype=AAAA
 ||zbporn.com^$dnstype=AAAA
 ||zctb.buzz^$dnstype=AAAA
 ||zdassets.com^$dnstype=AAAA
