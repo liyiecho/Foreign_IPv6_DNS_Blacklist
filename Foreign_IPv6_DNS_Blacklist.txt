@@ -17612,6 +17612,7 @@
 ||luckydesigner.space^$dnstype=AAAA
 ||luckyissue.com^$dnstype=AAAA
 ||luckysrv.de^$dnstype=AAAA
+||ludepress.com^$dnstype=AAAA
 ||ludlow-college.ac.uk^$dnstype=AAAA
 ||lufton-college-fe.ac.uk^$dnstype=AAAA
 ||luftoncollege.ac.uk^$dnstype=AAAA
