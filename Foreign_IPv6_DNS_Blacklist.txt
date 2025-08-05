@@ -26892,7 +26892,6 @@
 ||statics-marketingsites-eus-ms-com.akamaized.net^$dnstype=AAAA
 ||statics-marketingsites-wcus-ms-com.akamaized.net^$dnstype=AAAA
 ||statistics.ac.uk^$dnstype=AAAA
-||stats.wp.com^$dnstype=AAAA
 ||statsig.com^$dnstype=AAAA
 ||statsmakemecry.com^$dnstype=AAAA
 ||statstutor.ac.uk^$dnstype=AAAA
