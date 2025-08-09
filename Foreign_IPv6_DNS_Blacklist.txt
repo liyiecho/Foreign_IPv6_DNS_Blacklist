@@ -29461,6 +29461,7 @@
 ||up.gcp.googlers.com^$dnstype=AAAA
 ||up01.cc^$dnstype=AAAA
 ||upa.ac.uk^$dnstype=AAAA
+||upbit.com^$dnstype=AAAA
 ||updates.ac.uk^$dnstype=AAAA
 ||updates.tdesktop.com^$dnstype=AAAA
 ||updatestar.com^$dnstype=AAAA
@@ -31604,7 +31605,6 @@
 ||www.moztw.org^$dnstype=AAAA
 ||www.msn.com^$dnstype=AAAA
 ||www.nbc.com^$dnstype=AAAA
-||www.nodeloc.com^$dnstype=AAAA
 ||www.owind.com^$dnstype=AAAA
 ||www.oxid.it^$dnstype=AAAA
 ||www.powerpointninja.com^$dnstype=AAAA
