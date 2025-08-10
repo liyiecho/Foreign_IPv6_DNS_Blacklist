@@ -18337,6 +18337,7 @@
 ||maturewomenanal.com^$dnstype=AAAA
 ||maturexxxvideos.cc^$dnstype=AAAA
 ||mau.ac.uk^$dnstype=AAAA
+||maven.neoforged.net^$dnstype=AAAA
 ||maven.org^$dnstype=AAAA
 ||max.com^$dnstype=AAAA
 ||maxai.co^$dnstype=AAAA
@@ -20291,6 +20292,7 @@
 ||nentindo.net^$dnstype=AAAA
 ||neo-miracle.com^$dnstype=AAAA
 ||neodaas.ac.uk^$dnstype=AAAA
+||neoforged.net^$dnstype=AAAA
 ||neonatalsociety.ac.uk^$dnstype=AAAA
 ||neotokyo.supertop-100.com^$dnstype=AAAA
 ||neow.in^$dnstype=AAAA
