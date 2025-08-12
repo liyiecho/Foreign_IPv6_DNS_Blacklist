@@ -3350,6 +3350,7 @@
 ||bbs.sina.com^$dnstype=AAAA
 ||bbs.skykiwi.com^$dnstype=AAAA
 ||bbs.sou-tong.org^$dnstype=AAAA
+||bbs.tuitui.info^$dnstype=AAAA
 ||bbsdigest.com^$dnstype=AAAA
 ||bbsfeed.com^$dnstype=AAAA
 ||bbsland.com^$dnstype=AAAA
@@ -20965,7 +20966,6 @@
 ||nocookie.net^$dnstype=AAAA
 ||nocs.ac.uk^$dnstype=AAAA
 ||nodejs.org^$dnstype=AAAA
-||nodeloc.com^$dnstype=AAAA
 ||nodes.ac.uk^$dnstype=AAAA
 ||nodeseek.com^$dnstype=AAAA
 ||nodesnoop.com^$dnstype=AAAA
