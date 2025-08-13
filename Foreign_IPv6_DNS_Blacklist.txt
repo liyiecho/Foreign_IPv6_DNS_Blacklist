@@ -3341,7 +3341,6 @@
 ||bbs.hanminzu.org^$dnstype=AAAA
 ||bbs.huasing.org^$dnstype=AAAA
 ||bbs.junglobal.net^$dnstype=AAAA
-||bbs.kimy.com.tw^$dnstype=AAAA
 ||bbs.mikocon.com^$dnstype=AAAA
 ||bbs.morbell.com^$dnstype=AAAA
 ||bbs.mychat.to^$dnstype=AAAA
@@ -17766,6 +17765,7 @@
 ||lucid.ac.uk^$dnstype=AAAA
 ||luckydesigner.space^$dnstype=AAAA
 ||luckyissue.com^$dnstype=AAAA
+||luckymobile.ca^$dnstype=AAAA
 ||luckysrv.de^$dnstype=AAAA
 ||ludepress.com^$dnstype=AAAA
 ||ludlow-college.ac.uk^$dnstype=AAAA
@@ -18608,6 +18608,7 @@
 ||metadac.ac.uk^$dnstype=AAAA
 ||metafilter.com^$dnstype=AAAA
 ||metalpha.finance^$dnstype=AAAA
+||metamask.io^$dnstype=AAAA
 ||metamind.io^$dnstype=AAAA
 ||metanoia.ac.uk^$dnstype=AAAA
 ||metapix.net^$dnstype=AAAA
