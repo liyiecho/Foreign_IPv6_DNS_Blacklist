@@ -3870,6 +3870,7 @@
 ||bethsoft.com^$dnstype=AAAA
 ||betterbim.com^$dnstype=AAAA
 ||betterexplained.com^$dnstype=AAAA
+||betterhash.net^$dnstype=AAAA
 ||betterhdporn.com^$dnstype=AAAA
 ||betternet.co^$dnstype=AAAA
 ||betternike.com^$dnstype=AAAA
@@ -13597,6 +13598,7 @@
 ||herokucdn.com^$dnstype=AAAA
 ||herokucharge.com^$dnstype=AAAA
 ||herokussl.com^$dnstype=AAAA
+||herominers.com^$dnstype=AAAA
 ||heron.ac.uk^$dnstype=AAAA
 ||herringnetwork.com^$dnstype=AAAA
 ||hertfordshire.ac.uk^$dnstype=AAAA
