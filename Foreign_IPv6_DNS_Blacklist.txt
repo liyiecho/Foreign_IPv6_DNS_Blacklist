@@ -8175,7 +8175,6 @@
 ||dickhardon.com^$dnstype=AAAA
 ||dickwhiteacademy.ac.uk^$dnstype=AAAA
 ||dictate.ms^$dnstype=AAAA
-||dictionary.goo.ne.jp^$dnstype=AAAA
 ||didce.com^$dnstype=AAAA
 ||diddykongracing.com^$dnstype=AAAA
 ||didet.ac.uk^$dnstype=AAAA
@@ -9464,6 +9463,7 @@
 ||edninfo.com^$dnstype=AAAA
 ||edns.biz^$dnstype=AAAA
 ||edoors.com^$dnstype=AAAA
+||edrdg.org^$dnstype=AAAA
 ||edshare.ac.uk^$dnstype=AAAA
 ||edtech.ac.uk^$dnstype=AAAA
 ||edu-research.org^$dnstype=AAAA
@@ -22109,6 +22109,7 @@
 ||panamapapers.sueddeutsche.de^$dnstype=AAAA
 ||panasonic.com^$dnstype=AAAA
 ||panasonic.jp^$dnstype=AAAA
+||pancakeswap.finance^$dnstype=AAAA
 ||pancolle-movie.jp^$dnstype=AAAA
 ||panda.ac.uk^$dnstype=AAAA
 ||panda30.shop^$dnstype=AAAA
@@ -22559,6 +22560,7 @@
 ||petiteballerinasfucked.com^$dnstype=AAAA
 ||petitehdporn.com^$dnstype=AAAA
 ||petroc.ac.uk^$dnstype=AAAA
+||pewresearch.org^$dnstype=AAAA
 ||pfd.org.hk^$dnstype=AAAA
 ||pggc.ac.uk^$dnstype=AAAA
 ||pgreen.ac.uk^$dnstype=AAAA
@@ -23496,6 +23498,7 @@
 ||prisoneralert.com^$dnstype=AAAA
 ||pritunl.com^$dnstype=AAAA
 ||privacybox.de^$dnstype=AAAA
+||privacyguides.org^$dnstype=AAAA
 ||privacysandbox.com^$dnstype=AAAA
 ||privacysimplified.com^$dnstype=AAAA
 ||privacytools.io^$dnstype=AAAA
