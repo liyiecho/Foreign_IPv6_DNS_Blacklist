@@ -16604,6 +16604,7 @@
 ||keiba.net^$dnstype=AAAA
 ||keighleycollege.ac.uk^$dnstype=AAAA
 ||kemomi.me^$dnstype=AAAA
+||kemono.cr^$dnstype=AAAA
 ||kemono.party^$dnstype=AAAA
 ||kemono.su^$dnstype=AAAA
 ||kendal.ac.uk^$dnstype=AAAA
@@ -31813,6 +31814,7 @@
 ||xiaohexie.com^$dnstype=AAAA
 ||xiaolan.me^$dnstype=AAAA
 ||xiaoma.org^$dnstype=AAAA
+||xiaomi.eu^$dnstype=AAAA
 ||xiaoou.io^$dnstype=AAAA
 ||xiaoou.tv^$dnstype=AAAA
 ||xiaoshuobb.life^$dnstype=AAAA
