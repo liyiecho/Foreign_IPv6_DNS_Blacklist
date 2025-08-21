@@ -12182,6 +12182,7 @@
 ||ggpht.com^$dnstype=AAAA
 ||ggsrv.com^$dnstype=AAAA
 ||ggssl.com^$dnstype=AAAA
+||gh.io^$dnstype=AAAA
 ||ghanely.me^$dnstype=AAAA
 ||ghbi.ir^$dnstype=AAAA
 ||ghcr.io^$dnstype=AAAA
@@ -29206,6 +29207,7 @@
 ||udnbkk.com^$dnstype=AAAA
 ||udndata.com^$dnstype=AAAA
 ||udnfunlife.com^$dnstype=AAAA
+||udomain.hk^$dnstype=AAAA
 ||udtrucksmeena.com^$dnstype=AAAA
 ||uea.ac.uk^$dnstype=AAAA
 ||ueberamazon.de^$dnstype=AAAA
