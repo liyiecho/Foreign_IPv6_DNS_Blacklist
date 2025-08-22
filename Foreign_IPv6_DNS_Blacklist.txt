@@ -12252,6 +12252,7 @@
 ||gitbooks.io^$dnstype=AAAA
 ||githack.com^$dnstype=AAAA
 ||github-cloud.s3.amazonaws.com^$dnstype=AAAA
+||github.ai^$dnstype=AAAA
 ||github.blog^$dnstype=AAAA
 ||github.com^$dnstype=AAAA
 ||github.community^$dnstype=AAAA
