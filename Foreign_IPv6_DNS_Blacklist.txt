@@ -7309,6 +7309,7 @@
 ||cov.ac.uk^$dnstype=AAAA
 ||covcollege.ac.uk^$dnstype=AAAA
 ||cove4careinkent.ac.uk^$dnstype=AAAA
+||covenantswatch.org.tw^$dnstype=AAAA
 ||coventry.ac.uk^$dnstype=AAAA
 ||coventrycollege.ac.uk^$dnstype=AAAA
 ||coventryuniversity.ac.uk^$dnstype=AAAA
