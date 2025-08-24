@@ -11665,6 +11665,8 @@
 ||fuck6teen.com^$dnstype=AAAA
 ||fuckableteens.net^$dnstype=AAAA
 ||fuckbookecuador.com^$dnstype=AAAA
+||fuckccp.com^$dnstype=AAAA
+||fuckccp.xyz^$dnstype=AAAA
 ||fuckcnnic.net^$dnstype=AAAA
 ||fuckcuck.com^$dnstype=AAAA
 ||fuckgames.xxx^$dnstype=AAAA
