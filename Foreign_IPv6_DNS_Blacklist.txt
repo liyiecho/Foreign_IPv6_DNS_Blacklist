@@ -20161,6 +20161,7 @@
 ||navyfamily.navy.mil^$dnstype=AAAA
 ||navyreserve.navy.mil^$dnstype=AAAA
 ||naweeklytimes.com^$dnstype=AAAA
+||naydex.net^$dnstype=AAAA
 ||nazarene.ac.uk^$dnstype=AAAA
 ||nbabot.net^$dnstype=AAAA
 ||nbc.co^$dnstype=AAAA
@@ -26219,6 +26220,7 @@
 ||sni1dcb6gl.wpc.edgecastcdn.net^$dnstype=AAAA
 ||snjulebu.com^$dnstype=AAAA
 ||snk-corp.co.jp^$dnstype=AAAA
+||snk-corp.info^$dnstype=AAAA
 ||snkplaymore.info^$dnstype=AAAA
 ||snow-plus.net^$dnstype=AAAA
 ||snow.me^$dnstype=AAAA
@@ -28833,6 +28835,8 @@
 ||tubewolf.com^$dnstype=AAAA
 ||tubexclips.com^$dnstype=AAAA
 ||tubi.io^$dnstype=AAAA
+||tubi.tv^$dnstype=AAAA
+||tubi.video^$dnstype=AAAA
 ||tubinge.com^$dnstype=AAAA
 ||tubitv.com^$dnstype=AAAA
 ||tubous.com^$dnstype=AAAA
@@ -32418,6 +32422,7 @@
 ||yandex.aero^$dnstype=AAAA
 ||yandex.az^$dnstype=AAAA
 ||yandex.by^$dnstype=AAAA
+||yandex.cloud^$dnstype=AAAA
 ||yandex.co.il^$dnstype=AAAA
 ||yandex.com^$dnstype=AAAA
 ||yandex.com.am^$dnstype=AAAA
