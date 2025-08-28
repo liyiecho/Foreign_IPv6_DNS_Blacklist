@@ -439,6 +439,7 @@
 ||54647.org^$dnstype=AAAA
 ||55comic.com^$dnstype=AAAA
 ||55dndn.com^$dnstype=AAAA
+||5657.com.tw^$dnstype=AAAA
 ||567321.online^$dnstype=AAAA
 ||568xe.com^$dnstype=AAAA
 ||56cun04.jigsy.com^$dnstype=AAAA
@@ -1707,6 +1708,7 @@
 ||amazonaws.tv^$dnstype=AAAA
 ||amazonbusiness.org^$dnstype=AAAA
 ||amazonbusinessblog.com^$dnstype=AAAA
+||amazoncognito.com^$dnstype=AAAA
 ||amazondevicesupport.com^$dnstype=AAAA
 ||amazonfctours.com^$dnstype=AAAA
 ||amazonianblog.com^$dnstype=AAAA
@@ -3059,6 +3061,8 @@
 ||awlc.ac.uk^$dnstype=AAAA
 ||aws-iot-hackathon.com^$dnstype=AAAA
 ||aws.com^$dnstype=AAAA
+||awsapprunner.com^$dnstype=AAAA
+||awsapps.com^$dnstype=AAAA
 ||awsautopilot.com^$dnstype=AAAA
 ||awsautoscaling.com^$dnstype=AAAA
 ||awsbraket.com^$dnstype=AAAA
@@ -9680,6 +9684,7 @@
 ||editorx.com^$dnstype=AAAA
 ||edlab.ac.uk^$dnstype=AAAA
 ||edmontonchina.cn^$dnstype=AAAA
+||edmontonservice.com^$dnstype=AAAA
 ||edninfo.com^$dnstype=AAAA
 ||edns.biz^$dnstype=AAAA
 ||edoors.com^$dnstype=AAAA
@@ -16246,6 +16251,7 @@
 ||javbraze.com^$dnstype=AAAA
 ||javbus.co^$dnstype=AAAA
 ||javbus.com^$dnstype=AAAA
+||javbus.sbs^$dnstype=AAAA
 ||javbus22.com^$dnstype=AAAA
 ||javbuz.com^$dnstype=AAAA
 ||javcc.cc^$dnstype=AAAA
@@ -17067,6 +17073,7 @@
 ||krhentai.com^$dnstype=AAAA
 ||kristenbjorn.com^$dnstype=AAAA
 ||krosspictures.com^$dnstype=AAAA
+||krtc.com.tw^$dnstype=AAAA
 ||krtco.com.tw^$dnstype=AAAA
 ||krux.com^$dnstype=AAAA
 ||krymr.com^$dnstype=AAAA
@@ -26938,7 +26945,6 @@
 ||sruc.ac.uk^$dnstype=AAAA
 ||srwwu.uno^$dnstype=AAAA
 ||ss-link.com^$dnstype=AAAA
-||ss.levyhsu.com^$dnstype=AAAA
 ||ss.pythonic.life^$dnstype=AAAA
 ||ss2.us^$dnstype=AAAA
 ||ss7.app^$dnstype=AAAA
@@ -32646,6 +32652,7 @@
 ||yahoodns.net^$dnstype=AAAA
 ||yahoofinance.com^$dnstype=AAAA
 ||yahoohealth.com^$dnstype=AAAA
+||yahooinc.com^$dnstype=AAAA
 ||yahoomusic.com^$dnstype=AAAA
 ||yahoosandbox.com^$dnstype=AAAA
 ||yahoosportsbook.com^$dnstype=AAAA
