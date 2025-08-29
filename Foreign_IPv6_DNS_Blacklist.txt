@@ -494,6 +494,7 @@
 ||69luolie.com^$dnstype=AAAA
 ||69re.net^$dnstype=AAAA
 ||69shu.com^$dnstype=AAAA
+||69shuba.com^$dnstype=AAAA
 ||69shuba.cx^$dnstype=AAAA
 ||69story.com^$dnstype=AAAA
 ||69tubesex.com^$dnstype=AAAA
@@ -1380,6 +1381,7 @@
 ||al-qimmah.net^$dnstype=AAAA
 ||al.ru^$dnstype=AAAA
 ||alabout.com^$dnstype=AAAA
+||alanhou.com^$dnstype=AAAA
 ||alarab.qa^$dnstype=AAAA
 ||alasbarricadas.org^$dnstype=AAAA
 ||albagals.com^$dnstype=AAAA
