@@ -8927,7 +8927,6 @@
 ||download.qpdp1.net^$dnstype=AAAA
 ||downloadpass.com^$dnstype=AAAA
 ||downloadsforipod.com^$dnstype=AAAA
-||dpdns.org^$dnstype=AAAA
 ||dphk.org^$dnstype=AAAA
 ||dpoc.ac.uk^$dnstype=AAAA
 ||dpool.top^$dnstype=AAAA
