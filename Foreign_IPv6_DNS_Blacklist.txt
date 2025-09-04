@@ -5323,6 +5323,8 @@
 ||bsw.jp^$dnstype=AAAA
 ||bsxm1213.pro^$dnstype=AAAA
 ||bt2mag.com^$dnstype=AAAA
+||bt4g.org^$dnstype=AAAA
+||bt4gprx.com^$dnstype=AAAA
 ||bt95.com^$dnstype=AAAA
 ||btaia.com^$dnstype=AAAA
 ||btas.ac.uk^$dnstype=AAAA
