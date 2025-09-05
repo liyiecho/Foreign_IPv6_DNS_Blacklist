@@ -6971,6 +6971,7 @@
 ||cobrasearch.com^$dnstype=AAAA
 ||coccfea.ac.uk^$dnstype=AAAA
 ||cochina.co^$dnstype=AAAA
+||cochina.org^$dnstype=AAAA
 ||cochrane-airways.ac.uk^$dnstype=AAAA
 ||cochrane.ac.uk^$dnstype=AAAA
 ||cochranelibrary.com^$dnstype=AAAA
