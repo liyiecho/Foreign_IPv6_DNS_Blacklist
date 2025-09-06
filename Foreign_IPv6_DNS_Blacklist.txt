@@ -15899,6 +15899,7 @@
 ||iphoto.wang^$dnstype=AAAA
 ||ipi.ac.uk^$dnstype=AAAA
 ||ipicture.ru^$dnstype=AAAA
+||ipify.org^$dnstype=AAAA
 ||ipinfo.io^$dnstype=AAAA
 ||ipjetable.net^$dnstype=AAAA
 ||ipleadership.org^$dnstype=AAAA
@@ -27843,6 +27844,7 @@
 ||tangben.com^$dnstype=AAAA
 ||tangbr.net^$dnstype=AAAA
 ||tangren.us^$dnstype=AAAA
+||tanks.gg^$dnstype=AAAA
 ||taoil-cn.sbs^$dnstype=AAAA
 ||taoism.net^$dnstype=AAAA
 ||taolun.info^$dnstype=AAAA
