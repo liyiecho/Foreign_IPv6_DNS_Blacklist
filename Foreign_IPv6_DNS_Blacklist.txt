@@ -4970,6 +4970,7 @@
 ||booking.com^$dnstype=AAAA
 ||booklive.jp^$dnstype=AAAA
 ||bookmark.xxx^$dnstype=AAAA
+||bookmeter.com^$dnstype=AAAA
 ||bookmybridgestonetyre.com^$dnstype=AAAA
 ||bookonsky.net^$dnstype=AAAA
 ||books.com.tw^$dnstype=AAAA
@@ -4984,6 +4985,7 @@
 ||bookstagram.com^$dnstype=AAAA
 ||booktopia.com.au^$dnstype=AAAA
 ||bookwalker.com.tw^$dnstype=AAAA
+||bookwalker.jp^$dnstype=AAAA
 ||booloo.com^$dnstype=AAAA
 ||boomba.club^$dnstype=AAAA
 ||boombeach.com^$dnstype=AAAA
@@ -17039,6 +17041,7 @@
 ||ko-fi.com^$dnstype=AAAA
 ||koalaporn.com^$dnstype=AAAA
 ||kobbeatssbydredk.com^$dnstype=AAAA
+||kobe-np.co.jp^$dnstype=AAAA
 ||kobe-pastel.com^$dnstype=AAAA
 ||kobo.com^$dnstype=AAAA
 ||kobobooks.com^$dnstype=AAAA
@@ -21294,6 +21297,7 @@
 ||nos.nl^$dnstype=AAAA
 ||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
 ||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
+||note.com^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||notify.dropboxapi.com^$dnstype=AAAA
 ||notify.ppy.sh^$dnstype=AAAA
@@ -21840,6 +21844,7 @@
 ||okcoin.com^$dnstype=AAAA
 ||okex.com^$dnstype=AAAA
 ||okinawabank.co.jp^$dnstype=AAAA
+||okinawatimes.co.jp^$dnstype=AAAA
 ||okk.tw^$dnstype=AAAA
 ||okkisokuho.com^$dnstype=AAAA
 ||okpool.me^$dnstype=AAAA
@@ -27902,6 +27907,7 @@
 ||tbr.tangbr.net^$dnstype=AAAA
 ||tbrc.org^$dnstype=AAAA
 ||tbs-rainbow.org^$dnstype=AAAA
+||tbs.co.jp^$dnstype=AAAA
 ||tbsec.org^$dnstype=AAAA
 ||tbskkinabalu.page.tl^$dnstype=AAAA
 ||tbsmalaysia.org^$dnstype=AAAA
@@ -32814,6 +32820,7 @@
 ||yobit.net^$dnstype=AAAA
 ||yobt.com^$dnstype=AAAA
 ||yobt.tv^$dnstype=AAAA
+||yodobashi.com^$dnstype=AAAA
 ||yogalayout.com^$dnstype=AAAA
 ||yogichen.org^$dnstype=AAAA
 ||yogify.com^$dnstype=AAAA
