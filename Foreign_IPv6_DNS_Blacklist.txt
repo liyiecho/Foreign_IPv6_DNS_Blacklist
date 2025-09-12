@@ -18920,6 +18920,7 @@
 ||mi.nakn.jp^$dnstype=AAAA
 ||mi9.com.au^$dnstype=AAAA
 ||mi9cdn.com^$dnstype=AAAA
+||miami-airport.com^$dnstype=AAAA
 ||miamifintechfestival.com^$dnstype=AAAA
 ||miaomwu.com^$dnstype=AAAA
 ||miaopa.net^$dnstype=AAAA
