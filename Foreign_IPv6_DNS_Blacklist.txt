@@ -18684,6 +18684,7 @@
 ||mcstories.com^$dnstype=AAAA
 ||mcsw.ac.uk^$dnstype=AAAA
 ||mctimoney-college.ac.uk^$dnstype=AAAA
+||mcusercontent.com^$dnstype=AAAA
 ||md-t.org^$dnstype=AAAA
 ||mdbankpublic.com^$dnstype=AAAA
 ||mdhcdn.com^$dnstype=AAAA
@@ -27828,6 +27829,7 @@
 ||takporn.com^$dnstype=AAAA
 ||talentlens.com^$dnstype=AAAA
 ||taleofthenight.com^$dnstype=AAAA
+||talkatone.com^$dnstype=AAAA
 ||talkboxapp.com^$dnstype=AAAA
 ||talkcc.com^$dnstype=AAAA
 ||talkinghealthmatters.ac.uk^$dnstype=AAAA
