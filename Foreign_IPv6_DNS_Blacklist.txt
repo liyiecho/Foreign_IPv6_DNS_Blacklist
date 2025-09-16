@@ -32098,6 +32098,7 @@
 ||xiaoyaoge.xyz^$dnstype=AAAA
 ||xiaxiaoqiang.net^$dnstype=AAAA
 ||xicons.org^$dnstype=AAAA
+||xiezhua.com^$dnstype=AAAA
 ||xihua.es^$dnstype=AAAA
 ||xii.jp^$dnstype=AAAA
 ||xijie.wordpress.com^$dnstype=AAAA
