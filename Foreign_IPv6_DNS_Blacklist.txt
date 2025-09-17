@@ -5347,6 +5347,7 @@
 ||btku.me^$dnstype=AAAA
 ||btku.org^$dnstype=AAAA
 ||btlibrary.me^$dnstype=AAAA
+||btloader.com^$dnstype=AAAA
 ||bton.ac.uk^$dnstype=AAAA
 ||btrp-hyperpolarised.ac.uk^$dnstype=AAAA
 ||btspread.com^$dnstype=AAAA
