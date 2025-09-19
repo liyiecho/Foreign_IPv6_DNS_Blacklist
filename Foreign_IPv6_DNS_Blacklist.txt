@@ -20495,7 +20495,6 @@
 ||ndtv.com^$dnstype=AAAA
 ||ne-worcs.ac.uk^$dnstype=AAAA
 ||ne-worcscol.ac.uk^$dnstype=AAAA
-||ne.jp^$dnstype=AAAA
 ||neab.ac.uk^$dnstype=AAAA
 ||neaco.ac.uk^$dnstype=AAAA
 ||near.by^$dnstype=AAAA
@@ -29354,6 +29353,7 @@
 ||txmblr.com^$dnstype=AAAA
 ||txqzz34r.com^$dnstype=AAAA
 ||txvia.com^$dnstype=AAAA
+||txvlog.com^$dnstype=AAAA
 ||txxx.com^$dnstype=AAAA
 ||txxx1.com^$dnstype=AAAA
 ||tycool.com^$dnstype=AAAA
