@@ -12120,6 +12120,7 @@
 ||garotaporno.com^$dnstype=AAAA
 ||garotoesperto.com^$dnstype=AAAA
 ||gartlive.com^$dnstype=AAAA
+||garudalinux.org^$dnstype=AAAA
 ||gashe.ac.uk^$dnstype=AAAA
 ||gastrointestinalexam.com^$dnstype=AAAA
 ||gate-project.com^$dnstype=AAAA
@@ -21166,6 +21167,7 @@
 ||niosii.com^$dnstype=AAAA
 ||niosii.net^$dnstype=AAAA
 ||niran.ac.uk^$dnstype=AAAA
+||nirsoft.net^$dnstype=AAAA
 ||nishinipponbank.co.jp^$dnstype=AAAA
 ||nismod.ac.uk^$dnstype=AAAA
 ||nist.gov^$dnstype=AAAA
@@ -27418,6 +27420,7 @@
 ||studioncorp.com^$dnstype=AAAA
 ||studiopaint.com^$dnstype=AAAA
 ||studiosucks.com^$dnstype=AAAA
+||studybuddhism.com^$dnstype=AAAA
 ||studygroup.ac.uk^$dnstype=AAAA
 ||studyhigher.ac.uk^$dnstype=AAAA
 ||studyinengland.ac.uk^$dnstype=AAAA
@@ -30903,6 +30906,7 @@
 ||vpornvideos.com^$dnstype=AAAA
 ||vpro.com^$dnstype=AAAA
 ||vpro.net^$dnstype=AAAA
+||vpsxb.net^$dnstype=AAAA
 ||vr.org^$dnstype=AAAA
 ||vraiesagesse.net^$dnstype=AAAA
 ||vrbgay.com^$dnstype=AAAA
