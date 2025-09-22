@@ -738,6 +738,7 @@
 ||ablmm.com^$dnstype=AAAA
 ||ablwang.com^$dnstype=AAAA
 ||aboluowang.com^$dnstype=AAAA
+||about.gitlab.com^$dnstype=AAAA
 ||about.me^$dnstype=AAAA
 ||aboutamazon.co.uk^$dnstype=AAAA
 ||aboutamazon.com^$dnstype=AAAA
