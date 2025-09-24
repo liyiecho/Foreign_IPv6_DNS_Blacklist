@@ -2025,6 +2025,7 @@
 ||api.mixpanel.com^$dnstype=AAAA
 ||api.nebula-emby.com^$dnstype=AAAA
 ||api.news^$dnstype=AAAA
+||api.palworldgame.com^$dnstype=AAAA
 ||api.pureapk.com^$dnstype=AAAA
 ||api.recaptcha.net^$dnstype=AAAA
 ||api.steampowered.com^$dnstype=AAAA
@@ -7586,6 +7587,7 @@
 ||ctfassets.net^$dnstype=AAAA
 ||ctfriend.net^$dnstype=AAAA
 ||ctg.ac.uk^$dnstype=AAAA
+||ctinets.com^$dnstype=AAAA
 ||ctinews.com^$dnstype=AAAA
 ||ctitv.com.tw^$dnstype=AAAA
 ||ctk.ac.uk^$dnstype=AAAA
@@ -15771,6 +15773,7 @@
 ||internetofeverything.com^$dnstype=AAAA
 ||internetpopculture.com^$dnstype=AAAA
 ||interracial-sites.com^$dnstype=AAAA
+||interseclab.org^$dnstype=AAAA
 ||intescort.com^$dnstype=AAAA
 ||intgram.com^$dnstype=AAAA
 ||intheknow.com.au^$dnstype=AAAA
@@ -21778,6 +21781,7 @@
 ||ocsp-responder.com^$dnstype=AAAA
 ||ocsp.microsoft.com^$dnstype=AAAA
 ||october-review.org^$dnstype=AAAA
+||octocaptcha.com^$dnstype=AAAA
 ||ocul.us^$dnstype=AAAA
 ||oculus-china.com^$dnstype=AAAA
 ||oculus.com^$dnstype=AAAA
@@ -22371,6 +22375,7 @@
 ||palmislife.com^$dnstype=AAAA
 ||pals.ac.uk^$dnstype=AAAA
 ||paltalk.com^$dnstype=AAAA
+||palworldgame.com^$dnstype=AAAA
 ||panamapapers.sueddeutsche.de^$dnstype=AAAA
 ||panasonic.com^$dnstype=AAAA
 ||panasonic.jp^$dnstype=AAAA
