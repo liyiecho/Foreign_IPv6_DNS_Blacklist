@@ -5579,6 +5579,7 @@
 ||cachefly.com^$dnstype=AAAA
 ||cachefly.net^$dnstype=AAAA
 ||cachinese.com^$dnstype=AAAA
+||cacnews.ca^$dnstype=AAAA
 ||cacnw.com^$dnstype=AAAA
 ||cactusvpn.com^$dnstype=AAAA
 ||cad-mep.com^$dnstype=AAAA
