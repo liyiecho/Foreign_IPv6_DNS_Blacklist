@@ -623,6 +623,7 @@
 ||978.life^$dnstype=AAAA
 ||97dounai.top^$dnstype=AAAA
 ||991.com^$dnstype=AAAA
+||996.icu^$dnstype=AAAA
 ||99btgc01.com^$dnstype=AAAA
 ||99cn.info^$dnstype=AAAA
 ||99quse.cc^$dnstype=AAAA
@@ -4329,7 +4330,6 @@
 ||blogo.jp^$dnstype=AAAA
 ||blogoverflow.com^$dnstype=AAAA
 ||blogs.com^$dnstype=AAAA
-||blogs.tampabay.com^$dnstype=AAAA
 ||blogsmithmedia.com^$dnstype=AAAA
 ||blogspot.ae^$dnstype=AAAA
 ||blogspot.al^$dnstype=AAAA
