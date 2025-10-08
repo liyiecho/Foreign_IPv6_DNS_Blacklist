@@ -26542,6 +26542,7 @@
 ||solihull.ac.uk^$dnstype=AAAA
 ||solihullsfc.ac.uk^$dnstype=AAAA
 ||solostudioksale.com^$dnstype=AAAA
+||solscan.io^$dnstype=AAAA
 ||solsfc.ac.uk^$dnstype=AAAA
 ||solutions-worcestershire.ac.uk^$dnstype=AAAA
 ||solutionstation.com^$dnstype=AAAA
