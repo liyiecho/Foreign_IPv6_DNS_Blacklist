@@ -12633,6 +12633,7 @@
 ||gmims.ac.uk^$dnstype=AAAA
 ||gmll.org^$dnstype=AAAA
 ||gmms.ac.uk^$dnstype=AAAA
+||gmnetworks.net^$dnstype=AAAA
 ||gmocloud.com^$dnstype=AAAA
 ||gmodules.com^$dnstype=AAAA
 ||gmoney.org^$dnstype=AAAA
