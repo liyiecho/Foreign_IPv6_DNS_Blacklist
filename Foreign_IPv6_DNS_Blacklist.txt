@@ -11747,6 +11747,8 @@
 ||freegaypornfinder.com^$dnstype=AAAA
 ||freegaypornhdtube.com^$dnstype=AAAA
 ||freegaysexgames.com^$dnstype=AAAA
+||freegpt.es^$dnstype=AAAA
+||freegpt.tech^$dnstype=AAAA
 ||freehdinterracialporn.in^$dnstype=AAAA
 ||freehdvideos.xxx^$dnstype=AAAA
 ||freehentaipic.com^$dnstype=AAAA
@@ -15265,6 +15267,7 @@
 ||img.dlsite.jp^$dnstype=AAAA
 ||img.ly^$dnstype=AAAA
 ||img.picgo.net^$dnstype=AAAA
+||img2go.com^$dnstype=AAAA
 ||imgasd.com^$dnstype=AAAA
 ||imgbb.com^$dnstype=AAAA
 ||imgchili.net^$dnstype=AAAA
