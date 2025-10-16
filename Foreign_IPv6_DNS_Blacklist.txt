@@ -17736,6 +17736,7 @@
 ||llysfasi.ac.uk^$dnstype=AAAA
 ||lm.licenses.adobe.com^$dnstype=AAAA
 ||lma.ac.uk^$dnstype=AAAA
+||lmarena.ai^$dnstype=AAAA
 ||lmbooks.com^$dnstype=AAAA
 ||lmbru.ac.uk^$dnstype=AAAA
 ||lmc.ac.uk^$dnstype=AAAA
