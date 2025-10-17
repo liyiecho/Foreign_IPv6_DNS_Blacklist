@@ -6119,7 +6119,6 @@
 ||cdp1989.org^$dnstype=AAAA
 ||cdp1998.org^$dnstype=AAAA
 ||cdp2006.org^$dnstype=AAAA
-||cdpa.url.tw^$dnstype=AAAA
 ||cdpeu.org^$dnstype=AAAA
 ||cdpuk.co.uk^$dnstype=AAAA
 ||cdpusa.org^$dnstype=AAAA
@@ -20115,6 +20114,7 @@
 ||myfreecams.com^$dnstype=AAAA
 ||myfreepaysite.com^$dnstype=AAAA
 ||myfreeporngames.com^$dnstype=AAAA
+||myfreshnet.com^$dnstype=AAAA
 ||myftp.info^$dnstype=AAAA
 ||myftp.name^$dnstype=AAAA
 ||myfun.com^$dnstype=AAAA
@@ -31187,6 +31187,7 @@
 ||webrtc.org^$dnstype=AAAA
 ||webrush.net^$dnstype=AAAA
 ||webs-tv.net^$dnstype=AAAA
+||websdr.org^$dnstype=AAAA
 ||website.informer.com^$dnstype=AAAA
 ||website.new^$dnstype=AAAA
 ||websitepulse.com^$dnstype=AAAA
@@ -32214,6 +32215,7 @@
 ||xn--r8jwklh769hk43amcfoyl3z3a.com^$dnstype=AAAA
 ||xn--sjqr38j.com^$dnstype=AAAA
 ||xn--tkry91n.com^$dnstype=AAAA
+||xn--u2u927b.com^$dnstype=AAAA
 ||xn--ubt498knmf.com^$dnstype=AAAA
 ||xn--uis17aj9kmuf.com^$dnstype=AAAA
 ||xn--urs05q.jp^$dnstype=AAAA
