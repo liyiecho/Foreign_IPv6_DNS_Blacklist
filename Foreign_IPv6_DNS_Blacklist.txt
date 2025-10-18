@@ -2509,6 +2509,7 @@
 ||ark-genomics.ac.uk^$dnstype=AAAA
 ||ark.ac.uk^$dnstype=AAAA
 ||ark.to^$dnstype=AAAA
+||arkoselabs.com^$dnstype=AAAA
 ||arlingtoncemetery.mil^$dnstype=AAAA
 ||arm.ac.uk^$dnstype=AAAA
 ||arma.ac.uk^$dnstype=AAAA
@@ -6204,6 +6205,7 @@
 ||ceramics-cadcam.com^$dnstype=AAAA
 ||cercia.ac.uk^$dnstype=AAAA
 ||cerdas.com^$dnstype=AAAA
+||cerebras.ai^$dnstype=AAAA
 ||ceredigion.ac.uk^$dnstype=AAAA
 ||ceri.ac.uk^$dnstype=AAAA
 ||cerlim.ac.uk^$dnstype=AAAA
@@ -6737,6 +6739,8 @@
 ||classics.ac.uk^$dnstype=AAAA
 ||classymomsex.com^$dnstype=AAAA
 ||claude.ai^$dnstype=AAAA
+||claude.com^$dnstype=AAAA
+||claudemcpclient.com^$dnstype=AAAA
 ||claudeusercontent.com^$dnstype=AAAA
 ||clb.org.hk^$dnstype=AAAA
 ||clc-london.ac.uk^$dnstype=AAAA
@@ -12517,6 +12521,7 @@
 ||gitbook.io^$dnstype=AAAA
 ||gitbooks.io^$dnstype=AAAA
 ||githack.com^$dnstype=AAAA
+||github-api.arkoselabs.com^$dnstype=AAAA
 ||github-cloud.s3.amazonaws.com^$dnstype=AAAA
 ||github.ai^$dnstype=AAAA
 ||github.blog^$dnstype=AAAA
@@ -16209,6 +16214,7 @@
 ||jav-legend.com^$dnstype=AAAA
 ||jav-subtitles.com^$dnstype=AAAA
 ||jav-vr.net^$dnstype=AAAA
+||jav.app^$dnstype=AAAA
 ||jav.com^$dnstype=AAAA
 ||jav.dog^$dnstype=AAAA
 ||jav.gallery^$dnstype=AAAA
@@ -18377,6 +18383,7 @@
 ||marlin.ac.uk^$dnstype=AAAA
 ||marplecollege.ac.uk^$dnstype=AAAA
 ||marranazas.com^$dnstype=AAAA
+||marscode.com^$dnstype=AAAA
 ||martau.com^$dnstype=AAAA
 ||martincartoons.com^$dnstype=AAAA
 ||martinoei.com^$dnstype=AAAA
@@ -20873,6 +20880,7 @@
 ||nfscdict.com^$dnstype=AAAA
 ||nfscofficial.com^$dnstype=AAAA
 ||nfsworld.com^$dnstype=AAAA
+||nftstatic.com^$dnstype=AAAA
 ||nftstorage.link^$dnstype=AAAA
 ||ng.mil^$dnstype=AAAA
 ||nga.mil^$dnstype=AAAA
@@ -27207,6 +27215,7 @@
 ||steam.tv^$dnstype=AAAA
 ||steambroadcast.akamaized.net^$dnstype=AAAA
 ||steamcdn-a.akamaihd.net^$dnstype=AAAA
+||steamcloudsweden.blob.core.windows.net^$dnstype=AAAA
 ||steamcommunity-a.akamaihd.net.edgesuite.net^$dnstype=AAAA
 ||steamcommunity.com^$dnstype=AAAA
 ||steamcontent.com^$dnstype=AAAA
@@ -28854,6 +28863,7 @@
 ||tracking-location.com^$dnstype=AAAA
 ||tradevip1.com^$dnstype=AAAA
 ||tradingview.com^$dnstype=AAAA
+||trae.ai^$dnstype=AAAA
 ||traffcoll.ac.uk^$dnstype=AAAA
 ||traffichaus.com^$dnstype=AAAA
 ||trafficmanager.net^$dnstype=AAAA
@@ -33176,6 +33186,7 @@
 ||yswet.com^$dnstype=AAAA
 ||ysx-mm.com^$dnstype=AAAA
 ||yt.be^$dnstype=AAAA
+||yt3.googleusercontent.com^$dnstype=AAAA
 ||ytht.net^$dnstype=AAAA
 ||ytimg.com^$dnstype=AAAA
 ||ytn.co.kr^$dnstype=AAAA
