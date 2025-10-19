@@ -1308,6 +1308,7 @@
 ||ajsands.com^$dnstype=AAAA
 ||ajsjx.com^$dnstype=AAAA
 ||ajtalk.com^$dnstype=AAAA
+||ajunews.com^$dnstype=AAAA
 ||ak-p.tripcdn.com^$dnstype=AAAA
 ||ak-s-cw.tripcdn.com^$dnstype=AAAA
 ||ak-s.tripcdn.com^$dnstype=AAAA
@@ -2771,6 +2772,7 @@
 ||atubex.com^$dnstype=AAAA
 ||atv-ext.amazon.com^$dnstype=AAAA
 ||atv-ps.amazon.com^$dnstype=AAAA
+||atvnewsonline.com^$dnstype=AAAA
 ||atwiki.jp^$dnstype=AAAA
 ||atypi.org^$dnstype=AAAA
 ||aua.ac.uk^$dnstype=AAAA
@@ -5006,6 +5008,7 @@
 ||boomssr.com^$dnstype=AAAA
 ||boomtrain.com^$dnstype=AAAA
 ||booru.org^$dnstype=AAAA
+||boosty.to^$dnstype=AAAA
 ||booth.pm^$dnstype=AAAA
 ||bootstrapcdn.com^$dnstype=AAAA
 ||bootyliciousmag.com^$dnstype=AAAA
@@ -6094,6 +6097,7 @@
 ||cdn-spotify-experiments.conductrics.com^$dnstype=AAAA
 ||cdn-telegram.org^$dnstype=AAAA
 ||cdn-terapeak.com^$dnstype=AAAA
+||cdn-vk.ru^$dnstype=AAAA
 ||cdn.ac.uk^$dnstype=AAAA
 ||cdn.arstechnica.net^$dnstype=AAAA
 ||cdn.assets.lfpcontent.com^$dnstype=AAAA
@@ -6268,6 +6272,7 @@
 ||chaos.social^$dnstype=AAAA
 ||chapm25.com^$dnstype=AAAA
 ||character.ai^$dnstype=AAAA
+||chardb.iis.sinica.edu.tw^$dnstype=AAAA
 ||chargenow.com^$dnstype=AAAA
 ||chargenowusa.com^$dnstype=AAAA
 ||charlemagne-icon.ac.uk^$dnstype=AAAA
@@ -6734,6 +6739,7 @@
 ||clashofclans.com^$dnstype=AAAA
 ||clashroyale.com^$dnstype=AAAA
 ||clasporno.org^$dnstype=AAAA
+||class.tn.edu.tw^$dnstype=AAAA
 ||classicalguitarblog.net^$dnstype=AAAA
 ||classicnike.com^$dnstype=AAAA
 ||classics.ac.uk^$dnstype=AAAA
@@ -7259,6 +7265,7 @@
 ||conductus.ac.uk^$dnstype=AAAA
 ||conel.ac.uk^$dnstype=AAAA
 ||confetti.ac.uk^$dnstype=AAAA
+||configuration-lb.ls-apple.com.akadns.net^$dnstype=AAAA
 ||conform.ac.uk^$dnstype=AAAA
 ||confuciusinstitute.ac.uk^$dnstype=AAAA
 ||congyu.moe^$dnstype=AAAA
@@ -7940,6 +7947,7 @@
 ||data.com^$dnstype=AAAA
 ||data.flurry.com^$dnstype=AAAA
 ||data.gov.tw^$dnstype=AAAA
+||data.taipei^$dnstype=AAAA
 ||databank.worldbank.org^$dnstype=AAAA
 ||database.asahi.com^$dnstype=AAAA
 ||dataframeworks.com^$dnstype=AAAA
@@ -8409,6 +8417,7 @@
 ||diabetes-healthnet.ac.uk^$dnstype=AAAA
 ||diablo3.com^$dnstype=AAAA
 ||diabloimmortal.com^$dnstype=AAAA
+||diabrowser.com^$dnstype=AAAA
 ||dialga.com^$dnstype=AAAA
 ||dialogflow.com^$dnstype=AAAA
 ||diamantewebcam.com^$dnstype=AAAA
@@ -8881,6 +8890,7 @@
 ||domywife.com^$dnstype=AAAA
 ||don.ac.uk^$dnstype=AAAA
 ||donatecarsoh.org^$dnstype=AAAA
+||donationalerts.com^$dnstype=AAAA
 ||doncaster.ac.uk^$dnstype=AAAA
 ||donga.com^$dnstype=AAAA
 ||dongtaiwang.com^$dnstype=AAAA
@@ -13274,6 +13284,7 @@
 ||guangming.org^$dnstype=AAAA
 ||guangnianvpn.com^$dnstype=AAAA
 ||guaranitermal.com^$dnstype=AAAA
+||guardarian.com^$dnstype=AAAA
 ||guardianapis.com^$dnstype=AAAA
 ||guardianapps.co.uk^$dnstype=AAAA
 ||guardianproject.info^$dnstype=AAAA
@@ -13391,6 +13402,7 @@
 ||haitbook.com^$dnstype=AAAA
 ||haitenjp.com^$dnstype=AAAA
 ||haiwaikan.com^$dnstype=AAAA
+||haiwaiwai.com^$dnstype=AAAA
 ||hakkatv.org.tw^$dnstype=AAAA
 ||halcyon.ac.uk^$dnstype=AAAA
 ||halesowen.ac.uk^$dnstype=AAAA
@@ -14957,6 +14969,7 @@
 ||id.au^$dnstype=AAAA
 ||id.hao123.com^$dnstype=AAAA
 ||id.heroku.com^$dnstype=AAAA
+||id.taipei^$dnstype=AAAA
 ||idaiwan.com^$dnstype=AAAA
 ||idarkdoll.com^$dnstype=AAAA
 ||idcore.ac.uk^$dnstype=AAAA
@@ -16807,6 +16820,7 @@
 ||kba-tx.org^$dnstype=AAAA
 ||kbdxlesx.xyz^$dnstype=AAAA
 ||kbplus.ac.uk^$dnstype=AAAA
+||kbs.co.kr^$dnstype=AAAA
 ||kbzbank.com^$dnstype=AAAA
 ||kbzpay.com^$dnstype=AAAA
 ||kc3000.shop^$dnstype=AAAA
@@ -17092,6 +17106,7 @@
 ||ktvu.com^$dnstype=AAAA
 ||ktzhk.com^$dnstype=AAAA
 ||ku77.xyz^$dnstype=AAAA
+||kuai.media^$dnstype=AAAA
 ||kuaichedao.co^$dnstype=AAAA
 ||kuaimao-app.com^$dnstype=AAAA
 ||kuaipa.net^$dnstype=AAAA
@@ -18794,6 +18809,7 @@
 ||melonstube.com^$dnstype=AAAA
 ||meltoday.com^$dnstype=AAAA
 ||meme111.com^$dnstype=AAAA
+||memealerts.com^$dnstype=AAAA
 ||memehk.com^$dnstype=AAAA
 ||memes.tw^$dnstype=AAAA
 ||memorybbs.com^$dnstype=AAAA
@@ -21839,6 +21855,7 @@
 ||ok.xxx^$dnstype=AAAA
 ||okayfreedom.com^$dnstype=AAAA
 ||okazudouga.tokyo^$dnstype=AAAA
+||okcdn.ru^$dnstype=AAAA
 ||okcoin.com^$dnstype=AAAA
 ||okex.com^$dnstype=AAAA
 ||okinawabank.co.jp^$dnstype=AAAA
@@ -24173,6 +24190,7 @@
 ||qwapi.com^$dnstype=AAAA
 ||qx.net^$dnstype=AAAA
 ||qxbbs.org^$dnstype=AAAA
+||qycz.org^$dnstype=AAAA
 ||qysg.cc^$dnstype=AAAA
 ||qysg7.buzz^$dnstype=AAAA
 ||qysg8.buzz^$dnstype=AAAA
@@ -25126,10 +25144,14 @@
 ||samsung.com^$dnstype=AAAA
 ||samsungapps.com^$dnstype=AAAA
 ||samsungcloud.com^$dnstype=AAAA
+||samsungconsent.com^$dnstype=AAAA
 ||samsungdm.com^$dnstype=AAAA
 ||samsunggalaxyfriends.com^$dnstype=AAAA
+||samsunghealth.com^$dnstype=AAAA
+||samsungiotcloud.com^$dnstype=AAAA
 ||samsungknox.com^$dnstype=AAAA
 ||samsungqbe.com^$dnstype=AAAA
+||samsungrs.com^$dnstype=AAAA
 ||sandisk.ae^$dnstype=AAAA
 ||sandisk.co.jp^$dnstype=AAAA
 ||sandisk.co.kr^$dnstype=AAAA
@@ -25645,6 +25667,7 @@
 ||serveuser.com^$dnstype=AAAA
 ||serveusers.com^$dnstype=AAAA
 ||service-now.com^$dnstype=AAAA
+||service.taipei^$dnstype=AAAA
 ||services-apple.net^$dnstype=AAAA
 ||services-exchange.com^$dnstype=AAAA
 ||services.googleapis.cn^$dnstype=AAAA
@@ -27202,6 +27225,7 @@
 ||stdavidscollege.ac.uk^$dnstype=AAAA
 ||stdavidsdaygroup.ac.uk^$dnstype=AAAA
 ||stdoms.ac.uk^$dnstype=AAAA
+||stealthex.io^$dnstype=AAAA
 ||steam-api.com^$dnstype=AAAA
 ||steam-chat.com^$dnstype=AAAA
 ||steam.apac.qtlglb.com^$dnstype=AAAA
@@ -30127,6 +30151,7 @@
 ||vercel-status.com^$dnstype=AAAA
 ||vercel.app^$dnstype=AAAA
 ||vercel.blog^$dnstype=AAAA
+||vercel.dev^$dnstype=AAAA
 ||vercel.events^$dnstype=AAAA
 ||vercel.live^$dnstype=AAAA
 ||vercel.pub^$dnstype=AAAA
@@ -30565,6 +30590,7 @@
 ||vk.ru^$dnstype=AAAA
 ||vk.team^$dnstype=AAAA
 ||vkcache.com^$dnstype=AAAA
+||vkcloud-static.ru^$dnstype=AAAA
 ||vkgo.app^$dnstype=AAAA
 ||vklive.app^$dnstype=AAAA
 ||vkmessenger.app^$dnstype=AAAA
@@ -32111,6 +32137,7 @@
 ||xiaoou.io^$dnstype=AAAA
 ||xiaoou.tv^$dnstype=AAAA
 ||xiaoshuobb.life^$dnstype=AAAA
+||xiaoxue.iis.sinica.edu.tw^$dnstype=AAAA
 ||xiaoyaoge.xyz^$dnstype=AAAA
 ||xiaxiaoqiang.net^$dnstype=AAAA
 ||xicons.org^$dnstype=AAAA
