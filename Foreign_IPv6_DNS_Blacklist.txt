@@ -3439,6 +3439,7 @@
 ||bcam.ac.uk^$dnstype=AAAA
 ||bcast.ac.uk^$dnstype=AAAA
 ||bcast.co.nz^$dnstype=AAAA
+||bcbay.com^$dnstype=AAAA
 ||bcbits.com^$dnstype=AAAA
 ||bcc.ac.uk^$dnstype=AAAA
 ||bcc.com.tw^$dnstype=AAAA
@@ -3836,6 +3837,7 @@
 ||berm.co.nz^$dnstype=AAAA
 ||bern.ac.uk^$dnstype=AAAA
 ||bernards.ac.uk^$dnstype=AAAA
+||berrraka.com^$dnstype=AAAA
 ||besa.ac.uk^$dnstype=AAAA
 ||besc.ac.uk^$dnstype=AAAA
 ||beside.ac.uk^$dnstype=AAAA
@@ -5674,6 +5676,7 @@
 ||cambiaip.org^$dnstype=AAAA
 ||camborne.ac.uk^$dnstype=AAAA
 ||cambria.ac.uk^$dnstype=AAAA
+||cambridge-hotel.com.tw^$dnstype=AAAA
 ||cambridge-university.ac.uk^$dnstype=AAAA
 ||cambridge.ac.uk^$dnstype=AAAA
 ||cambridgedigital.net^$dnstype=AAAA
@@ -6120,6 +6123,7 @@
 ||cdnjs.com^$dnstype=AAAA
 ||cdnlab.live^$dnstype=AAAA
 ||cdnpure.com^$dnstype=AAAA
+||cdns.com.tw^$dnstype=AAAA
 ||cdnst.net^$dnstype=AAAA
 ||cdp1989.org^$dnstype=AAAA
 ||cdp1998.org^$dnstype=AAAA
@@ -6271,6 +6275,7 @@
 ||chaoex.com^$dnstype=AAAA
 ||chaos.social^$dnstype=AAAA
 ||chapm25.com^$dnstype=AAAA
+||char.iis.sinica.edu.tw^$dnstype=AAAA
 ||character.ai^$dnstype=AAAA
 ||chardb.iis.sinica.edu.tw^$dnstype=AAAA
 ||chargenow.com^$dnstype=AAAA
@@ -6447,6 +6452,7 @@
 ||chinaaid.us^$dnstype=AAAA
 ||chinachange.org^$dnstype=AAAA
 ||chinachannel.hk^$dnstype=AAAA
+||chinachristiantimes.com^$dnstype=AAAA
 ||chinacitynews.be^$dnstype=AAAA
 ||chinaclothesstore.com^$dnstype=AAAA
 ||chinacomments.org^$dnstype=AAAA
@@ -6545,6 +6551,7 @@
 ||chped.com^$dnstype=AAAA
 ||chrdnet.com^$dnstype=AAAA
 ||christianfreedom.org^$dnstype=AAAA
+||christianpost.com^$dnstype=AAAA
 ||christianstudy.com^$dnstype=AAAA
 ||christiantimes.org.hk^$dnstype=AAAA
 ||christredeemer.ac.uk^$dnstype=AAAA
@@ -6615,6 +6622,7 @@
 ||cios.org^$dnstype=AAAA
 ||ciota.ac.uk^$dnstype=AAAA
 ||cipfg.org^$dnstype=AAAA
+||circle19.org^$dnstype=AAAA
 ||circlethebayfortibet.org^$dnstype=AAAA
 ||cirencester.ac.uk^$dnstype=AAAA
 ||cirius.ac.uk^$dnstype=AAAA
@@ -6778,7 +6786,6 @@
 ||climate-server.com^$dnstype=AAAA
 ||climatechangewales.ac.uk^$dnstype=AAAA
 ||climb.ac.uk^$dnstype=AAAA
-||cling.omy.sg^$dnstype=AAAA
 ||clinica-tibet.ru^$dnstype=AAAA
 ||clinical-videos.com^$dnstype=AAAA
 ||clinicalkey.com^$dnstype=AAAA
@@ -6906,6 +6913,7 @@
 ||cmule.org^$dnstype=AAAA
 ||cmx.im^$dnstype=AAAA
 ||cn-proxy.com^$dnstype=AAAA
+||cn.chosun.com^$dnstype=AAAA
 ||cn.fmnnow.com^$dnstype=AAAA
 ||cn.freeones.com^$dnstype=AAAA
 ||cn.nytstyle.com^$dnstype=AAAA
@@ -7742,6 +7750,7 @@
 ||cwc.ac.uk^$dnstype=AAAA
 ||cwcams.com^$dnstype=AAAA
 ||cwcfe.ac.uk^$dnstype=AAAA
+||cwgv.com.tw^$dnstype=AAAA
 ||cwrc.ac.uk^$dnstype=AAAA
 ||cws.ac.uk^$dnstype=AAAA
 ||cws.conviva.com^$dnstype=AAAA
@@ -8457,6 +8466,7 @@
 ||digital-anime.com^$dnstype=AAAA
 ||digital-id.ch^$dnstype=AAAA
 ||digital-rb.com^$dnstype=AAAA
+||digitalarchives.tw^$dnstype=AAAA
 ||digitalassetlinks.org^$dnstype=AAAA
 ||digitalcertvalidation.com^$dnstype=AAAA
 ||digitalcreativity.ac.uk^$dnstype=AAAA
@@ -11193,12 +11203,14 @@
 ||findasians.live^$dnstype=AAAA
 ||findbare.com^$dnstype=AAAA
 ||findbook.tw^$dnstype=AAAA
+||findbooks.info^$dnstype=AAAA
 ||findcams.live^$dnstype=AAAA
 ||finder.ac.uk^$dnstype=AAAA
 ||findhername.net^$dnstype=AAAA
 ||findmespot.com^$dnstype=AAAA
 ||findmybeats.com^$dnstype=AAAA
 ||findmyipad.com^$dnstype=AAAA
+||findresultsquick.com^$dnstype=AAAA
 ||findsav.com^$dnstype=AAAA
 ||findtubes.com^$dnstype=AAAA
 ||findvrporn.com^$dnstype=AAAA
@@ -11807,6 +11819,7 @@
 ||freenetproject.org^$dnstype=AAAA
 ||freenewscn.com^$dnstype=AAAA
 ||freenode.net^$dnstype=AAAA
+||freenuts.com^$dnstype=AAAA
 ||freeomovie.to^$dnstype=AAAA
 ||freeones.com^$dnstype=AAAA
 ||freeopenoutside.com^$dnstype=AAAA
@@ -13091,6 +13104,7 @@
 ||gosexpod.com^$dnstype=AAAA
 ||goshemalecams.com^$dnstype=AAAA
 ||gospelherald.com^$dnstype=AAAA
+||gospelherald.com.hk^$dnstype=AAAA
 ||gosport.ac.uk^$dnstype=AAAA
 ||gosportmarineskillscentre.ac.uk^$dnstype=AAAA
 ||gosq.co^$dnstype=AAAA
@@ -13121,6 +13135,7 @@
 ||gov.pk^$dnstype=AAAA
 ||gov.taipei^$dnstype=AAAA
 ||gov.tw^$dnstype=AAAA
+||govbooks.com.tw^$dnstype=AAAA
 ||governmentengineer.com^$dnstype=AAAA
 ||govforce.com^$dnstype=AAAA
 ||gowales.ac.uk^$dnstype=AAAA
@@ -13424,6 +13439,7 @@
 ||handbags-nike.com^$dnstype=AAAA
 ||handbagsoutletebay.com^$dnstype=AAAA
 ||handcraftedsoftware.org^$dnstype=AAAA
+||handelsblatt.com^$dnstype=AAAA
 ||handjobcumvideos.com^$dnstype=AAAA
 ||handjobhub.com^$dnstype=AAAA
 ||handjobtube4free.com^$dnstype=AAAA
@@ -14623,6 +14639,7 @@
 ||huaren.us^$dnstype=AAAA
 ||huaren4us.com^$dnstype=AAAA
 ||huarenav.com^$dnstype=AAAA
+||huarenjie.com^$dnstype=AAAA
 ||huarenporn.com^$dnstype=AAAA
 ||huashangnews.com^$dnstype=AAAA
 ||huashundg.com^$dnstype=AAAA
@@ -15297,6 +15314,7 @@
 ||imb.org^$dnstype=AAAA
 ||imdb.com^$dnstype=AAAA
 ||imdb.to^$dnstype=AAAA
+||imds-api.com^$dnstype=AAAA
 ||imems.ac.uk^$dnstype=AAAA
 ||imessage.tv^$dnstype=AAAA
 ||imet.ac.uk^$dnstype=AAAA
@@ -16800,6 +16818,7 @@
 ||kaotic.com^$dnstype=AAAA
 ||karafarinbank.ir^$dnstype=AAAA
 ||karayou.com^$dnstype=AAAA
+||kards.com^$dnstype=AAAA
 ||karechat.ai^$dnstype=AAAA
 ||karinahart.com^$dnstype=AAAA
 ||karkhung.com^$dnstype=AAAA
@@ -17529,6 +17548,7 @@
 ||life.ac.uk^$dnstype=AAAA
 ||lifearc.ac.uk^$dnstype=AAAA
 ||lifeatkings.ac.uk^$dnstype=AAAA
+||lifeattiktok.com^$dnstype=AAAA
 ||lifelab.ac.uk^$dnstype=AAAA
 ||lifelonglearning.ac.uk^$dnstype=AAAA
 ||lifemiles.com^$dnstype=AAAA
@@ -18634,6 +18654,7 @@
 ||maying.co^$dnstype=AAAA
 ||mba.ac.uk^$dnstype=AAAA
 ||mbc.ac.uk^$dnstype=AAAA
+||mbct.mlc.edu.tw^$dnstype=AAAA
 ||mbeats-tech.com^$dnstype=AAAA
 ||mbheadphone.com^$dnstype=AAAA
 ||mbn.ac.uk^$dnstype=AAAA
@@ -18842,6 +18863,7 @@
 ||meridian.net^$dnstype=AAAA
 ||meripet.biz^$dnstype=AAAA
 ||meripet.com^$dnstype=AAAA
+||merit-times.com^$dnstype=AAAA
 ||merit-times.com.tw^$dnstype=AAAA
 ||merlin.ac.uk^$dnstype=AAAA
 ||merlinblog.xyz^$dnstype=AAAA
@@ -19423,6 +19445,7 @@
 ||mirrorbooks.com^$dnstype=AAAA
 ||mirrormedia.com.tw^$dnstype=AAAA
 ||mirrormedia.mg^$dnstype=AAAA
+||mirrormediagroup.com^$dnstype=AAAA
 ||mirrorsedge.com^$dnstype=AAAA
 ||mirrorsedge.jp^$dnstype=AAAA
 ||mirrorsedge.net^$dnstype=AAAA
@@ -20263,6 +20286,7 @@
 ||myyoungwifeisnude.com^$dnstype=AAAA
 ||myz.info^$dnstype=AAAA
 ||mzed.com^$dnstype=AAAA
+||n-tv.de^$dnstype=AAAA
 ||n15zev3w.shop^$dnstype=AAAA
 ||n26.com^$dnstype=AAAA
 ||n3ro.lol^$dnstype=AAAA
@@ -20564,6 +20588,7 @@
 ||nenitas.club^$dnstype=AAAA
 ||nentindo.net^$dnstype=AAAA
 ||neo-miracle.com^$dnstype=AAAA
+||neo.com.tw^$dnstype=AAAA
 ||neodaas.ac.uk^$dnstype=AAAA
 ||neoforged.net^$dnstype=AAAA
 ||neonatalsociety.ac.uk^$dnstype=AAAA
@@ -20826,6 +20851,7 @@
 ||newstatesman.com^$dnstype=AAAA
 ||newsukadops.com^$dnstype=AAAA
 ||newsupermariobrosu.com^$dnstype=AAAA
+||newswav.com^$dnstype=AAAA
 ||newsweek.com^$dnstype=AAAA
 ||newsxtend.com.au^$dnstype=AAAA
 ||newtaiwan.com.tw^$dnstype=AAAA
@@ -21382,6 +21408,7 @@
 ||nptc.ac.uk^$dnstype=AAAA
 ||nptcgroup.ac.uk^$dnstype=AAAA
 ||nptsibinbank.com^$dnstype=AAAA
+||nqu.edu.tw^$dnstype=AAAA
 ||nradio.me^$dnstype=AAAA
 ||nrc.ac.uk^$dnstype=AAAA
 ||nrc.ca^$dnstype=AAAA
@@ -22818,6 +22845,7 @@
 ||perplexity.com^$dnstype=AAAA
 ||persagg.com^$dnstype=AAAA
 ||persecutionblog.com^$dnstype=AAAA
+||persgroep.net^$dnstype=AAAA
 ||pershore.ac.uk^$dnstype=AAAA
 ||persianepochtimes.com^$dnstype=AAAA
 ||persiankitty.com^$dnstype=AAAA
@@ -22909,6 +22937,7 @@
 ||pickering.ac.uk^$dnstype=AAAA
 ||pickinguppussy.com^$dnstype=AAAA
 ||picknicekicks.net^$dnstype=AAAA
+||pickpackapp.com^$dnstype=AAAA
 ||pickshoesclothes.com^$dnstype=AAAA
 ||picnik.com^$dnstype=AAAA
 ||picpost.com^$dnstype=AAAA
@@ -22927,6 +22956,7 @@
 ||pigav.com^$dnstype=AAAA
 ||piirus.ac.uk^$dnstype=AAAA
 ||pikabu.monster^$dnstype=AAAA
+||pikpak.io^$dnstype=AAAA
 ||pikpak.me^$dnstype=AAAA
 ||pikpakdrive.com^$dnstype=AAAA
 ||pilgrimageandcathedrals.ac.uk^$dnstype=AAAA
@@ -23242,6 +23272,7 @@
 ||popxi.click^$dnstype=AAAA
 ||popyard.com^$dnstype=AAAA
 ||popyard.org^$dnstype=AAAA
+||popyard.space^$dnstype=AAAA
 ||porcore.com^$dnstype=AAAA
 ||poringa.net^$dnstype=AAAA
 ||porkahd.co^$dnstype=AAAA
@@ -24322,6 +24353,7 @@
 ||raw.githack.com^$dnstype=AAAA
 ||rawgit.com^$dnstype=AAAA
 ||rawgithub.com^$dnstype=AAAA
+||rawstory.com^$dnstype=AAAA
 ||raxcdn.com^$dnstype=AAAA
 ||razer.com^$dnstype=AAAA
 ||razerofficial.com^$dnstype=AAAA
@@ -24795,6 +24827,7 @@
 ||roborecall.com^$dnstype=AAAA
 ||robotoffice.com^$dnstype=AAAA
 ||robustnessiskey.com^$dnstype=AAAA
+||roc-taiwan.org^$dnstype=AAAA
 ||rochdalesfc.ac.uk^$dnstype=AAAA
 ||rocket-inc.net^$dnstype=AAAA
 ||rocket.chat^$dnstype=AAAA
@@ -24882,6 +24915,7 @@
 ||rprimelab.com^$dnstype=AAAA
 ||rps.ac.uk^$dnstype=AAAA
 ||rqbank.ir^$dnstype=AAAA
+||rri.ro^$dnstype=AAAA
 ||rrl28.buzz^$dnstype=AAAA
 ||rrs1.xyz^$dnstype=AAAA
 ||rrtis.com^$dnstype=AAAA
@@ -25545,6 +25579,7 @@
 ||search.xxx^$dnstype=AAAA
 ||search.yahoo.co.jp^$dnstype=AAAA
 ||search25.ac.uk^$dnstype=AAAA
+||searchapi.culture.tw^$dnstype=AAAA
 ||searchtruth.com^$dnstype=AAAA
 ||searx.me^$dnstype=AAAA
 ||seas.ac.uk^$dnstype=AAAA
@@ -25593,6 +25628,7 @@
 ||seevic.ac.uk^$dnstype=AAAA
 ||seevpn.com^$dnstype=AAAA
 ||seezone.net^$dnstype=AAAA
+||sef.org.tw^$dnstype=AAAA
 ||sefton-acl.ac.uk^$dnstype=AAAA
 ||sefton.ac.uk^$dnstype=AAAA
 ||segment.com^$dnstype=AAAA
@@ -26263,6 +26299,7 @@
 ||sinonet.ca^$dnstype=AAAA
 ||sinopitt.info^$dnstype=AAAA
 ||sinoquebec.com^$dnstype=AAAA
+||sinovision.net^$dnstype=AAAA
 ||sinto.ac.uk^$dnstype=AAAA
 ||sip.ac.uk^$dnstype=AAAA
 ||sipher.ac.uk^$dnstype=AAAA
@@ -26343,6 +26380,7 @@
 ||skybet.com^$dnstype=AAAA
 ||skyking.com.tw^$dnstype=AAAA
 ||skykiwi.com^$dnstype=AAAA
+||skylinktv.us^$dnstype=AAAA
 ||skymansion.net^$dnstype=AAAA
 ||skymatter.com^$dnstype=AAAA
 ||skynet.be^$dnstype=AAAA
@@ -26535,6 +26573,7 @@
 ||socialblade.com^$dnstype=AAAA
 ||socialcam.com^$dnstype=AAAA
 ||socialcammail.com^$dnstype=AAAA
+||socialism.hk^$dnstype=AAAA
 ||socialkam.com^$dnstype=AAAA
 ||socialmediagirls.com^$dnstype=AAAA
 ||socialpolicy.ac.uk^$dnstype=AAAA
@@ -26759,6 +26798,7 @@
 ||soundon.fm^$dnstype=AAAA
 ||soundsoftware.ac.uk^$dnstype=AAAA
 ||soundwell.ac.uk^$dnstype=AAAA
+||soup-dev.com^$dnstype=AAAA
 ||soup.io^$dnstype=AAAA
 ||soupofmedia.com^$dnstype=AAAA
 ||source.ac.uk^$dnstype=AAAA
@@ -27357,6 +27397,7 @@
 ||straightouttasomewhere.com^$dnstype=AAAA
 ||straightpornstuds.com^$dnstype=AAAA
 ||straitstimes.com^$dnstype=AAAA
+||straitstimes.com.sg^$dnstype=AAAA
 ||stran.ac.uk^$dnstype=AAAA
 ||stranabg.com^$dnstype=AAAA
 ||straplessdildo.com^$dnstype=AAAA
@@ -27833,11 +27874,13 @@
 ||taisounds.com^$dnstype=AAAA
 ||tait.ac.uk^$dnstype=AAAA
 ||taiwan-sex.com^$dnstype=AAAA
+||taiwan.net.tw^$dnstype=AAAA
 ||taiwanadultexpo.com^$dnstype=AAAA
 ||taiwanbible.com^$dnstype=AAAA
 ||taiwancon.com^$dnstype=AAAA
 ||taiwandaily.net^$dnstype=AAAA
 ||taiwandc.org^$dnstype=AAAA
+||taiwanembassy.org^$dnstype=AAAA
 ||taiwanhot.net^$dnstype=AAAA
 ||taiwanjobs.gov.tw^$dnstype=AAAA
 ||taiwanjustice.com^$dnstype=AAAA
@@ -27850,6 +27893,8 @@
 ||taiwannews.com.tw^$dnstype=AAAA
 ||taiwanonline.cc^$dnstype=AAAA
 ||taiwansex.tw^$dnstype=AAAA
+||taiwanstay.net.tw^$dnstype=AAAA
+||taiwantoday.tw^$dnstype=AAAA
 ||taiwantp.net^$dnstype=AAAA
 ||taiwantt.org.tw^$dnstype=AAAA
 ||taiwanus.net^$dnstype=AAAA
@@ -27964,6 +28009,10 @@
 ||tcg.ac.uk^$dnstype=AAAA
 ||tchrd.org^$dnstype=AAAA
 ||tcm.ac.uk^$dnstype=AAAA
+||tcmb.culture.tw^$dnstype=AAAA
+||tcmbdata.culture.tw^$dnstype=AAAA
+||tcmbfile.culture.tw^$dnstype=AAAA
+||tcmm.com.tw^$dnstype=AAAA
 ||tcnynj.org^$dnstype=AAAA
 ||tcpartnership.ac.uk^$dnstype=AAAA
 ||tcpspeed.co^$dnstype=AAAA
@@ -28057,6 +28106,7 @@
 ||tehrantimes.com^$dnstype=AAAA
 ||tejaratbank.ir^$dnstype=AAAA
 ||tel.ac.uk^$dnstype=AAAA
+||teldap.tw^$dnstype=AAAA
 ||telebay.com^$dnstype=AAAA
 ||telecomspace.com^$dnstype=AAAA
 ||telega.one^$dnstype=AAAA
@@ -28586,6 +28636,7 @@
 ||tidalhifi.com^$dnstype=AAAA
 ||tidelift.com^$dnstype=AAAA
 ||tiendabestbuy.com^$dnstype=AAAA
+||tier.org.tw^$dnstype=AAAA
 ||tiffany-towers.com^$dnstype=AAAA
 ||tig-ol-bitties.live^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
@@ -28837,6 +28888,7 @@
 ||torvpn.com^$dnstype=AAAA
 ||tosh.comedycentral.com^$dnstype=AAAA
 ||tospo-keiba.jp^$dnstype=AAAA
+||tospotify.com^$dnstype=AAAA
 ||totalmateria.com^$dnstype=AAAA
 ||totalvpn.com^$dnstype=AAAA
 ||totoleak.com^$dnstype=AAAA
@@ -29061,6 +29113,7 @@
 ||tsplines.com^$dnstype=AAAA
 ||tsquare.tv^$dnstype=AAAA
 ||tsrc.ac.uk^$dnstype=AAAA
+||tssdnews.com.tw^$dnstype=AAAA
 ||tssp.best^$dnstype=AAAA
 ||tsthai.com^$dnstype=AAAA
 ||tsu.org.tw^$dnstype=AAAA
@@ -29228,6 +29281,7 @@
 ||tvof.ac.uk^$dnstype=AAAA
 ||tvplayvideos.com^$dnstype=AAAA
 ||tvpromise.com^$dnstype=AAAA
+||tvr.ro^$dnstype=AAAA
 ||tvu.ac.uk^$dnstype=AAAA
 ||tvunetworks.com^$dnstype=AAAA
 ||tw-blog.com^$dnstype=AAAA
@@ -29845,6 +29899,7 @@
 ||usablepast.ac.uk^$dnstype=AAAA
 ||usacn.com^$dnstype=AAAA
 ||usaco.org^$dnstype=AAAA
+||usagm.gov^$dnstype=AAAA
 ||usaip.eu^$dnstype=AAAA
 ||usatoday.com^$dnstype=AAAA
 ||usatodaynetworkservice.com^$dnstype=AAAA
@@ -30294,7 +30349,6 @@
 ||video.aol.co.uk^$dnstype=AAAA
 ||video.aol.com^$dnstype=AAAA
 ||video.foxbusiness.com^$dnstype=AAAA
-||video.pbs.org^$dnstype=AAAA
 ||video01.org^$dnstype=AAAA
 ||videoactive.ac.uk^$dnstype=AAAA
 ||videobam.com^$dnstype=AAAA
@@ -30872,6 +30926,7 @@
 ||vomitkings.com^$dnstype=AAAA
 ||vortexmachining.com^$dnstype=AAAA
 ||vot.org^$dnstype=AAAA
+||votetw.com^$dnstype=AAAA
 ||votolia.com^$dnstype=AAAA
 ||vovo2000.com^$dnstype=AAAA
 ||vows.ac.uk^$dnstype=AAAA
@@ -31243,6 +31298,7 @@
 ||wefong.com^$dnstype=AAAA
 ||wego.here.com^$dnstype=AAAA
 ||weiboleak.com^$dnstype=AAAA
+||weights.com^$dnstype=AAAA
 ||weihuo.org^$dnstype=AAAA
 ||weijingsheng.org^$dnstype=AAAA
 ||weimi180.com^$dnstype=AAAA
@@ -32188,6 +32244,7 @@
 ||xlydh.cc^$dnstype=AAAA
 ||xm.com^$dnstype=AAAA
 ||xmalay.com^$dnstype=AAAA
+||xmart.tw^$dnstype=AAAA
 ||xmas.ac.uk^$dnstype=AAAA
 ||xmat.ac.uk^$dnstype=AAAA
 ||xmature.su^$dnstype=AAAA
@@ -32793,6 +32850,7 @@
 ||ycc.ac.uk^$dnstype=AAAA
 ||ycoastco.ac.uk^$dnstype=AAAA
 ||ycombinator.com^$dnstype=AAAA
+||ycrc.com.tw^$dnstype=AAAA
 ||ycuc.ac.uk^$dnstype=AAAA
 ||ycw.ac.uk^$dnstype=AAAA
 ||ydds.ac.uk^$dnstype=AAAA
