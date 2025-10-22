@@ -1555,6 +1555,7 @@
 ||alphabet.us^$dnstype=AAAA
 ||alphabetfinance.net^$dnstype=AAAA
 ||alphaporno.com^$dnstype=AAAA
+||alphaxiv.org^$dnstype=AAAA
 ||alphera-finance.co.in^$dnstype=AAAA
 ||alphera-finance.com.hk^$dnstype=AAAA
 ||alphera-finance.in^$dnstype=AAAA
@@ -1855,6 +1856,10 @@
 ||androidtv.com^$dnstype=AAAA
 ||andygod.com^$dnstype=AAAA
 ||andysparis.com^$dnstype=AAAA
+||anexia-engine.com^$dnstype=AAAA
+||anexia-it.com^$dnstype=AAAA
+||anexia.at^$dnstype=AAAA
+||anexia.com^$dnstype=AAAA
 ||anfutong.com^$dnstype=AAAA
 ||angel-gto.com^$dnstype=AAAA
 ||angel.ac.uk^$dnstype=AAAA
@@ -2970,6 +2975,7 @@
 ||av6k.vip^$dnstype=AAAA
 ||avaaz.org^$dnstype=AAAA
 ||avant.ac.uk^$dnstype=AAAA
+||avast.com^$dnstype=AAAA
 ||avatara.com^$dnstype=AAAA
 ||avatargarenanow-a.akamaihd.net^$dnstype=AAAA
 ||avbebe.com^$dnstype=AAAA
@@ -3003,6 +3009,7 @@
 ||avidemux.org^$dnstype=AAAA
 ||avinetworks.com^$dnstype=AAAA
 ||avinin.com^$dnstype=AAAA
+||avira.com^$dnstype=AAAA
 ||avizoon.site^$dnstype=AAAA
 ||avizoone.com^$dnstype=AAAA
 ||avjb.com^$dnstype=AAAA
@@ -4211,6 +4218,7 @@
 ||bitcoin.org^$dnstype=AAAA
 ||bitcointalk.org^$dnstype=AAAA
 ||bitcoinworld.com^$dnstype=AAAA
+||bitdefender.com^$dnstype=AAAA
 ||bite.ac.uk^$dnstype=AAAA
 ||bitfinex.com^$dnstype=AAAA
 ||bitflyer.com^$dnstype=AAAA
@@ -6737,6 +6745,7 @@
 ||clacks.ac.uk^$dnstype=AAAA
 ||clacton.ac.uk^$dnstype=AAAA
 ||clad.ac.uk^$dnstype=AAAA
+||clamwin.com^$dnstype=AAAA
 ||clannad-movie.jp^$dnstype=AAAA
 ||claravenger.com^$dnstype=AAAA
 ||clarendon.ac.uk^$dnstype=AAAA
@@ -9366,6 +9375,7 @@
 ||e122475.dscg.akamaiedge.net^$dnstype=AAAA
 ||e123.hk^$dnstype=AAAA
 ||e3an.ac.uk^$dnstype=AAAA
+||e5.sk^$dnstype=AAAA
 ||e621.net^$dnstype=AAAA
 ||ea-anz-press.com^$dnstype=AAAA
 ||ea.com^$dnstype=AAAA
@@ -10043,6 +10053,7 @@
 ||environment-health.ac.uk^$dnstype=AAAA
 ||epa.gov.tw^$dnstype=AAAA
 ||epac.to^$dnstype=AAAA
+||epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com^$dnstype=AAAA
 ||epc.ac.uk^$dnstype=AAAA
 ||epic.ac.uk^$dnstype=AAAA
 ||epic.network^$dnstype=AAAA
@@ -10251,6 +10262,12 @@
 ||esds.ac.uk^$dnstype=AAAA
 ||ese.ac.uk^$dnstype=AAAA
 ||eselondon.ac.uk^$dnstype=AAAA
+||eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com^$dnstype=AAAA
+||eset.com^$dnstype=AAAA
+||eset.eu^$dnstype=AAAA
+||eset.sk^$dnstype=AAAA
+||eset.systems^$dnstype=AAAA
+||esetsoftware.com^$dnstype=AAAA
 ||esg.ac.uk^$dnstype=AAAA
 ||esg.t91y.com^$dnstype=AAAA
 ||eshcru.ac.uk^$dnstype=AAAA
@@ -10482,6 +10499,7 @@
 ||f-dro1d.org^$dnstype=AAAA
 ||f-droid.com^$dnstype=AAAA
 ||f-droid.org^$dnstype=AAAA
+||f-secure.com^$dnstype=AAAA
 ||f2pool.com^$dnstype=AAAA
 ||f3b7q2p3.ssl.hwcdn.net^$dnstype=AAAA
 ||f5.si^$dnstype=AAAA
@@ -11160,6 +11178,7 @@
 ||fifastreet3.com^$dnstype=AAAA
 ||fife.ac.uk^$dnstype=AAAA
 ||fifeglen.ac.uk^$dnstype=AAAA
+||fifthns.com^$dnstype=AAAA
 ||fiftythree.com^$dnstype=AAAA
 ||fightforux.com^$dnstype=AAAA
 ||figma.com^$dnstype=AAAA
@@ -11326,6 +11345,7 @@
 ||firstchancesfife.ac.uk^$dnstype=AAAA
 ||firstfivefollowers.com^$dnstype=AAAA
 ||firstgynexam.com^$dnstype=AAAA
+||firstns.cc^$dnstype=AAAA
 ||firstory.me^$dnstype=AAAA
 ||firstpelvicexam.com^$dnstype=AAAA
 ||firstpost.com^$dnstype=AAAA
@@ -11521,6 +11541,7 @@
 ||fountmedia.io^$dnstype=AAAA
 ||fourface.nodesnoop.com^$dnstype=AAAA
 ||fourthinternational.org^$dnstype=AAAA
+||fourthns.systems^$dnstype=AAAA
 ||fox-corporation.com^$dnstype=AAAA
 ||fox-news.com^$dnstype=AAAA
 ||fox.com^$dnstype=AAAA
@@ -14308,6 +14329,7 @@
 ||hotbed.ac.uk^$dnstype=AAAA
 ||hotcandyland.com^$dnstype=AAAA
 ||hotcool.tw^$dnstype=AAAA
+||hotcrp.com^$dnstype=AAAA
 ||hotcuckoldwife.com^$dnstype=AAAA
 ||hotcumporn.com^$dnstype=AAAA
 ||hotels.cn^$dnstype=AAAA
@@ -16827,6 +16849,7 @@
 ||karmapa.org^$dnstype=AAAA
 ||karupsha.com^$dnstype=AAAA
 ||karupspc.com^$dnstype=AAAA
+||kaspersky.com^$dnstype=AAAA
 ||kastatic.org^$dnstype=AAAA
 ||kat.cr^$dnstype=AAAA
 ||katestube.com^$dnstype=AAAA
@@ -18665,6 +18688,7 @@
 ||mca.ac.uk^$dnstype=AAAA
 ||mcadforums.com^$dnstype=AAAA
 ||mcaf.ee^$dnstype=AAAA
+||mcafee.com^$dnstype=AAAA
 ||mcb.com.mm^$dnstype=AAAA
 ||mcc.ac.uk^$dnstype=AAAA
 ||mcd-holdings.co.jp^$dnstype=AAAA
@@ -21332,6 +21356,7 @@
 ||northumberland-acl.ac.uk^$dnstype=AAAA
 ||northumberland.ac.uk^$dnstype=AAAA
 ||northumbria.ac.uk^$dnstype=AAAA
+||norton.com^$dnstype=AAAA
 ||norwichresearchpark.ac.uk^$dnstype=AAAA
 ||nos.nl^$dnstype=AAAA
 ||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
@@ -22096,6 +22121,7 @@
 ||openmaps.org^$dnstype=AAAA
 ||openreality.com^$dnstype=AAAA
 ||openresty.org^$dnstype=AAAA
+||openreview.net^$dnstype=AAAA
 ||openrouter.ai^$dnstype=AAAA
 ||opensciencelab.ac.uk^$dnstype=AAAA
 ||opensciencelaboratory.ac.uk^$dnstype=AAAA
@@ -22422,6 +22448,7 @@
 ||pandanet-igs.com^$dnstype=AAAA
 ||pandapow.co^$dnstype=AAAA
 ||pandapow.net^$dnstype=AAAA
+||pandasecurity.com^$dnstype=AAAA
 ||pandavpn-jp.com^$dnstype=AAAA
 ||pandavpnpro.com^$dnstype=AAAA
 ||pandora.com^$dnstype=AAAA
@@ -25590,6 +25617,7 @@
 ||secomtrust.net^$dnstype=AAAA
 ||second-ns.com^$dnstype=AAAA
 ||second-ns.de^$dnstype=AAAA
+||secondns.at^$dnstype=AAAA
 ||secret-flirt-hub.com^$dnstype=AAAA
 ||secretbabes.co.uk^$dnstype=AAAA
 ||secretchina.com^$dnstype=AAAA
@@ -26212,6 +26240,7 @@
 ||siege-amazon.com^$dnstype=AAAA
 ||sierrafriendsoftibet.org^$dnstype=AAAA
 ||sifa.ac.uk^$dnstype=AAAA
+||sigcomm.org^$dnstype=AAAA
 ||sigma-cetl.ac.uk^$dnstype=AAAA
 ||sigma-network.ac.uk^$dnstype=AAAA
 ||sigmoidoscopeexam.com^$dnstype=AAAA
@@ -26227,6 +26256,7 @@
 ||signalprocessingsociety.org^$dnstype=AAAA
 ||signalr.net^$dnstype=AAAA
 ||signalusers.org^$dnstype=AAAA
+||sigops.org^$dnstype=AAAA
 ||sihe.ac.uk^$dnstype=AAAA
 ||sijihuisuo.club^$dnstype=AAAA
 ||sijihuisuo.com^$dnstype=AAAA
@@ -28467,6 +28497,7 @@
 ||thinkwales.ac.uk^$dnstype=AAAA
 ||thinkwithgoogle.com^$dnstype=AAAA
 ||thirdmill.org^$dnstype=AAAA
+||thirdns.de^$dnstype=AAAA
 ||thisav.com^$dnstype=AAAA
 ||thisav.org^$dnstype=AAAA
 ||thisismoney.co.uk^$dnstype=AAAA
@@ -29912,6 +29943,7 @@
 ||usefreevpn.com^$dnstype=AAAA
 ||uselessjunk.com^$dnstype=AAAA
 ||usembassy.gov^$dnstype=AAAA
+||usenix.org^$dnstype=AAAA
 ||useplannr.com^$dnstype=AAAA
 ||userapi.com^$dnstype=AAAA
 ||usercontent.dev^$dnstype=AAAA
