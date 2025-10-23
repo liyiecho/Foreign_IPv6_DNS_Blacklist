@@ -7834,6 +7834,7 @@
 ||d36nr0u3xmc4mm.cloudfront.net^$dnstype=AAAA
 ||d3aqoihi2n8ty8.cloudfront.net^$dnstype=AAAA
 ||d3c27h4odz752x.cloudfront.net^$dnstype=AAAA
+||d3r7nsslvs6aaf.cloudfront.net^$dnstype=AAAA
 ||d3vd9lfkzbru3h.cloudfront.net^$dnstype=AAAA
 ||d6d4ismr40iw.cloudfront.net^$dnstype=AAAA
 ||d6tizftlrpuof.cloudfront.net^$dnstype=AAAA
@@ -7974,6 +7975,7 @@
 ||datalabour.com^$dnstype=AAAA
 ||dataliberation.org^$dnstype=AAAA
 ||datalore.io^$dnstype=AAAA
+||datarouter.apps.netherrealm.com^$dnstype=AAAA
 ||datasheets360.com^$dnstype=AAAA
 ||datashield.ac.uk^$dnstype=AAAA
 ||datasig.ac.uk^$dnstype=AAAA
@@ -8403,6 +8405,7 @@
 ||deviantclip.com^$dnstype=AAAA
 ||device-manager.us^$dnstype=AAAA
 ||devilsfilm.com^$dnstype=AAAA
+||devin.ai^$dnstype=AAAA
 ||devio.us^$dnstype=AAAA
 ||devm2m.com^$dnstype=AAAA
 ||devolution.ac.uk^$dnstype=AAAA
@@ -8854,6 +8857,7 @@
 ||dockerhub.com^$dnstype=AAAA
 ||dockerizer.com^$dnstype=AAAA
 ||dockerstatic.com^$dnstype=AAAA
+||dockerstatus.com^$dnstype=AAAA
 ||docleradn.com^$dnstype=AAAA
 ||doclercdn.com^$dnstype=AAAA
 ||docs.cfw.lbyczf.com^$dnstype=AAAA
@@ -11899,6 +11903,7 @@
 ||freindfeed.com^$dnstype=AAAA
 ||frenchhistorysociety.ac.uk^$dnstype=AAAA
 ||frescolib.org^$dnstype=AAAA
+||freshchat.com^$dnstype=AAAA
 ||freshporno.net^$dnstype=AAAA
 ||freshscat.com^$dnstype=AAAA
 ||freudbox.com^$dnstype=AAAA
@@ -17033,6 +17038,7 @@
 ||kinmen.org.tw^$dnstype=AAAA
 ||kinmen.travel^$dnstype=AAAA
 ||kinokuniya.com^$dnstype=AAAA
+||kinopoisk.ru^$dnstype=AAAA
 ||kir.jp^$dnstype=AAAA
 ||kir2kos.net^$dnstype=AAAA
 ||kirbysepicyarn.com^$dnstype=AAAA
@@ -20714,6 +20720,7 @@
 ||netflixdnstest9.com^$dnstype=AAAA
 ||netflixinvestor.com^$dnstype=AAAA
 ||netflixtechblog.com^$dnstype=AAAA
+||netherrealm.com^$dnstype=AAAA
 ||netlab.ac.uk^$dnstype=AAAA
 ||netlify.app^$dnstype=AAAA
 ||netlify.com^$dnstype=AAAA
@@ -27428,6 +27435,8 @@
 ||straightpornstuds.com^$dnstype=AAAA
 ||straitstimes.com^$dnstype=AAAA
 ||straitstimes.com.sg^$dnstype=AAAA
+||straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com^$dnstype=AAAA
+||straitsx.com^$dnstype=AAAA
 ||stran.ac.uk^$dnstype=AAAA
 ||stranabg.com^$dnstype=AAAA
 ||straplessdildo.com^$dnstype=AAAA
@@ -28408,6 +28417,7 @@
 ||thepiratebay.ee^$dnstype=AAAA
 ||thepiratebay.org^$dnstype=AAAA
 ||theplatform.com^$dnstype=AAAA
+||thepoizon.ru^$dnstype=AAAA
 ||theporn.cc^$dnstype=AAAA
 ||thepornarea.com^$dnstype=AAAA
 ||thepornbest.com^$dnstype=AAAA
@@ -31177,6 +31187,7 @@
 ||wariolandshakeit.com^$dnstype=AAAA
 ||wariowarediy.com^$dnstype=AAAA
 ||warkscol.ac.uk^$dnstype=AAAA
+||warnerbrosgames.com^$dnstype=AAAA
 ||warnermediacdn.com^$dnstype=AAAA
 ||warp.plus^$dnstype=AAAA
 ||warr.ac.uk^$dnstype=AAAA
@@ -31225,9 +31236,13 @@
 ||waybig.com^$dnstype=AAAA
 ||waymo.com^$dnstype=AAAA
 ||waze.com^$dnstype=AAAA
+||wb-agora-hydra-file-storage-k1.s3.amazonaws.com^$dnstype=AAAA
+||wbagora.com^$dnstype=AAAA
 ||wballiance.com^$dnstype=AAAA
 ||wbd.ms^$dnstype=AAAA
 ||wbdnbo.net^$dnstype=AAAA
+||wbgames.com^$dnstype=AAAA
+||wbinsights.com^$dnstype=AAAA
 ||wbs.ac.uk^$dnstype=AAAA
 ||wbvm4s.com^$dnstype=AAAA
 ||wcc.ac.uk^$dnstype=AAAA
