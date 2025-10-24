@@ -1598,6 +1598,7 @@
 ||alt6-mtalk.google.com^$dnstype=AAAA
 ||alt7-mtalk.google.com^$dnstype=AAAA
 ||alt8-mtalk.google.com^$dnstype=AAAA
+||altera.co.jp^$dnstype=AAAA
 ||altera.com^$dnstype=AAAA
 ||alteraforum.com^$dnstype=AAAA
 ||alteraforums.com^$dnstype=AAAA
@@ -6852,6 +6853,7 @@
 ||cloudflarepartners.com^$dnstype=AAAA
 ||cloudflareportal.com^$dnstype=AAAA
 ||cloudflarepreview.com^$dnstype=AAAA
+||cloudflareregistrar.com^$dnstype=AAAA
 ||cloudflareresolve.com^$dnstype=AAAA
 ||cloudflaressl.com^$dnstype=AAAA
 ||cloudflarestatus.com^$dnstype=AAAA
@@ -7237,6 +7239,7 @@
 ||comicuniverse.org^$dnstype=AAAA
 ||comixzilla.com^$dnstype=AAAA
 ||comm-coll-hackney.ac.uk^$dnstype=AAAA
+||comm-verse.com^$dnstype=AAAA
 ||commandandconquer.com^$dnstype=AAAA
 ||commandarms.com^$dnstype=AAAA
 ||comments.app^$dnstype=AAAA
@@ -8778,6 +8781,7 @@
 ||dmed.technology^$dnstype=AAAA
 ||dmgmediaprivacy.co.uk^$dnstype=AAAA
 ||dmhy.org^$dnstype=AAAA
+||dml-lang.org^$dnstype=AAAA
 ||dml.ac.uk^$dnstype=AAAA
 ||dmm-extension.com^$dnstype=AAAA
 ||dmm.co.jp^$dnstype=AAAA
@@ -9673,6 +9677,7 @@
 ||ebsco.com^$dnstype=AAAA
 ||ebsl.ac.uk^$dnstype=AAAA
 ||ebslondon.ac.uk^$dnstype=AAAA
+||ebuyer.com^$dnstype=AAAA
 ||ebuyheadphones.com^$dnstype=AAAA
 ||eca.ac.uk^$dnstype=AAAA
 ||ecampus-leeds.ac.uk^$dnstype=AAAA
@@ -11738,6 +11743,11 @@
 ||fracebook.com^$dnstype=AAAA
 ||fragment.com^$dnstype=AAAA
 ||fragrancebay.com^$dnstype=AAAA
+||framer.com^$dnstype=AAAA
+||framer.website^$dnstype=AAAA
+||framercanvas.com^$dnstype=AAAA
+||framerstatic.com^$dnstype=AAAA
+||framerusercontent.com^$dnstype=AAAA
 ||francecasquebeatssolde.com^$dnstype=AAAA
 ||francemail.com^$dnstype=AAAA
 ||francistowne.ac.uk^$dnstype=AAAA
@@ -13216,6 +13226,7 @@
 ||grannytube.net^$dnstype=AAAA
 ||grantham.ac.uk^$dnstype=AAAA
 ||grantleyhall.ac.uk^$dnstype=AAAA
+||granulate.io^$dnstype=AAAA
 ||graph.org^$dnstype=AAAA
 ||graphenecentre.ac.uk^$dnstype=AAAA
 ||graphengine.io^$dnstype=AAAA
@@ -13414,6 +13425,7 @@
 ||hackerguardian.com^$dnstype=AAAA
 ||hackfacebook.com^$dnstype=AAAA
 ||hackfacebookid.com^$dnstype=AAAA
+||hackharassment.com^$dnstype=AAAA
 ||hacklang.org^$dnstype=AAAA
 ||hackmd.io^$dnstype=AAAA
 ||hackney.ac.uk^$dnstype=AAAA
@@ -15520,6 +15532,7 @@
 ||insiderdevtour.com^$dnstype=AAAA
 ||insiderintelligence.com^$dnstype=AAAA
 ||insidevoa.com^$dnstype=AAAA
+||insight.tech^$dnstype=AAAA
 ||inspire-dtp.ac.uk^$dnstype=AAAA
 ||inspiretrust.ac.uk^$dnstype=AAAA
 ||inst-of-oceanographic-sci.ac.uk^$dnstype=AAAA
@@ -15617,6 +15630,7 @@
 ||intel.ch^$dnstype=AAAA
 ||intel.cl^$dnstype=AAAA
 ||intel.cm^$dnstype=AAAA
+||intel.co^$dnstype=AAAA
 ||intel.co.ae^$dnstype=AAAA
 ||intel.co.cr^$dnstype=AAAA
 ||intel.co.id^$dnstype=AAAA
@@ -15648,6 +15662,7 @@
 ||intel.cu^$dnstype=AAAA
 ||intel.cz^$dnstype=AAAA
 ||intel.de^$dnstype=AAAA
+||intel.dev^$dnstype=AAAA
 ||intel.dk^$dnstype=AAAA
 ||intel.dz^$dnstype=AAAA
 ||intel.ec^$dnstype=AAAA
@@ -15660,6 +15675,7 @@
 ||intel.ga^$dnstype=AAAA
 ||intel.gd^$dnstype=AAAA
 ||intel.ge^$dnstype=AAAA
+||intel.gg^$dnstype=AAAA
 ||intel.gl^$dnstype=AAAA
 ||intel.gm^$dnstype=AAAA
 ||intel.gr^$dnstype=AAAA
@@ -15670,6 +15686,7 @@
 ||intel.hn^$dnstype=AAAA
 ||intel.ht^$dnstype=AAAA
 ||intel.hu^$dnstype=AAAA
+||intel.id^$dnstype=AAAA
 ||intel.ie^$dnstype=AAAA
 ||intel.in^$dnstype=AAAA
 ||intel.io^$dnstype=AAAA
@@ -15766,7 +15783,10 @@
 ||intelnet.component^$dnstype=AAAA
 ||intelplay.com^$dnstype=AAAA
 ||intelquark.com^$dnstype=AAAA
+||intelrealsense.cn^$dnstype=AAAA
 ||intelrealsense.com^$dnstype=AAAA
+||intelrealsense.net^$dnstype=AAAA
+||intelreimbursement.com^$dnstype=AAAA
 ||intelrxt.com^$dnstype=AAAA
 ||intelsalestraining.com^$dnstype=AAAA
 ||intelsecurity.com^$dnstype=AAAA
@@ -18274,6 +18294,7 @@
 ||mahsc.ac.uk^$dnstype=AAAA
 ||maiio.net^$dnstype=AAAA
 ||mail-archive.com^$dnstype=AAAA
+||mail.com^$dnstype=AAAA
 ||mail.me.com^$dnstype=AAAA
 ||mail.ru^$dnstype=AAAA
 ||mailchimp.com^$dnstype=AAAA
@@ -18780,6 +18801,7 @@
 ||meawallet.app^$dnstype=AAAA
 ||meb.gov.mm^$dnstype=AAAA
 ||mebank.ir^$dnstype=AAAA
+||meccontroller.com^$dnstype=AAAA
 ||meddyliwchamgymru.ac.uk^$dnstype=AAAA
 ||mede-innovation.ac.uk^$dnstype=AAAA
 ||medev.ac.uk^$dnstype=AAAA
@@ -19838,6 +19860,7 @@
 ||movetv.com^$dnstype=AAAA
 ||movidius.com^$dnstype=AAAA
 ||movidius.net^$dnstype=AAAA
+||movidius.org^$dnstype=AAAA
 ||movie-erog.com^$dnstype=AAAA
 ||movie1000.xyz^$dnstype=AAAA
 ||moviefap.com^$dnstype=AAAA
@@ -21996,6 +22019,7 @@
 ||one.one.one.one^$dnstype=AAAA
 ||one889.app^$dnstype=AAAA
 ||oneapi.com^$dnstype=AAAA
+||oneapi.io^$dnstype=AAAA
 ||onedinesfree.com^$dnstype=AAAA
 ||onedrive.co^$dnstype=AAAA
 ||onedrive.co.uk^$dnstype=AAAA
@@ -22107,6 +22131,7 @@
 ||openapiservice.com^$dnstype=AAAA
 ||openart.ai^$dnstype=AAAA
 ||openbase.com^$dnstype=AAAA
+||opencas.io^$dnstype=AAAA
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
@@ -22152,6 +22177,7 @@
 ||opentranslatorstothings.org^$dnstype=AAAA
 ||openuniversity.ac.uk^$dnstype=AAAA
 ||openurl.ac.uk^$dnstype=AAAA
+||openvino.ai^$dnstype=AAAA
 ||openvinotoolkit.org^$dnstype=AAAA
 ||openvpn.net^$dnstype=AAAA
 ||openvpn.org^$dnstype=AAAA
@@ -22520,6 +22546,7 @@
 ||passion.com^$dnstype=AAAA
 ||passiontimes.hk^$dnstype=AAAA
 ||passport.net^$dnstype=AAAA
+||passwordday.org^$dnstype=AAAA
 ||pastahealth.com^$dnstype=AAAA
 ||paste.ee^$dnstype=AAAA
 ||pastebin.com^$dnstype=AAAA
@@ -23216,6 +23243,8 @@
 ||pm.me^$dnstype=AAAA
 ||pmatehunter.com^$dnstype=AAAA
 ||pmates.com^$dnstype=AAAA
+||pmem.org^$dnstype=AAAA
+||pmem.us^$dnstype=AAAA
 ||pml.ac.uk^$dnstype=AAAA
 ||pms.ac.uk^$dnstype=AAAA
 ||po18.tw^$dnstype=AAAA
@@ -23879,6 +23908,7 @@
 ||projectapex.com^$dnstype=AAAA
 ||projectara.com^$dnstype=AAAA
 ||projectbaseline.com^$dnstype=AAAA
+||projectcircuitbreaker.com^$dnstype=AAAA
 ||projecteuclid.org^$dnstype=AAAA
 ||projectjav.com^$dnstype=AAAA
 ||projectmurphy.net^$dnstype=AAAA
@@ -24673,6 +24703,7 @@
 ||rems-cdt.ac.uk^$dnstype=AAAA
 ||renaissanceskin.ac.uk^$dnstype=AAAA
 ||renchead.com^$dnstype=AAAA
+||renderingtoolkit.org^$dnstype=AAAA
 ||renderos.com^$dnstype=AAAA
 ||reneerossvideos.com^$dnstype=AAAA
 ||renminbao.com^$dnstype=AAAA
@@ -26264,11 +26295,14 @@
 ||signalr.net^$dnstype=AAAA
 ||signalusers.org^$dnstype=AAAA
 ||sigops.org^$dnstype=AAAA
+||sigopt.com^$dnstype=AAAA
 ||sihe.ac.uk^$dnstype=AAAA
 ||sijihuisuo.club^$dnstype=AAAA
 ||sijihuisuo.com^$dnstype=AAAA
 ||sikh-uni.ac.uk^$dnstype=AAAA
 ||sikiswap.com^$dnstype=AAAA
+||silicon-mobility.com^$dnstype=AAAA
+||siliconmobility.com^$dnstype=AAAA
 ||silkbook.com^$dnstype=AAAA
 ||silkengirl.com^$dnstype=AAAA
 ||silverchair-cdn.com^$dnstype=AAAA
@@ -26501,11 +26535,17 @@
 ||small-angle.ac.uk^$dnstype=AAAA
 ||smallteenpussy.com^$dnstype=AAAA
 ||smart-edge.com^$dnstype=AAAA
+||smart-edge.info^$dnstype=AAAA
+||smart-edge.io^$dnstype=AAAA
+||smart-edge.net^$dnstype=AAAA
+||smart-edge.org^$dnstype=AAAA
+||smart-edge.systems^$dnstype=AAAA
 ||smart.ac.uk^$dnstype=AAAA
 ||smartcommunitiescoalition.com^$dnstype=AAAA
 ||smartcommunitiescoalition.org^$dnstype=AAAA
 ||smartdnsoutside.com^$dnstype=AAAA
 ||smartdnsproxy.com^$dnstype=AAAA
+||smartedge.info^$dnstype=AAAA
 ||smartexpos.com^$dnstype=AAAA
 ||smartfea.com^$dnstype=AAAA
 ||smarthide.com^$dnstype=AAAA
@@ -26982,6 +27022,7 @@
 ||spizoo.com^$dnstype=AAAA
 ||splatoon2tournament.com^$dnstype=AAAA
 ||splint-cetl.ac.uk^$dnstype=AAAA
+||splunk.com^$dnstype=AAAA
 ||spo-msedge.net^$dnstype=AAAA
 ||spokenword.ac.uk^$dnstype=AAAA
 ||sponichi.co.jp^$dnstype=AAAA
@@ -27413,6 +27454,8 @@
 ||stoporganharvesting.org^$dnstype=AAAA
 ||stoptibetcrisis.net^$dnstype=AAAA
 ||storage.yandex.net^$dnstype=AAAA
+||storageclassmemory.io^$dnstype=AAAA
+||storageclassmemory.org^$dnstype=AAAA
 ||storagenewsletter.com^$dnstype=AAAA
 ||storcuram.ac.uk^$dnstype=AAAA
 ||store-bridgestonesports.com^$dnstype=AAAA
@@ -28547,6 +28590,7 @@
 ||thothub.to^$dnstype=AAAA
 ||thottok.com^$dnstype=AAAA
 ||thotvids.com^$dnstype=AAAA
+||threadingbuildingblocks.org^$dnstype=AAAA
 ||threadreaderapp.com^$dnstype=AAAA
 ||threads.com^$dnstype=AAAA
 ||threads.net^$dnstype=AAAA
@@ -29641,10 +29685,13 @@
 ||uhsl.ac.uk^$dnstype=AAAA
 ||uhtube.me^$dnstype=AAAA
 ||uhub.com^$dnstype=AAAA
+||ui-portal.de^$dnstype=AAAA
 ||ui.com^$dnstype=AAAA
+||uicdn.com^$dnstype=AAAA
 ||uighur.narod.ru^$dnstype=AAAA
 ||uighur.nl^$dnstype=AAAA
 ||uighurbiz.net^$dnstype=AAAA
+||uimserv.net^$dnstype=AAAA
 ||uiporn.com^$dnstype=AAAA
 ||uisp.com^$dnstype=AAAA
 ||ujapanesesex.com^$dnstype=AAAA
@@ -29811,6 +29858,7 @@
 ||universalorlando.com^$dnstype=AAAA
 ||universalpictures.com^$dnstype=AAAA
 ||universalpicturesinternational.com^$dnstype=AAAA
+||universalscalablefirmware.org^$dnstype=AAAA
 ||universalstudioshollywood.com^$dnstype=AAAA
 ||universities-scotland.ac.uk^$dnstype=AAAA
 ||universitiesengland.ac.uk^$dnstype=AAAA
