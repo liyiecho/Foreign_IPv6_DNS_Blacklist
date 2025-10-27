@@ -13398,6 +13398,7 @@
 ||gzm.tv^$dnstype=AAAA
 ||gzone-anime.info^$dnstype=AAAA
 ||h-cdn.com^$dnstype=AAAA
+||h-chan.me^$dnstype=AAAA
 ||h-china.org^$dnstype=AAAA
 ||h-comic.com^$dnstype=AAAA
 ||h-doujinshi.xyz^$dnstype=AAAA
@@ -13767,6 +13768,8 @@
 ||hentai-ani.me^$dnstype=AAAA
 ||hentai-archive.com^$dnstype=AAAA
 ||hentai-books.com^$dnstype=AAAA
+||hentai-chan.com^$dnstype=AAAA
+||hentai-chan.live^$dnstype=AAAA
 ||hentai-cosplays.com^$dnstype=AAAA
 ||hentai-covers.site^$dnstype=AAAA
 ||hentai-eroanime.net^$dnstype=AAAA
@@ -13812,6 +13815,8 @@
 ||hentaibar.com^$dnstype=AAAA
 ||hentaiblue.com^$dnstype=AAAA
 ||hentaibros.com^$dnstype=AAAA
+||hentaichan.live^$dnstype=AAAA
+||hentaichan.me^$dnstype=AAAA
 ||hentaicity.com^$dnstype=AAAA
 ||hentaicloud.com^$dnstype=AAAA
 ||hentaiclub.net^$dnstype=AAAA
@@ -15370,6 +15375,7 @@
 ||imgix.com^$dnstype=AAAA
 ||imgix.net^$dnstype=AAAA
 ||imgmega.com^$dnstype=AAAA
+||imgschan.xyz^$dnstype=AAAA
 ||imgsmail.ru^$dnstype=AAAA
 ||imgur.com^$dnstype=AAAA
 ||imgur.io^$dnstype=AAAA
@@ -30852,6 +30858,7 @@
 ||voicettank.org^$dnstype=AAAA
 ||voila.ac.uk^$dnstype=AAAA
 ||vokevr.com^$dnstype=AAAA
+||vol.moe^$dnstype=AAAA
 ||volstudy.ac.uk^$dnstype=AAAA
 ||volvo-truck.nl^$dnstype=AAAA
 ||volvo.ca^$dnstype=AAAA
@@ -31150,6 +31157,7 @@
 ||w.idaiwan.com^$dnstype=AAAA
 ||w.org^$dnstype=AAAA
 ||w.wiki^$dnstype=AAAA
+||w0512.com^$dnstype=AAAA
 ||w3.org^$dnstype=AAAA
 ||w3s.link^$dnstype=AAAA
 ||w3schools.com^$dnstype=AAAA
