@@ -8083,6 +8083,7 @@
 ||deeper.com^$dnstype=AAAA
 ||deepfake-porn.com^$dnstype=AAAA
 ||deepfakeporn.net^$dnstype=AAAA
+||deepflood.com^$dnstype=AAAA
 ||deepfreeze.co.uk^$dnstype=AAAA
 ||deepfreeze.com^$dnstype=AAAA
 ||deepfreeze.com.br^$dnstype=AAAA
@@ -32496,6 +32497,7 @@
 ||xshaker.net^$dnstype=AAAA
 ||xshr.online^$dnstype=AAAA
 ||xsijishe.com^$dnstype=AAAA
+||xsijishe.net^$dnstype=AAAA
 ||xskywalker.com^$dnstype=AAAA
 ||xskywalker.net^$dnstype=AAAA
 ||xslist.org^$dnstype=AAAA
