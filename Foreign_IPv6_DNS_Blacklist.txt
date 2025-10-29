@@ -16657,6 +16657,7 @@
 ||joinpeertube.org^$dnstype=AAAA
 ||joins.com^$dnstype=AAAA
 ||joinside.org^$dnstype=AAAA
+||joinsquad.com^$dnstype=AAAA
 ||joinup.ac.uk^$dnstype=AAAA
 ||jokerlu-go.buzz^$dnstype=AAAA
 ||jokerlu.asia^$dnstype=AAAA
@@ -21914,6 +21915,8 @@
 ||offresspecialesbmw.ca^$dnstype=AAAA
 ||offrezdesipods.com^$dnstype=AAAA
 ||offshorerenewables.ac.uk^$dnstype=AAAA
+||offworldindustries.com^$dnstype=AAAA
+||offworldindustries.net^$dnstype=AAAA
 ||ofile.org^$dnstype=AAAA
 ||ofs.ac.uk^$dnstype=AAAA
 ||ogakikyoritsu.co.jp^$dnstype=AAAA
