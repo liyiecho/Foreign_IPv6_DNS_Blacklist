@@ -688,6 +688,7 @@
 ||aanaan.com^$dnstype=AAAA
 ||aapl.tw^$dnstype=AAAA
 ||aaschool.ac.uk^$dnstype=AAAA
+||aastocks.com^$dnstype=AAAA
 ||aau.ac.uk^$dnstype=AAAA
 ||aave.com^$dnstype=AAAA
 ||aavs.xyz^$dnstype=AAAA
@@ -6573,6 +6574,7 @@
 ||chromeenterprise.google^$dnstype=AAAA
 ||chromeexperiments.com^$dnstype=AAAA
 ||chromeos.dev^$dnstype=AAAA
+||chromeos.google^$dnstype=AAAA
 ||chromercise.com^$dnstype=AAAA
 ||chromestatus.com^$dnstype=AAAA
 ||chromium.org^$dnstype=AAAA
@@ -12366,6 +12368,7 @@
 ||gemfire.net^$dnstype=AAAA
 ||gemfury.com^$dnstype=AAAA
 ||gemini.com^$dnstype=AAAA
+||gemini.google^$dnstype=AAAA
 ||gen.lib.rus.ec^$dnstype=AAAA
 ||gen.tr^$dnstype=AAAA
 ||gen2.ac.uk^$dnstype=AAAA
@@ -12850,6 +12853,7 @@
 ||goodsrv.de^$dnstype=AAAA
 ||goodtv.com.tw^$dnstype=AAAA
 ||goodtv.tv^$dnstype=AAAA
+||goody25.com^$dnstype=AAAA
 ||goofind.com^$dnstype=AAAA
 ||googel.com^$dnstype=AAAA
 ||googel.de^$dnstype=AAAA
@@ -13673,6 +13677,7 @@
 ||headset987.com^$dnstype=AAAA
 ||headteachers.ac.uk^$dnstype=AAAA
 ||health.ac.uk^$dnstype=AAAA
+||health.google^$dnstype=AAAA
 ||health026.click^$dnstype=AAAA
 ||healthcare.ac.uk^$dnstype=AAAA
 ||healthcarecareeronline.com^$dnstype=AAAA
@@ -14170,6 +14175,7 @@
 ||hklft.com^$dnstype=AAAA
 ||hklts.org.hk^$dnstype=AAAA
 ||hkmap.live^$dnstype=AAAA
+||hkong.hk^$dnstype=AAAA
 ||hkopentv.com^$dnstype=AAAA
 ||hkpeanut.com^$dnstype=AAAA
 ||hkporn.net^$dnstype=AAAA
@@ -21400,6 +21406,7 @@
 ||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
 ||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
 ||note.com^$dnstype=AAAA
+||notebooklm.google^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||notify.dropboxapi.com^$dnstype=AAAA
 ||notify.ppy.sh^$dnstype=AAAA
@@ -23179,6 +23186,7 @@
 ||play-bmm.shop^$dnstype=AAAA
 ||play-bmmer.buzz^$dnstype=AAAA
 ||play-edge.itunes.apple.com^$dnstype=AAAA
+||play.google^$dnstype=AAAA
 ||play4free.com^$dnstype=AAAA
 ||playapex.com^$dnstype=AAAA
 ||playartifact.com^$dnstype=AAAA
@@ -26284,6 +26292,7 @@
 ||side.ac.uk^$dnstype=AAAA
 ||sidelinesnews.com^$dnstype=AAAA
 ||sidelinessportseatery.com^$dnstype=AAAA
+||sidewalklabs.com^$dnstype=AAAA
 ||sie.ac.uk^$dnstype=AAAA
 ||siege-amazon.com^$dnstype=AAAA
 ||sierrafriendsoftibet.org^$dnstype=AAAA
@@ -27810,6 +27819,7 @@
 ||sweetsinner.com^$dnstype=AAAA
 ||swegold.com^$dnstype=AAAA
 ||sweltec.ac.uk^$dnstype=AAAA
+||swiffy.co.za^$dnstype=AAAA
 ||swift.ac.uk^$dnstype=AAAA
 ||swift.org^$dnstype=AAAA
 ||swiftbank.info^$dnstype=AAAA
