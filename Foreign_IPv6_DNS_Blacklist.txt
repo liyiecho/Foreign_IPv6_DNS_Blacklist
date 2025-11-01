@@ -8768,6 +8768,7 @@
 ||dlib.eastview.com^$dnstype=AAAA
 ||dlive.tv^$dnstype=AAAA
 ||dlmobilegarena-a.akamaihd.net^$dnstype=AAAA
+||dln1.ncdn.ec^$dnstype=AAAA
 ||dls.ac.uk^$dnstype=AAAA
 ||dlsite.com^$dnstype=AAAA
 ||dlsite.com.tw^$dnstype=AAAA
@@ -20550,6 +20551,7 @@
 ||ncccs.ac.uk^$dnstype=AAAA
 ||ncclondon.ac.uk^$dnstype=AAAA
 ||nccwatch.org.tw^$dnstype=AAAA
+||ncdn.ec^$dnstype=AAAA
 ||ncdoncaster.ac.uk^$dnstype=AAAA
 ||nceo.ac.uk^$dnstype=AAAA
 ||ncess.ac.uk^$dnstype=AAAA
