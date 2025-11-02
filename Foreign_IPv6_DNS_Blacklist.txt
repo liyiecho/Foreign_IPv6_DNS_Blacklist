@@ -15394,6 +15394,7 @@
 ||imlab.ac.uk^$dnstype=AAAA
 ||imlive.co^$dnstype=AAAA
 ||imlive.com^$dnstype=AAAA
+||immersivetranslate.com^$dnstype=AAAA
 ||immidio.com^$dnstype=AAAA
 ||immigration.gov.tw^$dnstype=AAAA
 ||immoral.jp^$dnstype=AAAA
@@ -28239,6 +28240,7 @@
 ||temenos.ac.uk^$dnstype=AAAA
 ||temetube.xyz^$dnstype=AAAA
 ||tempusuk.ac.uk^$dnstype=AAAA
+||temu.com^$dnstype=AAAA
 ||tenacy.com^$dnstype=AAAA
 ||tenbyfotolia.com^$dnstype=AAAA
 ||tencentcos.cn^$dnstype=AAAA
