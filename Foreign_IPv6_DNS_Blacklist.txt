@@ -31534,6 +31534,7 @@
 ||whatsonweibo.com^$dnstype=AAAA
 ||whatthefox.com^$dnstype=AAAA
 ||whatworksscotland.ac.uk^$dnstype=AAAA
+||whcdn.net^$dnstype=AAAA
 ||whcgroup.ac.uk^$dnstype=AAAA
 ||wheatseeds.org^$dnstype=AAAA
 ||wheb.ac.uk^$dnstype=AAAA
