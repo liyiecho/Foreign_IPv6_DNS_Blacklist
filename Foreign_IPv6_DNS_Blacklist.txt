@@ -20872,7 +20872,6 @@
 ||news.mt.co.kr^$dnstype=AAAA
 ||news.nationalgeographic.com^$dnstype=AAAA
 ||news.net.au^$dnstype=AAAA
-||news.now.com^$dnstype=AAAA
 ||news.seehua.com^$dnstype=AAAA
 ||news.sina.com.hk^$dnstype=AAAA
 ||news.sinchew.com.my^$dnstype=AAAA
@@ -32270,7 +32269,6 @@
 ||xfemaledom.com^$dnstype=AAAA
 ||xfiles.to^$dnstype=AAAA
 ||xfinity.com^$dnstype=AAAA
-||xfm.pp.ru^$dnstype=AAAA
 ||xfockers.com^$dnstype=AAAA
 ||xfreehd.com^$dnstype=AAAA
 ||xfuckonline.com^$dnstype=AAAA
