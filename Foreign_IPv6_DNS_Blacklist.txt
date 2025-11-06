@@ -11183,6 +11183,7 @@
 ||fi11tv1.com^$dnstype=AAAA
 ||fibank.bg^$dnstype=AAAA
 ||fibre-diffraction.ac.uk^$dnstype=AAAA
+||ficbook.net^$dnstype=AAAA
 ||ficeboock.com^$dnstype=AAAA
 ||ficm.ac.uk^$dnstype=AAAA
 ||fictionmania.tv^$dnstype=AAAA
@@ -12514,6 +12515,8 @@
 ||ggoogle.com^$dnstype=AAAA
 ||ggpds.com^$dnstype=AAAA
 ||ggpht.com^$dnstype=AAAA
+||ggsel.com^$dnstype=AAAA
+||ggsel.net^$dnstype=AAAA
 ||ggsrv.com^$dnstype=AAAA
 ||ggssl.com^$dnstype=AAAA
 ||gh.io^$dnstype=AAAA
@@ -19522,10 +19525,12 @@
 ||misa-prod.s3.ap-northeast-1.amazonaws.com^$dnstype=AAAA
 ||misoc.ac.uk^$dnstype=AAAA
 ||missav.ai^$dnstype=AAAA
+||missav.app^$dnstype=AAAA
 ||missav.com^$dnstype=AAAA
 ||missav.uno^$dnstype=AAAA
 ||missav.vip^$dnstype=AAAA
 ||missav.ws^$dnstype=AAAA
+||missav123.com^$dnstype=AAAA
 ||missendenabbey.ac.uk^$dnstype=AAAA
 ||misshotgirls.com^$dnstype=AAAA
 ||misskey-square.net^$dnstype=AAAA
@@ -20422,6 +20427,7 @@
 ||namgyalmonastery.org^$dnstype=AAAA
 ||namsisi.com^$dnstype=AAAA
 ||namss.ac.uk^$dnstype=AAAA
+||namu.wiki^$dnstype=AAAA
 ||nan-net.com^$dnstype=AAAA
 ||nanhuyt.com^$dnstype=AAAA
 ||nanocmos.ac.uk^$dnstype=AAAA
@@ -21288,6 +21294,7 @@
 ||niziero.info^$dnstype=AAAA
 ||njactb.org^$dnstype=AAAA
 ||njav.tv^$dnstype=AAAA
+||njavtv.com^$dnstype=AAAA
 ||njncscotlandscolleges.ac.uk^$dnstype=AAAA
 ||njuice.com^$dnstype=AAAA
 ||nkc.ac.uk^$dnstype=AAAA
