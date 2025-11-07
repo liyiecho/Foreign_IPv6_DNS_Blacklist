@@ -758,6 +758,7 @@
 ||aboutgfw.com^$dnstype=AAAA
 ||aboutmcdonalds.com^$dnstype=AAAA
 ||aboutporno.net^$dnstype=AAAA
+||aboutschwab.com^$dnstype=AAAA
 ||aboutyourmini.com^$dnstype=AAAA
 ||abow.jp^$dnstype=AAAA
 ||abpchina.org^$dnstype=AAAA
@@ -4259,6 +4260,7 @@
 ||bk.mufg.jp^$dnstype=AAAA
 ||bkkdown.site^$dnstype=AAAA
 ||bkrtx.com^$dnstype=AAAA
+||bktai.com^$dnstype=AAAA
 ||bl-doujinsouko.com^$dnstype=AAAA
 ||black-country.ac.uk^$dnstype=AAAA
 ||blackamateurfuck.com^$dnstype=AAAA
@@ -8903,6 +8905,7 @@
 ||dojinwatch.com^$dnstype=AAAA
 ||dok-forum.net^$dnstype=AAAA
 ||dokusho-ojikan.jp^$dnstype=AAAA
+||dola.com^$dnstype=AAAA
 ||dolc.de^$dnstype=AAAA
 ||dolf.org.hk^$dnstype=AAAA
 ||dollarfotoclub.com^$dnstype=AAAA
@@ -9867,6 +9870,8 @@
 ||elephantsdream.org^$dnstype=AAAA
 ||elephanttube.com^$dnstype=AAAA
 ||elephanttubenew.com^$dnstype=AAAA
+||elevenlabs.com^$dnstype=AAAA
+||elevenlabs.io^$dnstype=AAAA
 ||elgaronline.com^$dnstype=AAAA
 ||elgoog.im^$dnstype=AAAA
 ||elib.ac.uk^$dnstype=AAAA
@@ -11399,6 +11404,7 @@
 ||fleshbot.com^$dnstype=AAAA
 ||fleshlyx.com^$dnstype=AAAA
 ||fleursdeslettres.com^$dnstype=AAAA
+||flexclip.com^$dnstype=AAAA
 ||flexibits.com^$dnstype=AAAA
 ||flexpool.io^$dnstype=AAAA
 ||flexsig.com^$dnstype=AAAA
@@ -12084,6 +12090,8 @@
 ||futhead.com^$dnstype=AAAA
 ||futoka.jp^$dnstype=AAAA
 ||futpromos.com^$dnstype=AAAA
+||futuhk.com^$dnstype=AAAA
+||futuholdings.com^$dnstype=AAAA
 ||futunited.com^$dnstype=AAAA
 ||future-media.ac.uk^$dnstype=AAAA
 ||future-reserves-research.ac.uk^$dnstype=AAAA
@@ -23819,6 +23827,7 @@
 ||prcleader.org^$dnstype=AAAA
 ||prd-priconne-redive.akamaized.net^$dnstype=AAAA
 ||pre-bmwgroup.jobs^$dnstype=AAAA
+||predb.me^$dnstype=AAAA
 ||predictivetechnologies.com^$dnstype=AAAA
 ||premeforwindows7.com^$dnstype=AAAA
 ||premia.ac.uk^$dnstype=AAAA
@@ -25527,6 +25536,12 @@
 ||schome.ac.uk^$dnstype=AAAA
 ||schoms.ac.uk^$dnstype=AAAA
 ||school-economic-science.ac.uk^$dnstype=AAAA
+||schwab.co.uk^$dnstype=AAAA
+||schwab.com^$dnstype=AAAA
+||schwab.com.hk^$dnstype=AAAA
+||schwab.com.sg^$dnstype=AAAA
+||schwabassetmanagement.com^$dnstype=AAAA
+||schwabplan.com^$dnstype=AAAA
 ||sci-hub.it.nf^$dnstype=AAAA
 ||sci-hub.mksa.top^$dnstype=AAAA
 ||sci-hub.se^$dnstype=AAAA
