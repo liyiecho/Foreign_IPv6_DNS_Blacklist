@@ -15362,6 +15362,7 @@
 ||imagemodeler.com^$dnstype=AAAA
 ||imagepost.com^$dnstype=AAAA
 ||images-gaytube.com^$dnstype=AAAA
+||images.prismic.io^$dnstype=AAAA
 ||imageshack.com^$dnstype=AAAA
 ||imageshack.us^$dnstype=AAAA
 ||imagetwist.com^$dnstype=AAAA
