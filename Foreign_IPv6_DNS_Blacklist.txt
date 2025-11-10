@@ -7062,6 +7062,8 @@
 ||cofacts.tw^$dnstype=AAAA
 ||coffeemanga.to^$dnstype=AAAA
 ||cogc.ac.uk^$dnstype=AAAA
+||cohere.ai^$dnstype=AAAA
+||cohere.com^$dnstype=AAAA
 ||coin2co.in^$dnstype=AAAA
 ||coinalyze.net^$dnstype=AAAA
 ||coinbase.com^$dnstype=AAAA
