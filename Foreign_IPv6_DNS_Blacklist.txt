@@ -1131,6 +1131,8 @@
 ||afappyending.com^$dnstype=AAAA
 ||afewmomentswith.com^$dnstype=AAAA
 ||affect3dstore.com^$dnstype=AAAA
+||affinity.api.serifservices.com^$dnstype=AAAA
+||affinity.studio^$dnstype=AAAA
 ||affirmtrust.com^$dnstype=AAAA
 ||afi.ac.uk^$dnstype=AAAA
 ||afkv28.com^$dnstype=AAAA
@@ -3979,6 +3981,7 @@
 ||bg-call-donation-dev.goog^$dnstype=AAAA
 ||bg-call-donation.goog^$dnstype=AAAA
 ||bgc.ac.uk^$dnstype=AAAA
+||bgicdn.com^$dnstype=AAAA
 ||bgm.tv^$dnstype=AAAA
 ||bgme.me^$dnstype=AAAA
 ||bgov.com^$dnstype=AAAA
@@ -5837,6 +5840,7 @@
 ||canterburycollege.ac.uk^$dnstype=AAAA
 ||canterburytrust.ac.uk^$dnstype=AAAA
 ||cantonese.asia^$dnstype=AAAA
+||canva.com^$dnstype=AAAA
 ||canyu.org^$dnstype=AAAA
 ||cao.im^$dnstype=AAAA
 ||caobian.info^$dnstype=AAAA
@@ -13098,6 +13102,7 @@
 ||googleblog.com^$dnstype=AAAA
 ||googlebot.com^$dnstype=AAAA
 ||googlecapital.com^$dnstype=AAAA
+||googlecensorship.org^$dnstype=AAAA
 ||googlecert.net^$dnstype=AAAA
 ||googlechinawebmaster.com^$dnstype=AAAA
 ||googlecode.com^$dnstype=AAAA
@@ -13270,6 +13275,7 @@
 ||greatermanchestermedicalschool.ac.uk^$dnstype=AAAA
 ||greatfire.org^$dnstype=AAAA
 ||greatfire.us7.list-manage.com^$dnstype=AAAA
+||greatfirevpn.com^$dnstype=AAAA
 ||greatfirewall.biz^$dnstype=AAAA
 ||greatfirewallofchina.net^$dnstype=AAAA
 ||greatfirewallofchina.org^$dnstype=AAAA
@@ -20713,6 +20719,7 @@
 ||neoforged.net^$dnstype=AAAA
 ||neonatalsociety.ac.uk^$dnstype=AAAA
 ||neotokyo.supertop-100.com^$dnstype=AAAA
+||neovim.io^$dnstype=AAAA
 ||neow.in^$dnstype=AAAA
 ||neowin.net^$dnstype=AAAA
 ||nepusoku.com^$dnstype=AAAA
@@ -25834,6 +25841,7 @@
 ||serc.ac.uk^$dnstype=AAAA
 ||serena.ac.uk^$dnstype=AAAA
 ||serialssolutions.com^$dnstype=AAAA
+||serifservices.com^$dnstype=AAAA
 ||serio.ac.uk^$dnstype=AAAA
 ||serl.ac.uk^$dnstype=AAAA
 ||serlucap.lol^$dnstype=AAAA
@@ -33553,6 +33561,7 @@
 ||zeit.sh^$dnstype=AAAA
 ||zeitworld.com^$dnstype=AAAA
 ||zello.com^$dnstype=AAAA
+||zen-browser.app^$dnstype=AAAA
 ||zen8ok.xyz^$dnstype=AAAA
 ||zencdn.net^$dnstype=AAAA
 ||zencoder.com^$dnstype=AAAA
