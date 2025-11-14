@@ -7828,9 +7828,13 @@
 ||d1m7jfoe9zdc1j.cloudfront.net^$dnstype=AAAA
 ||d1mhjrowxxagfy.cloudfront.net^$dnstype=AAAA
 ||d1oca24q5dwo6d.cloudfront.net^$dnstype=AAAA
+||d1v5ir2lpwr8os.cloudfront.net^$dnstype=AAAA
 ||d1w2poirtb3as9.cloudfront.net^$dnstype=AAAA
 ||d1xhnb4ptk05mw.cloudfront.net^$dnstype=AAAA
 ||d1ymi26ma8va5x.cloudfront.net^$dnstype=AAAA
+||d22qjgkvxw22r6.cloudfront.net^$dnstype=AAAA
+||d25xi40x97liuc.cloudfront.net^$dnstype=AAAA
+||d27xxe7juh1us6.cloudfront.net^$dnstype=AAAA
 ||d29vzk4ow07wi7.cloudfront.net^$dnstype=AAAA
 ||d2aba1wr3818hz.cloudfront.net^$dnstype=AAAA
 ||d2anahhhmp1ffz.cloudfront.net^$dnstype=AAAA
@@ -8800,6 +8804,7 @@
 ||dmm.com^$dnstype=AAAA
 ||dmmapis.com^$dnstype=AAAA
 ||dmmrex.com^$dnstype=AAAA
+||dmqdd6hw24ucf.cloudfront.net^$dnstype=AAAA
 ||dmthin.com^$dnstype=AAAA
 ||dmthus.com^$dnstype=AAAA
 ||dmtiny.com^$dnstype=AAAA
@@ -15369,7 +15374,10 @@
 ||imageglass.org^$dnstype=AAAA
 ||imagemodeler.com^$dnstype=AAAA
 ||imagepost.com^$dnstype=AAAA
+||images-eu.ssl-images-amazon.com^$dnstype=AAAA
+||images-fe.ssl-images-amazon.com^$dnstype=AAAA
 ||images-gaytube.com^$dnstype=AAAA
+||images-na.ssl-images-amazon.com^$dnstype=AAAA
 ||images.prismic.io^$dnstype=AAAA
 ||imageshack.com^$dnstype=AAAA
 ||imageshack.us^$dnstype=AAAA
@@ -20025,6 +20033,7 @@
 ||msgamesresearch.com^$dnstype=AAAA
 ||msgamestudios.com^$dnstype=AAAA
 ||msguancha.com^$dnstype=AAAA
+||msh.amazon.co.uk^$dnstype=AAAA
 ||msha.gov^$dnstype=AAAA
 ||mshome.net^$dnstype=AAAA
 ||msi.cn^$dnstype=AAAA
@@ -27397,6 +27406,7 @@
 ||static-verizon.com^$dnstype=AAAA
 ||static.fun^$dnstype=AAAA
 ||static.shemalez.com^$dnstype=AAAA
+||static.siege-amazon.com^$dnstype=AAAA
 ||static01.nyt.com^$dnstype=AAAA
 ||static9.net.au^$dnstype=AAAA
 ||statically.io^$dnstype=AAAA
