@@ -578,6 +578,7 @@
 ||91av.one^$dnstype=AAAA
 ||91avfuli.com^$dnstype=AAAA
 ||91beiyong.com^$dnstype=AAAA
+||91cg1.com^$dnstype=AAAA
 ||91dasai.com^$dnstype=AAAA
 ||91dy.club^$dnstype=AAAA
 ||91fans.org^$dnstype=AAAA
@@ -1992,6 +1993,7 @@
 ||aomiwang.com^$dnstype=AAAA
 ||aopcuk.ac.uk^$dnstype=AAAA
 ||aorus.com^$dnstype=AAAA
+||aoxvpn.com^$dnstype=AAAA
 ||aoxx69.net^$dnstype=AAAA
 ||aozorabank.co.jp^$dnstype=AAAA
 ||ap-bangkok.myqcloud.com^$dnstype=AAAA
@@ -3106,6 +3108,7 @@
 ||awstrust.com^$dnstype=AAAA
 ||awwcn.buzz^$dnstype=AAAA
 ||awwcn.xyz^$dnstype=AAAA
+||awxcdn.com^$dnstype=AAAA
 ||axbdoll.com.tw^$dnstype=AAAA
 ||axios.com^$dnstype=AAAA
 ||axureformac.com^$dnstype=AAAA
@@ -3950,6 +3953,7 @@
 ||bethsoft.com^$dnstype=AAAA
 ||betterbim.com^$dnstype=AAAA
 ||betterexplained.com^$dnstype=AAAA
+||bettergpt.chat^$dnstype=AAAA
 ||betterhash.net^$dnstype=AAAA
 ||betterhdporn.com^$dnstype=AAAA
 ||betternet.co^$dnstype=AAAA
@@ -6044,6 +6048,7 @@
 ||ccfe.ac.uk^$dnstype=AAAA
 ||cch.ac.uk^$dnstype=AAAA
 ||cchere.com^$dnstype=AAAA
+||cchostvps.xyz^$dnstype=AAAA
 ||cchsr.ac.uk^$dnstype=AAAA
 ||cci.ac.uk^$dnstype=AAAA
 ||cciernslabs.com^$dnstype=AAAA
@@ -6315,6 +6320,7 @@
 ||chatgptvideo.xyz^$dnstype=AAAA
 ||chatgptvideob.buzz^$dnstype=AAAA
 ||chatnook.com^$dnstype=AAAA
+||chatpdf.com^$dnstype=AAAA
 ||chatsex.xxx^$dnstype=AAAA
 ||chatter.com^$dnstype=AAAA
 ||chatterbate.io^$dnstype=AAAA
@@ -7951,6 +7957,7 @@
 ||darktoy.net^$dnstype=AAAA
 ||darlington.ac.uk^$dnstype=AAAA
 ||darlingtonlearningandskills.ac.uk^$dnstype=AAAA
+||darmau.co^$dnstype=AAAA
 ||darpa.mil^$dnstype=AAAA
 ||darrenliuwei.com^$dnstype=AAAA
 ||dart.dev^$dnstype=AAAA
@@ -10054,6 +10061,7 @@
 ||enmat.ac.uk^$dnstype=AAAA
 ||enorf.ac.uk^$dnstype=AAAA
 ||enos.ac.uk^$dnstype=AAAA
+||enpass.io^$dnstype=AAAA
 ||enpirion.com^$dnstype=AAAA
 ||ensa.ac.uk^$dnstype=AAAA
 ||ensemble.ac.uk^$dnstype=AAAA
@@ -11215,6 +11223,7 @@
 ||figprayer.com^$dnstype=AAAA
 ||fileflyer.com^$dnstype=AAAA
 ||fileforum.com^$dnstype=AAAA
+||files.oaiusercontent.com^$dnstype=AAAA
 ||files2me.com^$dnstype=AAAA
 ||fileserve.com^$dnstype=AAAA
 ||filesmonster.vip^$dnstype=AAAA
@@ -11450,6 +11459,7 @@
 ||flow.org^$dnstype=AAAA
 ||flowfront.com^$dnstype=AAAA
 ||flowfront.net^$dnstype=AAAA
+||flowgpt.com^$dnstype=AAAA
 ||flowhongkong.net^$dnstype=AAAA
 ||flowtype.org^$dnstype=AAAA
 ||fluffychat.im^$dnstype=AAAA
@@ -11521,6 +11531,7 @@
 ||forbiddenmomsarchive.com^$dnstype=AAAA
 ||force.com^$dnstype=AAAA
 ||forduck.cyou^$dnstype=AAAA
+||forefront.ai^$dnstype=AAAA
 ||foreignaffairs.com^$dnstype=AAAA
 ||foreignpolicy.com^$dnstype=AAAA
 ||forestsixth.ac.uk^$dnstype=AAAA
@@ -14881,6 +14892,7 @@
 ||hyms.ac.uk^$dnstype=AAAA
 ||hyp.ac.uk^$dnstype=AAAA
 ||hyper.is^$dnstype=AAAA
+||hyperbeam.com^$dnstype=AAAA
 ||hyperdreams.com^$dnstype=AAAA
 ||hyperrate.com^$dnstype=AAAA
 ||hyperscan.io^$dnstype=AAAA
@@ -16988,6 +17000,9 @@
 ||keele.ac.uk^$dnstype=AAAA
 ||keemail.me^$dnstype=AAAA
 ||keepandshare.com^$dnstype=AAAA
+||keepass.info^$dnstype=AAAA
+||keeper.io^$dnstype=AAAA
+||keepersecurity.com^$dnstype=AAAA
 ||keepmovingwithmovefree.com^$dnstype=AAAA
 ||keepyourcad.com^$dnstype=AAAA
 ||keezmovies.com^$dnstype=AAAA
@@ -17387,6 +17402,8 @@
 ||lastcombat.com^$dnstype=AAAA
 ||lastfm.es^$dnstype=AAAA
 ||lastfm.freetls.fastly.net^$dnstype=AAAA
+||lastpass.com^$dnstype=AAAA
+||lastpass.eu^$dnstype=AAAA
 ||lasvegasbmw.com^$dnstype=AAAA
 ||latampartneruniversity.com^$dnstype=AAAA
 ||latamvmwareforum.com^$dnstype=AAAA
@@ -17602,6 +17619,7 @@
 ||lewestraining.ac.uk^$dnstype=AAAA
 ||lewisham.ac.uk^$dnstype=AAAA
 ||lewishamsouthwarkcollege.ac.uk^$dnstype=AAAA
+||lexica.art^$dnstype=AAAA
 ||lexisnexis.com^$dnstype=AAAA
 ||lexuemei.com^$dnstype=AAAA
 ||leyton.ac.uk^$dnstype=AAAA
@@ -18091,6 +18109,7 @@
 ||lpc.ac.uk^$dnstype=AAAA
 ||lpmde.ac.uk^$dnstype=AAAA
 ||lpsg.com^$dnstype=AAAA
+||lputil.com^$dnstype=AAAA
 ||lqh0bon3.xyz^$dnstype=AAAA
 ||lqpjw.cyou^$dnstype=AAAA
 ||lrfdsoftware.com^$dnstype=AAAA
@@ -18146,6 +18165,7 @@
 ||lstmliverpool.ac.uk^$dnstype=AAAA
 ||lstonline.ac.uk^$dnstype=AAAA
 ||lsxszzg.com^$dnstype=AAAA
+||lt.sntp.uk^$dnstype=AAAA
 ||ltcc.ac.uk^$dnstype=AAAA
 ||ltea.ac.uk^$dnstype=AAAA
 ||ltegroup.ac.uk^$dnstype=AAAA
@@ -24799,6 +24819,7 @@
 ||renovacionxboxlive.com^$dnstype=AAAA
 ||rentaride.com^$dnstype=AAAA
 ||rentaride.de^$dnstype=AAAA
+||rentry.co^$dnstype=AAAA
 ||renu.ac.uk^$dnstype=AAAA
 ||renyurenquan.org^$dnstype=AAAA
 ||renzhe.cloud^$dnstype=AAAA
@@ -24977,6 +24998,7 @@
 ||roblox.qq.com^$dnstype=AAAA
 ||robobat.com^$dnstype=AAAA
 ||roboforex.com^$dnstype=AAAA
+||roboform.com^$dnstype=AAAA
 ||roborecall.com^$dnstype=AAAA
 ||robotoffice.com^$dnstype=AAAA
 ||robustnessiskey.com^$dnstype=AAAA
@@ -26724,6 +26746,7 @@
 ||snowcorp.com^$dnstype=AAAA
 ||snowlionpub.com^$dnstype=AAAA
 ||snowmiku.com^$dnstype=AAAA
+||sntp.uk^$dnstype=AAAA
 ||snug.ac.uk^$dnstype=AAAA
 ||so-net.ne.jp^$dnstype=AAAA
 ||so-net.net.tw^$dnstype=AAAA
@@ -27650,6 +27673,7 @@
 ||strode-college.ac.uk^$dnstype=AAAA
 ||strodes.ac.uk^$dnstype=AAAA
 ||strodeslanguages.ac.uk^$dnstype=AAAA
+||strongboxsafe.com^$dnstype=AAAA
 ||strongvpn.com^$dnstype=AAAA
 ||strongwindpress.com^$dnstype=AAAA
 ||stroud.ac.uk^$dnstype=AAAA
@@ -28339,6 +28363,7 @@
 ||termux.com^$dnstype=AAAA
 ||termux.dev^$dnstype=AAAA
 ||termux.org^$dnstype=AAAA
+||terobox.com^$dnstype=AAAA
 ||terraform.io^$dnstype=AAAA
 ||terragraph.com^$dnstype=AAAA
 ||terrapeak.com^$dnstype=AAAA
