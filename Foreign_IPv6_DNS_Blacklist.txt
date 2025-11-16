@@ -140,6 +140,9 @@
 ||18j.tv^$dnstype=AAAA
 ||18jav.tv^$dnstype=AAAA
 ||18jms.com^$dnstype=AAAA
+||18mh.co^$dnstype=AAAA
+||18mh.me^$dnstype=AAAA
+||18mh.net^$dnstype=AAAA
 ||18novel.xyz^$dnstype=AAAA
 ||18onlygirls.com^$dnstype=AAAA
 ||18p2p.com^$dnstype=AAAA
@@ -413,6 +416,7 @@
 ||51cg1.com^$dnstype=AAAA
 ||51dh.site^$dnstype=AAAA
 ||51jav.org^$dnstype=AAAA
+||51lieqi.com^$dnstype=AAAA
 ||51luoben.com^$dnstype=AAAA
 ||51luoli.info^$dnstype=AAAA
 ||51mh.app^$dnstype=AAAA
@@ -554,6 +558,9 @@
 ||88kkn.com^$dnstype=AAAA
 ||88manhua.top^$dnstype=AAAA
 ||88square.com^$dnstype=AAAA
+||88xkk.com^$dnstype=AAAA
+||88xm.tv^$dnstype=AAAA
+||88xqq.com^$dnstype=AAAA
 ||89-64.org^$dnstype=AAAA
 ||89.64.charter.constitutionalism.solutions^$dnstype=AAAA
 ||8949.voto^$dnstype=AAAA
@@ -586,6 +593,7 @@
 ||91jinman.com^$dnstype=AAAA
 ||91md.me^$dnstype=AAAA
 ||91moxiong.com^$dnstype=AAAA
+||91nt.com^$dnstype=AAAA
 ||91oo.xyz^$dnstype=AAAA
 ||91porn.best^$dnstype=AAAA
 ||91porn.com^$dnstype=AAAA
@@ -595,8 +603,10 @@
 ||91porn.tw^$dnstype=AAAA
 ||91porn.work^$dnstype=AAAA
 ||91pornf.com^$dnstype=AAAA
+||91pornforum.com^$dnstype=AAAA
 ||91pornplus.com^$dnstype=AAAA
 ||91pornv.com^$dnstype=AAAA
+||91pornvideo.com^$dnstype=AAAA
 ||91pornx.com^$dnstype=AAAA
 ||91porny.com^$dnstype=AAAA
 ||91porny.store^$dnstype=AAAA
@@ -4157,6 +4167,7 @@
 ||bingagencyawards.com^$dnstype=AAAA
 ||bingapis.com^$dnstype=AAAA
 ||bingapistatistics.com^$dnstype=AAAA
+||bingoporno.com^$dnstype=AAAA
 ||bingparachute.com^$dnstype=AAAA
 ||bingsandbox.com^$dnstype=AAAA
 ||bingsettingssearch.trafficmanager.net^$dnstype=AAAA
@@ -6965,7 +6976,6 @@
 ||cnitter.com^$dnstype=AAAA
 ||cnivogue.com.au^$dnstype=AAAA
 ||cnix-gov-cn.com^$dnstype=AAAA
-||cnmd.ac.uk^$dnstype=AAAA
 ||cnn.com^$dnstype=AAAA
 ||cnn.io^$dnstype=AAAA
 ||cnn.it^$dnstype=AAAA
@@ -6981,7 +6991,6 @@
 ||cnpolitics.org^$dnstype=AAAA
 ||cnproxy.com^$dnstype=AAAA
 ||cnshopin.com^$dnstype=AAAA
-||cnwl.ac.uk^$dnstype=AAAA
 ||cnyes.com^$dnstype=AAAA
 ||cnzjp.xyz^$dnstype=AAAA
 ||co-op.ac.uk^$dnstype=AAAA
@@ -7528,6 +7537,7 @@
 ||creatwhatsnext.com^$dnstype=AAAA
 ||crececonebay.com^$dnstype=AAAA
 ||creditcardsbay.com^$dnstype=AAAA
+||creditkarma.com^$dnstype=AAAA
 ||creditlink-east.ac.uk^$dnstype=AAAA
 ||creds.ac.uk^$dnstype=AAAA
 ||cresc.ac.uk^$dnstype=AAAA
@@ -8473,6 +8483,7 @@
 ||diamondgirlstudio.com^$dnstype=AAAA
 ||dianapost.com^$dnstype=AAAA
 ||dianepoppos.com^$dnstype=AAAA
+||diaoda.co^$dnstype=AAAA
 ||diaoyuislands.org^$dnstype=AAAA
 ||diarrheafan.livedoor.blog^$dnstype=AAAA
 ||diasporas.ac.uk^$dnstype=AAAA
@@ -11186,6 +11197,7 @@
 ||ff.im^$dnstype=AAAA
 ||ffacebook.com^$dnstype=AAAA
 ||ffc.ac.uk^$dnstype=AAAA
+||ffddff.com^$dnstype=AAAA
 ||fffdm.com^$dnstype=AAAA
 ||fffff.at^$dnstype=AAAA
 ||fffucked.com^$dnstype=AAAA
@@ -13163,6 +13175,8 @@
 ||goole-college.ac.uk^$dnstype=AAAA
 ||goolge.com^$dnstype=AAAA
 ||gooogle.com^$dnstype=AAAA
+||gopayment.com^$dnstype=AAAA
+||gopayments.com^$dnstype=AAAA
 ||gopetition.com^$dnstype=AAAA
 ||gopivotal.com^$dnstype=AAAA
 ||gopivotal.net^$dnstype=AAAA
@@ -15897,6 +15911,19 @@
 ||into-newcastle.ac.uk^$dnstype=AAAA
 ||intporn.com^$dnstype=AAAA
 ||intramuscularinjection.info^$dnstype=AAAA
+||intuit-gopayment.com^$dnstype=AAAA
+||intuit.ca^$dnstype=AAAA
+||intuit.co.uk^$dnstype=AAAA
+||intuit.com^$dnstype=AAAA
+||intuit.com.au^$dnstype=AAAA
+||intuit.fr^$dnstype=AAAA
+||intuitaffiliate.com^$dnstype=AAAA
+||intuitbenefits.com^$dnstype=AAAA
+||intuitcdn.net^$dnstype=AAAA
+||intuitfullservicepayroll.com^$dnstype=AAAA
+||intuitinnovationday.com^$dnstype=AAAA
+||intuitlabs.com^$dnstype=AAAA
+||intuitpayments.com^$dnstype=AAAA
 ||intunewiki.com^$dnstype=AAAA
 ||intute.ac.uk^$dnstype=AAAA
 ||inventor-certified.com^$dnstype=AAAA
@@ -17931,6 +17958,7 @@
 ||lmm167.shop^$dnstype=AAAA
 ||lmmbtc.com^$dnstype=AAAA
 ||lms.ac.uk^$dnstype=AAAA
+||lms01.com^$dnstype=AAAA
 ||lmsys.org^$dnstype=AAAA
 ||lmu.ac.uk^$dnstype=AAAA
 ||lnat.ac.uk^$dnstype=AAAA
@@ -20387,6 +20415,7 @@
 ||mypornvid.fun^$dnstype=AAAA
 ||mypornwap.fun^$dnstype=AAAA
 ||myport.ac.uk^$dnstype=AAAA
+||myproseries.com^$dnstype=AAAA
 ||myq2.com^$dnstype=AAAA
 ||myqnapcloud.com^$dnstype=AAAA
 ||myradio.com.hk^$dnstype=AAAA
@@ -20540,7 +20569,6 @@
 ||nataliefiore.com^$dnstype=AAAA
 ||natcen.ac.uk^$dnstype=AAAA
 ||natcor.ac.uk^$dnstype=AAAA
-||natdisteam.ac.uk^$dnstype=AAAA
 ||natgeokidsbooks.co.uk^$dnstype=AAAA
 ||natgeomaps.com^$dnstype=AAAA
 ||national-army-museum.ac.uk^$dnstype=AAAA
@@ -22829,6 +22857,7 @@
 ||paypass.net^$dnstype=AAAA
 ||paypay-bank.co.jp^$dnstype=AAAA
 ||payppal.com^$dnstype=AAAA
+||payroll.com^$dnstype=AAAA
 ||payserve.com^$dnstype=AAAA
 ||paysitesreviews.net^$dnstype=AAAA
 ||payypal.com^$dnstype=AAAA
@@ -23880,6 +23909,7 @@
 ||pplusstatic.com^$dnstype=AAAA
 ||pplx-res.cloudinary.com^$dnstype=AAAA
 ||pplx.ai^$dnstype=AAAA
+||ppnnpp.com^$dnstype=AAAA
 ||ppp91.cc^$dnstype=AAAA
 ||pppds.com^$dnstype=AAAA
 ||ppre.ac.uk^$dnstype=AAAA
@@ -24037,6 +24067,7 @@
 ||proptiger.com^$dnstype=AAAA
 ||pros.ee^$dnstype=AAAA
 ||prosciana.com^$dnstype=AAAA
+||proseries.com^$dnstype=AAAA
 ||prosiben.de^$dnstype=AAAA
 ||prospects.ac.uk^$dnstype=AAAA
 ||prostate-exam-info.com^$dnstype=AAAA
@@ -24299,6 +24330,7 @@
 ||qporno.xxx^$dnstype=AAAA
 ||qprize.com^$dnstype=AAAA
 ||qq.co.za^$dnstype=AAAA
+||qq33qq.com^$dnstype=AAAA
 ||qqbs.asia^$dnstype=AAAA
 ||qqbs.work^$dnstype=AAAA
 ||qr.ae^$dnstype=AAAA
@@ -24354,6 +24386,18 @@
 ||quercus.ac.uk^$dnstype=AAAA
 ||questvisual.com^$dnstype=AAAA
 ||quicinc.com^$dnstype=AAAA
+||quickbook.com.br^$dnstype=AAAA
+||quickbooks.co.uk^$dnstype=AAAA
+||quickbooks.co.za^$dnstype=AAAA
+||quickbooks.com^$dnstype=AAAA
+||quickbooks.com.au^$dnstype=AAAA
+||quickbooks.com.br^$dnstype=AAAA
+||quickbooks.fr^$dnstype=AAAA
+||quickbooks.in^$dnstype=AAAA
+||quickbooks2000.com^$dnstype=AAAA
+||quickbooksenligne.ca^$dnstype=AAAA
+||quickbooksgetconnected.co.za^$dnstype=AAAA
+||quickbooksonline.com^$dnstype=AAAA
 ||quickconnect.to^$dnstype=AAAA
 ||quickiepage.com^$dnstype=AAAA
 ||quickoffice.com^$dnstype=AAAA
@@ -27484,7 +27528,6 @@
 ||steamdb.info^$dnstype=AAAA
 ||steamdeck.com^$dnstype=AAAA
 ||steamgames.com^$dnstype=AAAA
-||steamhouse.ac.uk^$dnstype=AAAA
 ||steammobile.akamaized.net^$dnstype=AAAA
 ||steamofporn.com^$dnstype=AAAA
 ||steampipe-kr.akamaized.net^$dnstype=AAAA
@@ -28947,6 +28990,7 @@
 ||tkb2233.life^$dnstype=AAAA
 ||tkbqf2.life^$dnstype=AAAA
 ||tkcs-collins.com^$dnstype=AAAA
+||tksex.com^$dnstype=AAAA
 ||tktube.com^$dnstype=AAAA
 ||tl.ac.uk^$dnstype=AAAA
 ||tl.gd^$dnstype=AAAA
@@ -29444,10 +29488,12 @@
 ||tuo8.red^$dnstype=AAAA
 ||tuo8.space^$dnstype=AAAA
 ||turansam.org^$dnstype=AAAA
+||turbo.com^$dnstype=AAAA
 ||turbobit.net^$dnstype=AAAA
 ||turbogvideos.com^$dnstype=AAAA
 ||turbohide.com^$dnstype=AAAA
 ||turborepo.org^$dnstype=AAAA
+||turbotax.com^$dnstype=AAAA
 ||turbotwitter.com^$dnstype=AAAA
 ||turbulence.ac.uk^$dnstype=AAAA
 ||turing.ac.uk^$dnstype=AAAA
@@ -32644,8 +32690,11 @@
 ||xvedo.net^$dnstype=AAAA
 ||xvideo-jp.com^$dnstype=AAAA
 ||xvideo.com^$dnstype=AAAA
+||xvideo.org^$dnstype=AAAA
 ||xvideo.run^$dnstype=AAAA
 ||xvideo.vlog.br^$dnstype=AAAA
+||xvideo1.org^$dnstype=AAAA
+||xvideo2.org^$dnstype=AAAA
 ||xvideoporno.tv^$dnstype=AAAA
 ||xvideos-cdn.com^$dnstype=AAAA
 ||xvideos-dl.top^$dnstype=AAAA
@@ -33529,6 +33578,7 @@
 ||yyii.org^$dnstype=AAAA
 ||yyjlymb.xyz^$dnstype=AAAA
 ||yysub.net^$dnstype=AAAA
+||yyvhhbmw.cc^$dnstype=AAAA
 ||yzld188.top^$dnstype=AAAA
 ||yzzk.com^$dnstype=AAAA
 ||z-lib.fm^$dnstype=AAAA
