@@ -14935,6 +14935,7 @@
 ||i.111666.best^$dnstype=AAAA
 ||i.jeded.com^$dnstype=AAAA
 ||i.lithium.com^$dnstype=AAAA
+||i.mij.rip^$dnstype=AAAA
 ||i.org^$dnstype=AAAA
 ||i1.hk^$dnstype=AAAA
 ||i234.me^$dnstype=AAAA
@@ -19275,6 +19276,7 @@
 ||mihua.org^$dnstype=AAAA
 ||miitomo.com^$dnstype=AAAA
 ||miiverse.com^$dnstype=AAAA
+||mij.rip^$dnstype=AAAA
 ||mikanani.me^$dnstype=AAAA
 ||mike.cz.cc^$dnstype=AAAA
 ||mikesoltys.com^$dnstype=AAAA
@@ -19680,6 +19682,8 @@
 ||mizuhobank.co.jp^$dnstype=AAAA
 ||mizzmona.com^$dnstype=AAAA
 ||mjib.gov.tw^$dnstype=AAAA
+||mjj.rip^$dnstype=AAAA
+||mjj.today^$dnstype=AAAA
 ||mjlsh.usc.cuhk.edu.hk^$dnstype=AAAA
 ||mjv-art.org^$dnstype=AAAA
 ||mk.shrimpia.network^$dnstype=AAAA
