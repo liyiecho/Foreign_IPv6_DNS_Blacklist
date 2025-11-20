@@ -1964,6 +1964,7 @@
 ||anti1984.com^$dnstype=AAAA
 ||antichristendom.com^$dnstype=AAAA
 ||anticipate.ac.uk^$dnstype=AAAA
+||antigravity.google^$dnstype=AAAA
 ||antiquity.ac.uk^$dnstype=AAAA
 ||antislavery.ac.uk^$dnstype=AAAA
 ||antislaverylaw.ac.uk^$dnstype=AAAA
@@ -5436,6 +5437,7 @@
 ||buicha.social^$dnstype=AAAA
 ||buila.ac.uk^$dnstype=AAAA
 ||building3dcontent.com^$dnstype=AAAA
+||built-in.google^$dnstype=AAAA
 ||builtenvsigns.ac.uk^$dnstype=AAAA
 ||builtfromebay.com^$dnstype=AAAA
 ||bukkake-jav.com^$dnstype=AAAA
@@ -7108,6 +7110,7 @@
 ||coitustube.com^$dnstype=AAAA
 ||col-westanglia.ac.uk^$dnstype=AAAA
 ||col.ac.uk^$dnstype=AAAA
+||colab.google^$dnstype=AAAA
 ||colacloud.net^$dnstype=AAAA
 ||colc.ac.uk^$dnstype=AAAA
 ||colcc.ac.uk^$dnstype=AAAA
@@ -7555,6 +7558,7 @@
 ||crick.ac.uk^$dnstype=AAAA
 ||cricketcountry.com^$dnstype=AAAA
 ||cricklade.ac.uk^$dnstype=AAAA
+||crisisresponse.google^$dnstype=AAAA
 ||crisp.chat^$dnstype=AAAA
 ||cristyli.com^$dnstype=AAAA
 ||crit-staging.com^$dnstype=AAAA
@@ -8970,6 +8974,7 @@
 ||dontmovetochina.com^$dnstype=AAAA
 ||donttrack.us^$dnstype=AAAA
 ||doodhwali.com^$dnstype=AAAA
+||doodles.google^$dnstype=AAAA
 ||doom.com^$dnstype=AAAA
 ||doom9.org^$dnstype=AAAA
 ||doosho.com^$dnstype=AAAA
@@ -17526,6 +17531,7 @@
 ||learnedsocietywales.ac.uk^$dnstype=AAAA
 ||learnharrow.ac.uk^$dnstype=AAAA
 ||learnhigher.ac.uk^$dnstype=AAAA
+||learning.google^$dnstype=AAAA
 ||learningbites.ac.uk^$dnstype=AAAA
 ||learninglink.ac.uk^$dnstype=AAAA
 ||learningmathsonline.ac.uk^$dnstype=AAAA
@@ -17605,6 +17611,7 @@
 ||lenkino.xxx^$dnstype=AAAA
 ||lenporno.net^$dnstype=AAAA
 ||lenporno.red^$dnstype=AAAA
+||lens.google^$dnstype=AAAA
 ||lenwhite.com^$dnstype=AAAA
 ||leorockwell.com^$dnstype=AAAA
 ||leos-scot.ac.uk^$dnstype=AAAA
@@ -17699,6 +17706,7 @@
 ||libgen.rs^$dnstype=AAAA
 ||libgen.st^$dnstype=AAAA
 ||liboggirls.net^$dnstype=AAAA
+||library-access.sk^$dnstype=AAAA
 ||library.lol^$dnstype=AAAA
 ||library.usc.cuhk.edu.hk^$dnstype=AAAA
 ||libraryinformationtechnology.com^$dnstype=AAAA
@@ -19682,6 +19690,7 @@
 ||miyazakibank.co.jp^$dnstype=AAAA
 ||mizuhobank.co.jp^$dnstype=AAAA
 ||mizzmona.com^$dnstype=AAAA
+||mji.rip^$dnstype=AAAA
 ||mjib.gov.tw^$dnstype=AAAA
 ||mjj.rip^$dnstype=AAAA
 ||mjj.today^$dnstype=AAAA
@@ -24163,6 +24172,7 @@
 ||publicengagement.ac.uk^$dnstype=AAAA
 ||publichealthdepartment.info^$dnstype=AAAA
 ||publicinterest.ac.uk^$dnstype=AAAA
+||publicpolicy.google^$dnstype=AAAA
 ||publicpornvideo.com^$dnstype=AAAA
 ||publicservices.ac.uk^$dnstype=AAAA
 ||publicsexhub.com^$dnstype=AAAA
@@ -25806,6 +25816,7 @@
 ||search.ac.uk^$dnstype=AAAA
 ||search.aol.com^$dnstype=AAAA
 ||search.com^$dnstype=AAAA
+||search.google^$dnstype=AAAA
 ||search.xxx^$dnstype=AAAA
 ||search.yahoo.co.jp^$dnstype=AAAA
 ||search25.ac.uk^$dnstype=AAAA
@@ -27907,6 +27918,7 @@
 ||sussexvirtualcollege.ac.uk^$dnstype=AAAA
 ||sussp.ac.uk^$dnstype=AAAA
 ||sustain.ac.uk^$dnstype=AAAA
+||sustainability.google^$dnstype=AAAA
 ||sustainabilityexchange.ac.uk^$dnstype=AAAA
 ||sustainablebuildingstudio.com^$dnstype=AAAA
 ||sustainabledesigncouncil.com^$dnstype=AAAA
@@ -29229,6 +29241,7 @@
 ||translatewiki.org^$dnstype=AAAA
 ||translomatic.foxfortmobile.com^$dnstype=AAAA
 ||transnationalmodernlanguages.ac.uk^$dnstype=AAAA
+||transparency.google^$dnstype=AAAA
 ||transparency.org^$dnstype=AAAA
 ||transpharmtech-cdt.ac.uk^$dnstype=AAAA
 ||transpharmtech-dtc.ac.uk^$dnstype=AAAA
@@ -31362,6 +31375,7 @@
 ||walker-institute.ac.uk^$dnstype=AAAA
 ||walker.ac.uk^$dnstype=AAAA
 ||wallet.com^$dnstype=AAAA
+||wallet.google^$dnstype=AAAA
 ||walletconnect.com^$dnstype=AAAA
 ||wallhaven.cc^$dnstype=AAAA
 ||wallmama.com^$dnstype=AAAA
@@ -32550,6 +32564,7 @@
 ||xn--80aaazx1an0a.lol^$dnstype=AAAA
 ||xn--8uq428d76d.tokyo^$dnstype=AAAA
 ||xn--90wwvt03e.com^$dnstype=AAAA
+||xn--9iqy04a7fi01l.com^$dnstype=AAAA
 ||xn--9kr7l.com^$dnstype=AAAA
 ||xn--9pr62r24a.com^$dnstype=AAAA
 ||xn--9trs65b.com^$dnstype=AAAA
