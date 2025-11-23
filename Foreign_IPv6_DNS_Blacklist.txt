@@ -922,6 +922,7 @@
 ||adelaidebbs.com^$dnstype=AAAA
 ||adelaidenow.com.au^$dnstype=AAAA
 ||adeptt.ac.uk^$dnstype=AAAA
+||adfox.ru^$dnstype=AAAA
 ||adgoogle.net^$dnstype=AAAA
 ||adguard-dns.com^$dnstype=AAAA
 ||adguard-dns.io^$dnstype=AAAA
@@ -958,6 +959,7 @@
 ||adlib.ac.uk^$dnstype=AAAA
 ||adls.ac.uk^$dnstype=AAAA
 ||admeld.com^$dnstype=AAAA
+||admetrica.ru^$dnstype=AAAA
 ||admin.recaptcha.net^$dnstype=AAAA
 ||admob.com^$dnstype=AAAA
 ||adobe-aemassets-value.com^$dnstype=AAAA
@@ -14059,6 +14061,7 @@
 ||heyzo.com^$dnstype=AAAA
 ||hf-iphone.com^$dnstype=AAAA
 ||hf.co^$dnstype=AAAA
+||hf.space^$dnstype=AAAA
 ||hfaes.ac.uk^$dnstype=AAAA
 ||hfals.ac.uk^$dnstype=AAAA
 ||hfma.ac.uk^$dnstype=AAAA
@@ -17185,6 +17188,7 @@
 ||kinmen.org.tw^$dnstype=AAAA
 ||kinmen.travel^$dnstype=AAAA
 ||kinokuniya.com^$dnstype=AAAA
+||kinopoisk-ru.clstorage.net^$dnstype=AAAA
 ||kinopoisk.ru^$dnstype=AAAA
 ||kir.jp^$dnstype=AAAA
 ||kir2kos.net^$dnstype=AAAA
@@ -23156,6 +23160,7 @@
 ||picpost.com^$dnstype=AAAA
 ||pics.ee^$dnstype=AAAA
 ||pics.vc^$dnstype=AAAA
+||picsart.com^$dnstype=AAAA
 ||picsee.co^$dnstype=AAAA
 ||picsee.pro^$dnstype=AAAA
 ||pictoa.com^$dnstype=AAAA
@@ -31577,6 +31582,8 @@
 ||webtoons.com^$dnstype=AAAA
 ||webtoonscorp.com^$dnstype=AAAA
 ||webtype.com^$dnstype=AAAA
+||webvisor.com^$dnstype=AAAA
+||webvisor.org^$dnstype=AAAA
 ||webwarper.net^$dnstype=AAAA
 ||webworkerdaily.com^$dnstype=AAAA
 ||wechatlawsuit.com^$dnstype=AAAA
@@ -32911,6 +32918,7 @@
 ||yaddal.tv^$dnstype=AAAA
 ||yadi.sk^$dnstype=AAAA
 ||yadori.club^$dnstype=AAAA
+||yads.tech^$dnstype=AAAA
 ||yaeby.info^$dnstype=AAAA
 ||yaeby.pro^$dnstype=AAAA
 ||yahoo-news.com.hk^$dnstype=AAAA
@@ -33084,6 +33092,7 @@
 ||yande.re^$dnstype=AAAA
 ||yandex-bank.net^$dnstype=AAAA
 ||yandex-images.clstorage.net^$dnstype=AAAA
+||yandex-team.ru^$dnstype=AAAA
 ||yandex.aero^$dnstype=AAAA
 ||yandex.az^$dnstype=AAAA
 ||yandex.by^$dnstype=AAAA
@@ -33119,6 +33128,7 @@
 ||yandexadexchange.net^$dnstype=AAAA
 ||yandexcloud.net^$dnstype=AAAA
 ||yandexcom.net^$dnstype=AAAA
+||yandexmetrica.com^$dnstype=AAAA
 ||yandexwebcache.org^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
 ||yangzhi.app^$dnstype=AAAA
@@ -33134,6 +33144,7 @@
 ||yarnpkg.com^$dnstype=AAAA
 ||yasarang.net^$dnstype=AAAA
 ||yasni.co.uk^$dnstype=AAAA
+||yastat.net^$dnstype=AAAA
 ||yastatic.net^$dnstype=AAAA
 ||yasukuni.or.jp^$dnstype=AAAA
 ||yatong.info^$dnstype=AAAA
