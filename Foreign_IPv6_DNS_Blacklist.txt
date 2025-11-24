@@ -1215,6 +1215,7 @@
 ||ahvideosexe.com^$dnstype=AAAA
 ||ahxxx.club^$dnstype=AAAA
 ||ai-kan.net^$dnstype=AAAA
+||ai-sdk.dev^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
 ||ai.binwang.me^$dnstype=AAAA
 ||ai.dev^$dnstype=AAAA
@@ -22408,6 +22409,7 @@
 ||origin.tv^$dnstype=AAAA
 ||originalhulu.com^$dnstype=AAAA
 ||originalindianporn.com^$dnstype=AAAA
+||originlab.com^$dnstype=AAAA
 ||orithegame.com^$dnstype=AAAA
 ||orkut.com^$dnstype=AAAA
 ||orl.ly^$dnstype=AAAA
