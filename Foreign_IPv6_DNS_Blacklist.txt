@@ -17510,6 +17510,7 @@
 ||leadershipfoundation.ac.uk^$dnstype=AAAA
 ||leadershiphe.ac.uk^$dnstype=AAAA
 ||leafyvpn.net^$dnstype=AAAA
+||league-funny.com^$dnstype=AAAA
 ||leaguehighschool.com^$dnstype=AAAA
 ||leagueoflegends.ca^$dnstype=AAAA
 ||leagueoflegends.co.kr^$dnstype=AAAA
