@@ -20082,7 +20082,6 @@
 ||ms4dre.com^$dnstype=AAAA
 ||msa-it.org^$dnstype=AAAA
 ||msa.ac.uk^$dnstype=AAAA
-||msads.net^$dnstype=AAAA
 ||mscassessment.ac.uk^$dnstype=AAAA
 ||mschallenge2018.com^$dnstype=AAAA
 ||mscos.ac.uk^$dnstype=AAAA
@@ -25928,6 +25927,7 @@
 ||sensualgirls.org^$dnstype=AAAA
 ||sensualmothers.com^$dnstype=AAAA
 ||sensueel.net^$dnstype=AAAA
+||sentry-cdn.com^$dnstype=AAAA
 ||sentry.io^$dnstype=AAAA
 ||sentry.ppy.sh^$dnstype=AAAA
 ||senzuritv.net^$dnstype=AAAA
