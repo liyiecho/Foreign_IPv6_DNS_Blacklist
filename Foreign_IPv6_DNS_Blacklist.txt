@@ -1403,6 +1403,7 @@
 ||akinator.com^$dnstype=AAAA
 ||akita-bank.co.jp^$dnstype=AAAA
 ||akow.org^$dnstype=AAAA
+||akstat.io^$dnstype=AAAA
 ||akthelp.com^$dnstype=AAAA
 ||al-islam.com^$dnstype=AAAA
 ||al-qimmah.net^$dnstype=AAAA
@@ -33126,6 +33127,7 @@
 ||yandex.sx^$dnstype=AAAA
 ||yandex.tj^$dnstype=AAAA
 ||yandex.tm^$dnstype=AAAA
+||yandex.tr^$dnstype=AAAA
 ||yandex.ua^$dnstype=AAAA
 ||yandex.uz^$dnstype=AAAA
 ||yandexadexchange.net^$dnstype=AAAA
