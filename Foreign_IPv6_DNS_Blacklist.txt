@@ -1115,6 +1115,7 @@
 ||adwordsexpress.com^$dnstype=AAAA
 ||adx.promo^$dnstype=AAAA
 ||ae-ad-1.myhuaweicloud.com^$dnstype=AAAA
+||ae-rus.net^$dnstype=AAAA
 ||ae.hao123.com^$dnstype=AAAA
 ||ae.org^$dnstype=AAAA
 ||aeasyshop.com^$dnstype=AAAA
@@ -1134,6 +1135,7 @@
 ||aerospace-design.com^$dnstype=AAAA
 ||aerospace-training-wales.ac.uk^$dnstype=AAAA
 ||aes.ac.uk^$dnstype=AAAA
+||aestatic.net^$dnstype=AAAA
 ||aesworkshops.com^$dnstype=AAAA
 ||aex.com^$dnstype=AAAA
 ||af-east-201.myhuaweicloud.com^$dnstype=AAAA
@@ -2539,6 +2541,7 @@
 ||ark-genomics.ac.uk^$dnstype=AAAA
 ||ark.ac.uk^$dnstype=AAAA
 ||ark.to^$dnstype=AAAA
+||arkoselabs.co^$dnstype=AAAA
 ||arkoselabs.com^$dnstype=AAAA
 ||arlingtoncemetery.mil^$dnstype=AAAA
 ||arm.ac.uk^$dnstype=AAAA
@@ -7263,6 +7266,9 @@
 ||comet-study.ac.uk^$dnstype=AAAA
 ||cometotheduckside.com^$dnstype=AAAA
 ||comffvpn.com^$dnstype=AAAA
+||comfy.org^$dnstype=AAAA
+||comfyci.org^$dnstype=AAAA
+||comfyregistry.org^$dnstype=AAAA
 ||comic-mega.me^$dnstype=AAAA
 ||comicbox.xyz^$dnstype=AAAA
 ||comico.tw^$dnstype=AAAA
@@ -7854,6 +7860,7 @@
 ||d1m7jfoe9zdc1j.cloudfront.net^$dnstype=AAAA
 ||d1mhjrowxxagfy.cloudfront.net^$dnstype=AAAA
 ||d1oca24q5dwo6d.cloudfront.net^$dnstype=AAAA
+||d1unuk07s6td74.cloudfront.net^$dnstype=AAAA
 ||d1v5ir2lpwr8os.cloudfront.net^$dnstype=AAAA
 ||d1w2poirtb3as9.cloudfront.net^$dnstype=AAAA
 ||d1xhnb4ptk05mw.cloudfront.net^$dnstype=AAAA
@@ -22554,6 +22561,7 @@
 ||oyax.com^$dnstype=AAAA
 ||oyeloca.com^$dnstype=AAAA
 ||oyghan.com^$dnstype=AAAA
+||oystermercury.top^$dnstype=AAAA
 ||ozchinese.com^$dnstype=AAAA
 ||ozeex.com^$dnstype=AAAA
 ||ozodi.org^$dnstype=AAAA
@@ -24618,6 +24626,7 @@
 ||rbgkew.ac.uk^$dnstype=AAAA
 ||rbgrads.com^$dnstype=AAAA
 ||rbgraduates.com^$dnstype=AAAA
+||rblx.org^$dnstype=AAAA
 ||rbmavericks.com^$dnstype=AAAA
 ||rbnainternational.com^$dnstype=AAAA
 ||rbplc.com^$dnstype=AAAA
@@ -24626,6 +24635,8 @@
 ||rbsl.ac.uk^$dnstype=AAAA
 ||rbslondon.ac.uk^$dnstype=AAAA
 ||rbspeakup.com^$dnstype=AAAA
+||rbx.com^$dnstype=AAAA
+||rbxcdn.com^$dnstype=AAAA
 ||rc-harwell.ac.uk^$dnstype=AAAA
 ||rca.ac.uk^$dnstype=AAAA
 ||rcahmw.ac.uk^$dnstype=AAAA
@@ -25065,7 +25076,13 @@
 ||ro89.com^$dnstype=AAAA
 ||road-crew.com^$dnstype=AAAA
 ||roadshow.hk^$dnstype=AAAA
+||roblox-api.arkoselabs.co^$dnstype=AAAA
+||roblox-load-generator-configuration.s3.us-east-2.amazonaws.com^$dnstype=AAAA
+||roblox-poc.global.ssl.fastly.net^$dnstype=AAAA
+||roblox.com^$dnstype=AAAA
 ||roblox.qq.com^$dnstype=AAAA
+||robloxcorp.s.llnwi.net^$dnstype=AAAA
+||robloxlabs.com^$dnstype=AAAA
 ||robobat.com^$dnstype=AAAA
 ||roboforex.com^$dnstype=AAAA
 ||roboform.com^$dnstype=AAAA
