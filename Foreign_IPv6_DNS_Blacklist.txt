@@ -21679,6 +21679,8 @@
 ||ntdc.ac.uk^$dnstype=AAAA
 ||ntdca.com^$dnstype=AAAA
 ||ntdimg.com^$dnstype=AAAA
+||ntdofifreepc-tgc.cdn.hinet.net^$dnstype=AAAA
+||ntdofifreevcpc-tgc.cdn.hinet.net^$dnstype=AAAA
 ||ntdsf.tv^$dnstype=AAAA
 ||ntdtv-dc.com^$dnstype=AAAA
 ||ntdtv.ca^$dnstype=AAAA
@@ -22071,6 +22073,7 @@
 ||offshorerenewables.ac.uk^$dnstype=AAAA
 ||offworldindustries.com^$dnstype=AAAA
 ||offworldindustries.net^$dnstype=AAAA
+||ofiii.com^$dnstype=AAAA
 ||ofile.org^$dnstype=AAAA
 ||ofs.ac.uk^$dnstype=AAAA
 ||ogakikyoritsu.co.jp^$dnstype=AAAA
