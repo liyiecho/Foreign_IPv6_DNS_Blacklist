@@ -22111,6 +22111,8 @@
 ||okinawatimes.co.jp^$dnstype=AAAA
 ||okk.tw^$dnstype=AAAA
 ||okkisokuho.com^$dnstype=AAAA
+||okko.sport^$dnstype=AAAA
+||okko.tv^$dnstype=AAAA
 ||okpool.me^$dnstype=AAAA
 ||okx-dns.com^$dnstype=AAAA
 ||okx-dns1.com^$dnstype=AAAA
@@ -23355,6 +23357,7 @@
 ||playerjs.io^$dnstype=AAAA
 ||playfab.com^$dnstype=AAAA
 ||playfabapi.com^$dnstype=AAAA
+||playfamily.ru^$dnstype=AAAA
 ||playforceone.com^$dnstype=AAAA
 ||playhearthstone.com^$dnstype=AAAA
 ||playmation.com^$dnstype=AAAA
