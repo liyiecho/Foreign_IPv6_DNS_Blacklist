@@ -17955,6 +17955,7 @@
 ||lkl.ac.uk^$dnstype=AAAA
 ||ll82y2ifdd.top^$dnstype=AAAA
 ||llakes.ac.uk^$dnstype=AAAA
+||llama.com^$dnstype=AAAA
 ||llambed.ac.uk^$dnstype=AAAA
 ||llandrillo.ac.uk^$dnstype=AAAA
 ||llas.ac.uk^$dnstype=AAAA
@@ -29545,6 +29546,7 @@
 ||turbobit.net^$dnstype=AAAA
 ||turbogvideos.com^$dnstype=AAAA
 ||turbohide.com^$dnstype=AAAA
+||turbopages.org^$dnstype=AAAA
 ||turborepo.org^$dnstype=AAAA
 ||turbotax.com^$dnstype=AAAA
 ||turbotwitter.com^$dnstype=AAAA
@@ -33668,6 +33670,7 @@
 ||zaobao.com^$dnstype=AAAA
 ||zaobao.com.sg^$dnstype=AAAA
 ||zaobao.sg^$dnstype=AAAA
+||zaochenbao.com^$dnstype=AAAA
 ||zaozon.com^$dnstype=AAAA
 ||zapper.fi^$dnstype=AAAA
 ||zapto.org^$dnstype=AAAA
