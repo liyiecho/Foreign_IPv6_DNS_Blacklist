@@ -539,6 +539,8 @@
 ||7mmtv.sx^$dnstype=AAAA
 ||7mmtv.tv^$dnstype=AAAA
 ||7tb.cc^$dnstype=AAAA
+||7tv.app^$dnstype=AAAA
+||7tv.io^$dnstype=AAAA
 ||8-d.com^$dnstype=AAAA
 ||8008206616.com^$dnstype=AAAA
 ||8111y.top^$dnstype=AAAA
@@ -5867,6 +5869,7 @@
 ||canterburytrust.ac.uk^$dnstype=AAAA
 ||cantonese.asia^$dnstype=AAAA
 ||canva.com^$dnstype=AAAA
+||canvastatus.com^$dnstype=AAAA
 ||canyu.org^$dnstype=AAAA
 ||cao.im^$dnstype=AAAA
 ||caobian.info^$dnstype=AAAA
@@ -13486,6 +13489,8 @@
 ||h528.com^$dnstype=AAAA
 ||h5dm.com^$dnstype=AAAA
 ||h5galgame.me^$dnstype=AAAA
+||habr.com^$dnstype=AAAA
+||habrastorage.org^$dnstype=AAAA
 ||hace.ac.uk^$dnstype=AAAA
 ||hacg.club^$dnstype=AAAA
 ||hacg.in^$dnstype=AAAA
@@ -19095,6 +19100,7 @@
 ||metacafe.com^$dnstype=AAAA
 ||metacloud.com^$dnstype=AAAA
 ||metacpan.org^$dnstype=AAAA
+||metacritic.com^$dnstype=AAAA
 ||metacubex.one^$dnstype=AAAA
 ||metadac.ac.uk^$dnstype=AAAA
 ||metafilter.com^$dnstype=AAAA
@@ -25251,6 +25257,7 @@
 ||rstatic.net^$dnstype=AAAA
 ||rt.com^$dnstype=AAAA
 ||rtalabel.org^$dnstype=AAAA
+||rtbcdn.ru^$dnstype=AAAA
 ||rthk.hk^$dnstype=AAAA
 ||rthk.org.hk^$dnstype=AAAA
 ||rthklive2-lh.akamaihd.net^$dnstype=AAAA
@@ -25324,6 +25331,7 @@
 ||rutrecker.net^$dnstype=AAAA
 ||rutrk.org^$dnstype=AAAA
 ||rutube.ru^$dnstype=AAAA
+||rutubelist.ru^$dnstype=AAAA
 ||ruvideos.net^$dnstype=AAAA
 ||ruyiseek.com^$dnstype=AAAA
 ||rvc.ac.uk^$dnstype=AAAA
@@ -28435,6 +28443,7 @@
 ||telri.ac.uk^$dnstype=AAAA
 ||temenos.ac.uk^$dnstype=AAAA
 ||temetube.xyz^$dnstype=AAAA
+||temp-mail.org^$dnstype=AAAA
 ||tempusuk.ac.uk^$dnstype=AAAA
 ||temu.com^$dnstype=AAAA
 ||tenacy.com^$dnstype=AAAA
@@ -30432,6 +30441,8 @@
 ||vaultify.info^$dnstype=AAAA
 ||vaultify.net^$dnstype=AAAA
 ||vaultproject.io^$dnstype=AAAA
+||vbcdn.com^$dnstype=AAAA
+||vbcdn.net^$dnstype=AAAA
 ||vbejeyv.shop^$dnstype=AAAA
 ||vbstatic.co^$dnstype=AAAA
 ||vcanedge.com^$dnstype=AAAA
@@ -30651,7 +30662,9 @@
 ||viacom.com^$dnstype=AAAA
 ||viacomcbs.com^$dnstype=AAAA
 ||viacomcbspressexpress.com^$dnstype=AAAA
+||viber.co^$dnstype=AAAA
 ||viber.com^$dnstype=AAAA
+||viber.me^$dnstype=AAAA
 ||vica.info^$dnstype=AAAA
 ||vicarious.ac.uk^$dnstype=AAAA
 ||victimsofcommunism.org^$dnstype=AAAA
