@@ -2543,7 +2543,6 @@
 ||ark-genomics.ac.uk^$dnstype=AAAA
 ||ark.ac.uk^$dnstype=AAAA
 ||ark.to^$dnstype=AAAA
-||arkoselabs.co^$dnstype=AAAA
 ||arkoselabs.com^$dnstype=AAAA
 ||arlingtoncemetery.mil^$dnstype=AAAA
 ||arm.ac.uk^$dnstype=AAAA
@@ -25103,7 +25102,6 @@
 ||roadblocks.com^$dnstype=AAAA
 ||roadshow.hk^$dnstype=AAAA
 ||roblocks.com^$dnstype=AAAA
-||roblox-api.arkoselabs.co^$dnstype=AAAA
 ||roblox-api.arkoselabs.com^$dnstype=AAAA
 ||roblox-load-generator-configuration.s3.us-east-2.amazonaws.com^$dnstype=AAAA
 ||roblox-poc.global.ssl.fastly.net^$dnstype=AAAA
@@ -28996,11 +28994,14 @@
 ||tig-ol-bitties.live^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
 ||tiipple.ac.uk^$dnstype=AAAA
+||tiktok-row.net^$dnstype=AAAA
 ||tiktok.com^$dnstype=AAAA
 ||tiktokcdn-eu.com^$dnstype=AAAA
 ||tiktokcdn-us.com^$dnstype=AAAA
 ||tiktokcdn.com^$dnstype=AAAA
 ||tiktokeu-cdn.com^$dnstype=AAAA
+||tiktokglobalshopv.com^$dnstype=AAAA
+||tiktokminis.us^$dnstype=AAAA
 ||tiktokv.com^$dnstype=AAAA
 ||tiktokv.eu^$dnstype=AAAA
 ||tiktokv.us^$dnstype=AAAA
@@ -33911,6 +33912,7 @@
 ||zopim.com^$dnstype=AAAA
 ||zorglist.com^$dnstype=AAAA
 ||zorrovpn.com^$dnstype=AAAA
+||zotero.org^$dnstype=AAAA
 ||zozotown.com^$dnstype=AAAA
 ||zpn.im^$dnstype=AAAA
 ||zqqpwz.com^$dnstype=AAAA
