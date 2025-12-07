@@ -2518,6 +2518,7 @@
 ||archlinuxarm.org^$dnstype=AAAA
 ||archway.ac.uk^$dnstype=AAAA
 ||arcom.ac.uk^$dnstype=AAAA
+||arcraiders.com^$dnstype=AAAA
 ||arctic.ac.uk^$dnstype=AAAA
 ||arctosia.com^$dnstype=AAAA
 ||arden.ac.uk^$dnstype=AAAA
@@ -9969,6 +9970,8 @@
 ||email-once.com^$dnstype=AAAA
 ||emanna.com^$dnstype=AAAA
 ||emas.ac.uk^$dnstype=AAAA
+||embark-studios.com^$dnstype=AAAA
+||embark.games^$dnstype=AAAA
 ||embase.com^$dnstype=AAAA
 ||embed-cdn.com^$dnstype=AAAA
 ||embed.ly^$dnstype=AAAA
@@ -10809,6 +10812,8 @@
 ||faceid99.com^$dnstype=AAAA
 ||faceid99.net^$dnstype=AAAA
 ||faceidglobal.com^$dnstype=AAAA
+||faceit-cdn.net^$dnstype=AAAA
+||faceit.com^$dnstype=AAAA
 ||faceless.me^$dnstype=AAAA
 ||faceobk.com^$dnstype=AAAA
 ||faceobok.com^$dnstype=AAAA
@@ -24713,6 +24718,7 @@
 ||reach.ac.uk^$dnstype=AAAA
 ||reachingwider.ac.uk^$dnstype=AAAA
 ||reachporn.com^$dnstype=AAAA
+||reachthefinals.com^$dnstype=AAAA
 ||reachtheworldonfacebook.com^$dnstype=AAAA
 ||react.com^$dnstype=AAAA
 ||reactjs.com^$dnstype=AAAA
