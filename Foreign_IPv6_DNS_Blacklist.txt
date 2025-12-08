@@ -15430,6 +15430,7 @@
 ||imagebam.com^$dnstype=AAAA
 ||imagecurl.com^$dnstype=AAAA
 ||imagecurl.org^$dnstype=AAAA
+||imagedelivery.net^$dnstype=AAAA
 ||imagefap.com^$dnstype=AAAA
 ||imageflea.com^$dnstype=AAAA
 ||imageglass.org^$dnstype=AAAA
@@ -18326,7 +18327,6 @@
 ||m-power.com^$dnstype=AAAA
 ||m-rhex.ac.uk^$dnstype=AAAA
 ||m-sport.co.uk^$dnstype=AAAA
-||m-team.cc^$dnstype=AAAA
 ||m.hkgalden.com^$dnstype=AAAA
 ||m.me^$dnstype=AAAA
 ||m.moegirl.org^$dnstype=AAAA
