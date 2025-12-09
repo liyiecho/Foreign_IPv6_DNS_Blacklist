@@ -24510,6 +24510,7 @@
 ||r18av.com^$dnstype=AAAA
 ||r18lu-avi.shop^$dnstype=AAAA
 ||r18lu.com^$dnstype=AAAA
+||r2.dev^$dnstype=AAAA
 ||r34porn.net^$dnstype=AAAA
 ||ra-review.ac.uk^$dnstype=AAAA
 ||ra.gg^$dnstype=AAAA
