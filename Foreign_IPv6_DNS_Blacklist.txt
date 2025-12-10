@@ -24376,6 +24376,7 @@
 ||qmw.ac.uk^$dnstype=AAAA
 ||qmzdd.com^$dnstype=AAAA
 ||qnap.com^$dnstype=AAAA
+||qobuz.com^$dnstype=AAAA
 ||qombol.com^$dnstype=AAAA
 ||qoo10.jp^$dnstype=AAAA
 ||qooqlevideo.com^$dnstype=AAAA
