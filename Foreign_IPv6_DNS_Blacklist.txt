@@ -23454,7 +23454,10 @@
 ||poecdn.net^$dnstype=AAAA
 ||pogo.com^$dnstype=AAAA
 ||pogobeta.com^$dnstype=AAAA
+||poi.icu^$dnstype=AAAA
 ||poi.moe^$dnstype=AAAA
+||poi6.net^$dnstype=AAAA
+||poihub.com^$dnstype=AAAA
 ||point.ac.uk^$dnstype=AAAA
 ||pointblank.ac.uk^$dnstype=AAAA
 ||pointblankmusicschool.ac.uk^$dnstype=AAAA
@@ -24098,6 +24101,7 @@
 ||profreeporno.com^$dnstype=AAAA
 ||programme3.ac.uk^$dnstype=AAAA
 ||prohashing.com^$dnstype=AAAA
+||project-poi.com^$dnstype=AAAA
 ||project-syndicate.org^$dnstype=AAAA
 ||projectapex.com^$dnstype=AAAA
 ||projectara.com^$dnstype=AAAA
