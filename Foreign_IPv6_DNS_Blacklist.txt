@@ -21134,6 +21134,7 @@
 ||nextwork.com.tw^$dnstype=AAAA
 ||nextwork.hk^$dnstype=AAAA
 ||nextwork.tw^$dnstype=AAAA
+||nexus-cdn.com^$dnstype=AAAA
 ||nexusmods.com^$dnstype=AAAA
 ||nf.id.au^$dnstype=AAAA
 ||nfacstem.ac.uk^$dnstype=AAAA
@@ -25190,6 +25191,10 @@
 ||roodo.com^$dnstype=AAAA
 ||root-signing.ch^$dnstype=AAAA
 ||rootsigning.com^$dnstype=AAAA
+||roovza-launches.appsflyersdk.com^$dnstype=AAAA
+||roovza.inapps.appsflyersdk.com^$dnstype=AAAA
+||roovza.launches.appsflyersdk.com^$dnstype=AAAA
+||roovza.skadsdk.appsflyersdk.com^$dnstype=AAAA
 ||rosechina.net^$dnstype=AAAA
 ||rosemarydoll.com^$dnstype=AAAA
 ||rosemount.ac.uk^$dnstype=AAAA
@@ -29006,6 +29011,7 @@
 ||tig-ol-bitties.live^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
 ||tiipple.ac.uk^$dnstype=AAAA
+||tiktok-minis.com^$dnstype=AAAA
 ||tiktok-row.net^$dnstype=AAAA
 ||tiktok.com^$dnstype=AAAA
 ||tiktokcdn-eu.com^$dnstype=AAAA
