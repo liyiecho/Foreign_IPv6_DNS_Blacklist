@@ -384,6 +384,8 @@
 ||4everoutside.com^$dnstype=AAAA
 ||4everproxy.com^$dnstype=AAAA
 ||4f1v1.top^$dnstype=AAAA
+||4gamer.net^$dnstype=AAAA
+||4gamers.com.tw^$dnstype=AAAA
 ||4gls.ac.uk^$dnstype=AAAA
 ||4greedy.com^$dnstype=AAAA
 ||4gtv.tv^$dnstype=AAAA
@@ -1403,6 +1405,7 @@
 ||akatest.tripcdn.com^$dnstype=AAAA
 ||akatns.net^$dnstype=AAAA
 ||akiba-online.com^$dnstype=AAAA
+||akiba-souken.com^$dnstype=AAAA
 ||akiba-web.com^$dnstype=AAAA
 ||akinator.com^$dnstype=AAAA
 ||akita-bank.co.jp^$dnstype=AAAA
@@ -2130,6 +2133,7 @@
 ||appdynamics.org^$dnstype=AAAA
 ||appe-store.com^$dnstype=AAAA
 ||appexchange.com^$dnstype=AAAA
+||appget.com^$dnstype=AAAA
 ||apphb.com^$dnstype=AAAA
 ||appl-e.com^$dnstype=AAAA
 ||appl.com^$dnstype=AAAA
@@ -2445,6 +2449,7 @@
 ||applicationinsights.net^$dnstype=AAAA
 ||applle.com^$dnstype=AAAA
 ||applw.com^$dnstype=AAAA
+||appmedia.jp^$dnstype=AAAA
 ||appmediagroup.com^$dnstype=AAAA
 ||approvedusedbmw.com^$dnstype=AAAA
 ||apps.evozi.com^$dnstype=AAAA
@@ -2977,6 +2982,7 @@
 ||autodeskworkshop.com^$dnstype=AAAA
 ||autodeskworkshop.net^$dnstype=AAAA
 ||autodraw.com^$dnstype=AAAA
+||automaton-media.com^$dnstype=AAAA
 ||automobile.fr^$dnstype=AAAA
 ||automotive-cadcam.com^$dnstype=AAAA
 ||autosketch.com^$dnstype=AAAA
@@ -5464,6 +5470,7 @@
 ||bumptop.org^$dnstype=AAAA
 ||bumptunes.com^$dnstype=AAAA
 ||bunbunhk.com^$dnstype=AAAA
+||bunka.go.jp^$dnstype=AAAA
 ||bunnylust.com^$dnstype=AAAA
 ||burningcamel.com^$dnstype=AAAA
 ||burnley.ac.uk^$dnstype=AAAA
@@ -7378,6 +7385,7 @@
 ||cookiepro.com^$dnstype=AAAA
 ||cool-comics.com^$dnstype=AAAA
 ||cool18.com^$dnstype=AAAA
+||cool3c.com^$dnstype=AAAA
 ||coolaler.com^$dnstype=AAAA
 ||coolder.com^$dnstype=AAAA
 ||coolinet.net^$dnstype=AAAA
@@ -8347,7 +8355,9 @@
 ||demos.ac.uk^$dnstype=AAAA
 ||demosisto.hk^$dnstype=AAAA
 ||den.ac.uk^$dnstype=AAAA
+||denfaminicogamer.jp^$dnstype=AAAA
 ||dengeamerika.com^$dnstype=AAAA
+||dengekionline.com^$dnstype=AAAA
 ||dengiamerika.com^$dnstype=AAAA
 ||deno.com^$dnstype=AAAA
 ||deno.dev^$dnstype=AAAA
@@ -9226,6 +9236,7 @@
 ||dubox.com^$dnstype=AAAA
 ||ducere.ac.uk^$dnstype=AAAA
 ||duchy.ac.uk^$dnstype=AAAA
+||duck.ai^$dnstype=AAAA
 ||duck.co^$dnstype=AAAA
 ||duck.com^$dnstype=AAAA
 ||duckdns.org^$dnstype=AAAA
@@ -10262,6 +10273,7 @@
 ||erogazopple.com^$dnstype=AAAA
 ||erogazou-pinkline.com^$dnstype=AAAA
 ||erogazoufactory.com^$dnstype=AAAA
+||eroge-road.com^$dnstype=AAAA
 ||erohentai.net^$dnstype=AAAA
 ||erolabs.cloud^$dnstype=AAAA
 ||erolabs.com^$dnstype=AAAA
@@ -10924,6 +10936,7 @@
 ||familystrokes.com^$dnstype=AAAA
 ||familyswap.xxx^$dnstype=AAAA
 ||famima.vn^$dnstype=AAAA
+||famitsu.com^$dnstype=AAAA
 ||famosascalvas.com^$dnstype=AAAA
 ||famous-nudes.com^$dnstype=AAAA
 ||famous.ac.uk^$dnstype=AAAA
@@ -12230,16 +12243,21 @@
 ||game735.com^$dnstype=AAAA
 ||gamebase.com.tw^$dnstype=AAAA
 ||gamebeforethegame.com^$dnstype=AAAA
+||gamebiz.jp^$dnstype=AAAA
+||gamebusiness.jp^$dnstype=AAAA
 ||gamedownloads-rockstargames-com.akamaized.net^$dnstype=AAAA
 ||gamejolt.com^$dnstype=AAAA
 ||gameloft.com^$dnstype=AAAA
 ||gamelore.fun^$dnstype=AAAA
+||gamemeca.com^$dnstype=AAAA
 ||gameon-masters.com^$dnstype=AAAA
+||gameover.com.hk^$dnstype=AAAA
 ||gamepass.com^$dnstype=AAAA
 ||gamepedia.com^$dnstype=AAAA
 ||gameplan.ac.uk^$dnstype=AAAA
 ||gamer-cds.cdn.hinet.net^$dnstype=AAAA
 ||gamer.com.tw^$dnstype=AAAA
+||gamer.ne.jp^$dnstype=AAAA
 ||gamer2-cds.cdn.hinet.net^$dnstype=AAAA
 ||gameroom.com^$dnstype=AAAA
 ||gamerotic.com^$dnstype=AAAA
@@ -12248,6 +12266,7 @@
 ||gamesfirsthelsinki.com^$dnstype=AAAA
 ||gamesfuckgirls.com^$dnstype=AAAA
 ||gamesofdesire.com^$dnstype=AAAA
+||gamespark.jp^$dnstype=AAAA
 ||gamesstack.com^$dnstype=AAAA
 ||gameuxmasterguide.com^$dnstype=AAAA
 ||gamez.com.tw^$dnstype=AAAA
@@ -12514,6 +12533,7 @@
 ||getlantern.org^$dnstype=AAAA
 ||getmalus.com^$dnstype=AAAA
 ||getmdl.io^$dnstype=AAAA
+||getnews.jp^$dnstype=AAAA
 ||getoutline.org^$dnstype=AAAA
 ||getpocket.com^$dnstype=AAAA
 ||getporn.tv^$dnstype=AAAA
@@ -13339,6 +13359,7 @@
 ||greatfirewall.biz^$dnstype=AAAA
 ||greatfirewallofchina.net^$dnstype=AAAA
 ||greatfirewallofchina.org^$dnstype=AAAA
+||greatgame.asia^$dnstype=AAAA
 ||greatretroporn.com^$dnstype=AAAA
 ||greatroc.org^$dnstype=AAAA
 ||greatroc.tw^$dnstype=AAAA
@@ -14303,6 +14324,7 @@
 ||hnjhj.com^$dnstype=AAAA
 ||hnntube.com^$dnstype=AAAA
 ||ho5ho.com^$dnstype=AAAA
+||hobbigame.com^$dnstype=AAAA
 ||hobonichielog.com^$dnstype=AAAA
 ||hochi.news^$dnstype=AAAA
 ||hochu.tv^$dnstype=AAAA
@@ -15246,7 +15268,9 @@
 ||igi-global.com^$dnstype=AAAA
 ||igmg.de^$dnstype=AAAA
 ||igmm.ac.uk^$dnstype=AAAA
+||ign.com^$dnstype=AAAA
 ||ign.jp^$dnstype=AAAA
+||ignimg.com^$dnstype=AAAA
 ||ignite.ac.uk^$dnstype=AAAA
 ||ignitedetroit.net^$dnstype=AAAA
 ||ignites.com^$dnstype=AAAA
@@ -15629,6 +15653,7 @@
 ||insendi.com^$dnstype=AAAA
 ||inshot.cc^$dnstype=AAAA
 ||inshot.com^$dnstype=AAAA
+||inside-games.jp^$dnstype=AAAA
 ||inside.com.tw^$dnstype=AAAA
 ||insidefilms.com^$dnstype=AAAA
 ||insidemacintosh.com^$dnstype=AAAA
@@ -16263,6 +16288,7 @@
 ||ithelp.ithome.com.tw^$dnstype=AAAA
 ||ithome.com.tw^$dnstype=AAAA
 ||itlearningspace-scot.ac.uk^$dnstype=AAAA
+||itmedia.co.jp^$dnstype=AAAA
 ||itnel.com^$dnstype=AAAA
 ||itnow.ac.uk^$dnstype=AAAA
 ||itol.ac.uk^$dnstype=AAAA
@@ -17298,6 +17324,7 @@
 ||kotlinlang.org^$dnstype=AAAA
 ||koubaibu.jp^$dnstype=AAAA
 ||kouwobb.com^$dnstype=AAAA
+||kpacg.com^$dnstype=AAAA
 ||kphimsex.net^$dnstype=AAAA
 ||kpht85.com^$dnstype=AAAA
 ||kpinsurances.com^$dnstype=AAAA
@@ -18350,6 +18377,7 @@
 ||mac.eu^$dnstype=AAAA
 ||mac.rs^$dnstype=AAAA
 ||mac.wang^$dnstype=AAAA
+||macaodaily.com^$dnstype=AAAA
 ||macappsto.re^$dnstype=AAAA
 ||macaulay.ac.uk^$dnstype=AAAA
 ||macbook.co^$dnstype=AAAA
@@ -18421,6 +18449,7 @@
 ||madewithcode.com^$dnstype=AAAA
 ||madewithmaya.com^$dnstype=AAAA
 ||madewithstudiotools.com^$dnstype=AAAA
+||madewithunity.jp^$dnstype=AAAA
 ||madhomemadeporn.com^$dnstype=AAAA
 ||madonna-av.com^$dnstype=AAAA
 ||madou.club^$dnstype=AAAA
@@ -18438,6 +18467,7 @@
 ||madvr.com^$dnstype=AAAA
 ||madvr.net^$dnstype=AAAA
 ||madvrlabs.llc^$dnstype=AAAA
+||maedahiroyuki.com^$dnstype=AAAA
 ||maes.ac.uk^$dnstype=AAAA
 ||mafia-linkz.to^$dnstype=AAAA
 ||mageconf.com^$dnstype=AAAA
@@ -18581,6 +18611,7 @@
 ||mansurfer.com^$dnstype=AAAA
 ||manta.com^$dnstype=AAAA
 ||mantais.ac.uk^$dnstype=AAAA
+||mantan-web.jp^$dnstype=AAAA
 ||mantochichi.com^$dnstype=AAAA
 ||manufacturingedc.ac.uk^$dnstype=AAAA
 ||manurefetish.com^$dnstype=AAAA
@@ -18978,6 +19009,7 @@
 ||media.nu.nl^$dnstype=AAAA
 ||media.org.hk^$dnstype=AAAA
 ||mediachinese.com^$dnstype=AAAA
+||mediaclip.jp^$dnstype=AAAA
 ||mediafiles-cisco.com^$dnstype=AAAA
 ||mediafire.com^$dnstype=AAAA
 ||mediafreakcity.com^$dnstype=AAAA
@@ -19814,6 +19846,7 @@
 ||moefuns.co^$dnstype=AAAA
 ||moeimg.net^$dnstype=AAAA
 ||moemax.net^$dnstype=AAAA
+||moepedia.net^$dnstype=AAAA
 ||moeshare.cc^$dnstype=AAAA
 ||moez-m.com^$dnstype=AAAA
 ||mof.kemomi.me^$dnstype=AAAA
@@ -22248,6 +22281,7 @@
 ||onlineapplestore.com^$dnstype=AAAA
 ||onlinecha.com^$dnstype=AAAA
 ||onlinefucktube.com^$dnstype=AAAA
+||onlinegamer.jp^$dnstype=AAAA
 ||onlinegeeksquad.com^$dnstype=AAAA
 ||onlineinstagram.com^$dnstype=AAAA
 ||onlinemonsterbeatsonsale.com^$dnstype=AAAA
@@ -24383,6 +24417,7 @@
 ||qnap.com^$dnstype=AAAA
 ||qobuz.com^$dnstype=AAAA
 ||qombol.com^$dnstype=AAAA
+||qoo-app.com^$dnstype=AAAA
 ||qoo10.jp^$dnstype=AAAA
 ||qooqlevideo.com^$dnstype=AAAA
 ||qoos.com^$dnstype=AAAA
@@ -24794,6 +24829,7 @@
 ||realraptalk.com^$dnstype=AAAA
 ||realsexdoll.com^$dnstype=AAAA
 ||realsexpass.com^$dnstype=AAAA
+||realsound.jp^$dnstype=AAAA
 ||realteengirls.com^$dnstype=AAAA
 ||realtor.com^$dnstype=AAAA
 ||realtype.co.jp^$dnstype=AAAA
@@ -25469,6 +25505,7 @@
 ||sages.ac.uk^$dnstype=AAAA
 ||sahabatsetiasmartone.com^$dnstype=AAAA
 ||sahfos.ac.uk^$dnstype=AAAA
+||saiganak.com^$dnstype=AAAA
 ||sainsbury-laboratory.ac.uk^$dnstype=AAAA
 ||sainsburycentre.ac.uk^$dnstype=AAAA
 ||sainsburyinstituteforart.ac.uk^$dnstype=AAAA
@@ -28576,6 +28613,7 @@
 ||tg-me.com^$dnstype=AAAA
 ||tg.dev^$dnstype=AAAA
 ||tgac.ac.uk^$dnstype=AAAA
+||tgdaily.co.kr^$dnstype=AAAA
 ||tgfcer.com^$dnstype=AAAA
 ||tgirlcentral.com^$dnstype=AAAA
 ||tgirlpostop.com^$dnstype=AAAA
@@ -28838,6 +28876,7 @@
 ||thirdns.de^$dnstype=AAAA
 ||thisav.com^$dnstype=AAAA
 ||thisav.org^$dnstype=AAAA
+||thisisgame.com^$dnstype=AAAA
 ||thisismoney.co.uk^$dnstype=AAAA
 ||thisispolaris.com^$dnstype=AAAA
 ||thismon.ee^$dnstype=AAAA
@@ -31525,6 +31564,7 @@
 ||want520.com^$dnstype=AAAA
 ||wantblogger.com^$dnstype=AAAA
 ||wantmywife.com^$dnstype=AAAA
+||wanuxi.com^$dnstype=AAAA
 ||wanz-factory.com^$dnstype=AAAA
 ||wapedia.mobi^$dnstype=AAAA
 ||waplog.com^$dnstype=AAAA
@@ -31556,6 +31596,7 @@
 ||watch-ebay.org^$dnstype=AAAA
 ||watch-my-gf.com^$dnstype=AAAA
 ||watch-porn.net^$dnstype=AAAA
+||watch.impress.co.jp^$dnstype=AAAA
 ||watch8x.com^$dnstype=AAAA
 ||watchanimeattheoffice.com^$dnstype=AAAA
 ||watchdisneyfe.com^$dnstype=AAAA
@@ -33359,6 +33400,7 @@
 ||yorkshireuniversities.ac.uk^$dnstype=AAAA
 ||yorksj.ac.uk^$dnstype=AAAA
 ||yorkstonemasonrycove.ac.uk^$dnstype=AAAA
+||yorozoonews.jp^$dnstype=AAAA
 ||yoshisnewisland.com^$dnstype=AAAA
 ||you-get.org^$dnstype=AAAA
 ||you.com^$dnstype=AAAA
