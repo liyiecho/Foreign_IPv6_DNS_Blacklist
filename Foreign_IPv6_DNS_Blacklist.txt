@@ -1984,6 +1984,7 @@
 ||antiwave.net^$dnstype=AAAA
 ||antpool.com^$dnstype=AAAA
 ||anudetube.com^$dnstype=AAAA
+||anuneko.com^$dnstype=AAAA
 ||anws.gov.tw^$dnstype=AAAA
 ||anxiangxing.com^$dnstype=AAAA
 ||anybunny.org^$dnstype=AAAA
@@ -16657,6 +16658,7 @@
 ||jga-group.ac.uk^$dnstype=AAAA
 ||jgg18.xyz^$dnstype=AAAA
 ||jgoodies.com^$dnstype=AAAA
+||jhelab.org^$dnstype=AAAA
 ||jhzyw.xyz^$dnstype=AAAA
 ||jiangweiping.com^$dnstype=AAAA
 ||jiaochuanba25.buzz^$dnstype=AAAA
@@ -17247,6 +17249,7 @@
 ||kirbysuperstarultra.com^$dnstype=AAAA
 ||kirkleescollege.ac.uk^$dnstype=AAAA
 ||kirkley.ac.uk^$dnstype=AAAA
+||kiro.dev^$dnstype=AAAA
 ||kisharon.ac.uk^$dnstype=AAAA
 ||kismia.com^$dnstype=AAAA
 ||kissbbao.cn^$dnstype=AAAA
@@ -23485,6 +23488,7 @@
 ||podcast.co^$dnstype=AAAA
 ||podictionary.com^$dnstype=AAAA
 ||podium.ac.uk^$dnstype=AAAA
+||podwise.ai^$dnstype=AAAA
 ||poe.com^$dnstype=AAAA
 ||poecdn.net^$dnstype=AAAA
 ||pogo.com^$dnstype=AAAA
@@ -24572,10 +24576,12 @@
 ||radiko.jp^$dnstype=AAAA
 ||radio-canada.ca^$dnstype=AAAA
 ||radio-en-ligne.fr^$dnstype=AAAA
+||radio.co^$dnstype=AAAA
 ||radio.garden^$dnstype=AAAA
 ||radioaustralia.net.au^$dnstype=AAAA
 ||radiofarda.com^$dnstype=AAAA
 ||radiohilight.net^$dnstype=AAAA
+||radiojar.com^$dnstype=AAAA
 ||radioline.co^$dnstype=AAAA
 ||radiomango.fm^$dnstype=AAAA
 ||radiomarsho.com^$dnstype=AAAA
