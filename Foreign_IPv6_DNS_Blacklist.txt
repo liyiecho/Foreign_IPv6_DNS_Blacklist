@@ -4252,6 +4252,7 @@
 ||bit.do^$dnstype=AAAA
 ||bit.ly^$dnstype=AAAA
 ||bit.no.com^$dnstype=AAAA
+||bitbaby.com^$dnstype=AAAA
 ||bitballoon.com^$dnstype=AAAA
 ||bitbank.cc^$dnstype=AAAA
 ||bitbay.net^$dnstype=AAAA
@@ -15167,6 +15168,7 @@
 ||id.taipei^$dnstype=AAAA
 ||idaiwan.com^$dnstype=AAAA
 ||idarkdoll.com^$dnstype=AAAA
+||idcflare.com^$dnstype=AAAA
 ||idcore.ac.uk^$dnstype=AAAA
 ||idea-server.com^$dnstype=AAAA
 ||ideal-teens.com^$dnstype=AAAA
@@ -20842,6 +20844,7 @@
 ||ndtv.com^$dnstype=AAAA
 ||ne-worcs.ac.uk^$dnstype=AAAA
 ||ne-worcscol.ac.uk^$dnstype=AAAA
+||ne.jp^$dnstype=AAAA
 ||neab.ac.uk^$dnstype=AAAA
 ||neaco.ac.uk^$dnstype=AAAA
 ||near.by^$dnstype=AAAA
