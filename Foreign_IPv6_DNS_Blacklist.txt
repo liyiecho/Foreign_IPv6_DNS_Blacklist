@@ -3119,6 +3119,7 @@
 ||awlc.ac.uk^$dnstype=AAAA
 ||aws-iot-hackathon.com^$dnstype=AAAA
 ||aws.com^$dnstype=AAAA
+||aws.dev^$dnstype=AAAA
 ||awsapprunner.com^$dnstype=AAAA
 ||awsapps.com^$dnstype=AAAA
 ||awsautopilot.com^$dnstype=AAAA
