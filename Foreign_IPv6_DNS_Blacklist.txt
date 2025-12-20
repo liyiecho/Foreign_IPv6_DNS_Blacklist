@@ -6976,6 +6976,7 @@
 ||cmi.org.tw^$dnstype=AAAA
 ||cmmedia.com.tw^$dnstype=AAAA
 ||cmoinc.org^$dnstype=AAAA
+||cmoney.tw^$dnstype=AAAA
 ||cmp.hku.hk^$dnstype=AAAA
 ||cmpaas.com^$dnstype=AAAA
 ||cmpcp.ac.uk^$dnstype=AAAA
@@ -21786,8 +21787,14 @@
 ||ntd.tv^$dnstype=AAAA
 ||ntdc.ac.uk^$dnstype=AAAA
 ||ntdca.com^$dnstype=AAAA
+||ntdfreemobile-tgc.cdn.hinet.net^$dnstype=AAAA
+||ntdfreepc-tgc.cdn.hinet.net^$dnstype=AAAA
+||ntdfreetv-tgc.cdn.hinet.net^$dnstype=AAAA
+||ntdfreevcpc-tgc.cdn.hinet.net^$dnstype=AAAA
 ||ntdimg.com^$dnstype=AAAA
+||ntdofifreemobile-tgc.cdn.hinet.net^$dnstype=AAAA
 ||ntdofifreepc-tgc.cdn.hinet.net^$dnstype=AAAA
+||ntdofifreetv-tgc.cdn.hinet.net^$dnstype=AAAA
 ||ntdofifreevcpc-tgc.cdn.hinet.net^$dnstype=AAAA
 ||ntdsf.tv^$dnstype=AAAA
 ||ntdtv-dc.com^$dnstype=AAAA
@@ -22813,6 +22820,7 @@
 ||particlephysics.ac.uk^$dnstype=AAAA
 ||partmaker.com^$dnstype=AAAA
 ||partneriaethaberbangor.ac.uk^$dnstype=AAAA
+||partnerstack.xyz^$dnstype=AAAA
 ||partycasino.com^$dnstype=AAAA
 ||partylikeits1986.org^$dnstype=AAAA
 ||partypoker.com^$dnstype=AAAA
@@ -23044,6 +23052,7 @@
 ||pct.org.tw^$dnstype=AAAA
 ||pctlwm.com^$dnstype=AAAA
 ||pcydds.ac.uk^$dnstype=AAAA
+||pdetails.com^$dnstype=AAAA
 ||pdf.new^$dnstype=AAAA
 ||pdfexpert.com^$dnstype=AAAA
 ||pdi.ac.uk^$dnstype=AAAA
@@ -32922,6 +32931,7 @@
 ||xvds.tv^$dnstype=AAAA
 ||xvedo.net^$dnstype=AAAA
 ||xvideo-jp.com^$dnstype=AAAA
+||xvideo.cc^$dnstype=AAAA
 ||xvideo.com^$dnstype=AAAA
 ||xvideo.org^$dnstype=AAAA
 ||xvideo.run^$dnstype=AAAA
