@@ -8865,6 +8865,8 @@
 ||dmed.technology^$dnstype=AAAA
 ||dmgmediaprivacy.co.uk^$dnstype=AAAA
 ||dmhy.org^$dnstype=AAAA
+||dmit.io^$dnstype=AAAA
+||dmit.sh^$dnstype=AAAA
 ||dml-lang.org^$dnstype=AAAA
 ||dml.ac.uk^$dnstype=AAAA
 ||dmm-extension.com^$dnstype=AAAA
@@ -10155,6 +10157,7 @@
 ||entrustdatacard.com^$dnstype=AAAA
 ||enveast.ac.uk^$dnstype=AAAA
 ||environment-health.ac.uk^$dnstype=AAAA
+||eotarchive.org^$dnstype=AAAA
 ||epa.gov.tw^$dnstype=AAAA
 ||epac.to^$dnstype=AAAA
 ||epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com^$dnstype=AAAA
@@ -12635,6 +12638,7 @@
 ||ghettotube.com^$dnstype=AAAA
 ||ghidra-sre.org^$dnstype=AAAA
 ||ghil.ac.uk^$dnstype=AAAA
+||ghostarchive.org^$dnstype=AAAA
 ||ghostgames.com^$dnstype=AAAA
 ||ghostnoteapp.com^$dnstype=AAAA
 ||ghostpath.com^$dnstype=AAAA
@@ -19139,6 +19143,7 @@
 ||meme111.com^$dnstype=AAAA
 ||memealerts.com^$dnstype=AAAA
 ||memehk.com^$dnstype=AAAA
+||mementoweb.org^$dnstype=AAAA
 ||memes.tw^$dnstype=AAAA
 ||memorybbs.com^$dnstype=AAAA
 ||memri.org^$dnstype=AAAA
@@ -23192,6 +23197,7 @@
 ||performancescience.ac.uk^$dnstype=AAAA
 ||periscope.tv^$dnstype=AAAA
 ||perl.org^$dnstype=AAAA
+||perma.cc^$dnstype=AAAA
 ||perplexity.ai^$dnstype=AAAA
 ||perplexity.com^$dnstype=AAAA
 ||persagg.com^$dnstype=AAAA
@@ -31743,6 +31749,7 @@
 ||webcams.tv^$dnstype=AAAA
 ||webcamtubexxx.com^$dnstype=AAAA
 ||webchannel-alkalimakersuite-pa.clients6.google.com^$dnstype=AAAA
+||webcitation.org^$dnstype=AAAA
 ||webevader.org^$dnstype=AAAA
 ||webex.ca^$dnstype=AAAA
 ||webex.co.in^$dnstype=AAAA
