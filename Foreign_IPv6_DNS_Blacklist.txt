@@ -27700,6 +27700,7 @@
 ||static-nike.com^$dnstype=AAAA
 ||static-verizon.com^$dnstype=AAAA
 ||static.fun^$dnstype=AAAA
+||static.pocketcasts.com^$dnstype=AAAA
 ||static.shemalez.com^$dnstype=AAAA
 ||static.siege-amazon.com^$dnstype=AAAA
 ||static01.nyt.com^$dnstype=AAAA
