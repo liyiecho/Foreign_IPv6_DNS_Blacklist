@@ -13421,6 +13421,7 @@
 ||grimsbytec.ac.uk^$dnstype=AAAA
 ||grindr.com^$dnstype=AAAA
 ||grok.com^$dnstype=AAAA
+||grokipedia.com^$dnstype=AAAA
 ||grooby.com^$dnstype=AAAA
 ||groq.com^$dnstype=AAAA
 ||grotty-monday.com^$dnstype=AAAA
@@ -30450,6 +30451,7 @@
 ||utopianpal.com^$dnstype=AAAA
 ||uts-api.itunes.apple.com^$dnstype=AAAA
 ||uu-gg.com^$dnstype=AAAA
+||uug22.com^$dnstype=AAAA
 ||uug23.com^$dnstype=AAAA
 ||uug25.com^$dnstype=AAAA
 ||uug26.com^$dnstype=AAAA
@@ -31507,7 +31509,12 @@
 ||vraiesagesse.net^$dnstype=AAAA
 ||vrbgay.com^$dnstype=AAAA
 ||vrcams.io^$dnstype=AAAA
+||vrcdn.cloud^$dnstype=AAAA
+||vrcdn.live^$dnstype=AAAA
+||vrcdn.video^$dnstype=AAAA
+||vrchat.cloud^$dnstype=AAAA
 ||vrchat.com^$dnstype=AAAA
+||vrchat.net^$dnstype=AAAA
 ||vred-essentials.com^$dnstype=AAAA
 ||vredessentials.com^$dnstype=AAAA
 ||vredprofessional.com^$dnstype=AAAA
