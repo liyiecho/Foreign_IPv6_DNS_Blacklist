@@ -35,6 +35,7 @@
 ||112263.com^$dnstype=AAAA
 ||114av.xyz^$dnstype=AAAA
 ||114bank.co.jp^$dnstype=AAAA
+||119474.xyz^$dnstype=AAAA
 ||11jav.com^$dnstype=AAAA
 ||123-hp.com^$dnstype=AAAA
 ||123bin.cc^$dnstype=AAAA
@@ -300,6 +301,7 @@
 ||36rain.com^$dnstype=AAAA
 ||3789av.com^$dnstype=AAAA
 ||39group.info^$dnstype=AAAA
+||3a5a.com^$dnstype=AAAA
 ||3aaa.ac.uk^$dnstype=AAAA
 ||3animalsextube.com^$dnstype=AAAA
 ||3arabporn.com^$dnstype=AAAA
@@ -7195,6 +7197,7 @@
 ||colliderporn.com^$dnstype=AAAA
 ||collins.co.uk^$dnstype=AAAA
 ||collins.in^$dnstype=AAAA
+||collinsdictionary.com^$dnstype=AAAA
 ||collyers.ac.uk^$dnstype=AAAA
 ||colombianas.webcam^$dnstype=AAAA
 ||colorado.edu^$dnstype=AAAA
@@ -12188,6 +12191,7 @@
 ||futoka.jp^$dnstype=AAAA
 ||futpromos.com^$dnstype=AAAA
 ||futuhk.com^$dnstype=AAAA
+||futuhkapp.com^$dnstype=AAAA
 ||futuholdings.com^$dnstype=AAAA
 ||futunited.com^$dnstype=AAAA
 ||future-media.ac.uk^$dnstype=AAAA
@@ -17615,6 +17619,7 @@
 ||lcwc.ac.uk^$dnstype=AAAA
 ||ld.hao123img.com^$dnstype=AAAA
 ||ldoc-cdt.ac.uk^$dnstype=AAAA
+||ldoceonline.com^$dnstype=AAAA
 ||ldplayer.tw^$dnstype=AAAA
 ||ldstatic.com^$dnstype=AAAA
 ||le-direct.tv^$dnstype=AAAA
@@ -19157,6 +19162,7 @@
 ||mendeley.com^$dnstype=AAAA
 ||mengnan.shop^$dnstype=AAAA
 ||menhdv.com^$dnstype=AAAA
+||mensheaven.jp^$dnstype=AAAA
 ||menshin-channel.com^$dnstype=AAAA
 ||meoriental.com^$dnstype=AAAA
 ||meplg.ac.uk^$dnstype=AAAA
@@ -21116,6 +21122,7 @@
 ||newmonsterbeatsheadphones.com^$dnstype=AAAA
 ||newnews.ca^$dnstype=AAAA
 ||newphd.ac.uk^$dnstype=AAAA
+||newpipe.net^$dnstype=AAAA
 ||newport.ac.uk^$dnstype=AAAA
 ||newpppp.com^$dnstype=AAAA
 ||newroutephd.ac.uk^$dnstype=AAAA
@@ -31783,6 +31790,7 @@
 ||webkit.org^$dnstype=AAAA
 ||webkitgtk.org^$dnstype=AAAA
 ||weblagu.com^$dnstype=AAAA
+||weblate.org^$dnstype=AAAA
 ||weblive-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||webmoneyinfo.com^$dnstype=AAAA
 ||webmproject.org^$dnstype=AAAA
