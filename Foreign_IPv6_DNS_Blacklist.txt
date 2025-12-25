@@ -4993,6 +4993,7 @@
 ||bod.asia^$dnstype=AAAA
 ||bodc.ac.uk^$dnstype=AAAA
 ||bodgirls.com^$dnstype=AAAA
+||bodog88.com^$dnstype=AAAA
 ||bodyandsoul.com.au^$dnstype=AAAA
 ||bodyfluids-jav.com^$dnstype=AAAA
 ||bognor-training.ac.uk^$dnstype=AAAA
@@ -20927,6 +20928,7 @@
 ||neovim.io^$dnstype=AAAA
 ||neow.in^$dnstype=AAAA
 ||neowin.net^$dnstype=AAAA
+||nephobox.com^$dnstype=AAAA
 ||nepusoku.com^$dnstype=AAAA
 ||nerap.ac.uk^$dnstype=AAAA
 ||nerc-arsf.ac.uk^$dnstype=AAAA
@@ -31576,6 +31578,7 @@
 ||vyprvpn.com^$dnstype=AAAA
 ||vzw.com^$dnstype=AAAA
 ||w-mt.co^$dnstype=AAAA
+||w-pool.com^$dnstype=AAAA
 ||w.idaiwan.com^$dnstype=AAAA
 ||w.org^$dnstype=AAAA
 ||w.wiki^$dnstype=AAAA
