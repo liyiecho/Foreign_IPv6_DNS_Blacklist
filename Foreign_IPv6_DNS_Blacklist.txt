@@ -18238,6 +18238,7 @@
 ||lou.ac.uk^$dnstype=AAAA
 ||loucoll.ac.uk^$dnstype=AAAA
 ||loughborough.ac.uk^$dnstype=AAAA
+||lovart.ai^$dnstype=AAAA
 ||love-sextoys.co.uk^$dnstype=AAAA
 ||love4porn.com^$dnstype=AAAA
 ||love6.tv^$dnstype=AAAA
