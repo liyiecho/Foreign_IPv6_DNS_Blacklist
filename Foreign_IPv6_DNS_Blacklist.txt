@@ -8957,7 +8957,6 @@
 ||doclercdn.com^$dnstype=AAAA
 ||docs.cfw.lbyczf.com^$dnstype=AAAA
 ||docs.com^$dnstype=AAAA
-||docs.deno.com^$dnstype=AAAA
 ||docs.new^$dnstype=AAAA
 ||docs.rs^$dnstype=AAAA
 ||doctor-videos.com^$dnstype=AAAA
@@ -12312,6 +12311,7 @@
 ||gao1.cc^$dnstype=AAAA
 ||gaofuwu.cc^$dnstype=AAAA
 ||gaoming.net^$dnstype=AAAA
+||gaopi.net^$dnstype=AAAA
 ||gaozhisheng.net^$dnstype=AAAA
 ||gaozhisheng.org^$dnstype=AAAA
 ||gaozs18.buzz^$dnstype=AAAA
@@ -12622,6 +12622,7 @@
 ||gfw.press^$dnstype=AAAA
 ||gfw.report^$dnstype=AAAA
 ||gfwatch.org^$dnstype=AAAA
+||gfwbao.com^$dnstype=AAAA
 ||gfwlist.end^$dnstype=AAAA
 ||gfwlist.start^$dnstype=AAAA
 ||gfx.ms^$dnstype=AAAA
@@ -16285,6 +16286,7 @@
 ||issitedownrightnow.com^$dnstype=AAAA
 ||issquaredown.com^$dnstype=AAAA
 ||issquareup.com^$dnstype=AAAA
+||issues.chromium.org^$dnstype=AAAA
 ||issuu.com^$dnstype=AAAA
 ||istar.ac.uk^$dnstype=AAAA
 ||istars.co.nz^$dnstype=AAAA
@@ -25640,6 +25642,7 @@
 ||samsunghealth.com^$dnstype=AAAA
 ||samsungiotcloud.com^$dnstype=AAAA
 ||samsungknox.com^$dnstype=AAAA
+||samsungosp.com^$dnstype=AAAA
 ||samsungqbe.com^$dnstype=AAAA
 ||samsungrs.com^$dnstype=AAAA
 ||sandisk.ae^$dnstype=AAAA
@@ -27768,6 +27771,7 @@
 ||steamdb.info^$dnstype=AAAA
 ||steamdeck.com^$dnstype=AAAA
 ||steamgames.com^$dnstype=AAAA
+||steamladder.com^$dnstype=AAAA
 ||steammobile.akamaized.net^$dnstype=AAAA
 ||steamofporn.com^$dnstype=AAAA
 ||steampipe-kr.akamaized.net^$dnstype=AAAA
