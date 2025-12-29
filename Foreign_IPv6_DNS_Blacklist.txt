@@ -2524,6 +2524,7 @@
 ||archivx.to^$dnstype=AAAA
 ||archlinux.org^$dnstype=AAAA
 ||archlinuxarm.org^$dnstype=AAAA
+||archlinuxcn.org^$dnstype=AAAA
 ||archway.ac.uk^$dnstype=AAAA
 ||arcom.ac.uk^$dnstype=AAAA
 ||arcraiders.com^$dnstype=AAAA
@@ -12893,6 +12894,7 @@
 ||gockhuatviet.com^$dnstype=AAAA
 ||godaddy.com^$dnstype=AAAA
 ||godalming.ac.uk^$dnstype=AAAA
+||godbolt.org^$dnstype=AAAA
 ||godfootsteps.org^$dnstype=AAAA
 ||godns.work^$dnstype=AAAA
 ||godoc.org^$dnstype=AAAA
