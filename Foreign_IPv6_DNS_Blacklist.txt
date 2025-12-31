@@ -14107,6 +14107,7 @@
 ||hespa.ac.uk^$dnstype=AAAA
 ||hestem.ac.uk^$dnstype=AAAA
 ||heswbusnet.ac.uk^$dnstype=AAAA
+||hetzner-cloud.de^$dnstype=AAAA
 ||hetzner.cloud^$dnstype=AAAA
 ||hetzner.com^$dnstype=AAAA
 ||hetzner.company^$dnstype=AAAA
