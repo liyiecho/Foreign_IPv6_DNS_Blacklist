@@ -5484,6 +5484,8 @@
 ||bumptunes.com^$dnstype=AAAA
 ||bunbunhk.com^$dnstype=AAAA
 ||bunka.go.jp^$dnstype=AAAA
+||bunny.net^$dnstype=AAAA
+||bunnycdn.com^$dnstype=AAAA
 ||bunnylust.com^$dnstype=AAAA
 ||burningcamel.com^$dnstype=AAAA
 ||burnley.ac.uk^$dnstype=AAAA
