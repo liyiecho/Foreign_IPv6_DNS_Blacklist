@@ -2543,6 +2543,7 @@
 ||arethusa.su^$dnstype=AAAA
 ||arewereadyyet.com^$dnstype=AAAA
 ||areyoucreditwise.com^$dnstype=AAAA
+||argo-bdp.com^$dnstype=AAAA
 ||argotunnel.com^$dnstype=AAAA
 ||argyllcollege.ac.uk^$dnstype=AAAA
 ||aria.ms^$dnstype=AAAA
@@ -3323,6 +3324,7 @@
 ||bandpcoll.ac.uk^$dnstype=AAAA
 ||bandwagonhost.com^$dnstype=AAAA
 ||banff-buchan.ac.uk^$dnstype=AAAA
+||bang-dream.com^$dnstype=AAAA
 ||bang-movies.com^$dnstype=AAAA
 ||bangbros.com^$dnstype=AAAA
 ||bangbrosnetwork.com^$dnstype=AAAA
@@ -5498,6 +5500,17 @@
 ||buryacl.ac.uk^$dnstype=AAAA
 ||burycollege.ac.uk^$dnstype=AAAA
 ||busayari.com^$dnstype=AAAA
+||bushi-navi.com^$dnstype=AAAA
+||bushimo.jp^$dnstype=AAAA
+||bushiroad-creative.com^$dnstype=AAAA
+||bushiroad-global-online-store.com^$dnstype=AAAA
+||bushiroad-move.com^$dnstype=AAAA
+||bushiroad-music.com^$dnstype=AAAA
+||bushiroad-store.com^$dnstype=AAAA
+||bushiroad-works.com^$dnstype=AAAA
+||bushiroad.co.jp^$dnstype=AAAA
+||bushiroad.com^$dnstype=AAAA
+||bushiroadgames.com^$dnstype=AAAA
 ||business-humanrights.org^$dnstype=AAAA
 ||business-i.jp^$dnstype=AAAA
 ||business-intelligence.ac.uk^$dnstype=AAAA
@@ -6311,6 +6324,7 @@
 ||ceug.ac.uk^$dnstype=AAAA
 ||cex.io^$dnstype=AAAA
 ||cf-ipfs.com^$dnstype=AAAA
+||cf-vanguard.com^$dnstype=AAAA
 ||cf.ac.uk^$dnstype=AAAA
 ||cfake.com^$dnstype=AAAA
 ||cfargotunnel.com^$dnstype=AAAA
@@ -7140,6 +7154,7 @@
 ||coinex.com^$dnstype=AAAA
 ||coingecko.com^$dnstype=AAAA
 ||coingi.com^$dnstype=AAAA
+||coinglass.com^$dnstype=AAAA
 ||coinmap.org^$dnstype=AAAA
 ||coinmarketcap.com^$dnstype=AAAA
 ||coinone.co.kr^$dnstype=AAAA
@@ -7305,8 +7320,10 @@
 ||comfy.org^$dnstype=AAAA
 ||comfyci.org^$dnstype=AAAA
 ||comfyregistry.org^$dnstype=AAAA
+||comic-growl.com^$dnstype=AAAA
 ||comic-mega.me^$dnstype=AAAA
 ||comicbox.xyz^$dnstype=AAAA
+||comicbushi-web.com^$dnstype=AAAA
 ||comico.tw^$dnstype=AAAA
 ||comics.ac.uk^$dnstype=AAAA
 ||comicscartoonporn.com^$dnstype=AAAA
@@ -7923,6 +7940,7 @@
 ||d3c27h4odz752x.cloudfront.net^$dnstype=AAAA
 ||d3r7nsslvs6aaf.cloudfront.net^$dnstype=AAAA
 ||d3vd9lfkzbru3h.cloudfront.net^$dnstype=AAAA
+||d4dj-pj.com^$dnstype=AAAA
 ||d6d4ismr40iw.cloudfront.net^$dnstype=AAAA
 ||d6tizftlrpuof.cloudfront.net^$dnstype=AAAA
 ||da-files.com^$dnstype=AAAA
@@ -9137,6 +9155,7 @@
 ||dreambmw.ca^$dnstype=AAAA
 ||dreamforce.com^$dnstype=AAAA
 ||dreammovies.com^$dnstype=AAAA
+||dreamorder.com^$dnstype=AAAA
 ||dreamteamfc.com^$dnstype=AAAA
 ||dreamtoplay.com^$dnstype=AAAA
 ||dreamworks.com^$dnstype=AAAA
@@ -11167,6 +11186,7 @@
 ||fburl.com^$dnstype=AAAA
 ||fbwat.ch^$dnstype=AAAA
 ||fbworkmail.com^$dnstype=AAAA
+||fc-buddyfight.com^$dnstype=AAAA
 ||fc2.com^$dnstype=AAAA
 ||fc2blog.net^$dnstype=AAAA
 ||fc2china.com^$dnstype=AAAA
@@ -12482,6 +12502,7 @@
 ||geinoueroch.com^$dnstype=AAAA
 ||geiriadur.ac.uk^$dnstype=AAAA
 ||gekikame.com^$dnstype=AAAA
+||gekkan-bushi.com^$dnstype=AAAA
 ||gelbooru.com^$dnstype=AAAA
 ||gelbooru.me^$dnstype=AAAA
 ||gelbooru.wjcodes.com^$dnstype=AAAA
@@ -14161,6 +14182,7 @@
 ||hi-on.org.tw^$dnstype=AAAA
 ||hibank24.com^$dnstype=AAAA
 ||hibdontire.com^$dnstype=AAAA
+||hibiki-cast.jp^$dnstype=AAAA
 ||hicairo.com^$dnstype=AAAA
 ||hiccears.com^$dnstype=AAAA
 ||hidden-advent.org^$dnstype=AAAA
@@ -14205,6 +14227,7 @@
 ||hihistory.net^$dnstype=AAAA
 ||hiitch.com^$dnstype=AAAA
 ||hikinggfw.org^$dnstype=AAAA
+||hikosen.co.jp^$dnstype=AAAA
 ||hilderstone.ac.uk^$dnstype=AAAA
 ||hilive.tv^$dnstype=AAAA
 ||hillcroft.ac.uk^$dnstype=AAAA
@@ -16947,6 +16970,7 @@
 ||judicial.gov.tw^$dnstype=AAAA
 ||juggsjoy.com^$dnstype=AAAA
 ||juhachibank.co.jp^$dnstype=AAAA
+||juhuaren.com^$dnstype=AAAA
 ||juiceced.xyz^$dnstype=AAAA
 ||juicytwink.com^$dnstype=AAAA
 ||jukujo-club.com^$dnstype=AAAA
@@ -21565,6 +21589,8 @@
 ||njav.tv^$dnstype=AAAA
 ||njavtv.com^$dnstype=AAAA
 ||njncscotlandscolleges.ac.uk^$dnstype=AAAA
+||njpw.co.jp^$dnstype=AAAA
+||njpw1972.com^$dnstype=AAAA
 ||njuice.com^$dnstype=AAAA
 ||nkc.ac.uk^$dnstype=AAAA
 ||nke6.com^$dnstype=AAAA
@@ -23084,6 +23110,7 @@
 ||pdproxy.com^$dnstype=AAAA
 ||pds.ac.uk^$dnstype=AAAA
 ||pds.nasa.gov^$dnstype=AAAA
+||pdst.fm^$dnstype=AAAA
 ||pdxbmw.com^$dnstype=AAAA
 ||peace.ca^$dnstype=AAAA
 ||peacefire.org^$dnstype=AAAA
@@ -24938,6 +24965,7 @@
 ||reaxys.com^$dnstype=AAAA
 ||rebates.jp^$dnstype=AAAA
 ||rebatesrule.net^$dnstype=AAAA
+||rebirth-fy.com^$dnstype=AAAA
 ||rebrandly.com^$dnstype=AAAA
 ||rebuildingmacroeconomics.ac.uk^$dnstype=AAAA
 ||recelebrity.com^$dnstype=AAAA
@@ -25130,6 +25158,7 @@
 ||revocationcheck.com^$dnstype=AAAA
 ||revolv.com^$dnstype=AAAA
 ||revsci.net^$dnstype=AAAA
+||revuestarlight.com^$dnstype=AAAA
 ||revver.com^$dnstype=AAAA
 ||rewind.ac.uk^$dnstype=AAAA
 ||rewrite-anime.tv^$dnstype=AAAA
@@ -26448,6 +26477,7 @@
 ||shadowsocks.nu^$dnstype=AAAA
 ||shadowsocks.org^$dnstype=AAAA
 ||shadowsocks9.com^$dnstype=AAAA
+||shadowverse-evolve.com^$dnstype=AAAA
 ||shadowverse.jp^$dnstype=AAAA
 ||shafaqna.com^$dnstype=AAAA
 ||shahit.biz^$dnstype=AAAA
@@ -30357,6 +30387,7 @@
 ||uol.ac.uk^$dnstype=AAAA
 ||uos.ac.uk^$dnstype=AAAA
 ||uoutside.org^$dnstype=AAAA
+||up.audio^$dnstype=AAAA
 ||up.gcp.googlers.com^$dnstype=AAAA
 ||up01.cc^$dnstype=AAAA
 ||upa.ac.uk^$dnstype=AAAA
@@ -32364,6 +32395,8 @@
 ||wrocah.ac.uk^$dnstype=AAAA
 ||wroxton-college.ac.uk^$dnstype=AAAA
 ||wrssdtp.ac.uk^$dnstype=AAAA
+||ws-blau.com^$dnstype=AAAA
+||ws-tcg.com^$dnstype=AAAA
 ||wsc.ac.uk^$dnstype=AAAA
 ||wscinternational.ac.uk^$dnstype=AAAA
 ||wsfc.ac.uk^$dnstype=AAAA
@@ -32508,6 +32541,7 @@
 ||wwis-dubc1-vip99.adobe.com^$dnstype=AAAA
 ||wwitv.com^$dnstype=AAAA
 ||wwmpcrn.ac.uk^$dnstype=AAAA
+||wwr-stardom.com^$dnstype=AAAA
 ||wwtbam.com^$dnstype=AAAA
 ||www-bestbuystores.com^$dnstype=AAAA
 ||www-facebook.com^$dnstype=AAAA
