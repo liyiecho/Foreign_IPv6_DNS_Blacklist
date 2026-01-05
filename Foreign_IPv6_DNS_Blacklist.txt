@@ -22554,6 +22554,7 @@
 ||oocdtp.ac.uk^$dnstype=AAAA
 ||ood.opsource.net^$dnstype=AAAA
 ||oojj.de^$dnstype=AAAA
+||ooni.io^$dnstype=AAAA
 ||ooni.org^$dnstype=AAAA
 ||oopsforum.com^$dnstype=AAAA
 ||ootbstudio.co.kr^$dnstype=AAAA
@@ -32815,6 +32816,7 @@
 ||xcafe.com^$dnstype=AAAA
 ||xcafe.in^$dnstype=AAAA
 ||xcams.com^$dnstype=AAAA
+||xcancel.com^$dnstype=AAAA
 ||xcg123.com^$dnstype=AAAA
 ||xchina.co^$dnstype=AAAA
 ||xchina.fun^$dnstype=AAAA
