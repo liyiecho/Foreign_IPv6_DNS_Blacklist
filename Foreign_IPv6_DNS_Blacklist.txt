@@ -1294,6 +1294,7 @@
 ||ai.google^$dnstype=AAAA
 ||ai.google.dev^$dnstype=AAAA
 ||ai.ls^$dnstype=AAAA
+||ai.studio^$dnstype=AAAA
 ||ai3sd.ac.uk^$dnstype=AAAA
 ||ai7995.site^$dnstype=AAAA
 ||ai91porn.cc^$dnstype=AAAA
@@ -25648,6 +25649,7 @@
 ||ruten.com.tw^$dnstype=AAAA
 ||rutherford.ac.uk^$dnstype=AAAA
 ||rutlandcollege.ac.uk^$dnstype=AAAA
+||rutor.info^$dnstype=AAAA
 ||rutracker.cc^$dnstype=AAAA
 ||rutracker.cr^$dnstype=AAAA
 ||rutracker.me^$dnstype=AAAA
