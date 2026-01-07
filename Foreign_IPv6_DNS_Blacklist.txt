@@ -16422,7 +16422,6 @@
 ||issitedownrightnow.com^$dnstype=AAAA
 ||issquaredown.com^$dnstype=AAAA
 ||issquareup.com^$dnstype=AAAA
-||issues.chromium.org^$dnstype=AAAA
 ||issuu.com^$dnstype=AAAA
 ||istar.ac.uk^$dnstype=AAAA
 ||istars.co.nz^$dnstype=AAAA
@@ -21415,6 +21414,15 @@
 ||nginx.org^$dnstype=AAAA
 ||nginxconfig.io^$dnstype=AAAA
 ||ngodupdongchung.com^$dnstype=AAAA
+||ngrok-free.app^$dnstype=AAAA
+||ngrok-free.dev^$dnstype=AAAA
+||ngrok-free.pizza^$dnstype=AAAA
+||ngrok.app^$dnstype=AAAA
+||ngrok.com^$dnstype=AAAA
+||ngrok.dev^$dnstype=AAAA
+||ngrok.io^$dnstype=AAAA
+||ngrok.pizza^$dnstype=AAAA
+||ngrok.pro^$dnstype=AAAA
 ||ngs.ac.uk^$dnstype=AAAA
 ||ngwnet.ac.uk^$dnstype=AAAA
 ||nhc.ac.uk^$dnstype=AAAA
@@ -23490,6 +23498,8 @@
 ||ping.pe^$dnstype=AAAA
 ||ping.sx^$dnstype=AAAA
 ||pingguotv.xyz^$dnstype=AAAA
+||pinggy.io^$dnstype=AAAA
+||pinggy.link^$dnstype=AAAA
 ||pingxiangpuer.com^$dnstype=AAAA
 ||pinimg.com^$dnstype=AAAA
 ||pinkcore.com^$dnstype=AAAA
