@@ -28575,6 +28575,7 @@
 ||tamiaode.tk^$dnstype=AAAA
 ||tamilsexvideos.cc^$dnstype=AAAA
 ||tampabay.com^$dnstype=AAAA
+||tamtam.chat^$dnstype=AAAA
 ||tamworth.ac.uk^$dnstype=AAAA
 ||tamworthandlichfield.ac.uk^$dnstype=AAAA
 ||tanc.org^$dnstype=AAAA
