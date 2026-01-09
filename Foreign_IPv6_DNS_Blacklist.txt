@@ -2921,6 +2921,7 @@
 ||authorizeddns.net^$dnstype=AAAA
 ||authorizeddns.org^$dnstype=AAAA
 ||authorxml.com^$dnstype=AAAA
+||authpass.app^$dnstype=AAAA
 ||authy.com^$dnstype=AAAA
 ||autocad-schulungen.com^$dnstype=AAAA
 ||autocad.com^$dnstype=AAAA
@@ -4270,6 +4271,7 @@
 ||bingsettingssearch.trafficmanager.net^$dnstype=AAAA
 ||bingvisualsearch.com^$dnstype=AAAA
 ||bingworld.com^$dnstype=AAAA
+||bingx.com^$dnstype=AAAA
 ||binoculus.com^$dnstype=AAAA
 ||bintray.com^$dnstype=AAAA
 ||binux.me^$dnstype=AAAA
@@ -12605,6 +12607,7 @@
 ||genshin-porn.com^$dnstype=AAAA
 ||genshinh.com^$dnstype=AAAA
 ||gentoo.org^$dnstype=AAAA
+||geobasket.ru^$dnstype=AAAA
 ||geocities.co.jp^$dnstype=AAAA
 ||geocities.com^$dnstype=AAAA
 ||geocities.jp^$dnstype=AAAA
@@ -17906,6 +17909,7 @@
 ||letsencrypt.org^$dnstype=AAAA
 ||letsfuckme.net^$dnstype=AAAA
 ||letsjerk.cc^$dnstype=AAAA
+||letsmoveforabetterworld.com^$dnstype=AAAA
 ||lettherebeporn.com^$dnstype=AAAA
 ||lettol.ac.uk^$dnstype=AAAA
 ||level-plus.net^$dnstype=AAAA
@@ -21145,6 +21149,7 @@
 ||netcup.net^$dnstype=AAAA
 ||netdna-cdn.com^$dnstype=AAAA
 ||netfapx.com^$dnstype=AAAA
+||netfilter.org^$dnstype=AAAA
 ||netfirms.com^$dnstype=AAAA
 ||netflav.com^$dnstype=AAAA
 ||netflav1.com^$dnstype=AAAA
@@ -21400,11 +21405,13 @@
 ||nfscdict.com^$dnstype=AAAA
 ||nfscofficial.com^$dnstype=AAAA
 ||nfsworld.com^$dnstype=AAAA
+||nftables.org^$dnstype=AAAA
 ||nftstatic.com^$dnstype=AAAA
 ||nftstorage.link^$dnstype=AAAA
 ||ng.mil^$dnstype=AAAA
 ||nga.mil^$dnstype=AAAA
 ||ngc.ac.uk^$dnstype=AAAA
+||ngenix.net^$dnstype=AAAA
 ||ngensis.com^$dnstype=AAAA
 ||ngeo.com^$dnstype=AAAA
 ||ngfiles.com^$dnstype=AAAA
@@ -23183,6 +23190,7 @@
 ||payroll.com^$dnstype=AAAA
 ||payserve.com^$dnstype=AAAA
 ||paysitesreviews.net^$dnstype=AAAA
+||paywb.com^$dnstype=AAAA
 ||payypal.com^$dnstype=AAAA
 ||pbabes.com^$dnstype=AAAA
 ||pbjar1205.pro^$dnstype=AAAA
@@ -25257,6 +25265,7 @@
 ||resourceshare.ac.uk^$dnstype=AAAA
 ||respawnbyrazer.com^$dnstype=AAAA
 ||restore.ac.uk^$dnstype=AAAA
+||restream-media.net^$dnstype=AAAA
 ||results.ac.uk^$dnstype=AAAA
 ||rethink.net^$dnstype=AAAA
 ||retimer.com^$dnstype=AAAA
@@ -25673,6 +25682,7 @@
 ||ruvideos.net^$dnstype=AAAA
 ||ruyiseek.com^$dnstype=AAAA
 ||rvc.ac.uk^$dnstype=AAAA
+||rwb.ru^$dnstype=AAAA
 ||rwcmd.ac.uk^$dnstype=AAAA
 ||rxhj.net^$dnstype=AAAA
 ||ryokoyomiuri.co.jp^$dnstype=AAAA
@@ -28704,6 +28714,12 @@
 ||techne.ac.uk^$dnstype=AAAA
 ||technews.tw^$dnstype=AAAA
 ||technics.com^$dnstype=AAAA
+||technogym.bg^$dnstype=AAAA
+||technogym.ch^$dnstype=AAAA
+||technogym.com^$dnstype=AAAA
+||technogym.com.br^$dnstype=AAAA
+||technogym.ru^$dnstype=AAAA
+||technogym.su^$dnstype=AAAA
 ||technologyandsociety.org^$dnstype=AAAA
 ||technorati.com^$dnstype=AAAA
 ||techradar.com^$dnstype=AAAA
@@ -31889,12 +31905,16 @@
 ||waymo.com^$dnstype=AAAA
 ||waze.com^$dnstype=AAAA
 ||wb-agora-hydra-file-storage-k1.s3.amazonaws.com^$dnstype=AAAA
+||wb-basket.ru^$dnstype=AAAA
+||wb.ru^$dnstype=AAAA
 ||wbagora.com^$dnstype=AAAA
 ||wballiance.com^$dnstype=AAAA
+||wbbasket.ru^$dnstype=AAAA
 ||wbd.ms^$dnstype=AAAA
 ||wbdnbo.net^$dnstype=AAAA
 ||wbgames.com^$dnstype=AAAA
 ||wbinsights.com^$dnstype=AAAA
+||wbpay.ru^$dnstype=AAAA
 ||wbs.ac.uk^$dnstype=AAAA
 ||wbvm4s.com^$dnstype=AAAA
 ||wcc.ac.uk^$dnstype=AAAA
@@ -32021,6 +32041,7 @@
 ||wellcome.ac.uk^$dnstype=AAAA
 ||wellfuckedwife.com^$dnstype=AAAA
 ||wellmaturetube.com^$dnstype=AAAA
+||wellnessinstitute.com^$dnstype=AAAA
 ||welovecock.com^$dnstype=AAAA
 ||welsh-dictionary.ac.uk^$dnstype=AAAA
 ||welshmediumhe.ac.uk^$dnstype=AAAA
@@ -32183,6 +32204,7 @@
 ||whyx.org^$dnstype=AAAA
 ||wi-fi.org^$dnstype=AAAA
 ||wias.ac.uk^$dnstype=AAAA
+||wibes.ru^$dnstype=AAAA
 ||wicn.ac.uk^$dnstype=AAAA
 ||widevine.com^$dnstype=AAAA
 ||widgets.stripst.com^$dnstype=AAAA
@@ -32262,6 +32284,7 @@
 ||wiktionary.org^$dnstype=AAAA
 ||wilberforce.ac.uk^$dnstype=AAAA
 ||wildammo.com^$dnstype=AAAA
+||wildberries.ru^$dnstype=AAAA
 ||wildcamporn.com^$dnstype=AAAA
 ||wildfanny.com^$dnstype=AAAA
 ||wildfreevideos.com^$dnstype=AAAA
@@ -32297,6 +32320,7 @@
 ||wingy.site^$dnstype=AAAA
 ||winhec.com^$dnstype=AAAA
 ||winhec.net^$dnstype=AAAA
+||wink.ru^$dnstype=AAAA
 ||winncop.ac.uk^$dnstype=AAAA
 ||winning11.com^$dnstype=AAAA
 ||winningstudents-scotland.ac.uk^$dnstype=AAAA
