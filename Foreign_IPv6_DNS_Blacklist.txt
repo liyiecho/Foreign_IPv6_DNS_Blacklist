@@ -5431,6 +5431,7 @@
 ||brotli.org^$dnstype=AAAA
 ||brourou.com^$dnstype=AAAA
 ||browser.kagi.com^$dnstype=AAAA
+||browser.run^$dnstype=AAAA
 ||brox-coll.ac.uk^$dnstype=AAAA
 ||broxtowe.ac.uk^$dnstype=AAAA
 ||brucewang.net^$dnstype=AAAA
@@ -6399,6 +6400,7 @@
 ||cfas.ac.uk^$dnstype=AAAA
 ||cfblob.com^$dnstype=AAAA
 ||cfd-tv.com^$dnstype=AAAA
+||cfdata.org^$dnstype=AAAA
 ||cfdesign.com^$dnstype=AAAA
 ||cfhks.org.hk^$dnstype=AAAA
 ||cfl.re^$dnstype=AAAA
@@ -6993,26 +6995,34 @@
 ||cloudflare-gateway.com^$dnstype=AAAA
 ||cloudflare-ipfs.com^$dnstype=AAAA
 ||cloudflare-quic.com^$dnstype=AAAA
+||cloudflare-terms-of-service-abuse.com^$dnstype=AAAA
 ||cloudflare.com^$dnstype=AAAA
+||cloudflare.dev^$dnstype=AAAA
 ||cloudflare.net^$dnstype=AAAA
 ||cloudflare.tv^$dnstype=AAAA
 ||cloudflareaccess.com^$dnstype=AAAA
 ||cloudflareapps.com^$dnstype=AAAA
 ||cloudflarebolt.com^$dnstype=AAAA
+||cloudflarebrowser.com^$dnstype=AAAA
+||cloudflarechallenge.com^$dnstype=AAAA
 ||cloudflareclient.com^$dnstype=AAAA
+||cloudflarecp.com^$dnstype=AAAA
 ||cloudflareinsights.com^$dnstype=AAAA
 ||cloudflareok.com^$dnstype=AAAA
 ||cloudflarepartners.com^$dnstype=AAAA
 ||cloudflareportal.com^$dnstype=AAAA
 ||cloudflarepreview.com^$dnstype=AAAA
 ||cloudflareregistrar.com^$dnstype=AAAA
+||cloudflareresearch.com^$dnstype=AAAA
 ||cloudflareresolve.com^$dnstype=AAAA
 ||cloudflaressl.com^$dnstype=AAAA
 ||cloudflarestatus.com^$dnstype=AAAA
 ||cloudflarestorage.com^$dnstype=AAAA
 ||cloudflarestream.com^$dnstype=AAAA
+||cloudflaresupport.com^$dnstype=AAAA
 ||cloudflaretest.com^$dnstype=AAAA
 ||cloudflarewarp.com^$dnstype=AAAA
+||cloudflareworkers.com^$dnstype=AAAA
 ||cloudfront.com^$dnstype=AAAA
 ||cloudfront.net^$dnstype=AAAA
 ||cloudfunctions.net^$dnstype=AAAA
@@ -10159,6 +10169,7 @@
 ||enca.com^$dnstype=AAAA
 ||encoretvb.com^$dnstype=AAAA
 ||encrypt.me^$dnstype=AAAA
+||encryptedsni.com^$dnstype=AAAA
 ||encuentroscasualesoecuador.com^$dnstype=AAAA
 ||encyclopedia.com^$dnstype=AAAA
 ||enema-porn.com^$dnstype=AAAA
@@ -10506,6 +10517,7 @@
 ||espncdn.com^$dnstype=AAAA
 ||espndotcom.tt.omtrdc.net^$dnstype=AAAA
 ||espnqa.com^$dnstype=AAAA
+||esports.gg^$dnstype=AAAA
 ||esposasymaridos.com^$dnstype=AAAA
 ||esrc.ac.uk^$dnstype=AAAA
 ||esrcfestival.ac.uk^$dnstype=AAAA
@@ -12365,11 +12377,13 @@
 ||game-platform.net^$dnstype=AAAA
 ||game-repack.site^$dnstype=AAAA
 ||game735.com^$dnstype=AAAA
+||gameapps.hk^$dnstype=AAAA
 ||gamebase.com.tw^$dnstype=AAAA
 ||gamebeforethegame.com^$dnstype=AAAA
 ||gamebiz.jp^$dnstype=AAAA
 ||gamebusiness.jp^$dnstype=AAAA
 ||gamedownloads-rockstargames-com.akamaized.net^$dnstype=AAAA
+||gamefocus.co.kr^$dnstype=AAAA
 ||gamejolt.com^$dnstype=AAAA
 ||gameloft.com^$dnstype=AAAA
 ||gamelore.fun^$dnstype=AAAA
@@ -15432,6 +15446,7 @@
 ||ig.me^$dnstype=AAAA
 ||igaychat.com^$dnstype=AAAA
 ||igayporn.tv^$dnstype=AAAA
+||igcc.jp^$dnstype=AAAA
 ||igcd.net^$dnstype=AAAA
 ||igcdn.com^$dnstype=AAAA
 ||iger.ac.uk^$dnstype=AAAA
@@ -15820,6 +15835,7 @@
 ||inoreader.com^$dnstype=AAAA
 ||inote.tw^$dnstype=AAAA
 ||inporn.com^$dnstype=AAAA
+||inquirer.net^$dnstype=AAAA
 ||inquisitionspostmortem.ac.uk^$dnstype=AAAA
 ||insder.co^$dnstype=AAAA
 ||insecam.org^$dnstype=AAAA
@@ -18699,6 +18715,7 @@
 ||mahajantech.com^$dnstype=AAAA
 ||mahjongsoul.com^$dnstype=AAAA
 ||mahsc.ac.uk^$dnstype=AAAA
+||maidonanews.jp^$dnstype=AAAA
 ||maiio.net^$dnstype=AAAA
 ||mail-archive.com^$dnstype=AAAA
 ||mail.com^$dnstype=AAAA
@@ -20057,6 +20074,7 @@
 ||modrinth.com^$dnstype=AAAA
 ||modular.im^$dnstype=AAAA
 ||moeaic.gov.tw^$dnstype=AAAA
+||moedigi.com^$dnstype=AAAA
 ||moeero-library.com^$dnstype=AAAA
 ||moeerolibrary.com^$dnstype=AAAA
 ||moefuns.co^$dnstype=AAAA
@@ -20678,6 +20696,7 @@
 ||mymom.info^$dnstype=AAAA
 ||mymusclevideo.com^$dnstype=AAAA
 ||mymusic.net.tw^$dnstype=AAAA
+||mynavi.jp^$dnstype=AAAA
 ||mynescol.ac.uk^$dnstype=AAAA
 ||mynetav.net^$dnstype=AAAA
 ||mynetav.org^$dnstype=AAAA
@@ -22592,6 +22611,7 @@
 ||openapiservice.com^$dnstype=AAAA
 ||openart.ai^$dnstype=AAAA
 ||openbase.com^$dnstype=AAAA
+||openbook.org.tw^$dnstype=AAAA
 ||opencas.io^$dnstype=AAAA
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
@@ -25231,6 +25251,7 @@
 ||repe21.com^$dnstype=AAAA
 ||repo.new^$dnstype=AAAA
 ||repositorynet.ac.uk^$dnstype=AAAA
+||repotama.com^$dnstype=AAAA
 ||repsils.no^$dnstype=AAAA
 ||repsneakermall.com^$dnstype=AAAA
 ||repswing.com^$dnstype=AAAA
@@ -27652,6 +27673,7 @@
 ||sqhwesternconsortium.ac.uk^$dnstype=AAAA
 ||sqlite.org^$dnstype=AAAA
 ||sqlserveronlinux.com^$dnstype=AAAA
+||sqool.net^$dnstype=AAAA
 ||squ1.com^$dnstype=AAAA
 ||squadbusters.com^$dnstype=AAAA
 ||squarecapital.com^$dnstype=AAAA
@@ -28585,6 +28607,7 @@
 ||tamiaode.tk^$dnstype=AAAA
 ||tamilsexvideos.cc^$dnstype=AAAA
 ||tampabay.com^$dnstype=AAAA
+||tampermonkey.net^$dnstype=AAAA
 ||tamtam.chat^$dnstype=AAAA
 ||tamworth.ac.uk^$dnstype=AAAA
 ||tamworthandlichfield.ac.uk^$dnstype=AAAA
@@ -29602,6 +29625,7 @@
 ||toxin-up.sbs^$dnstype=AAAA
 ||toxinzoo.sbs^$dnstype=AAAA
 ||toy-cadcam.com^$dnstype=AAAA
+||toy-people.com^$dnstype=AAAA
 ||toycadcam.com^$dnstype=AAAA
 ||toyobank.co.jp^$dnstype=AAAA
 ||toypark.in^$dnstype=AAAA
