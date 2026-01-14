@@ -2043,7 +2043,9 @@
 ||anti1984.com^$dnstype=AAAA
 ||antichristendom.com^$dnstype=AAAA
 ||anticipate.ac.uk^$dnstype=AAAA
+||antigravity-pa.googleapis.com^$dnstype=AAAA
 ||antigravity.google^$dnstype=AAAA
+||antigravity.googleapis.com^$dnstype=AAAA
 ||antiquity.ac.uk^$dnstype=AAAA
 ||antislavery.ac.uk^$dnstype=AAAA
 ||antislaverylaw.ac.uk^$dnstype=AAAA
@@ -6979,11 +6981,13 @@
 ||cloud.dify.ai^$dnstype=AAAA
 ||cloud.mail.ru^$dnstype=AAAA
 ||cloud.oracle.com^$dnstype=AAAA
+||cloudaicompanion.googleapis.com^$dnstype=AAAA
 ||cloudapp.net^$dnstype=AAAA
 ||cloudappsecurity.com^$dnstype=AAAA
 ||cloudburstresearch.com^$dnstype=AAAA
 ||cloudc.one^$dnstype=AAAA
 ||cloudchoose.com^$dnstype=AAAA
+||cloudcode-pa.googleapis.com^$dnstype=AAAA
 ||cloudcone.com^$dnstype=AAAA
 ||cloudcone.net^$dnstype=AAAA
 ||cloudconvert.com^$dnstype=AAAA
@@ -8049,6 +8053,7 @@
 ||dagfs.com^$dnstype=AAAA
 ||daidostup.ru^$dnstype=AAAA
 ||daiichibank.co.jp^$dnstype=AAAA
+||daily-cloudcode-pa.googleapis.com^$dnstype=AAAA
 ||dailybasis.com^$dnstype=AAAA
 ||dailym.ai^$dnstype=AAAA
 ||dailymail.co.uk^$dnstype=AAAA
@@ -8699,6 +8704,7 @@
 ||dilcdn.com^$dnstype=AAAA
 ||dilstoncollege.ac.uk^$dnstype=AAAA
 ||dingchin.com.tw^$dnstype=AAAA
+||dinopoloclub.com^$dnstype=AAAA
 ||dinotube.com^$dnstype=AAAA
 ||dipity.com^$dnstype=AAAA
 ||dippam.ac.uk^$dnstype=AAAA
@@ -20054,6 +20060,7 @@
 ||mobilevrxxx.com^$dnstype=AAAA
 ||mobileways.de^$dnstype=AAAA
 ||mobilitymoodplace.ac.uk^$dnstype=AAAA
+||mobimon.com.tw^$dnstype=AAAA
 ||mobmyanmar.com^$dnstype=AAAA
 ||moby.to^$dnstype=AAAA
 ||mobypicture.com^$dnstype=AAAA
@@ -21856,7 +21863,9 @@
 ||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
 ||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
 ||note.com^$dnstype=AAAA
+||notebooklm-pa.googleapis.com^$dnstype=AAAA
 ||notebooklm.google^$dnstype=AAAA
+||notebooklm.googleapis.com^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||notify.dropboxapi.com^$dnstype=AAAA
 ||notify.ppy.sh^$dnstype=AAAA
@@ -21908,6 +21917,7 @@
 ||nowtorrents.com^$dnstype=AAAA
 ||nox.ac.uk^$dnstype=AAAA
 ||noxinfluencer.com^$dnstype=AAAA
+||noxygames.com^$dnstype=AAAA
 ||noypf.com^$dnstype=AAAA
 ||nozomi.la^$dnstype=AAAA
 ||npa.go.jp^$dnstype=AAAA
@@ -24940,6 +24950,8 @@
 ||rawgithub.com^$dnstype=AAAA
 ||rawstory.com^$dnstype=AAAA
 ||raxcdn.com^$dnstype=AAAA
+||rayark.download^$dnstype=AAAA
+||rayark.net^$dnstype=AAAA
 ||razer.com^$dnstype=AAAA
 ||razerofficial.com^$dnstype=AAAA
 ||razersupport.com^$dnstype=AAAA
