@@ -26904,6 +26904,8 @@
 ||signalusers.org^$dnstype=AAAA
 ||sigops.org^$dnstype=AAAA
 ||sigopt.com^$dnstype=AAAA
+||sih-db.com^$dnstype=AAAA
+||sih.app^$dnstype=AAAA
 ||sihe.ac.uk^$dnstype=AAAA
 ||sijihuisuo.club^$dnstype=AAAA
 ||sijihuisuo.com^$dnstype=AAAA
@@ -27976,6 +27978,7 @@
 ||steamdb.info^$dnstype=AAAA
 ||steamdeck.com^$dnstype=AAAA
 ||steamgames.com^$dnstype=AAAA
+||steaminventoryhelper.com^$dnstype=AAAA
 ||steamladder.com^$dnstype=AAAA
 ||steammobile.akamaized.net^$dnstype=AAAA
 ||steamofporn.com^$dnstype=AAAA
