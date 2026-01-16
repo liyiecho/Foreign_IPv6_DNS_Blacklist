@@ -33187,6 +33187,7 @@
 ||xuite.net^$dnstype=AAAA
 ||xujan.com^$dnstype=AAAA
 ||xuzhiyong.net^$dnstype=AAAA
+||xv-ru.com^$dnstype=AAAA
 ||xv1.monster^$dnstype=AAAA
 ||xvbelink.com^$dnstype=AAAA
 ||xvds.tv^$dnstype=AAAA
@@ -33200,8 +33201,10 @@
 ||xvideo1.org^$dnstype=AAAA
 ||xvideo2.org^$dnstype=AAAA
 ||xvideoporno.tv^$dnstype=AAAA
+||xvideos-ar.com^$dnstype=AAAA
 ||xvideos-cdn.com^$dnstype=AAAA
 ||xvideos-dl.top^$dnstype=AAAA
+||xvideos-india.com^$dnstype=AAAA
 ||xvideos-porn-video.com^$dnstype=AAAA
 ||xvideos-xxxx.com^$dnstype=AAAA
 ||xvideos.blog^$dnstype=AAAA
