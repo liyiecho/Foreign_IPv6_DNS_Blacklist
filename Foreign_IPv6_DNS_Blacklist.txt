@@ -1436,6 +1436,7 @@
 ||akamai-trials.com^$dnstype=AAAA
 ||akamai.co.kr^$dnstype=AAAA
 ||akamai.net^$dnstype=AAAA
+||akamai.tvb.com^$dnstype=AAAA
 ||akamaiedge.net^$dnstype=AAAA
 ||akamaientrypoint.net^$dnstype=AAAA
 ||akamaietpcnctest.com^$dnstype=AAAA
@@ -2006,7 +2007,10 @@
 ||ankarazirvesi2018.com^$dnstype=AAAA
 ||anm.co.uk^$dnstype=AAAA
 ||annamilk.com^$dnstype=AAAA
+||annas-archive.in^$dnstype=AAAA
+||annas-archive.li^$dnstype=AAAA
 ||annas-archive.org^$dnstype=AAAA
+||annas-archive.pm^$dnstype=AAAA
 ||annas-archive.se^$dnstype=AAAA
 ||annatam.com^$dnstype=AAAA
 ||anniesland-fe.ac.uk^$dnstype=AAAA
@@ -3481,6 +3485,7 @@
 ||battlefrontii.com^$dnstype=AAAA
 ||battlelog.com^$dnstype=AAAA
 ||battlenet.com^$dnstype=AAAA
+||battleye.com^$dnstype=AAAA
 ||bavs.ac.uk^$dnstype=AAAA
 ||baxsound.com^$dnstype=AAAA
 ||bayareabmw.com^$dnstype=AAAA
@@ -17559,6 +17564,7 @@
 ||kpkuang.org^$dnstype=AAAA
 ||kpptoto.info^$dnstype=AAAA
 ||kqes.net^$dnstype=AAAA
+||kraftonde.com^$dnstype=AAAA
 ||kraken.com^$dnstype=AAAA
 ||kraken.onl^$dnstype=AAAA
 ||krakenjs.com^$dnstype=AAAA
@@ -23680,6 +23686,7 @@
 ||playapex.com^$dnstype=AAAA
 ||playartifact.com^$dnstype=AAAA
 ||playbar.biz^$dnstype=AAAA
+||playbattlegrounds.com^$dnstype=AAAA
 ||playbeasts.com^$dnstype=AAAA
 ||playboy.com^$dnstype=AAAA
 ||playboy.com.uk^$dnstype=AAAA
@@ -24527,6 +24534,8 @@
 ||ptwxz.com^$dnstype=AAAA
 ||ptzwx.com^$dnstype=AAAA
 ||pub.dev^$dnstype=AAAA
+||pubg.com^$dnstype=AAAA
+||pubg1.battleye.com^$dnstype=AAAA
 ||public-sex-porn.com^$dnstype=AAAA
 ||public-trust.com^$dnstype=AAAA
 ||public-us-pingsx.api.clonoth.com^$dnstype=AAAA
