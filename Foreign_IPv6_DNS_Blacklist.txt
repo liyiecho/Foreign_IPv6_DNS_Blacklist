@@ -6103,6 +6103,7 @@
 ||castlereagh.ac.uk^$dnstype=AAAA
 ||castro.fm^$dnstype=AAAA
 ||casualhomemadesex.com^$dnstype=AAAA
+||cataboom.com^$dnstype=AAAA
 ||catalina.hk^$dnstype=AAAA
 ||catalinacruz.com^$dnstype=AAAA
 ||cataloguementalhealth.ac.uk^$dnstype=AAAA
@@ -7489,6 +7490,7 @@
 ||conquerwithcharacter.com^$dnstype=AAAA
 ||conscrypt.com^$dnstype=AAAA
 ||conscrypt.org^$dnstype=AAAA
+||consentpro.com^$dnstype=AAAA
 ||conservatoiresuk.ac.uk^$dnstype=AAAA
 ||consilience.ac.uk^$dnstype=AAAA
 ||constitutionalism.solutions^$dnstype=AAAA
@@ -22770,6 +22772,7 @@
 ||orzistic.org^$dnstype=AAAA
 ||orzqwq.com^$dnstype=AAAA
 ||osakamotion.net^$dnstype=AAAA
+||osano.com^$dnstype=AAAA
 ||osc.ac.uk^$dnstype=AAAA
 ||oscar.ac.uk^$dnstype=AAAA
 ||oscg.ac.uk^$dnstype=AAAA
@@ -30660,6 +30663,7 @@
 ||usenix.org^$dnstype=AAAA
 ||useplannr.com^$dnstype=AAAA
 ||userapi.com^$dnstype=AAAA
+||usercentrics.eu^$dnstype=AAAA
 ||usercontent.dev^$dnstype=AAAA
 ||usercontent.goog^$dnstype=AAAA
 ||userpxt.io^$dnstype=AAAA
