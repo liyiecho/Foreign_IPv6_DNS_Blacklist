@@ -2095,23 +2095,17 @@
 ||aoxx69.net^$dnstype=AAAA
 ||aozorabank.co.jp^$dnstype=AAAA
 ||ap-bangkok.myqcloud.com^$dnstype=AAAA
-||ap-bangkok.tencentcos.cn^$dnstype=AAAA
 ||ap-bangkok.tencentcos.com^$dnstype=AAAA
 ||ap-hongkong.myqcloud.com^$dnstype=AAAA
-||ap-hongkong.tencentcos.cn^$dnstype=AAAA
 ||ap-hongkong.tencentcos.com^$dnstype=AAAA
 ||ap-jakarta.myqcloud.com^$dnstype=AAAA
-||ap-jakarta.tencentcos.cn^$dnstype=AAAA
 ||ap-jakarta.tencentcos.com^$dnstype=AAAA
 ||ap-mumbai.myqcloud.com^$dnstype=AAAA
-||ap-mumbai.tencentcos.cn^$dnstype=AAAA
 ||ap-mumbai.tencentcos.com^$dnstype=AAAA
 ||ap-northeast-201.myhuaweicloud.com^$dnstype=AAAA
 ||ap-seoul.myqcloud.com^$dnstype=AAAA
-||ap-seoul.tencentcos.cn^$dnstype=AAAA
 ||ap-seoul.tencentcos.com^$dnstype=AAAA
 ||ap-singapore.myqcloud.com^$dnstype=AAAA
-||ap-singapore.tencentcos.cn^$dnstype=AAAA
 ||ap-singapore.tencentcos.com^$dnstype=AAAA
 ||ap-southeast-201.myhuaweicloud.com^$dnstype=AAAA
 ||ap-southeast-202.myhuaweicloud.com^$dnstype=AAAA
@@ -2119,7 +2113,6 @@
 ||ap-southeast-4.myhuaweicloud.com^$dnstype=AAAA
 ||ap-southeast-5.myhuaweicloud.com^$dnstype=AAAA
 ||ap-tokyo.myqcloud.com^$dnstype=AAAA
-||ap-tokyo.tencentcos.cn^$dnstype=AAAA
 ||ap-tokyo.tencentcos.com^$dnstype=AAAA
 ||ap.org^$dnstype=AAAA
 ||ap0le.com^$dnstype=AAAA
@@ -5711,7 +5704,6 @@
 ||bypasscensorship.org^$dnstype=AAAA
 ||byrut.org^$dnstype=AAAA
 ||byspotify.com^$dnstype=AAAA
-||bytedance.map.fastly.net^$dnstype=AAAA
 ||byteglb.com^$dnstype=AAAA
 ||byteoversea.com^$dnstype=AAAA
 ||byteoversea.net^$dnstype=AAAA
@@ -10581,10 +10573,8 @@
 ||eu-central-202.myhuaweicloud.com^$dnstype=AAAA
 ||eu-consumer-empowerment.com^$dnstype=AAAA
 ||eu-frankfurt.myqcloud.com^$dnstype=AAAA
-||eu-frankfurt.tencentcos.cn^$dnstype=AAAA
 ||eu-frankfurt.tencentcos.com^$dnstype=AAAA
 ||eu-moscow.myqcloud.com^$dnstype=AAAA
-||eu-moscow.tencentcos.cn^$dnstype=AAAA
 ||eu-moscow.tencentcos.com^$dnstype=AAAA
 ||eu-north-201.myhuaweicloud.com^$dnstype=AAAA
 ||eu-west-1.myhuaweicloud.com^$dnstype=AAAA
@@ -18201,6 +18191,7 @@
 ||livemint.com^$dnstype=AAAA
 ||livemodels.co^$dnstype=AAAA
 ||livenet.ac.uk^$dnstype=AAAA
+||liveperson.net^$dnstype=AAAA
 ||livephotos.tv^$dnstype=AAAA
 ||liveporngirls.com^$dnstype=AAAA
 ||liveprivates.com^$dnstype=AAAA
@@ -18447,6 +18438,7 @@
 ||lpc.ac.uk^$dnstype=AAAA
 ||lpmde.ac.uk^$dnstype=AAAA
 ||lpsg.com^$dnstype=AAAA
+||lpsnmedia.net^$dnstype=AAAA
 ||lputil.com^$dnstype=AAAA
 ||lqh0bon3.xyz^$dnstype=AAAA
 ||lqpjw.cyou^$dnstype=AAAA
@@ -20804,16 +20796,13 @@
 ||n3ro.wtf^$dnstype=AAAA
 ||n8agrifood.ac.uk^$dnstype=AAAA
 ||na-ashburn.myqcloud.com^$dnstype=AAAA
-||na-ashburn.tencentcos.cn^$dnstype=AAAA
 ||na-ashburn.tencentcos.com^$dnstype=AAAA
 ||na-att-idns.net^$dnstype=AAAA
 ||na-east-0.myhuaweicloud.com^$dnstype=AAAA
 ||na-me.ac.uk^$dnstype=AAAA
 ||na-siliconvalley.myqcloud.com^$dnstype=AAAA
-||na-siliconvalley.tencentcos.cn^$dnstype=AAAA
 ||na-siliconvalley.tencentcos.com^$dnstype=AAAA
 ||na-toronto.myqcloud.com^$dnstype=AAAA
-||na-toronto.tencentcos.cn^$dnstype=AAAA
 ||na-toronto.tencentcos.com^$dnstype=AAAA
 ||na1r.services.adobe.com^$dnstype=AAAA
 ||naacoalition.org^$dnstype=AAAA
@@ -25772,7 +25761,6 @@
 ||s8ds5gfm.xyz^$dnstype=AAAA
 ||s8forum.com^$dnstype=AAAA
 ||sa-saopaulo.myqcloud.com^$dnstype=AAAA
-||sa-saopaulo.tencentcos.cn^$dnstype=AAAA
 ||sa-saopaulo.tencentcos.com^$dnstype=AAAA
 ||sa.com^$dnstype=AAAA
 ||sa.hao123.com^$dnstype=AAAA
@@ -25974,6 +25962,7 @@
 ||sbuxcard.com^$dnstype=AAAA
 ||sc-cdn.net^$dnstype=AAAA
 ||sc-toolkit.ac.uk^$dnstype=AAAA
+||sc.com^$dnstype=AAAA
 ||sc1.ac.uk^$dnstype=AAAA
 ||sca-tolo.info^$dnstype=AAAA
 ||scaan.ac.uk^$dnstype=AAAA
@@ -27826,7 +27815,10 @@
 ||stamford.ac.uk^$dnstype=AAAA
 ||stamfordparktrust.ac.uk^$dnstype=AAAA
 ||standard.co.uk^$dnstype=AAAA
+||standardchartered.com^$dnstype=AAAA
 ||standardsuniversity.org^$dnstype=AAAA
+||standchartbank.sc.omtrdc.net^$dnstype=AAAA
+||standchartbank.tt.omtrdc.net^$dnstype=AAAA
 ||standupfortibet.org^$dnstype=AAAA
 ||standwithhk.org^$dnstype=AAAA
 ||stanford.edu^$dnstype=AAAA
@@ -28864,7 +28856,6 @@
 ||temu.com^$dnstype=AAAA
 ||tenacy.com^$dnstype=AAAA
 ||tenbyfotolia.com^$dnstype=AAAA
-||tencentcos.cn^$dnstype=AAAA
 ||tenor.com^$dnstype=AAAA
 ||tensorflow.org^$dnstype=AAAA
 ||tentowns.ac.uk^$dnstype=AAAA
@@ -30614,7 +30605,6 @@
 ||upmg.ac.uk^$dnstype=AAAA
 ||upornia.com^$dnstype=AAAA
 ||uporno.xxx^$dnstype=AAAA
-||upos-hz-mirrorakam.akamaized.net^$dnstype=AAAA
 ||uproxy.org^$dnstype=AAAA
 ||uptodown.com^$dnstype=AAAA
 ||upwill.org^$dnstype=AAAA
@@ -33765,6 +33755,9 @@
 ||youjizz.sex^$dnstype=AAAA
 ||youlucky.com^$dnstype=AAAA
 ||youmaker.com^$dnstype=AAAA
+||youmind.ai^$dnstype=AAAA
+||youmind.com^$dnstype=AAAA
+||youmind.site^$dnstype=AAAA
 ||young-amateur-movies.com^$dnstype=AAAA
 ||young-webcam.net^$dnstype=AAAA
 ||young-xxx.net^$dnstype=AAAA
