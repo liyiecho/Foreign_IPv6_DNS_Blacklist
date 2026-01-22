@@ -1185,7 +1185,6 @@
 ||adwordsexpress.com^$dnstype=AAAA
 ||adx.promo^$dnstype=AAAA
 ||ae-ad-1.myhuaweicloud.com^$dnstype=AAAA
-||ae-rus.net^$dnstype=AAAA
 ||ae.hao123.com^$dnstype=AAAA
 ||ae.org^$dnstype=AAAA
 ||aeasyshop.com^$dnstype=AAAA
@@ -1205,12 +1204,9 @@
 ||aerospace-design.com^$dnstype=AAAA
 ||aerospace-training-wales.ac.uk^$dnstype=AAAA
 ||aes.ac.uk^$dnstype=AAAA
-||aestatic.net^$dnstype=AAAA
 ||aesworkshops.com^$dnstype=AAAA
 ||aex.com^$dnstype=AAAA
-||af-east-201.myhuaweicloud.com^$dnstype=AAAA
 ||af-north-1.myhuaweicloud.com^$dnstype=AAAA
-||af-west-202.myhuaweicloud.com^$dnstype=AAAA
 ||af.mil^$dnstype=AAAA
 ||afantibbs.com^$dnstype=AAAA
 ||afao.ac.uk^$dnstype=AAAA
@@ -1402,9 +1398,6 @@
 ||ajsjx.com^$dnstype=AAAA
 ||ajtalk.com^$dnstype=AAAA
 ||ajunews.com^$dnstype=AAAA
-||ak-p.tripcdn.com^$dnstype=AAAA
-||ak-s-cw.tripcdn.com^$dnstype=AAAA
-||ak-s.tripcdn.com^$dnstype=AAAA
 ||ak1.net^$dnstype=AAAA
 ||aka-ai.com^$dnstype=AAAA
 ||aka-ai.net^$dnstype=AAAA
@@ -1470,7 +1463,6 @@
 ||akasha.world^$dnstype=AAAA
 ||akastream.com^$dnstype=AAAA
 ||akastream.net^$dnstype=AAAA
-||akatest.tripcdn.com^$dnstype=AAAA
 ||akatns.net^$dnstype=AAAA
 ||akiba-online.com^$dnstype=AAAA
 ||akiba-souken.com^$dnstype=AAAA
@@ -2102,16 +2094,11 @@
 ||ap-jakarta.tencentcos.com^$dnstype=AAAA
 ||ap-mumbai.myqcloud.com^$dnstype=AAAA
 ||ap-mumbai.tencentcos.com^$dnstype=AAAA
-||ap-northeast-201.myhuaweicloud.com^$dnstype=AAAA
 ||ap-seoul.myqcloud.com^$dnstype=AAAA
 ||ap-seoul.tencentcos.com^$dnstype=AAAA
 ||ap-singapore.myqcloud.com^$dnstype=AAAA
 ||ap-singapore.tencentcos.com^$dnstype=AAAA
-||ap-southeast-201.myhuaweicloud.com^$dnstype=AAAA
-||ap-southeast-202.myhuaweicloud.com^$dnstype=AAAA
-||ap-southeast-203.myhuaweicloud.com^$dnstype=AAAA
 ||ap-southeast-4.myhuaweicloud.com^$dnstype=AAAA
-||ap-southeast-5.myhuaweicloud.com^$dnstype=AAAA
 ||ap-tokyo.myqcloud.com^$dnstype=AAAA
 ||ap-tokyo.tencentcos.com^$dnstype=AAAA
 ||ap.org^$dnstype=AAAA
@@ -2667,10 +2654,6 @@
 ||as-dash-uk-live.akamaized.net^$dnstype=AAAA
 ||as-hls-uk-live.akamaized.net^$dnstype=AAAA
 ||as-hp.ca^$dnstype=AAAA
-||as-south-0.myhuaweicloud.com^$dnstype=AAAA
-||as-south-201.myhuaweicloud.com^$dnstype=AAAA
-||as-south-205.myhuaweicloud.com^$dnstype=AAAA
-||as-south-207.myhuaweicloud.com^$dnstype=AAAA
 ||asacp.org^$dnstype=AAAA
 ||asagaku.com^$dnstype=AAAA
 ||asahi.com^$dnstype=AAAA
@@ -3173,9 +3156,6 @@
 ||avxlive.icu^$dnstype=AAAA
 ||avxxc.com^$dnstype=AAAA
 ||avyahoo.com^$dnstype=AAAA
-||aw-d.tripcdn.com^$dnstype=AAAA
-||aw-p.tripcdn.com^$dnstype=AAAA
-||aw-s.tripcdn.com^$dnstype=AAAA
 ||awabank.co.jp^$dnstype=AAAA
 ||awayoutgame.com^$dnstype=AAAA
 ||aweencore.com^$dnstype=AAAA
@@ -5704,9 +5684,7 @@
 ||bypasscensorship.org^$dnstype=AAAA
 ||byrut.org^$dnstype=AAAA
 ||byspotify.com^$dnstype=AAAA
-||byteglb.com^$dnstype=AAAA
 ||byteoversea.com^$dnstype=AAAA
-||byteoversea.net^$dnstype=AAAA
 ||bytick.com^$dnstype=AAAA
 ||byzantine-ahrb-centre.ac.uk^$dnstype=AAAA
 ||byzantium.ac.uk^$dnstype=AAAA
@@ -5728,7 +5706,6 @@
 ||c4ccetl.ac.uk^$dnstype=AAAA
 ||c4rex.co^$dnstype=AAAA
 ||c4slive.com^$dnstype=AAAA
-||ca-east-201.myhuaweicloud.com^$dnstype=AAAA
 ||ca.file.myqcloud.com^$dnstype=AAAA
 ||ca.gov^$dnstype=AAAA
 ||caacentre.ac.uk^$dnstype=AAAA
@@ -7849,7 +7826,6 @@
 ||cue.ac.uk^$dnstype=AAAA
 ||cuebic.biz^$dnstype=AAAA
 ||cuffiesaldi.com^$dnstype=AAAA
-||cuguplus.com^$dnstype=AAAA
 ||cuhk.edu.hk^$dnstype=AAAA
 ||cuhkacs.org^$dnstype=AAAA
 ||cuhop.ac.uk^$dnstype=AAAA
@@ -7881,7 +7857,6 @@
 ||cumteenporn.com^$dnstype=AAAA
 ||cunhua.pics^$dnstype=AAAA
 ||cuniq.com^$dnstype=AAAA
-||cuniq.sg^$dnstype=AAAA
 ||cuntcrack.com^$dnstype=AAAA
 ||cuntempire.com^$dnstype=AAAA
 ||cuntwars.com^$dnstype=AAAA
@@ -10569,17 +10544,12 @@
 ||etviet.com^$dnstype=AAAA
 ||etvonline.hk^$dnstype=AAAA
 ||etwealth.com^$dnstype=AAAA
-||eu-central-201.myhuaweicloud.com^$dnstype=AAAA
-||eu-central-202.myhuaweicloud.com^$dnstype=AAAA
 ||eu-consumer-empowerment.com^$dnstype=AAAA
 ||eu-frankfurt.myqcloud.com^$dnstype=AAAA
 ||eu-frankfurt.tencentcos.com^$dnstype=AAAA
 ||eu-moscow.myqcloud.com^$dnstype=AAAA
 ||eu-moscow.tencentcos.com^$dnstype=AAAA
-||eu-north-201.myhuaweicloud.com^$dnstype=AAAA
-||eu-west-1.myhuaweicloud.com^$dnstype=AAAA
 ||eu-west-101.myhuaweicloud.com^$dnstype=AAAA
-||eu-west-201.myhuaweicloud.com^$dnstype=AAAA
 ||eu.org^$dnstype=AAAA
 ||eubluecardvisa.com^$dnstype=AAAA
 ||eucasino.com^$dnstype=AAAA
@@ -12629,6 +12599,7 @@
 ||geocities.com^$dnstype=AAAA
 ||geocities.jp^$dnstype=AAAA
 ||geodesummit.com^$dnstype=AAAA
+||geogebra.org^$dnstype=AAAA
 ||geohazard.ac.uk^$dnstype=AAAA
 ||geolytics.com^$dnstype=AAAA
 ||geoport.com^$dnstype=AAAA
@@ -17628,7 +17599,6 @@
 ||l-msedge.net^$dnstype=AAAA
 ||la-forum.org^$dnstype=AAAA
 ||la-mama.ru^$dnstype=AAAA
-||la-north-205.myhuaweicloud.com^$dnstype=AAAA
 ||lab.skk.moe^$dnstype=AAAA
 ||laban.ac.uk^$dnstype=AAAA
 ||labiennale.org^$dnstype=AAAA
@@ -19215,9 +19185,6 @@
 ||mdx.ac.uk^$dnstype=AAAA
 ||mdyy.de^$dnstype=AAAA
 ||me-east-1.myhuaweicloud.com^$dnstype=AAAA
-||me-east-205.myhuaweicloud.com^$dnstype=AAAA
-||me-east-208.myhuaweicloud.com^$dnstype=AAAA
-||me-east-209.myhuaweicloud.com^$dnstype=AAAA
 ||me-gay.com^$dnstype=AAAA
 ||me.me^$dnstype=AAAA
 ||me.ns.ci^$dnstype=AAAA
@@ -20798,7 +20765,6 @@
 ||na-ashburn.myqcloud.com^$dnstype=AAAA
 ||na-ashburn.tencentcos.com^$dnstype=AAAA
 ||na-att-idns.net^$dnstype=AAAA
-||na-east-0.myhuaweicloud.com^$dnstype=AAAA
 ||na-me.ac.uk^$dnstype=AAAA
 ||na-siliconvalley.myqcloud.com^$dnstype=AAAA
 ||na-siliconvalley.tencentcos.com^$dnstype=AAAA
@@ -25651,7 +25617,6 @@
 ||rtm.tnt-ea.com^$dnstype=AAAA
 ||rtycminnesota.org^$dnstype=AAAA
 ||ru-moscow-1.myhuaweicloud.com^$dnstype=AAAA
-||ru-northwest-201.myhuaweicloud.com^$dnstype=AAAA
 ||rua-project.ac.uk^$dnstype=AAAA
 ||ruanyifeng.com^$dnstype=AAAA
 ||ruby-lang.org^$dnstype=AAAA
@@ -25677,7 +25642,6 @@
 ||rumah123.com^$dnstype=AAAA
 ||rumble.com^$dnstype=AAAA
 ||rumporn.com^$dnstype=AAAA
-||rumt-us.com^$dnstype=AAAA
 ||run.app^$dnstype=AAAA
 ||runbtx.com^$dnstype=AAAA
 ||rundf665.cyou^$dnstype=AAAA
@@ -29098,7 +29062,6 @@
 ||thepiratebay.ee^$dnstype=AAAA
 ||thepiratebay.org^$dnstype=AAAA
 ||theplatform.com^$dnstype=AAAA
-||thepoizon.ru^$dnstype=AAAA
 ||theporn.cc^$dnstype=AAAA
 ||thepornarea.com^$dnstype=AAAA
 ||thepornbest.com^$dnstype=AAAA
@@ -30630,7 +30593,6 @@
 ||urlgalleries.net^$dnstype=AAAA
 ||urlparser.com^$dnstype=AAAA
 ||urukawa.com^$dnstype=AAAA
-||us-east-1.myhuaweicloud.com^$dnstype=AAAA
 ||us.to^$dnstype=AAAA
 ||us.weibo.com^$dnstype=AAAA
 ||usa-beatsbydreheadphonesonsale.net^$dnstype=AAAA
@@ -32285,6 +32247,7 @@
 ||wiki.cnitter.com^$dnstype=AAAA
 ||wiki.esu.im^$dnstype=AAAA
 ||wiki.gamerp.jp^$dnstype=AAAA
+||wiki.gg^$dnstype=AAAA
 ||wiki.jqueryui.com^$dnstype=AAAA
 ||wiki.keso.cn^$dnstype=AAAA
 ||wiki.kfd.me^$dnstype=AAAA
