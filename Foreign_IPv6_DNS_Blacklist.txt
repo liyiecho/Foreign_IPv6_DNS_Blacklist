@@ -10152,6 +10152,8 @@
 ||encryptedsni.com^$dnstype=AAAA
 ||encuentroscasualesoecuador.com^$dnstype=AAAA
 ||encyclopedia.com^$dnstype=AAAA
+||eneba.com^$dnstype=AAAA
+||eneba.games^$dnstype=AAAA
 ||enema-porn.com^$dnstype=AAAA
 ||enema-videos.com^$dnstype=AAAA
 ||enemabasics.com^$dnstype=AAAA
@@ -22403,6 +22405,7 @@
 ||okx-dns.com^$dnstype=AAAA
 ||okx-dns1.com^$dnstype=AAAA
 ||okx-dns2.com^$dnstype=AAAA
+||okx.cab^$dnstype=AAAA
 ||okx.com^$dnstype=AAAA
 ||olabloga.pl^$dnstype=AAAA
 ||old-cat.net^$dnstype=AAAA
