@@ -4225,6 +4225,7 @@
 ||binance.vision^$dnstype=AAAA
 ||binanceapi.com^$dnstype=AAAA
 ||binancecnt.com^$dnstype=AAAA
+||binanceru.net^$dnstype=AAAA
 ||binancezh.be^$dnstype=AAAA
 ||binancezh.biz^$dnstype=AAAA
 ||binancezh.cc^$dnstype=AAAA
