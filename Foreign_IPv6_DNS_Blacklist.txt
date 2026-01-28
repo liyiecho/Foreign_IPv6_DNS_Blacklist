@@ -21,6 +21,7 @@
 ||101boyvideos.com^$dnstype=AAAA
 ||101tubeporn.com^$dnstype=AAAA
 ||101xxx.xyz^$dnstype=AAAA
+||1024terabox.com^$dnstype=AAAA
 ||10beasts.net^$dnstype=AAAA
 ||10bet.com^$dnstype=AAAA
 ||10c10qoo.one^$dnstype=AAAA
@@ -3981,6 +3982,7 @@
 ||bestbuytradein.com^$dnstype=AAAA
 ||bestbuyus.com^$dnstype=AAAA
 ||bestcamsites.net^$dnstype=AAAA
+||bestclouddrive.com^$dnstype=AAAA
 ||besterpornos.com^$dnstype=AAAA
 ||bestescortgirls.nl^$dnstype=AAAA
 ||bestforchina.org^$dnstype=AAAA
@@ -12079,6 +12081,7 @@
 ||freessh.us^$dnstype=AAAA
 ||freessl.com^$dnstype=AAAA
 ||freetcp.com^$dnstype=AAAA
+||freeterabox.com^$dnstype=AAAA
 ||freetibet.net^$dnstype=AAAA
 ||freetibet.org^$dnstype=AAAA
 ||freetibetanheroes.org^$dnstype=AAAA
@@ -12738,6 +12741,7 @@
 ||ghostgames.com^$dnstype=AAAA
 ||ghostnoteapp.com^$dnstype=AAAA
 ||ghostpath.com^$dnstype=AAAA
+||ghproxy.com^$dnstype=AAAA
 ||ghtv666.top^$dnstype=AAAA
 ||ghut.org^$dnstype=AAAA
 ||giantessbooru.com^$dnstype=AAAA
@@ -22749,6 +22753,7 @@
 ||osmosis.ac.uk^$dnstype=AAAA
 ||ospray.net^$dnstype=AAAA
 ||ospray.org^$dnstype=AAAA
+||ospserver.net^$dnstype=AAAA
 ||oss-ap-northeast-1.aliyuncs.com^$dnstype=AAAA
 ||oss-ap-northeast-2.aliyuncs.com^$dnstype=AAAA
 ||oss-ap-south-1.aliyuncs.com^$dnstype=AAAA
@@ -25594,6 +25599,7 @@
 ||rss.owo.nz^$dnstype=AAAA
 ||rss.tips^$dnstype=AAAA
 ||rss.wudifeixue.com^$dnstype=AAAA
+||rssforever.com^$dnstype=AAAA
 ||rsshub.app^$dnstype=AAAA
 ||rsshub.asailor.org^$dnstype=AAAA
 ||rsshub.email-once.com^$dnstype=AAAA
@@ -28829,6 +28835,7 @@
 ||tentowns.ac.uk^$dnstype=AAAA
 ||tenzinpalmo.com^$dnstype=AAAA
 ||terabox.com^$dnstype=AAAA
+||terabox1024.com^$dnstype=AAAA
 ||teraboxcdn.com^$dnstype=AAAA
 ||terapeack.com^$dnstype=AAAA
 ||terapeak.ca^$dnstype=AAAA
