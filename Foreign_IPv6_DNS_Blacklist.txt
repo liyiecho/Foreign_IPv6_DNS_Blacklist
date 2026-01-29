@@ -2610,7 +2610,9 @@
 ||arlingtoncemetery.mil^$dnstype=AAAA
 ||arm.ac.uk^$dnstype=AAAA
 ||arma.ac.uk^$dnstype=AAAA
+||arma3.com^$dnstype=AAAA
 ||armagh.ac.uk^$dnstype=AAAA
+||armaplatform.com^$dnstype=AAAA
 ||armorgames.com^$dnstype=AAAA
 ||armovs.com^$dnstype=AAAA
 ||army.mil^$dnstype=AAAA
@@ -3306,6 +3308,7 @@
 ||bach.ac.uk^$dnstype=AAAA
 ||backchina.com^$dnstype=AAAA
 ||backdoorlesbians.com^$dnstype=AAAA
+||backend-v2.crixet.com^$dnstype=AAAA
 ||backoncourse.ac.uk^$dnstype=AAAA
 ||backpackers.com.tw^$dnstype=AAAA
 ||backroomcastingcouch.com^$dnstype=AAAA
@@ -4303,6 +4306,7 @@
 ||bisi.ac.uk^$dnstype=AAAA
 ||bisq.io^$dnstype=AAAA
 ||bisq.network^$dnstype=AAAA
+||bistudio.com^$dnstype=AAAA
 ||bisyoujyogyaruge.topaz.ne.jp^$dnstype=AAAA
 ||bit-z.com^$dnstype=AAAA
 ||bit.com^$dnstype=AAAA
@@ -5052,6 +5056,7 @@
 ||bodyfluids-jav.com^$dnstype=AAAA
 ||bognor-training.ac.uk^$dnstype=AAAA
 ||bognor.ac.uk^$dnstype=AAAA
+||bohemia.net^$dnstype=AAAA
 ||boingboing.net^$dnstype=AAAA
 ||boj.or.jp^$dnstype=AAAA
 ||bokep.net^$dnstype=AAAA
@@ -7694,6 +7699,7 @@
 ||criticaltheology.ac.uk^$dnstype=AAAA
 ||critiquebrainz.org^$dnstype=AAAA
 ||crittercism.com^$dnstype=AAAA
+||crixet.com^$dnstype=AAAA
 ||crl.microsoft.com^$dnstype=AAAA
 ||crl.versign.net^$dnstype=AAAA
 ||crmdynint-gcc.com^$dnstype=AAAA
@@ -8170,6 +8176,7 @@
 ||dayone.me^$dnstype=AAAA
 ||daytonbmw.com^$dnstype=AAAA
 ||daytontrucktires.com^$dnstype=AAAA
+||dayz.com^$dnstype=AAAA
 ||dazn-api.com^$dnstype=AAAA
 ||dazn.com^$dnstype=AAAA
 ||dazndn.com^$dnstype=AAAA
@@ -18725,6 +18732,7 @@
 ||maizhong.org^$dnstype=AAAA
 ||makaan.com^$dnstype=AAAA
 ||makeanything.com^$dnstype=AAAA
+||makearmanotwar.com^$dnstype=AAAA
 ||makebettercode.com^$dnstype=AAAA
 ||makecode.org^$dnstype=AAAA
 ||makeitopen.com^$dnstype=AAAA
@@ -22589,6 +22597,7 @@
 ||openai.com^$dnstype=AAAA
 ||openaiapi-site.azureedge.net^$dnstype=AAAA
 ||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net^$dnstype=AAAA
+||openaicom.imgix.net^$dnstype=AAAA
 ||openaicomproductionae4b.blob.core.windows.net^$dnstype=AAAA
 ||openallweb.com^$dnstype=AAAA
 ||openamt.com^$dnstype=AAAA
@@ -26890,6 +26899,7 @@
 ||sijihuisuo.com^$dnstype=AAAA
 ||sikh-uni.ac.uk^$dnstype=AAAA
 ||sikiswap.com^$dnstype=AAAA
+||silicagame.com^$dnstype=AAAA
 ||silicon-mobility.com^$dnstype=AAAA
 ||siliconmobility.com^$dnstype=AAAA
 ||silkbook.com^$dnstype=AAAA
@@ -31115,6 +31125,7 @@
 ||viewerswives.net^$dnstype=AAAA
 ||viewgals.com^$dnstype=AAAA
 ||viewpointsfromfacebook.com^$dnstype=AAAA
+||vigorgame.com^$dnstype=AAAA
 ||vijayatemple.org^$dnstype=AAAA
 ||vikacg.com^$dnstype=AAAA
 ||vikiporn.com^$dnstype=AAAA
@@ -33679,6 +33690,7 @@
 ||yiyechat.com^$dnstype=AAAA
 ||yizhihongxing.com^$dnstype=AAAA
 ||yjcontentdelivery.com^$dnstype=AAAA
+||ylands.com^$dnstype=AAAA
 ||ylive.jp^$dnstype=AAAA
 ||ymail.com^$dnstype=AAAA
 ||ymca-wales.ac.uk^$dnstype=AAAA
