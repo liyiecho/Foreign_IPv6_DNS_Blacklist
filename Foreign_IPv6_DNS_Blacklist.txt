@@ -2803,6 +2803,7 @@
 ||athenaeizou.com^$dnstype=AAAA
 ||athens.ac.uk^$dnstype=AAAA
 ||atkgallery.com^$dnstype=AAAA
+||atl-paas.net^$dnstype=AAAA
 ||atlanta168.com^$dnstype=AAAA
 ||atlantaminidealers.com^$dnstype=AAAA
 ||atlars.ac.uk^$dnstype=AAAA
@@ -2810,6 +2811,7 @@
 ||atlasdmt.com^$dnstype=AAAA
 ||atlasonepoint.com^$dnstype=AAAA
 ||atlaspost.com^$dnstype=AAAA
+||atlassian-dev.net^$dnstype=AAAA
 ||atlassian.com^$dnstype=AAAA
 ||atlassian.net^$dnstype=AAAA
 ||atnext.com^$dnstype=AAAA
@@ -11751,6 +11753,9 @@
 ||fotolja.com^$dnstype=AAAA
 ||fotoscaserasx.com^$dnstype=AAAA
 ||foundationdb.org^$dnstype=AAAA
+||foundationdns.com^$dnstype=AAAA
+||foundationdns.net^$dnstype=AAAA
+||foundationdns.org^$dnstype=AAAA
 ||foundationyear.ac.uk^$dnstype=AAAA
 ||fountmedia.io^$dnstype=AAAA
 ||fourface.nodesnoop.com^$dnstype=AAAA
@@ -16874,6 +16879,7 @@
 ||jintian.net^$dnstype=AAAA
 ||jinvod.com^$dnstype=AAAA
 ||jinx.com^$dnstype=AAAA
+||jira.com^$dnstype=AAAA
 ||jiruan.net^$dnstype=AAAA
 ||jisc-collections.ac.uk^$dnstype=AAAA
 ||jisc-content.ac.uk^$dnstype=AAAA
@@ -26914,6 +26920,7 @@
 ||simg.jp^$dnstype=AAAA
 ||simgbb.com^$dnstype=AAAA
 ||simian.ac.uk^$dnstype=AAAA
+||simianx.ai^$dnstype=AAAA
 ||similar-porn.fun^$dnstype=AAAA
 ||simility.com^$dnstype=AAAA
 ||simonsgirls.com^$dnstype=AAAA
@@ -27706,6 +27713,7 @@
 ||srttu.edu^$dnstype=AAAA
 ||sruc.ac.uk^$dnstype=AAAA
 ||srwwu.uno^$dnstype=AAAA
+||ss-inf.net^$dnstype=AAAA
 ||ss-link.com^$dnstype=AAAA
 ||ss.pythonic.life^$dnstype=AAAA
 ||ss2.us^$dnstype=AAAA
