@@ -2056,6 +2056,7 @@
 ||anybunny.org^$dnstype=AAAA
 ||anybunny.tv^$dnstype=AAAA
 ||anydesk.com^$dnstype=AAAA
+||anygate.vip^$dnstype=AAAA
 ||anyhentai.com^$dnstype=AAAA
 ||anyporn.com^$dnstype=AAAA
 ||anypornhd.com^$dnstype=AAAA
@@ -3483,6 +3484,7 @@
 ||bbc.in^$dnstype=AAAA
 ||bbc.mp-pxcdn.com^$dnstype=AAAA
 ||bbc.net.uk^$dnstype=AAAA
+||bbc.pdn.tritondigital.com^$dnstype=AAAA
 ||bbcchinese.com^$dnstype=AAAA
 ||bbchat.tv^$dnstype=AAAA
 ||bbci.co.uk^$dnstype=AAAA
@@ -8200,6 +8202,7 @@
 ||dcdp.ac.uk^$dnstype=AAAA
 ||dcg.ac.uk^$dnstype=AAAA
 ||dcmilitary.com^$dnstype=AAAA
+||dcs-spotify.megaphone.fm^$dnstype=AAAA
 ||dct.ac.uk^$dnstype=AAAA
 ||dctbeatsbydre.com^$dnstype=AAAA
 ||ddacn6pr5v0tl.cloudfront.net^$dnstype=AAAA
@@ -9392,6 +9395,7 @@
 ||dudleycol.ac.uk^$dnstype=AAAA
 ||dudleylearners.ac.uk^$dnstype=AAAA
 ||dudleylearning.ac.uk^$dnstype=AAAA
+||dudupro.com^$dnstype=AAAA
 ||dueapp.com^$dnstype=AAAA
 ||duga.jp^$dnstype=AAAA
 ||duihua.org^$dnstype=AAAA
@@ -14029,6 +14033,7 @@
 ||hellporno.com^$dnstype=AAAA
 ||hellven.net^$dnstype=AAAA
 ||heloa.ac.uk^$dnstype=AAAA
+||help.byspotify.com^$dnstype=AAAA
 ||helpeachpeople.com^$dnstype=AAAA
 ||helplinfen.com^$dnstype=AAAA
 ||helpshift.com^$dnstype=AAAA
@@ -18391,7 +18396,7 @@
 ||lou.ac.uk^$dnstype=AAAA
 ||loucoll.ac.uk^$dnstype=AAAA
 ||loughborough.ac.uk^$dnstype=AAAA
-||lovart.ai^$dnstype=AAAA
+||louisvuitton.com^$dnstype=AAAA
 ||love-sextoys.co.uk^$dnstype=AAAA
 ||love4porn.com^$dnstype=AAAA
 ||love6.tv^$dnstype=AAAA
@@ -23510,8 +23515,6 @@
 ||piirus.ac.uk^$dnstype=AAAA
 ||pikabu.monster^$dnstype=AAAA
 ||pikpak.io^$dnstype=AAAA
-||pikpak.me^$dnstype=AAAA
-||pikpakdrive.com^$dnstype=AAAA
 ||pilgrimageandcathedrals.ac.uk^$dnstype=AAAA
 ||pilgrimagestudies.ac.uk^$dnstype=AAAA
 ||pillbeatsblackfridaysale.com^$dnstype=AAAA
@@ -28564,6 +28567,7 @@
 ||taiav.com^$dnstype=AAAA
 ||tail-f.com^$dnstype=AAAA
 ||tailf.com^$dnstype=AAAA
+||tails.net^$dnstype=AAAA
 ||tailscale.com^$dnstype=AAAA
 ||tailscale.io^$dnstype=AAAA
 ||tailwindtraders.com^$dnstype=AAAA
@@ -29748,6 +29752,7 @@
 ||tristatebmw.com^$dnstype=AAAA
 ||trithucvn.net^$dnstype=AAAA
 ||trithucvn.org^$dnstype=AAAA
+||tritondigital.com^$dnstype=AAAA
 ||trixhentai.com^$dnstype=AAAA
 ||trmini.com^$dnstype=AAAA
 ||trocoll.ac.uk^$dnstype=AAAA
