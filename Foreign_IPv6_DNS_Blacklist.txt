@@ -5437,6 +5437,7 @@
 ||bs-adreview.com^$dnstype=AAAA
 ||bs-awh.ne.jp^$dnstype=AAAA
 ||bsa.ac.uk^$dnstype=AAAA
+||bsappapi.com^$dnstype=AAAA
 ||bsaw.ac.uk^$dnstype=AAAA
 ||bsbec.ac.uk^$dnstype=AAAA
 ||bsdc.ac.uk^$dnstype=AAAA
@@ -22903,6 +22904,7 @@
 ||pachosting.com^$dnstype=AAAA
 ||pacifickitchenandhome.com^$dnstype=AAAA
 ||pacificpoker.com^$dnstype=AAAA
+||packages.microsoft.com^$dnstype=AAAA
 ||packaging-cadcam.com^$dnstype=AAAA
 ||packagingcadcam.com^$dnstype=AAAA
 ||packagist.org^$dnstype=AAAA
@@ -23643,6 +23645,7 @@
 ||pjbyj.top^$dnstype=AAAA
 ||pjful-app.lol^$dnstype=AAAA
 ||pjgirls.com^$dnstype=AAAA
+||pjsekai.sega.jp^$dnstype=AAAA
 ||pk.com^$dnstype=AAAA
 ||pki-post.ch^$dnstype=AAAA
 ||pki-posta.ch^$dnstype=AAAA
@@ -26296,6 +26299,7 @@
 ||sef.org.tw^$dnstype=AAAA
 ||sefton-acl.ac.uk^$dnstype=AAAA
 ||sefton.ac.uk^$dnstype=AAAA
+||sega.jp^$dnstype=AAAA
 ||segment.com^$dnstype=AAAA
 ||sego8.cc^$dnstype=AAAA
 ||sego8.co^$dnstype=AAAA
