@@ -7309,7 +7309,6 @@
 ||com.bs^$dnstype=AAAA
 ||com.by^$dnstype=AAAA
 ||com.bz^$dnstype=AAAA
-||com.co^$dnstype=AAAA
 ||com.cu^$dnstype=AAAA
 ||com.cy^$dnstype=AAAA
 ||com.de^$dnstype=AAAA
@@ -25808,6 +25807,7 @@
 ||salebeatslasteststyle4you.com^$dnstype=AAAA
 ||saleblackfridaydrebeats.com^$dnstype=AAAA
 ||salecheaphandbags.com^$dnstype=AAAA
+||salesforce-setup.com^$dnstype=AAAA
 ||salesforce.com^$dnstype=AAAA
 ||salesforce.org^$dnstype=AAAA
 ||salesforceiq.com^$dnstype=AAAA
