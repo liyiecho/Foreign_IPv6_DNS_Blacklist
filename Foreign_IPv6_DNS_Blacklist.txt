@@ -22769,6 +22769,7 @@
 ||osl.com^$dnstype=AAAA
 ||osm.org^$dnstype=AAAA
 ||osm.tw^$dnstype=AAAA
+||osmand.net^$dnstype=AAAA
 ||osmfoundation.org^$dnstype=AAAA
 ||osmosis.ac.uk^$dnstype=AAAA
 ||ospray.net^$dnstype=AAAA
@@ -32758,6 +32759,7 @@
 ||www.eastturkistan.net^$dnstype=AAAA
 ||www.gmiddle.com^$dnstype=AAAA
 ||www.gmiddle.net^$dnstype=AAAA
+||www.hoyolab.com^$dnstype=AAAA
 ||www.hustlercash.com^$dnstype=AAAA
 ||www.idlcoyote.com^$dnstype=AAAA
 ||www.imdb.com^$dnstype=AAAA
