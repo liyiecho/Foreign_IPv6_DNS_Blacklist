@@ -24848,6 +24848,7 @@
 ||radgametools.com^$dnstype=AAAA
 ||radian6.com^$dnstype=AAAA
 ||radicalparty.org^$dnstype=AAAA
+||radiko-cf.com^$dnstype=AAAA
 ||radiko.jp^$dnstype=AAAA
 ||radio-canada.ca^$dnstype=AAAA
 ||radio-en-ligne.fr^$dnstype=AAAA
@@ -27172,6 +27173,7 @@
 ||smartonesolutions.com.hk^$dnstype=AAAA
 ||smartonesolutions.hk^$dnstype=AAAA
 ||smartsheet.com^$dnstype=AAAA
+||smartstream.ne.jp^$dnstype=AAAA
 ||smashed.xxx^$dnstype=AAAA
 ||smashwords.com^$dnstype=AAAA
 ||smbc.co.jp^$dnstype=AAAA
