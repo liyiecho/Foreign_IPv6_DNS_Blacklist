@@ -2056,7 +2056,6 @@
 ||anybunny.org^$dnstype=AAAA
 ||anybunny.tv^$dnstype=AAAA
 ||anydesk.com^$dnstype=AAAA
-||anygate.vip^$dnstype=AAAA
 ||anyhentai.com^$dnstype=AAAA
 ||anyporn.com^$dnstype=AAAA
 ||anypornhd.com^$dnstype=AAAA
@@ -4352,6 +4351,7 @@
 ||bitstamp.net^$dnstype=AAAA
 ||bitstream.com^$dnstype=AAAA
 ||bitterwinter.org^$dnstype=AAAA
+||bittorrent.com^$dnstype=AAAA
 ||bittrex.com^$dnstype=AAAA
 ||bitvise.com^$dnstype=AAAA
 ||bitwarden.com^$dnstype=AAAA
@@ -14040,6 +14040,7 @@
 ||helpster.de^$dnstype=AAAA
 ||helpuyghursnow.org^$dnstype=AAAA
 ||helpzhuling.org^$dnstype=AAAA
+||hembed.com^$dnstype=AAAA
 ||hendon.ac.uk^$dnstype=AAAA
 ||henduohao.com^$dnstype=AAAA
 ||henley-cov.ac.uk^$dnstype=AAAA
@@ -18845,6 +18846,8 @@
 ||mantochichi.com^$dnstype=AAAA
 ||manufacturingedc.ac.uk^$dnstype=AAAA
 ||manurefetish.com^$dnstype=AAAA
+||manus.im^$dnstype=AAAA
+||manuscdn.com^$dnstype=AAAA
 ||manytoon.com^$dnstype=AAAA
 ||manyvids.com^$dnstype=AAAA
 ||manyvoices.news^$dnstype=AAAA
@@ -27049,6 +27052,7 @@
 ||sketchbooknews.com^$dnstype=AAAA
 ||sketchbookpro.com^$dnstype=AAAA
 ||sketchfab.com^$dnstype=AAAA
+||skills.sh^$dnstype=AAAA
 ||skillsbridge.ac.uk^$dnstype=AAAA
 ||skillscompetitionwales.ac.uk^$dnstype=AAAA
 ||skillsgroupuk.ac.uk^$dnstype=AAAA
@@ -30768,6 +30772,7 @@
 ||v.gd^$dnstype=AAAA
 ||v.roucdn^$dnstype=AAAA
 ||v2.help^$dnstype=AAAA
+||v2.hysteria.network^$dnstype=AAAA
 ||v2board.com^$dnstype=AAAA
 ||v2ex.co^$dnstype=AAAA
 ||v2ex.com^$dnstype=AAAA
