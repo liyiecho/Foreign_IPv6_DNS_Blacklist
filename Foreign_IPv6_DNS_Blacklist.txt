@@ -3513,7 +3513,6 @@
 ||bbs.huasing.org^$dnstype=AAAA
 ||bbs.junglobal.net^$dnstype=AAAA
 ||bbs.mikocon.com^$dnstype=AAAA
-||bbs.morbell.com^$dnstype=AAAA
 ||bbs.mychat.to^$dnstype=AAAA
 ||bbs.naixi.net^$dnstype=AAAA
 ||bbs.nyinfor.com^$dnstype=AAAA
@@ -4437,7 +4436,6 @@
 ||blog.jackjia.com^$dnstype=AAAA
 ||blog.jp^$dnstype=AAAA
 ||blog.kangye.org^$dnstype=AAAA
-||blog.lester850.info^$dnstype=AAAA
 ||blog.martinoei.com^$dnstype=AAAA
 ||blog.pathtosharepoint.com^$dnstype=AAAA
 ||blog.pentalogic.net^$dnstype=AAAA
@@ -6245,7 +6243,6 @@
 ||cdn-vk.ru^$dnstype=AAAA
 ||cdn.ac.uk^$dnstype=AAAA
 ||cdn.arstechnica.net^$dnstype=AAAA
-||cdn.assets.lfpcontent.com^$dnstype=AAAA
 ||cdn.helixstudios.net^$dnstype=AAAA
 ||cdn.js7k.com^$dnstype=AAAA
 ||cdn.jsdelivr.net^$dnstype=AAAA
@@ -7196,6 +7193,8 @@
 ||codei.sh^$dnstype=AAAA
 ||codeish.co^$dnstype=AAAA
 ||codeish.io^$dnstype=AAAA
+||codeium.com^$dnstype=AAAA
+||codeiumdata.com^$dnstype=AAAA
 ||codeplex.com^$dnstype=AAAA
 ||coderabbit.ai^$dnstype=AAAA
 ||codeshare.io^$dnstype=AAAA
@@ -14468,7 +14467,6 @@
 ||hkptu.org^$dnstype=AAAA
 ||hkreadingcity.net^$dnstype=AAAA
 ||hkreporter.com^$dnstype=AAAA
-||hkreporter.loved.hk^$dnstype=AAAA
 ||hkt-enterprise.com^$dnstype=AAAA
 ||hkt-eye.com^$dnstype=AAAA
 ||hkt.com^$dnstype=AAAA
@@ -16865,7 +16863,6 @@
 ||jigglegifs.com^$dnstype=AAAA
 ||jigong1024.com^$dnstype=AAAA
 ||jigsy.com^$dnstype=AAAA
-||jihadintel.meforum.org^$dnstype=AAAA
 ||jihadology.net^$dnstype=AAAA
 ||jiji.com^$dnstype=AAAA
 ||jijiji.ca^$dnstype=AAAA
@@ -17693,9 +17690,7 @@
 ||lanniser-ylo.shop^$dnstype=AAAA
 ||lantern.io^$dnstype=AAAA
 ||lanternal.com^$dnstype=AAAA
-||lanterncn.cn^$dnstype=AAAA
 ||lantosfoundation.org^$dnstype=AAAA
-||laod.cn^$dnstype=AAAA
 ||laogai.org^$dnstype=AAAA
 ||laogairesearch.org^$dnstype=AAAA
 ||laomiu.com^$dnstype=AAAA
@@ -27933,6 +27928,7 @@
 ||static-economist.com^$dnstype=AAAA
 ||static-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||static-nike.com^$dnstype=AAAA
+||static-storage.net^$dnstype=AAAA
 ||static-verizon.com^$dnstype=AAAA
 ||static.fun^$dnstype=AAAA
 ||static.pocketcasts.com^$dnstype=AAAA
@@ -32330,6 +32326,7 @@
 ||wikipedia.org^$dnstype=AAAA
 ||wikiporn.tv^$dnstype=AAAA
 ||wikiquote.org^$dnstype=AAAA
+||wikis.tw^$dnstype=AAAA
 ||wikisexguide.com^$dnstype=AAAA
 ||wikisource.org^$dnstype=AAAA
 ||wikiunblocked.org^$dnstype=AAAA
@@ -32371,6 +32368,8 @@
 ||windowsuem.com^$dnstype=AAAA
 ||windscribe.com^$dnstype=AAAA
 ||windsor-forest.ac.uk^$dnstype=AAAA
+||windsurf.build^$dnstype=AAAA
+||windsurf.com^$dnstype=AAAA
 ||windy.com^$dnstype=AAAA
 ||wingamestore.com^$dnstype=AAAA
 ||wingy.site^$dnstype=AAAA
@@ -33587,6 +33586,7 @@
 ||yande.re^$dnstype=AAAA
 ||yandex-bank.net^$dnstype=AAAA
 ||yandex-images.clstorage.net^$dnstype=AAAA
+||yandex-pogoda.static-storage.net^$dnstype=AAAA
 ||yandex-team.ru^$dnstype=AAAA
 ||yandex.aero^$dnstype=AAAA
 ||yandex.az^$dnstype=AAAA
