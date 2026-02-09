@@ -280,7 +280,10 @@
 ||2gayboys.com^$dnstype=AAAA
 ||2k.com^$dnstype=AAAA
 ||2kcoretech.online^$dnstype=AAAA
+||2kct.onl^$dnstype=AAAA
 ||2kgames.com^$dnstype=AAAA
+||2ksports.com^$dnstype=AAAA
+||2kweb.online^$dnstype=AAAA
 ||2lib.org^$dnstype=AAAA
 ||2lipstube.com^$dnstype=AAAA
 ||2o7.net^$dnstype=AAAA
@@ -839,6 +842,7 @@
 ||acer.com^$dnstype=AAAA
 ||aceros-de-hispania.com^$dnstype=AAAA
 ||aces.ac.uk^$dnstype=AAAA
+||acesofthunder.net^$dnstype=AAAA
 ||acets.ac.uk^$dnstype=AAAA
 ||acevpn.com^$dnstype=AAAA
 ||acg.rip^$dnstype=AAAA
@@ -891,6 +895,7 @@
 ||activatelearning.ac.uk^$dnstype=AAAA
 ||activelearnprimary.co.uk^$dnstype=AAAA
 ||activelearnprimary.com.au^$dnstype=AAAA
+||activematter.game^$dnstype=AAAA
 ||activeteachonline.com^$dnstype=AAAA
 ||activpn.com^$dnstype=AAAA
 ||actofunion.ac.uk^$dnstype=AAAA
@@ -2646,6 +2651,7 @@
 ||artstation.com^$dnstype=AAAA
 ||artstationmedia.com^$dnstype=AAAA
 ||artstor.org^$dnstype=AAAA
+||artstorm.com^$dnstype=AAAA
 ||artsy.net^$dnstype=AAAA
 ||aru.ac.uk^$dnstype=AAAA
 ||arukas.io^$dnstype=AAAA
@@ -3502,6 +3508,8 @@
 ||bbkz.com^$dnstype=AAAA
 ||bbnradio.org^$dnstype=AAAA
 ||bbqm1.xyz^$dnstype=AAAA
+||bbs-api-os-static.hoyolab.com^$dnstype=AAAA
+||bbs-api-os.hoyolab.com^$dnstype=AAAA
 ||bbs-cove.ac.uk^$dnstype=AAAA
 ||bbs-tw.com^$dnstype=AAAA
 ||bbs.acgrip.com^$dnstype=AAAA
@@ -7720,6 +7728,7 @@
 ||crossfire.co.kr^$dnstype=AAAA
 ||crossfitfirestone.com^$dnstype=AAAA
 ||crossmediapanel.com^$dnstype=AAAA
+||crossout.net^$dnstype=AAAA
 ||crossthewall.net^$dnstype=AAAA
 ||crossvpn.net^$dnstype=AAAA
 ||crosswalk-project.com^$dnstype=AAAA
@@ -7735,6 +7744,7 @@
 ||crr.com^$dnstype=AAAA
 ||crrev.com^$dnstype=AAAA
 ||crsbi.ac.uk^$dnstype=AAAA
+||crsed.net^$dnstype=AAAA
 ||crsp.ac.uk^$dnstype=AAAA
 ||crtsgfb1.top^$dnstype=AAAA
 ||crucial.com^$dnstype=AAAA
@@ -7815,6 +7825,7 @@
 ||ctv.com.tw^$dnstype=AAAA
 ||ctwant.com^$dnstype=AAAA
 ||cubicmotion.com^$dnstype=AAAA
+||cubicodyssey.game^$dnstype=AAAA
 ||cubo.ac.uk^$dnstype=AAAA
 ||cuc.ac.uk^$dnstype=AAAA
 ||cuckfilmswifefuck.com^$dnstype=AAAA
@@ -10234,6 +10245,7 @@
 ||enjoyasianporn.com^$dnstype=AAAA
 ||enjoyfuck.com^$dnstype=AAAA
 ||enlighten.org.tw^$dnstype=AAAA
+||enlisted.net^$dnstype=AAAA
 ||enmat.ac.uk^$dnstype=AAAA
 ||enorf.ac.uk^$dnstype=AAAA
 ||enos.ac.uk^$dnstype=AAAA
@@ -12356,6 +12368,8 @@
 ||gaforum.org^$dnstype=AAAA
 ||gagaoolala.com^$dnstype=AAAA
 ||gaia.ac.uk^$dnstype=AAAA
+||gaijin.net^$dnstype=AAAA
+||gaijinent.com^$dnstype=AAAA
 ||gainsborough.ac.uk^$dnstype=AAAA
 ||gaito.xyz^$dnstype=AAAA
 ||galaxymobile.jp^$dnstype=AAAA
@@ -20064,6 +20078,7 @@
 ||modelsofauthority.ac.uk^$dnstype=AAAA
 ||modeltv.com^$dnstype=AAAA
 ||modernchinastudies.org^$dnstype=AAAA
+||modernwarships.com^$dnstype=AAAA
 ||modip.ac.uk^$dnstype=AAAA
 ||modmedmicro.ac.uk^$dnstype=AAAA
 ||modmyi.com^$dnstype=AAAA
@@ -25487,6 +25502,7 @@
 ||rocksdb.org^$dnstype=AAAA
 ||rocksextube.com^$dnstype=AAAA
 ||rockstargames.com^$dnstype=AAAA
+||rockstarnorth.com^$dnstype=AAAA
 ||roco.qq.com^$dnstype=AAAA
 ||rodbaston.ac.uk^$dnstype=AAAA
 ||roe.ac.uk^$dnstype=AAAA
@@ -27826,6 +27842,7 @@
 ||stanmore.ac.uk^$dnstype=AAAA
 ||stanstedairportcollege.ac.uk^$dnstype=AAAA
 ||star-brasil.com^$dnstype=AAAA
+||star-conflict.com^$dnstype=AAAA
 ||star-latam.com^$dnstype=AAAA
 ||star.ac.uk^$dnstype=AAAA
 ||starbucks-stars.com^$dnstype=AAAA
@@ -31911,6 +31928,7 @@
 ||warr.ac.uk^$dnstype=AAAA
 ||warrington.ac.uk^$dnstype=AAAA
 ||warroom.org^$dnstype=AAAA
+||warthunder.com^$dnstype=AAAA
 ||warwick.ac.uk^$dnstype=AAAA
 ||warwickequine.ac.uk^$dnstype=AAAA
 ||warwickhri.ac.uk^$dnstype=AAAA
@@ -32619,6 +32637,7 @@
 ||wtbn.org^$dnstype=AAAA
 ||wtc.ac.uk^$dnstype=AAAA
 ||wtfpeople.com^$dnstype=AAAA
+||wtmobile.com^$dnstype=AAAA
 ||wto.org^$dnstype=AAAA
 ||wton-acl.ac.uk^$dnstype=AAAA
 ||wton-adulteducation.ac.uk^$dnstype=AAAA
@@ -34351,6 +34370,9 @@
 ||zwtvusa.com^$dnstype=AAAA
 ||zynaima.com^$dnstype=AAAA
 ||zynamics.com^$dnstype=AAAA
+||zynga.com^$dnstype=AAAA
+||zyngaplayersupport.com^$dnstype=AAAA
+||zyngapoker.com^$dnstype=AAAA
 ||zyns.com^$dnstype=AAAA
 ||zyxel.com^$dnstype=AAAA
 ||zyzc9.com^$dnstype=AAAA
