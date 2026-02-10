@@ -573,7 +573,6 @@
 ||88xm.tv^$dnstype=AAAA
 ||88xqq.com^$dnstype=AAAA
 ||89-64.org^$dnstype=AAAA
-||89.64.charter.constitutionalism.solutions^$dnstype=AAAA
 ||8949.voto^$dnstype=AAAA
 ||8964museum.com^$dnstype=AAAA
 ||8chan.moe^$dnstype=AAAA
@@ -1291,7 +1290,6 @@
 ||ai-kan.net^$dnstype=AAAA
 ||ai-sdk.dev^$dnstype=AAAA
 ||ai-wen.net^$dnstype=AAAA
-||ai.binwang.me^$dnstype=AAAA
 ||ai.dev^$dnstype=AAAA
 ||ai.google^$dnstype=AAAA
 ||ai.google.dev^$dnstype=AAAA
@@ -2911,7 +2909,6 @@
 ||auroraoss.com^$dnstype=AAAA
 ||ausbeatsbydrdre.com^$dnstype=AAAA
 ||auth0.com^$dnstype=AAAA
-||authorizeddns.net^$dnstype=AAAA
 ||authorizeddns.org^$dnstype=AAAA
 ||authorxml.com^$dnstype=AAAA
 ||authpass.app^$dnstype=AAAA
@@ -3514,7 +3511,6 @@
 ||bbs-tw.com^$dnstype=AAAA
 ||bbs.acgrip.com^$dnstype=AAAA
 ||bbs.boingboing.net^$dnstype=AAAA
-||bbs.brockbbs.com^$dnstype=AAAA
 ||bbs.cantonese.asia^$dnstype=AAAA
 ||bbs.ecstart.com^$dnstype=AAAA
 ||bbs.hanminzu.org^$dnstype=AAAA
@@ -4454,7 +4450,6 @@
 ||blog.syx86.com^$dnstype=AAAA
 ||blog.taragana.com^$dnstype=AAAA
 ||blog.tiney.com^$dnstype=AAAA
-||blog.youthwant.com.tw^$dnstype=AAAA
 ||blogblog.com^$dnstype=AAAA
 ||blogcatalog.com^$dnstype=AAAA
 ||blogcdn.com^$dnstype=AAAA
@@ -5104,7 +5099,6 @@
 ||boodigo.com^$dnstype=AAAA
 ||boodigogo.com^$dnstype=AAAA
 ||book.com.tw^$dnstype=AAAA
-||book.zi5.me^$dnstype=AAAA
 ||book18.org^$dnstype=AAAA
 ||book4you.org^$dnstype=AAAA
 ||bookbrainz.org^$dnstype=AAAA
@@ -6592,7 +6586,6 @@
 ||chimeforchange.org^$dnstype=AAAA
 ||china-autodesk.com^$dnstype=AAAA
 ||china-facebook.com^$dnstype=AAAA
-||china-mmm.jp.net^$dnstype=AAAA
 ||china-mmm.net^$dnstype=AAAA
 ||china-review.com.ua^$dnstype=AAAA
 ||china-week.com^$dnstype=AAAA
@@ -7072,7 +7065,6 @@
 ||cmmedia.com.tw^$dnstype=AAAA
 ||cmoinc.org^$dnstype=AAAA
 ||cmoney.tw^$dnstype=AAAA
-||cmp.hku.hk^$dnstype=AAAA
 ||cmpaas.com^$dnstype=AAAA
 ||cmpcp.ac.uk^$dnstype=AAAA
 ||cms-twdigitalassets.com^$dnstype=AAAA
@@ -7087,12 +7079,10 @@
 ||cn.chosun.com^$dnstype=AAAA
 ||cn.fmnnow.com^$dnstype=AAAA
 ||cn.freeones.com^$dnstype=AAAA
-||cn.nytstyle.com^$dnstype=AAAA
 ||cn.sandscotaicentral.com^$dnstype=AAAA
 ||cn.shafaqna.com^$dnstype=AAAA
 ||cn.streetvoice.com^$dnstype=AAAA
 ||cn.theaustralian.com.au^$dnstype=AAAA
-||cn.uncyclopedia.wikia.com^$dnstype=AAAA
 ||cn.uptodown.com^$dnstype=AAAA
 ||cn6.eu^$dnstype=AAAA
 ||cna.com.tw^$dnstype=AAAA
@@ -8229,12 +8219,9 @@
 ||dditsadn.com^$dnstype=AAAA
 ||dditscdn.com^$dnstype=AAAA
 ||ddns.info^$dnstype=AAAA
-||ddns.me.uk^$dnstype=AAAA
 ||ddns.mobi^$dnstype=AAAA
 ||ddns.ms^$dnstype=AAAA
-||ddns.name^$dnstype=AAAA
 ||ddns.net^$dnstype=AAAA
-||ddns.us^$dnstype=AAAA
 ||de-montfort.ac.uk^$dnstype=AAAA
 ||de-sci.org^$dnstype=AAAA
 ||de1lib.org^$dnstype=AAAA
@@ -8542,7 +8529,6 @@
 ||desktopmovies.org^$dnstype=AAAA
 ||dessci.com^$dnstype=AAAA
 ||destinationbim.com^$dnstype=AAAA
-||destiny.xfiles.to^$dnstype=AAAA
 ||destroy-china.jp^$dnstype=AAAA
 ||detaliczny.com^$dnstype=AAAA
 ||detentiongirls.com^$dnstype=AAAA
@@ -11744,13 +11730,11 @@
 ||fortune.ac.uk^$dnstype=AAAA
 ||fortunecentre.ac.uk^$dnstype=AAAA
 ||fortuneinsight.com^$dnstype=AAAA
-||forum.baby-kingdom.com^$dnstype=AAAA
 ||forum.cyberctm.com^$dnstype=AAAA
 ||forum.mymaji.com^$dnstype=AAAA
 ||forum.palmislife.com^$dnstype=AAAA
 ||forum.slime.com.tw^$dnstype=AAAA
 ||forum.tvb.com^$dnstype=AAAA
-||forum.xinbao.de^$dnstype=AAAA
 ||forum4hk.com^$dnstype=AAAA
 ||forums-free.com^$dnstype=AAAA
 ||forza.net^$dnstype=AAAA
@@ -11959,7 +11943,6 @@
 ||fpmt.tw^$dnstype=AAAA
 ||fpmtmexico.org^$dnstype=AAAA
 ||fptolia.com^$dnstype=AAAA
-||fq.wikia.com^$dnstype=AAAA
 ||fqcebook.com^$dnstype=AAAA
 ||fqok.org^$dnstype=AAAA
 ||fqrouter.com^$dnstype=AAAA
@@ -12721,6 +12704,7 @@
 ||gettyimages.no^$dnstype=AAAA
 ||gettyimages.pt^$dnstype=AAAA
 ||gettyimages.se^$dnstype=AAAA
+||gettyimages.us^$dnstype=AAAA
 ||getuploader.com^$dnstype=AAAA
 ||getws1.com^$dnstype=AAAA
 ||getwsone.com^$dnstype=AAAA
@@ -15110,6 +15094,7 @@
 ||huntingdon.ac.uk^$dnstype=AAAA
 ||huobi.co^$dnstype=AAAA
 ||huobi.com^$dnstype=AAAA
+||huobi.li^$dnstype=AAAA
 ||huobi.me^$dnstype=AAAA
 ||huobi.pro^$dnstype=AAAA
 ||huobi.sc^$dnstype=AAAA
@@ -15268,7 +15253,6 @@
 ||icca.ac.uk^$dnstype=AAAA
 ||iccliverpool.ac.uk^$dnstype=AAAA
 ||ice-cse.ac.uk^$dnstype=AAAA
-||ice.audionow.com^$dnstype=AAAA
 ||iced.ac.uk^$dnstype=AAAA
 ||icedrive.net^$dnstype=AAAA
 ||icegay.tv^$dnstype=AAAA
@@ -18153,7 +18137,6 @@
 ||listerpostgraduate.ac.uk^$dnstype=AAAA
 ||listinganalytics.net^$dnstype=AAAA
 ||listorious.com^$dnstype=AAAA
-||lists.w3.org^$dnstype=AAAA
 ||litbus-anime.com^$dnstype=AAAA
 ||litenews.hk^$dnstype=AAAA
 ||literatumonline.com^$dnstype=AAAA
@@ -19227,7 +19210,6 @@
 ||me.me^$dnstype=AAAA
 ||me.ns.ci^$dnstype=AAAA
 ||me.uk^$dnstype=AAAA
-||me.youthwant.com.tw^$dnstype=AAAA
 ||meadjohnson.com^$dnstype=AAAA
 ||meadjohnson.com.hk^$dnstype=AAAA
 ||meadjohnson.com.tw^$dnstype=AAAA
@@ -25020,7 +25002,6 @@
 ||rcni.ac.uk^$dnstype=AAAA
 ||rcoa.ac.uk^$dnstype=AAAA
 ||rcog.ac.uk^$dnstype=AAAA
-||rconversation.blogs.com^$dnstype=AAAA
 ||rcophth.ac.uk^$dnstype=AAAA
 ||rcp.ac.uk^$dnstype=AAAA
 ||rcpch.ac.uk^$dnstype=AAAA
@@ -25110,7 +25091,6 @@
 ||realdoll.com^$dnstype=AAAA
 ||realestate.com.au^$dnstype=AAAA
 ||realestatejournal.com^$dnstype=AAAA
-||realforum.zkiz.com^$dnstype=AAAA
 ||realgfporn.com^$dnstype=AAAA
 ||realisingopportunities.ac.uk^$dnstype=AAAA
 ||reality-computing.com^$dnstype=AAAA
@@ -25762,7 +25742,6 @@
 ||s3-ap-southeast-1.amazonaws.com^$dnstype=AAAA
 ||s3-ap-southeast-2.amazonaws.com^$dnstype=AAAA
 ||s3-eu-central-1.amazonaws.com^$dnstype=AAAA
-||s3.amazonaws.com^$dnstype=AAAA
 ||s3.ap-northeast-2.amazonaws.com^$dnstype=AAAA
 ||s3.eu-central-1.amazonaws.com^$dnstype=AAAA
 ||s3.us-east-1.amazonaws.com^$dnstype=AAAA
@@ -26683,7 +26662,6 @@
 ||share.america.gov^$dnstype=AAAA
 ||share.google^$dnstype=AAAA
 ||share.ovi.com^$dnstype=AAAA
-||share.youthwant.com.tw^$dnstype=AAAA
 ||sharebee.com^$dnstype=AAAA
 ||sharecool.org^$dnstype=AAAA
 ||shared-ed.ac.uk^$dnstype=AAAA
@@ -28614,7 +28592,6 @@
 ||taiwanjustice.com^$dnstype=AAAA
 ||taiwanjustice.net^$dnstype=AAAA
 ||taiwankiss.com^$dnstype=AAAA
-||taiwannation.50webs.com^$dnstype=AAAA
 ||taiwannation.com^$dnstype=AAAA
 ||taiwannation.com.tw^$dnstype=AAAA
 ||taiwanncf.org.tw^$dnstype=AAAA
@@ -29593,7 +29570,6 @@
 ||tophdsex.com^$dnstype=AAAA
 ||tophentai.biz^$dnstype=AAAA
 ||tophentaicomics.com^$dnstype=AAAA
-||topic.youthwant.com.tw^$dnstype=AAAA
 ||toplayerserver.com^$dnstype=AAAA
 ||topmanga.biz^$dnstype=AAAA
 ||topnews.in^$dnstype=AAAA
@@ -31111,8 +31087,6 @@
 ||viddeo-jav.net^$dnstype=AAAA
 ||video-jav.net^$dnstype=AAAA
 ||video-one.com^$dnstype=AAAA
-||video.aol.ca^$dnstype=AAAA
-||video.aol.co.uk^$dnstype=AAAA
 ||video.aol.com^$dnstype=AAAA
 ||video.foxbusiness.com^$dnstype=AAAA
 ||video01.org^$dnstype=AAAA
@@ -32609,7 +32583,6 @@
 ||wrexham.ac.uk^$dnstype=AAAA
 ||wripa.ac.uk^$dnstype=AAAA
 ||writenow.ac.uk^$dnstype=AAAA
-||writer.zoho.com^$dnstype=AAAA
 ||writesonic.com^$dnstype=AAAA
 ||writing-pad.ac.uk^$dnstype=AAAA
 ||writtle.ac.uk^$dnstype=AAAA
@@ -32777,10 +32750,8 @@
 ||www.anix.moe^$dnstype=AAAA
 ||www.antd.org^$dnstype=AAAA
 ||www.aolnews.com^$dnstype=AAAA
-||www.businessinsider.com.au^$dnstype=AAAA
 ||www.cmoinc.org^$dnstype=AAAA
 ||www.dmm.com^$dnstype=AAAA
-||www.dwheeler.com^$dnstype=AAAA
 ||www.eastturkistan.net^$dnstype=AAAA
 ||www.gmiddle.com^$dnstype=AAAA
 ||www.gmiddle.net^$dnstype=AAAA
@@ -32797,7 +32768,6 @@
 ||www.monlamit.org^$dnstype=AAAA
 ||www.moztw.org^$dnstype=AAAA
 ||www.msn.com^$dnstype=AAAA
-||www.nbc.com^$dnstype=AAAA
 ||www.owind.com^$dnstype=AAAA
 ||www.oxid.it^$dnstype=AAAA
 ||www.powerpointninja.com^$dnstype=AAAA
@@ -32813,7 +32783,6 @@
 ||www.websnapr.com^$dnstype=AAAA
 ||www.xicons.org^$dnstype=AAAA
 ||www.zensur.freerk.com^$dnstype=AAAA
-||www1.american.edu^$dnstype=AAAA
 ||www1.biz^$dnstype=AAAA
 ||www2.ohchr.org^$dnstype=AAAA
 ||www2.rocketbbs.com^$dnstype=AAAA
@@ -33416,7 +33385,6 @@
 ||xxxyaom.xyz^$dnstype=AAAA
 ||xxxymovies.com^$dnstype=AAAA
 ||xxxyoungxxx.com^$dnstype=AAAA
-||xys.dxiong.com^$dnstype=AAAA
 ||xys.org^$dnstype=AAAA
 ||xysblogs.org^$dnstype=AAAA
 ||xyy69.com^$dnstype=AAAA
@@ -34228,8 +34196,6 @@
 ||zh.bitterwinter.org^$dnstype=AAAA
 ||zh.ecdm.wikia.com^$dnstype=AAAA
 ||zh.pokerstrategy.com^$dnstype=AAAA
-||zh.pttpedia.wikia.com^$dnstype=AAAA
-||zh.uncyclopedia.wikia.com^$dnstype=AAAA
 ||zh.wikiquote.org^$dnstype=AAAA
 ||zh99.net^$dnstype=AAAA
 ||zhaimankan.com^$dnstype=AAAA
@@ -34261,7 +34227,6 @@
 ||zhreader.com^$dnstype=AAAA
 ||zhtv01.com^$dnstype=AAAA
 ||zhuangbi.me^$dnstype=AAAA
-||zhuanxing.cn^$dnstype=AAAA
 ||zhuatieba.com^$dnstype=AAAA
 ||zhuichaguoji.org^$dnstype=AAAA
 ||zhujiget.com^$dnstype=AAAA
