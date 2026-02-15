@@ -6960,6 +6960,7 @@
 ||cloud.dify.ai^$dnstype=AAAA
 ||cloud.mail.ru^$dnstype=AAAA
 ||cloud.oracle.com^$dnstype=AAAA
+||cloud.run^$dnstype=AAAA
 ||cloudaicompanion.googleapis.com^$dnstype=AAAA
 ||cloudapp.net^$dnstype=AAAA
 ||cloudappsecurity.com^$dnstype=AAAA
@@ -7025,6 +7026,7 @@
 ||cloudpartnerservices.goog^$dnstype=AAAA
 ||cloudproxy.app^$dnstype=AAAA
 ||cloudrobotics.com^$dnstype=AAAA
+||cloudskillsboost.google^$dnstype=AAAA
 ||cloudsync-prod.s3.amazonaws.com^$dnstype=AAAA
 ||cloudvolumes.com^$dnstype=AAAA
 ||cloudworks.ac.uk^$dnstype=AAAA
@@ -7310,7 +7312,6 @@
 ||com.ge^$dnstype=AAAA
 ||com.gh^$dnstype=AAAA
 ||com.gi^$dnstype=AAAA
-||com.google^$dnstype=AAAA
 ||com.gr^$dnstype=AAAA
 ||com.gt^$dnstype=AAAA
 ||com.gy^$dnstype=AAAA
@@ -12924,6 +12925,7 @@
 ||gmcg.ac.uk^$dnstype=AAAA
 ||gmcyberfoundry.ac.uk^$dnstype=AAAA
 ||gmgard.com^$dnstype=AAAA
+||gmgn.ai^$dnstype=AAAA
 ||gmhigher.ac.uk^$dnstype=AAAA
 ||gmhz.org^$dnstype=AAAA
 ||gmiddle.com^$dnstype=AAAA
@@ -13328,6 +13330,7 @@
 ||googlemaps.sv^$dnstype=AAAA
 ||googlemashups.com^$dnstype=AAAA
 ||googlepagecreator.com^$dnstype=AAAA
+||googlepages.com^$dnstype=AAAA
 ||googlephotos.com^$dnstype=AAAA
 ||googleplay.com^$dnstype=AAAA
 ||googleplex.com^$dnstype=AAAA
@@ -21442,6 +21445,7 @@
 ||nic.cz^$dnstype=AAAA
 ||nic.cz.cc^$dnstype=AAAA
 ||nic.gov^$dnstype=AAAA
+||nic.youtube^$dnstype=AAAA
 ||nicats.ac.uk^$dnstype=AAAA
 ||nicd.ac.uk^$dnstype=AAAA
 ||niceanimegames.com^$dnstype=AAAA
@@ -22155,6 +22159,7 @@
 ||nuuvem.com^$dnstype=AAAA
 ||nuvid.com^$dnstype=AAAA
 ||nuzcom.com^$dnstype=AAAA
+||nuzzel.com^$dnstype=AAAA
 ||nvdst.com^$dnstype=AAAA
 ||nverxs.xyz^$dnstype=AAAA
 ||nvidia.asia^$dnstype=AAAA
@@ -29494,6 +29499,7 @@
 ||tomp3.cc^$dnstype=AAAA
 ||tomsguide.com^$dnstype=AAAA
 ||tomshardware.com^$dnstype=AAAA
+||ton.org^$dnstype=AAAA
 ||tonec.com^$dnstype=AAAA
 ||tongil.or.kr^$dnstype=AAAA
 ||tonicmovies.com^$dnstype=AAAA
@@ -31829,12 +31835,14 @@
 ||wallet.com^$dnstype=AAAA
 ||wallet.google^$dnstype=AAAA
 ||walletconnect.com^$dnstype=AAAA
+||walletconnect.org^$dnstype=AAAA
 ||wallhaven.cc^$dnstype=AAAA
 ||wallmama.com^$dnstype=AAAA
 ||wallornot.org^$dnstype=AAAA
 ||wallpapercasa.com^$dnstype=AAAA
 ||wallproxy.com^$dnstype=AAAA
 ||wallsttv.com^$dnstype=AAAA
+||wallzhihu.com^$dnstype=AAAA
 ||walmart-content.com^$dnstype=AAAA
 ||walmart.com^$dnstype=AAAA
 ||walmart.pharmacy^$dnstype=AAAA
