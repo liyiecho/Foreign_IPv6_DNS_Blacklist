@@ -1484,7 +1484,6 @@
 ||aisejushi.com^$dnstype=AAAA
 ||aisex.com^$dnstype=AAAA
 ||aishegw.com^$dnstype=AAAA
-||aiss.anws.gov.tw^$dnstype=AAAA
 ||ait.org.tw^$dnstype=AAAA
 ||aiv-cdn.net^$dnstype=AAAA
 ||aiv-cdn.net.c.footprint.net^$dnstype=AAAA
@@ -28628,7 +28627,6 @@
 ||tabustudios.co^$dnstype=AAAA
 ||tacamateurs.com^$dnstype=AAAA
 ||tacc.ac.uk^$dnstype=AAAA
-||tacc.cwb.gov.tw^$dnstype=AAAA
 ||tacem.org^$dnstype=AAAA
 ||tachusz.xyz^$dnstype=AAAA
 ||taconet.com.tw^$dnstype=AAAA
@@ -30134,6 +30132,7 @@
 ||twenty65.ac.uk^$dnstype=AAAA
 ||twerkingbutt.com^$dnstype=AAAA
 ||twftp.org^$dnstype=AAAA
+||twgov.tw^$dnstype=AAAA
 ||twgreatdaily.com^$dnstype=AAAA
 ||twgreatnews.com^$dnstype=AAAA
 ||twhentai.com^$dnstype=AAAA
