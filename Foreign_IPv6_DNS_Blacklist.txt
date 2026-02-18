@@ -4428,6 +4428,7 @@
 ||bitchmomporn.com^$dnstype=AAAA
 ||bitchute.com^$dnstype=AAAA
 ||bitcoin.org^$dnstype=AAAA
+||bitcoincore.org^$dnstype=AAAA
 ||bitcointalk.org^$dnstype=AAAA
 ||bitcoinworld.com^$dnstype=AAAA
 ||bitdefender.com^$dnstype=AAAA
@@ -20175,7 +20176,6 @@
 ||mohu.ml^$dnstype=AAAA
 ||mohu.rocks^$dnstype=AAAA
 ||moidigital.ac.uk^$dnstype=AAAA
-||moj.gov.tw^$dnstype=AAAA
 ||mojang.com^$dnstype=AAAA
 ||mojim.com^$dnstype=AAAA
 ||mol.ac.uk^$dnstype=AAAA
@@ -26340,12 +26340,14 @@
 ||secure.hustler.com^$dnstype=AAAA
 ||secure.logmein.com^$dnstype=AAAA
 ||secure.shadowsocks.nu^$dnstype=AAAA
+||securecloudtransformation.com^$dnstype=AAAA
 ||secureharvests.ac.uk^$dnstype=AAAA
 ||securepaypal.info^$dnstype=AAAA
 ||secureservercdn.net^$dnstype=AAAA
 ||securetunnel.com^$dnstype=AAAA
 ||securityinabox.org^$dnstype=AAAA
 ||securitykiss.com^$dnstype=AAAA
+||securitypreview.com^$dnstype=AAAA
 ||seda.ac.uk^$dnstype=AAAA
 ||sedc.ac.uk^$dnstype=AAAA
 ||sedg.ac.uk^$dnstype=AAAA
@@ -27965,6 +27967,7 @@
 ||starfieldtech.com^$dnstype=AAAA
 ||starfishfx.com^$dnstype=AAAA
 ||starfox.com^$dnstype=AAAA
+||stargazer-games.com^$dnstype=AAAA
 ||stark-verlag.ch^$dnstype=AAAA
 ||starlink.ac.uk^$dnstype=AAAA
 ||starott.com^$dnstype=AAAA
@@ -28082,6 +28085,8 @@
 ||steezylist.com^$dnstype=AAAA
 ||steganos.com^$dnstype=AAAA
 ||steganos.net^$dnstype=AAAA
+||stellasora.global^$dnstype=AAAA
+||stellasora.jp^$dnstype=AAAA
 ||stem.ac.uk^$dnstype=AAAA
 ||stemacademy.ac.uk^$dnstype=AAAA
 ||stemequals.ac.uk^$dnstype=AAAA
@@ -29303,6 +29308,7 @@
 ||threads.com^$dnstype=AAAA
 ||threads.net^$dnstype=AAAA
 ||threatchaos.com^$dnstype=AAAA
+||threatlabz.com^$dnstype=AAAA
 ||thri.xxx^$dnstype=AAAA
 ||thrixxx.com^$dnstype=AAAA
 ||thron.com^$dnstype=AAAA
@@ -33791,6 +33797,7 @@
 ||ymhsf1.top^$dnstype=AAAA
 ||ync.ne.jp^$dnstype=AAAA
 ||ynoproject.net^$dnstype=AAAA
+||yo-star.com^$dnstype=AAAA
 ||yo1health.com^$dnstype=AAAA
 ||yobit.net^$dnstype=AAAA
 ||yobt.com^$dnstype=AAAA
@@ -33822,6 +33829,9 @@
 ||yorkstonemasonrycove.ac.uk^$dnstype=AAAA
 ||yorozoonews.jp^$dnstype=AAAA
 ||yoshisnewisland.com^$dnstype=AAAA
+||yostar-pictures.co.jp^$dnstype=AAAA
+||yostar.co.jp^$dnstype=AAAA
+||yostarplat.com^$dnstype=AAAA
 ||you-get.org^$dnstype=AAAA
 ||you.com^$dnstype=AAAA
 ||youassporn.com^$dnstype=AAAA
@@ -34227,6 +34237,8 @@
 ||zdnet.redvideo.io^$dnstype=AAAA
 ||zdns.google^$dnstype=AAAA
 ||zdusercontent.com^$dnstype=AAAA
+||zdxbeta.net^$dnstype=AAAA
+||zdxcloud.net^$dnstype=AAAA
 ||zee.com^$dnstype=AAAA
 ||zee5.com^$dnstype=AAAA
 ||zee5.in^$dnstype=AAAA
@@ -34393,8 +34405,20 @@
 ||zorrovpn.com^$dnstype=AAAA
 ||zotero.org^$dnstype=AAAA
 ||zozotown.com^$dnstype=AAAA
+||zpagov.net^$dnstype=AAAA
+||zpath.com^$dnstype=AAAA
 ||zpn.im^$dnstype=AAAA
 ||zqqpwz.com^$dnstype=AAAA
+||zscaler.com^$dnstype=AAAA
+||zscaler.jp^$dnstype=AAAA
+||zscaler.net^$dnstype=AAAA
+||zscalerbeta.net^$dnstype=AAAA
+||zscalergov.net^$dnstype=AAAA
+||zscalerone.net^$dnstype=AAAA
+||zscalershift.com^$dnstype=AAAA
+||zscalerthree.net^$dnstype=AAAA
+||zscalertwo.net^$dnstype=AAAA
+||zscloud.net^$dnstype=AAAA
 ||zsdxzk.com^$dnstype=AAAA
 ||zsh.org^$dnstype=AAAA
 ||zspeeder.me^$dnstype=AAAA
