@@ -20352,6 +20352,7 @@
 ||mortein.com.pk^$dnstype=AAAA
 ||morteincam.com^$dnstype=AAAA
 ||mos.ru^$dnstype=AAAA
+||mosavi.io^$dnstype=AAAA
 ||mostly.jp^$dnstype=AAAA
 ||mostpopularpornsites.com^$dnstype=AAAA
 ||mosucloud.site^$dnstype=AAAA
