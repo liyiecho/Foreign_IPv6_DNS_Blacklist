@@ -256,6 +256,7 @@
 ||233abc.com^$dnstype=AAAA
 ||233v2.com^$dnstype=AAAA
 ||2371tom.com^$dnstype=AAAA
+||24h.tv^$dnstype=AAAA
 ||24hjav.com^$dnstype=AAAA
 ||24hrs.ca^$dnstype=AAAA
 ||24porn.com^$dnstype=AAAA
@@ -797,6 +798,7 @@
 ||abow.jp^$dnstype=AAAA
 ||abpchina.org^$dnstype=AAAA
 ||abplive.com^$dnstype=AAAA
+||abr.ru^$dnstype=AAAA
 ||abrsm.ac.uk^$dnstype=AAAA
 ||abs.ac.uk^$dnstype=AAAA
 ||abs.edu^$dnstype=AAAA
@@ -1591,6 +1593,7 @@
 ||alexanderlondoncollege.ac.uk^$dnstype=AAAA
 ||alexanderstreet.com^$dnstype=AAAA
 ||alexlur.org^$dnstype=AAAA
+||alfabank.ru^$dnstype=AAAA
 ||alfera.com.hk^$dnstype=AAAA
 ||alfera.com.my^$dnstype=AAAA
 ||alfera.in^$dnstype=AAAA
@@ -1939,6 +1942,7 @@
 ||amebaownd.com^$dnstype=AAAA
 ||amebaowndme.com^$dnstype=AAAA
 ||ameblo.jp^$dnstype=AAAA
+||amediateka.ru^$dnstype=AAAA
 ||amerc.ac.uk^$dnstype=AAAA
 ||america.gov^$dnstype=AAAA
 ||americabrox.ac.uk^$dnstype=AAAA
@@ -3209,6 +3213,8 @@
 ||avinetworks.com^$dnstype=AAAA
 ||avinin.com^$dnstype=AAAA
 ||avira.com^$dnstype=AAAA
+||avito.ru^$dnstype=AAAA
+||avito.st^$dnstype=AAAA
 ||avizoon.site^$dnstype=AAAA
 ||avizoone.com^$dnstype=AAAA
 ||avjb.com^$dnstype=AAAA
@@ -3496,6 +3502,7 @@
 ||bangyoulater.com^$dnstype=AAAA
 ||bangyourwife.com^$dnstype=AAAA
 ||bank-maskan.ir^$dnstype=AAAA
+||bankline.ru^$dnstype=AAAA
 ||bankmellat.ir^$dnstype=AAAA
 ||bankmobilevibe.com^$dnstype=AAAA
 ||banksepah.ir^$dnstype=AAAA
@@ -6333,6 +6340,7 @@
 ||cdn-spotify-experiments.conductrics.com^$dnstype=AAAA
 ||cdn-telegram.org^$dnstype=AAAA
 ||cdn-terapeak.com^$dnstype=AAAA
+||cdn-tinkoff.ru^$dnstype=AAAA
 ||cdn-vk.ru^$dnstype=AAAA
 ||cdn.ac.uk^$dnstype=AAAA
 ||cdn.arstechnica.net^$dnstype=AAAA
@@ -6360,6 +6368,7 @@
 ||cdns.com.tw^$dnstype=AAAA
 ||cdnst.net^$dnstype=AAAA
 ||cdnuc.vip^$dnstype=AAAA
+||cdnvideo.ru^$dnstype=AAAA
 ||cdnxxx-proxy.co^$dnstype=AAAA
 ||cdnxxx-proxy.xyz^$dnstype=AAAA
 ||cdp1989.org^$dnstype=AAAA
@@ -8277,6 +8286,7 @@
 ||dba.dk^$dnstype=AAAA
 ||dbc.hk^$dnstype=AAAA
 ||dbgjd.com^$dnstype=AAAA
+||dbo-dengi.online^$dnstype=AAAA
 ||dc-msedge.net^$dnstype=AAAA
 ||dca.ac.uk^$dnstype=AAAA
 ||dcard.cc^$dnstype=AAAA
@@ -12583,6 +12593,7 @@
 ||gaywatch.com^$dnstype=AAAA
 ||gazotube.com^$dnstype=AAAA
 ||gazounabi.com^$dnstype=AAAA
+||gazprombank.ru^$dnstype=AAAA
 ||gbank.com.mm^$dnstype=AAAA
 ||gbmc.ac.uk^$dnstype=AAAA
 ||gbmolluscatypes.ac.uk^$dnstype=AAAA
@@ -12742,6 +12753,7 @@
 ||getiton.com^$dnstype=AAAA
 ||getjetso.com^$dnstype=AAAA
 ||getlantern.org^$dnstype=AAAA
+||getliner.com^$dnstype=AAAA
 ||getmalus.com^$dnstype=AAAA
 ||getmdl.io^$dnstype=AAAA
 ||getnews.jp^$dnstype=AAAA
@@ -13506,6 +13518,7 @@
 ||gower.ac.uk^$dnstype=AAAA
 ||gowercollege.ac.uk^$dnstype=AAAA
 ||gowercollegeswansea.ac.uk^$dnstype=AAAA
+||gpb.ru^$dnstype=AAAA
 ||gpkss.ac.uk^$dnstype=AAAA
 ||gpstheseries.com^$dnstype=AAAA
 ||gpucomputing.ac.uk^$dnstype=AAAA
@@ -14109,6 +14122,8 @@
 ||heiguab.top^$dnstype=AAAA
 ||heijidi.life^$dnstype=AAAA
 ||heilbronn.ac.uk^$dnstype=AAAA
+||heiliao.com^$dnstype=AAAA
+||heiliao88.com^$dnstype=AAAA
 ||heinlondon.ac.uk^$dnstype=AAAA
 ||heinonline.org^$dnstype=AAAA
 ||heise360181.buzz^$dnstype=AAAA
@@ -16618,6 +16633,7 @@
 ||iutunes.com^$dnstype=AAAA
 ||ivacy.com^$dnstype=AAAA
 ||iverycd.com^$dnstype=AAAA
+||ivi.ru^$dnstype=AAAA
 ||ivintageporn.com^$dnstype=AAAA
 ||ivonblog.com^$dnstype=AAAA
 ||ivpn.net^$dnstype=AAAA
@@ -17546,6 +17562,7 @@
 ||kinokuniya.com^$dnstype=AAAA
 ||kinopoisk-ru.clstorage.net^$dnstype=AAAA
 ||kinopoisk.ru^$dnstype=AAAA
+||kinorium.com^$dnstype=AAAA
 ||kir.jp^$dnstype=AAAA
 ||kir2kos.net^$dnstype=AAAA
 ||kirbysepicyarn.com^$dnstype=AAAA
@@ -19181,6 +19198,7 @@
 ||maven.neoforged.net^$dnstype=AAAA
 ||maven.org^$dnstype=AAAA
 ||max.com^$dnstype=AAAA
+||max.ru^$dnstype=AAAA
 ||maxai.co^$dnstype=AAAA
 ||maxgo.com^$dnstype=AAAA
 ||maxillofacial-cadcam.com^$dnstype=AAAA
@@ -19372,6 +19390,7 @@
 ||megatitsminka.com^$dnstype=AAAA
 ||megaupload.com^$dnstype=AAAA
 ||megavideo.com^$dnstype=AAAA
+||megogo.net^$dnstype=AAAA
 ||meguk.ac.uk^$dnstype=AAAA
 ||megurineluka.com^$dnstype=AAAA
 ||meguso.com^$dnstype=AAAA
@@ -20020,6 +20039,7 @@
 ||missav.ai^$dnstype=AAAA
 ||missav.app^$dnstype=AAAA
 ||missav.com^$dnstype=AAAA
+||missav.live^$dnstype=AAAA
 ||missav.uno^$dnstype=AAAA
 ||missav.vip^$dnstype=AAAA
 ||missav.ws^$dnstype=AAAA
@@ -20515,6 +20535,7 @@
 ||mtec.ac.uk^$dnstype=AAAA
 ||mthruf.com^$dnstype=AAAA
 ||mti.ac.uk^$dnstype=AAAA
+||mtsdengi.ru^$dnstype=AAAA
 ||mtt.org^$dnstype=AAAA
 ||mtvnservices.com^$dnstype=AAAA
 ||mtw.tl^$dnstype=AAAA
@@ -22592,6 +22613,7 @@
 ||onekey.so^$dnstype=AAAA
 ||onekey.zendesk.com^$dnstype=AAAA
 ||onekeycn.com^$dnstype=AAAA
+||oneme.ru^$dnstype=AAAA
 ||onenote.com^$dnstype=AAAA
 ||oneocsp.microsoft.com^$dnstype=AAAA
 ||onepornlist.com^$dnstype=AAAA
@@ -24373,6 +24395,7 @@
 ||predictivetechnologies.com^$dnstype=AAAA
 ||premeforwindows7.com^$dnstype=AAAA
 ||premia.ac.uk^$dnstype=AAAA
+||premier.one^$dnstype=AAAA
 ||premium-beauty.com^$dnstype=AAAA
 ||premiumbooty.com^$dnstype=AAAA
 ||premiumfs.de^$dnstype=AAAA
@@ -24558,6 +24581,7 @@
 ||prucomm.ac.uk^$dnstype=AAAA
 ||ps-exchange.com^$dnstype=AAAA
 ||psa.ac.uk^$dnstype=AAAA
+||psbank.ru^$dnstype=AAAA
 ||psblog.name^$dnstype=AAAA
 ||psc.ac.uk^$dnstype=AAAA
 ||pscdn.co^$dnstype=AAAA
@@ -25590,6 +25614,7 @@
 ||roovza.inapps.appsflyersdk.com^$dnstype=AAAA
 ||roovza.launches.appsflyersdk.com^$dnstype=AAAA
 ||roovza.skadsdk.appsflyersdk.com^$dnstype=AAAA
+||rosbank.ru^$dnstype=AAAA
 ||rosechina.net^$dnstype=AAAA
 ||rosemarydoll.com^$dnstype=AAAA
 ||rosemount.ac.uk^$dnstype=AAAA
@@ -25678,6 +25703,7 @@
 ||rsf.org^$dnstype=AAAA
 ||rsg.sc^$dnstype=AAAA
 ||rsgamen.org^$dnstype=AAAA
+||rshb.ru^$dnstype=AAAA
 ||rslg.ac.uk^$dnstype=AAAA
 ||rslondon.ac.uk^$dnstype=AAAA
 ||rslp.ac.uk^$dnstype=AAAA
@@ -26012,6 +26038,9 @@
 ||sb24.com^$dnstype=AAAA
 ||sbank.ir^$dnstype=AAAA
 ||sbc.ac.uk^$dnstype=AAAA
+||sber.ru^$dnstype=AAAA
+||sberbank.com^$dnstype=AAAA
+||sberbank.ru^$dnstype=AAAA
 ||sbgkstv.shop^$dnstype=AAAA
 ||sbirmc.ac.uk^$dnstype=AAAA
 ||sbishinseibank.co.jp^$dnstype=AAAA
@@ -27266,6 +27295,7 @@
 ||smmsp.xyz^$dnstype=AAAA
 ||smn.news^$dnstype=AAAA
 ||smokinmovies.com^$dnstype=AAAA
+||smotreshka.tv^$dnstype=AAAA
 ||smplace.com^$dnstype=AAAA
 ||smpte.org^$dnstype=AAAA
 ||smru.ac.uk^$dnstype=AAAA
@@ -27978,6 +28008,7 @@
 ||starship-ent.com^$dnstype=AAAA
 ||starsze.icu^$dnstype=AAAA
 ||start.com^$dnstype=AAAA
+||start.ru^$dnstype=AAAA
 ||startpage.com^$dnstype=AAAA
 ||startpath.com^$dnstype=AAAA
 ||startupjournal.com^$dnstype=AAAA
@@ -28765,6 +28796,8 @@
 ||tay.ac.uk^$dnstype=AAAA
 ||taylorandfrancis.com^$dnstype=AAAA
 ||taylorfrancis.com^$dnstype=AAAA
+||tbank-online.com^$dnstype=AAAA
+||tbank.ru^$dnstype=AAAA
 ||tbcollege.org^$dnstype=AAAA
 ||tbi.org.hk^$dnstype=AAAA
 ||tbib.org^$dnstype=AAAA
@@ -29575,6 +29608,8 @@
 ||tnt-ea.com^$dnstype=AAAA
 ||to-porno.com^$dnstype=AAAA
 ||tochigibank.co.jp^$dnstype=AAAA
+||tochka-tech.com^$dnstype=AAAA
+||tochka.com^$dnstype=AAAA
 ||todoist.com^$dnstype=AAAA
 ||toget.com.tw^$dnstype=AAAA
 ||togetter.com^$dnstype=AAAA
@@ -29802,6 +29837,7 @@
 ||travelexmoneycard.com^$dnstype=AAAA
 ||travelgirls.com^$dnstype=AAAA
 ||travelinkcard.com^$dnstype=AAAA
+||trbcdn.net^$dnstype=AAAA
 ||trc.ac.uk^$dnstype=AAAA
 ||treemall.com.tw^$dnstype=AAAA
 ||trello.com^$dnstype=AAAA
@@ -30084,6 +30120,7 @@
 ||tver.co.jp^$dnstype=AAAA
 ||tver.jp^$dnstype=AAAA
 ||tvider.com^$dnstype=AAAA
+||tvigle.ru^$dnstype=AAAA
 ||tvmedia.net.au^$dnstype=AAAA
 ||tvmost.com.hk^$dnstype=AAAA
 ||tvnaviweb.jp^$dnstype=AAAA
@@ -31237,6 +31274,7 @@
 ||viewpointsfromfacebook.com^$dnstype=AAAA
 ||vigorgame.com^$dnstype=AAAA
 ||vijayatemple.org^$dnstype=AAAA
+||viju.ru^$dnstype=AAAA
 ||vikacg.com^$dnstype=AAAA
 ||vikiporn.com^$dnstype=AAAA
 ||vilanet.me^$dnstype=AAAA
@@ -31884,6 +31922,7 @@
 ||vsphere.com^$dnstype=AAAA
 ||vsphere.net^$dnstype=AAAA
 ||vssn.ac.uk^$dnstype=AAAA
+||vtb.ru^$dnstype=AAAA
 ||vtrahe.page^$dnstype=AAAA
 ||vtri.ac.uk^$dnstype=AAAA
 ||vts.ac.uk^$dnstype=AAAA
