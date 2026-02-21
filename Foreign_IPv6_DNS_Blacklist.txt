@@ -4524,6 +4524,7 @@
 ||blms.ac.uk^$dnstype=AAAA
 ||blob.core.windows.net^$dnstype=AAAA
 ||blockcast.it^$dnstype=AAAA
+||blockchain.com^$dnstype=AAAA
 ||blockcn.com^$dnstype=AAAA
 ||blockedbyhk.com^$dnstype=AAAA
 ||blockfrost.io^$dnstype=AAAA
@@ -13671,6 +13672,7 @@
 ||gsrc.io^$dnstype=AAAA
 ||gssw.ac.uk^$dnstype=AAAA
 ||gstatic.com^$dnstype=AAAA
+||gstc.com.tw^$dnstype=AAAA
 ||gstf.org^$dnstype=AAAA
 ||gsuite.com^$dnstype=AAAA
 ||gt536.top^$dnstype=AAAA
@@ -16298,6 +16300,7 @@
 ||iole.tv^$dnstype=AAAA
 ||ion.ac.uk^$dnstype=AAAA
 ||iooog.sbs^$dnstype=AAAA
+||iopenmall.tw^$dnstype=AAAA
 ||ios-icloud.com^$dnstype=AAAA
 ||ios.ac.uk^$dnstype=AAAA
 ||iosinthecar.com^$dnstype=AAAA
@@ -16729,6 +16732,7 @@
 ||jav-vr.net^$dnstype=AAAA
 ||jav.app^$dnstype=AAAA
 ||jav.com^$dnstype=AAAA
+||jav.com.co^$dnstype=AAAA
 ||jav.dog^$dnstype=AAAA
 ||jav.gallery^$dnstype=AAAA
 ||jav.guru^$dnstype=AAAA
@@ -16852,6 +16856,7 @@
 ||javpush.com^$dnstype=AAAA
 ||javqd.com^$dnstype=AAAA
 ||javrank.com^$dnstype=AAAA
+||javrate.com^$dnstype=AAAA
 ||javrave.club^$dnstype=AAAA
 ||javroot.com^$dnstype=AAAA
 ||javscat.net^$dnstype=AAAA
@@ -16878,6 +16883,7 @@
 ||javtube.cc^$dnstype=AAAA
 ||javtube.com^$dnstype=AAAA
 ||javtube.net^$dnstype=AAAA
+||javvideoporn.com^$dnstype=AAAA
 ||javvids.com^$dnstype=AAAA
 ||javwide.com^$dnstype=AAAA
 ||javwide.tv^$dnstype=AAAA
@@ -18566,6 +18572,7 @@
 ||lsfc.ac.uk^$dnstype=AAAA
 ||lsforum.net^$dnstype=AAAA
 ||lsgnt-cdt.ac.uk^$dnstype=AAAA
+||lshosp.com.tw^$dnstype=AAAA
 ||lshtm.ac.uk^$dnstype=AAAA
 ||lsj2.shop^$dnstype=AAAA
 ||lsj40.xyz^$dnstype=AAAA
@@ -23633,6 +23640,7 @@
 ||pinkcore.net^$dnstype=AAAA
 ||pinkdh-bb.sbs^$dnstype=AAAA
 ||pinkdino.com^$dnstype=AAAA
+||pinkoi.com^$dnstype=AAAA
 ||pinkporno.com^$dnstype=AAAA
 ||pinkpussy.tv^$dnstype=AAAA
 ||pinkrod.com^$dnstype=AAAA
@@ -25905,6 +25913,7 @@
 ||saleblackfridaydrebeats.com^$dnstype=AAAA
 ||salecheaphandbags.com^$dnstype=AAAA
 ||salesforce-setup.com^$dnstype=AAAA
+||salesforce-sites.com^$dnstype=AAAA
 ||salesforce.com^$dnstype=AAAA
 ||salesforce.org^$dnstype=AAAA
 ||salesforceiq.com^$dnstype=AAAA
@@ -33070,7 +33079,9 @@
 ||xhamster.xxx^$dnstype=AAAA
 ||xhamster18.com^$dnstype=AAAA
 ||xhamster18.desi^$dnstype=AAAA
+||xhamster19.com^$dnstype=AAAA
 ||xhamster2.com^$dnstype=AAAA
+||xhamster3.com^$dnstype=AAAA
 ||xhamsterlive.com^$dnstype=AAAA
 ||xhcdn.com^$dnstype=AAAA
 ||xhot.pro^$dnstype=AAAA
@@ -33753,6 +33764,7 @@
 ||yasarang.net^$dnstype=AAAA
 ||yasni.co.uk^$dnstype=AAAA
 ||yastat.net^$dnstype=AAAA
+||yastatic-net.ru^$dnstype=AAAA
 ||yastatic.net^$dnstype=AAAA
 ||yasukuni.or.jp^$dnstype=AAAA
 ||yatong.info^$dnstype=AAAA
