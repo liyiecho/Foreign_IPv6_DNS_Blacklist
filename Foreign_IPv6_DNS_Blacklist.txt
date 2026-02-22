@@ -1570,6 +1570,7 @@
 ||akiba-online.com^$dnstype=AAAA
 ||akiba-souken.com^$dnstype=AAAA
 ||akiba-web.com^$dnstype=AAAA
+||akile.io^$dnstype=AAAA
 ||akinator.com^$dnstype=AAAA
 ||akita-bank.co.jp^$dnstype=AAAA
 ||akow.org^$dnstype=AAAA
@@ -2878,6 +2879,7 @@
 ||assets.bwbx.io^$dnstype=AAAA
 ||assets.fanart.tv^$dnstype=AAAA
 ||assets.fastgit.org^$dnstype=AAAA
+||assets.nxtrace.org^$dnstype=AAAA
 ||assets.ppy.sh^$dnstype=AAAA
 ||assets1.xboxlive.com^$dnstype=AAAA
 ||assets2.xboxlive.com^$dnstype=AAAA
@@ -6998,6 +7000,7 @@
 ||clashmini.com^$dnstype=AAAA
 ||clashofclans.com^$dnstype=AAAA
 ||clashroyale.com^$dnstype=AAAA
+||clashverge.dev^$dnstype=AAAA
 ||clasporno.org^$dnstype=AAAA
 ||class.tn.edu.tw^$dnstype=AAAA
 ||classicalguitarblog.net^$dnstype=AAAA
@@ -11651,6 +11654,7 @@
 ||firstfivefollowers.com^$dnstype=AAAA
 ||firstgynexam.com^$dnstype=AAAA
 ||firstns.cc^$dnstype=AAAA
+||firstory.io^$dnstype=AAAA
 ||firstory.me^$dnstype=AAAA
 ||firstpelvicexam.com^$dnstype=AAAA
 ||firstpost.com^$dnstype=AAAA
@@ -19367,6 +19371,7 @@
 ||medway.ac.uk^$dnstype=AAAA
 ||medwayacl.ac.uk^$dnstype=AAAA
 ||mee6.xyz^$dnstype=AAAA
+||meee.com.tw^$dnstype=AAAA
 ||meendo.com^$dnstype=AAAA
 ||meet.new^$dnstype=AAAA
 ||meetandfuck.games^$dnstype=AAAA
@@ -21527,7 +21532,6 @@
 ||ng.mil^$dnstype=AAAA
 ||nga.mil^$dnstype=AAAA
 ||ngc.ac.uk^$dnstype=AAAA
-||ngenix.net^$dnstype=AAAA
 ||ngensis.com^$dnstype=AAAA
 ||ngeo.com^$dnstype=AAAA
 ||ngfiles.com^$dnstype=AAAA
@@ -22364,6 +22368,7 @@
 ||nxta.org^$dnstype=AAAA
 ||nxtdig.com.hk^$dnstype=AAAA
 ||nxtdig.com.tw^$dnstype=AAAA
+||nxtrace.org^$dnstype=AAAA
 ||nyaa.eu^$dnstype=AAAA
 ||nyaa.net^$dnstype=AAAA
 ||nyaa.si^$dnstype=AAAA
@@ -22722,6 +22727,7 @@
 ||opencas.io^$dnstype=AAAA
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
+||opencritic.com^$dnstype=AAAA
 ||opendemocracy.net^$dnstype=AAAA
 ||opendesktop.org^$dnstype=AAAA
 ||opendn.xyz^$dnstype=AAAA
@@ -32893,6 +32899,7 @@
 ||www.anix.moe^$dnstype=AAAA
 ||www.antd.org^$dnstype=AAAA
 ||www.aolnews.com^$dnstype=AAAA
+||www.clashverge.dev^$dnstype=AAAA
 ||www.cmoinc.org^$dnstype=AAAA
 ||www.dmm.com^$dnstype=AAAA
 ||www.eastturkistan.net^$dnstype=AAAA
