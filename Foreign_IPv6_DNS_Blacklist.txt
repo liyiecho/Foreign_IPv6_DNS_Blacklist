@@ -2875,6 +2875,7 @@
 ||assap.ac.uk^$dnstype=AAAA
 ||assembla.com^$dnstype=AAAA
 ||assemblesystems.com^$dnstype=AAAA
+||assembly.go.kr^$dnstype=AAAA
 ||assesphoto.com^$dnstype=AAAA
 ||assets.bwbx.io^$dnstype=AAAA
 ||assets.fanart.tv^$dnstype=AAAA
@@ -9204,6 +9205,7 @@
 ||donationalerts.com^$dnstype=AAAA
 ||doncaster.ac.uk^$dnstype=AAAA
 ||donga.com^$dnstype=AAAA
+||dongjak.go.kr^$dnstype=AAAA
 ||dongtaiwang.com^$dnstype=AAAA
 ||dongtaiwang.net^$dnstype=AAAA
 ||dongyangjing.com^$dnstype=AAAA
@@ -13074,6 +13076,7 @@
 ||go.com^$dnstype=AAAA
 ||go.dev^$dnstype=AAAA
 ||go.jp^$dnstype=AAAA
+||go.kr^$dnstype=AAAA
 ||go.nesnode.com^$dnstype=AAAA
 ||go.sony.com^$dnstype=AAAA
 ||go141.com^$dnstype=AAAA
@@ -18146,6 +18149,7 @@
 ||likeseiyu.com^$dnstype=AAAA
 ||liketruyen.net^$dnstype=AAAA
 ||liketwice.com^$dnstype=AAAA
+||likr.tw^$dnstype=AAAA
 ||likuoo.video^$dnstype=AAAA
 ||lilaoshibushinilaoshi.com^$dnstype=AAAA
 ||lilhumpers.com^$dnstype=AAAA
@@ -20916,6 +20920,7 @@
 ||nab.com.au^$dnstype=AAAA
 ||nab.demdex.net^$dnstype=AAAA
 ||nabble.com^$dnstype=AAAA
+||nabo.go.kr^$dnstype=AAAA
 ||nabtravellercard.com.au^$dnstype=AAAA
 ||nacro.ac.uk^$dnstype=AAAA
 ||nacstock.ac.uk^$dnstype=AAAA
@@ -20975,6 +20980,7 @@
 ||napiszex.com^$dnstype=AAAA
 ||narf.ac.uk^$dnstype=AAAA
 ||narod.ru^$dnstype=AAAA
+||nars.go.kr^$dnstype=AAAA
 ||narti.ac.uk^$dnstype=AAAA
 ||narumiya.xii.jp^$dnstype=AAAA
 ||nasa.gov^$dnstype=AAAA
@@ -29720,6 +29726,7 @@
 ||topvids.net^$dnstype=AAAA
 ||topxxxpornvids.com^$dnstype=AAAA
 ||topyoungporn.com^$dnstype=AAAA
+||tor.eff.org^$dnstype=AAAA
 ||tor.updatestar.com^$dnstype=AAAA
 ||tora.to^$dnstype=AAAA
 ||torcidadeouro.com^$dnstype=AAAA
