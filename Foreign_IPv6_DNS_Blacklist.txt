@@ -5698,6 +5698,7 @@
 ||businessinsider.nl^$dnstype=AAAA
 ||businessinsider.sg^$dnstype=AAAA
 ||businessmessages.google^$dnstype=AAAA
+||businesstimes.com.sg^$dnstype=AAAA
 ||businesstoday.com.tw^$dnstype=AAAA
 ||businesswebwise.com^$dnstype=AAAA
 ||businessweek.com^$dnstype=AAAA
@@ -12112,6 +12113,7 @@
 ||freeddns.org^$dnstype=AAAA
 ||freedirecttvspecial.com^$dnstype=AAAA
 ||freedl.org^$dnstype=AAAA
+||freedom.gov^$dnstype=AAAA
 ||freedomchina.info^$dnstype=AAAA
 ||freedomcollection.org^$dnstype=AAAA
 ||freedomhongkong.org^$dnstype=AAAA
@@ -13879,6 +13881,7 @@
 ||hardcoregayblog.com^$dnstype=AAAA
 ||hardsex8.com^$dnstype=AAAA
 ||hardsextube.com^$dnstype=AAAA
+||hardwarezone.com.sg^$dnstype=AAAA
 ||hardx.com^$dnstype=AAAA
 ||harica.gr^$dnstype=AAAA
 ||haringey6.ac.uk^$dnstype=AAAA
@@ -20092,7 +20095,9 @@
 ||miuipolska.pl^$dnstype=AAAA
 ||mixasiansex.com^$dnstype=AAAA
 ||mixero.com^$dnstype=AAAA
+||mixi.co.jp^$dnstype=AAAA
 ||mixi.jp^$dnstype=AAAA
+||mixi.net^$dnstype=AAAA
 ||mixin.one^$dnstype=AAAA
 ||mixlr.com^$dnstype=AAAA
 ||mixmaturesex.com^$dnstype=AAAA
@@ -20965,6 +20970,7 @@
 ||namss.ac.uk^$dnstype=AAAA
 ||namu.wiki^$dnstype=AAAA
 ||nan-net.com^$dnstype=AAAA
+||nandazhan.com^$dnstype=AAAA
 ||nanhuyt.com^$dnstype=AAAA
 ||nanocmos.ac.uk^$dnstype=AAAA
 ||nanonamad.com^$dnstype=AAAA
@@ -23017,6 +23023,7 @@
 ||pachosting.com^$dnstype=AAAA
 ||pacifickitchenandhome.com^$dnstype=AAAA
 ||pacificpoker.com^$dnstype=AAAA
+||packagecloud.io^$dnstype=AAAA
 ||packages.microsoft.com^$dnstype=AAAA
 ||packaging-cadcam.com^$dnstype=AAAA
 ||packagingcadcam.com^$dnstype=AAAA
@@ -29626,6 +29633,7 @@
 ||tngrnow.net^$dnstype=AAAA
 ||tnntoday.com^$dnstype=AAAA
 ||tnp.org^$dnstype=AAAA
+||tnp.sg^$dnstype=AAAA
 ||tnt-ea.com^$dnstype=AAAA
 ||to-porno.com^$dnstype=AAAA
 ||tochigibank.co.jp^$dnstype=AAAA
@@ -29894,6 +29902,7 @@
 ||trocoll.ac.uk^$dnstype=AAAA
 ||troisrivieresmini.com^$dnstype=AAAA
 ||tron.network^$dnstype=AAAA
+||tronlink.org^$dnstype=AAAA
 ||tronscan.org^$dnstype=AAAA
 ||tropictube.com^$dnstype=AAAA
 ||tropmed.ac.uk^$dnstype=AAAA
@@ -33300,6 +33309,7 @@
 ||xoteens.com^$dnstype=AAAA
 ||xoxoteiras.com^$dnstype=AAAA
 ||xozilla.com^$dnstype=AAAA
+||xp1024.com^$dnstype=AAAA
 ||xpaja.net^$dnstype=AAAA
 ||xpdo.net^$dnstype=AAAA
 ||xpee.com^$dnstype=AAAA
