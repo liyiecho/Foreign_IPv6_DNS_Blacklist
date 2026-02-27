@@ -33147,6 +33147,7 @@
 ||xiaoyaoge.xyz^$dnstype=AAAA
 ||xiaxiaoqiang.net^$dnstype=AAAA
 ||xicons.org^$dnstype=AAAA
+||xie56.xyz^$dnstype=AAAA
 ||xiezhua.com^$dnstype=AAAA
 ||xihua.es^$dnstype=AAAA
 ||xii.jp^$dnstype=AAAA
@@ -33206,6 +33207,7 @@
 ||xmonk.net^$dnstype=AAAA
 ||xmovies.com^$dnstype=AAAA
 ||xmoviesforyou.com^$dnstype=AAAA
+||xmulib.org^$dnstype=AAAA
 ||xn--096-4g6em5t.com^$dnstype=AAAA
 ||xn--11xs86f.icu^$dnstype=AAAA
 ||xn--201-4g6em5t.com^$dnstype=AAAA
@@ -34413,6 +34415,7 @@
 ||zhujiget.com^$dnstype=AAAA
 ||zhuzhushipin-app.com^$dnstype=AAAA
 ||zi.media^$dnstype=AAAA
+||zi5.me^$dnstype=AAAA
 ||zibacity.com^$dnstype=AAAA
 ||ziddu.com^$dnstype=AAAA
 ||zigzag.kr^$dnstype=AAAA
