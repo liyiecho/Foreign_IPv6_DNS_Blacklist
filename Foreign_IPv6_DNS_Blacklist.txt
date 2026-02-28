@@ -7162,6 +7162,7 @@
 ||clp.ac.uk^$dnstype=AAAA
 ||clrc.ac.uk^$dnstype=AAAA
 ||clstorage.net^$dnstype=AAAA
+||cltv.com.tw^$dnstype=AAAA
 ||club.tw^$dnstype=AAAA
 ||club1069.com^$dnstype=AAAA
 ||clubhouse.com^$dnstype=AAAA
@@ -7233,6 +7234,7 @@
 ||cnpolitics.org^$dnstype=AAAA
 ||cnproxy.com^$dnstype=AAAA
 ||cnshopin.com^$dnstype=AAAA
+||cnt.com.tw^$dnstype=AAAA
 ||cnyes.com^$dnstype=AAAA
 ||cnzjp.xyz^$dnstype=AAAA
 ||co-op.ac.uk^$dnstype=AAAA
@@ -11456,6 +11458,7 @@
 ||fesery-com.sbs^$dnstype=AAAA
 ||festinhasbrasil.com^$dnstype=AAAA
 ||fetalmedicine.ac.uk^$dnstype=AAAA
+||fetc.net.tw^$dnstype=AAAA
 ||fetish-bb.com^$dnstype=AAAA
 ||fetishbank.net^$dnstype=AAAA
 ||fetishdreamz.com^$dnstype=AAAA
@@ -14712,6 +14715,7 @@
 ||hongkongdollvideo.org^$dnstype=AAAA
 ||hongkongfp.com^$dnstype=AAAA
 ||hongkongpost.gov.hk^$dnstype=AAAA
+||hongkongwatch.org^$dnstype=AAAA
 ||hongmaodan100.com^$dnstype=AAAA
 ||hongmeimei.com^$dnstype=AAAA
 ||hongzhi.li^$dnstype=AAAA
@@ -17807,6 +17811,7 @@
 ||lancs-initiative.ac.uk^$dnstype=AAAA
 ||lancs.ac.uk^$dnstype=AAAA
 ||lancsngfl.ac.uk^$dnstype=AAAA
+||landbank.com.tw^$dnstype=AAAA
 ||landmap.ac.uk^$dnstype=AAAA
 ||landmarks.ac.uk^$dnstype=AAAA
 ||landofhope.tv^$dnstype=AAAA
@@ -21886,6 +21891,7 @@
 ||nmh.ac.uk^$dnstype=AAAA
 ||nmite.ac.uk^$dnstype=AAAA
 ||nmm.ac.uk^$dnstype=AAAA
+||nmns.edu.tw^$dnstype=AAAA
 ||nms.ac.uk^$dnstype=AAAA
 ||nmsi.ac.uk^$dnstype=AAAA
 ||nmsl.website^$dnstype=AAAA
@@ -24408,6 +24414,7 @@
 ||ppaypal.com^$dnstype=AAAA
 ||ppb-mod.buzz^$dnstype=AAAA
 ||ppe.lawyer^$dnstype=AAAA
+||ppl-ai-file-upload.s3.amazonaws.com^$dnstype=AAAA
 ||pplah.com^$dnstype=AAAA
 ||pplusstatic.com^$dnstype=AAAA
 ||pplx-res.cloudinary.com^$dnstype=AAAA
@@ -28753,6 +28760,7 @@
 ||taiwanstay.net.tw^$dnstype=AAAA
 ||taiwantoday.tw^$dnstype=AAAA
 ||taiwantp.net^$dnstype=AAAA
+||taiwantrip.com.tw^$dnstype=AAAA
 ||taiwantt.org.tw^$dnstype=AAAA
 ||taiwanus.net^$dnstype=AAAA
 ||taiwanyes.com^$dnstype=AAAA
@@ -28885,6 +28893,7 @@
 ||tdesktop.com^$dnstype=AAAA
 ||tdm.com.mo^$dnstype=AAAA
 ||tdotp.ac.uk^$dnstype=AAAA
+||tdtv.com.tw^$dnstype=AAAA
 ||teachenergy.ac.uk^$dnstype=AAAA
 ||teacherfucksteens.com^$dnstype=AAAA
 ||teachingaccessibility.ac.uk^$dnstype=AAAA
@@ -29590,6 +29599,7 @@
 ||tinkercad.com^$dnstype=AAAA
 ||tinkerentertainment.com^$dnstype=AAAA
 ||tinkerplay.net^$dnstype=AAAA
+||tinp.net.tw^$dnstype=AAAA
 ||tintuc101.com^$dnstype=AAAA
 ||tiny.cc^$dnstype=AAAA
 ||tiny4k.com^$dnstype=AAAA
@@ -29729,6 +29739,7 @@
 ||tophentaicomics.com^$dnstype=AAAA
 ||toplayerserver.com^$dnstype=AAAA
 ||topmanga.biz^$dnstype=AAAA
+||topmso.com.tw^$dnstype=AAAA
 ||topnews.in^$dnstype=AAAA
 ||topnudemalecelebs.com^$dnstype=AAAA
 ||topobase.com^$dnstype=AAAA
@@ -30194,6 +30205,7 @@
 ||twbbs.tw^$dnstype=AAAA
 ||twblogger.com^$dnstype=AAAA
 ||twca.com.tw^$dnstype=AAAA
+||twcert.org.tw^$dnstype=AAAA
 ||twcomix.com^$dnstype=AAAA
 ||twdvd.com^$dnstype=AAAA
 ||tweakadmin.com^$dnstype=AAAA
@@ -30336,6 +30348,7 @@
 ||txvlog.com^$dnstype=AAAA
 ||txxx.com^$dnstype=AAAA
 ||txxx1.com^$dnstype=AAAA
+||tyc.edu.tw^$dnstype=AAAA
 ||tycool.com^$dnstype=AAAA
 ||tyler-brown.com^$dnstype=AAAA
 ||tyms2022.com^$dnstype=AAAA
@@ -32798,6 +32811,7 @@
 ||wudifeixue.com^$dnstype=AAAA
 ||wuerkaixi.com^$dnstype=AAAA
 ||wufafangwen.com^$dnstype=AAAA
+||wufc.com.tw^$dnstype=AAAA
 ||wufi.org.tw^$dnstype=AAAA
 ||wuguoguang.com^$dnstype=AAAA
 ||wujieliulan.com^$dnstype=AAAA
@@ -33789,6 +33803,7 @@
 ||yandexcloud.net^$dnstype=AAAA
 ||yandexcom.net^$dnstype=AAAA
 ||yandexmetrica.com^$dnstype=AAAA
+||yandexwebcache.net^$dnstype=AAAA
 ||yandexwebcache.org^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
 ||yangzhi.app^$dnstype=AAAA
