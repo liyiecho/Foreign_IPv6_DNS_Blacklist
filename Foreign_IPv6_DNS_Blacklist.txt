@@ -13921,6 +13921,7 @@
 ||harpercollinsspeakersbureau.com^$dnstype=AAAA
 ||harperkeelevets.ac.uk^$dnstype=AAAA
 ||harperkeelevetschool.ac.uk^$dnstype=AAAA
+||harpersbazaar.com.hk^$dnstype=AAAA
 ||harrogate-college.ac.uk^$dnstype=AAAA
 ||harrogate.ac.uk^$dnstype=AAAA
 ||harrow.ac.uk^$dnstype=AAAA
