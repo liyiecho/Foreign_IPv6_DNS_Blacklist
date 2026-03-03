@@ -16768,6 +16768,7 @@
 ||jav.la^$dnstype=AAAA
 ||jav.land^$dnstype=AAAA
 ||jav.place^$dnstype=AAAA
+||jav.sb^$dnstype=AAAA
 ||jav.si^$dnstype=AAAA
 ||jav.wine^$dnstype=AAAA
 ||jav01.cc^$dnstype=AAAA
@@ -16845,6 +16846,7 @@
 ||javheroine.com^$dnstype=AAAA
 ||javhihi.com^$dnstype=AAAA
 ||javhip.com^$dnstype=AAAA
+||javhub.com^$dnstype=AAAA
 ||javhub.me^$dnstype=AAAA
 ||javhub.net^$dnstype=AAAA
 ||javhuge.com^$dnstype=AAAA
@@ -16884,6 +16886,7 @@
 ||javpub.me^$dnstype=AAAA
 ||javpush.com^$dnstype=AAAA
 ||javqd.com^$dnstype=AAAA
+||javquick.com^$dnstype=AAAA
 ||javrank.com^$dnstype=AAAA
 ||javrate.com^$dnstype=AAAA
 ||javrave.club^$dnstype=AAAA
@@ -21903,6 +21906,7 @@
 ||nnews.eu^$dnstype=AAAA
 ||nnotts-col.ac.uk^$dnstype=AAAA
 ||nnuf.ac.uk^$dnstype=AAAA
+||nnyy.in^$dnstype=AAAA
 ||no-ip.com^$dnstype=AAAA
 ||no-ip.org^$dnstype=AAAA
 ||no.com^$dnstype=AAAA
@@ -32954,7 +32958,6 @@
 ||www.hoyolab.com^$dnstype=AAAA
 ||www.hustlercash.com^$dnstype=AAAA
 ||www.idlcoyote.com^$dnstype=AAAA
-||www.imdb.com^$dnstype=AAAA
 ||www.kindleren.com^$dnstype=AAAA
 ||www.lorenzetti.com.br^$dnstype=AAAA
 ||www.m-sport.co.uk^$dnstype=AAAA
