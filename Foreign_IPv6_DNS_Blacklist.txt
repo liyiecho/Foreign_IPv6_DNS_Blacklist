@@ -2711,6 +2711,7 @@
 ||area120.com^$dnstype=AAAA
 ||area51.to^$dnstype=AAAA
 ||areca-backup.org^$dnstype=AAAA
+||arena.ai^$dnstype=AAAA
 ||arena.taipei^$dnstype=AAAA
 ||arethusa.su^$dnstype=AAAA
 ||arewereadyyet.com^$dnstype=AAAA
@@ -2773,6 +2774,7 @@
 ||arunachalforests.gov.in^$dnstype=AAAA
 ||arupoc.ac.uk^$dnstype=AAAA
 ||arvanstorage.ir^$dnstype=AAAA
+||arweave.org^$dnstype=AAAA
 ||arxiv.org^$dnstype=AAAA
 ||arzon.jp^$dnstype=AAAA
 ||as-dash-uk-live.akamaized.net^$dnstype=AAAA
@@ -8737,6 +8739,7 @@
 ||diablo3.com^$dnstype=AAAA
 ||diabloimmortal.com^$dnstype=AAAA
 ||diabrowser.com^$dnstype=AAAA
+||diabrowser.engineering^$dnstype=AAAA
 ||dialga.com^$dnstype=AAAA
 ||dialogflow.com^$dnstype=AAAA
 ||diamantewebcam.com^$dnstype=AAAA
@@ -9048,6 +9051,7 @@
 ||dl.begellhouse.com^$dnstype=AAAA
 ||dl.box.net^$dnstype=AAAA
 ||dl4d.ac.uk^$dnstype=AAAA
+||dlaf.jp^$dnstype=AAAA
 ||dlap001.xyz^$dnstype=AAAA
 ||dlap301.com^$dnstype=AAAA
 ||dldlinks.com^$dnstype=AAAA
@@ -15728,6 +15732,7 @@
 ||ilife.gr^$dnstype=AAAA
 ||ilife.wang^$dnstype=AAAA
 ||illawarramercury.com.au^$dnstype=AAAA
+||illgames.jp^$dnstype=AAAA
 ||illianacomputerrecycling.com^$dnstype=AAAA
 ||illusion.co.jp^$dnstype=AAAA
 ||illusion.jp^$dnstype=AAAA
@@ -16729,6 +16734,7 @@
 ||janor6.net^$dnstype=AAAA
 ||janwongphoto.com^$dnstype=AAAA
 ||japan-forward.com^$dnstype=AAAA
+||japan-illgames.com^$dnstype=AAAA
 ||japan-whores.com^$dnstype=AAAA
 ||japan18tube.com^$dnstype=AAAA
 ||japanbeast.com^$dnstype=AAAA
@@ -30030,6 +30036,7 @@
 ||tt-rss.org^$dnstype=AAAA
 ||tt1069.com^$dnstype=AAAA
 ||ttc.ac.uk^$dnstype=AAAA
+||ttcdn-us.com^$dnstype=AAAA
 ||tte-lisa.ac.uk^$dnstype=AAAA
 ||tteshop.com^$dnstype=AAAA
 ||ttetraining.ac.uk^$dnstype=AAAA
@@ -32604,6 +32611,7 @@
 ||wiserd.ac.uk^$dnstype=AAAA
 ||wisevid.com^$dnstype=AAAA
 ||wish.com^$dnstype=AAAA
+||wispbyte.com^$dnstype=AAAA
 ||wistia.com^$dnstype=AAAA
 ||wistia.net^$dnstype=AAAA
 ||witcmi.ac.uk^$dnstype=AAAA
