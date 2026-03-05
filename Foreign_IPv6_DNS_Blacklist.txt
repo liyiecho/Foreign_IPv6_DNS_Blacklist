@@ -16974,6 +16974,7 @@
 ||jessicaturner.com^$dnstype=AAAA
 ||jetbra.in^$dnstype=AAAA
 ||jetbrains.ai^$dnstype=AAAA
+||jetbrains.cloud^$dnstype=AAAA
 ||jetbrains.com^$dnstype=AAAA
 ||jetbrains.net^$dnstype=AAAA
 ||jetbrains.space^$dnstype=AAAA
