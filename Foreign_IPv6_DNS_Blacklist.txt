@@ -8215,6 +8215,7 @@
 ||daoc.net^$dnstype=AAAA
 ||daolan.net^$dnstype=AAAA
 ||daozhongxing.org^$dnstype=AAAA
+||dappcdn.com^$dnstype=AAAA
 ||daresbury.ac.uk^$dnstype=AAAA
 ||daretoku-eromanga.info^$dnstype=AAAA
 ||darivoa.com^$dnstype=AAAA
@@ -9298,6 +9299,7 @@
 ||download.aircrack-ng.org^$dnstype=AAAA
 ||download.cnet.com^$dnstype=AAAA
 ||download.com^$dnstype=AAAA
+||download.dappcdn.com^$dnstype=AAAA
 ||download.fastgit.org^$dnstype=AAAA
 ||download.qcpp1.net^$dnstype=AAAA
 ||download.qpdp1.net^$dnstype=AAAA
@@ -23867,6 +23869,10 @@
 ||pleasurebabe.com^$dnstype=AAAA
 ||pleasuregirl.net^$dnstype=AAAA
 ||pleasuremore.com^$dnstype=AAAA
+||plex.com^$dnstype=AAAA
+||plex.services^$dnstype=AAAA
+||plex.tv^$dnstype=AAAA
+||plexapp.com^$dnstype=AAAA
 ||plexvpn.pro^$dnstype=AAAA
 ||plixi.com^$dnstype=AAAA
 ||plm.org.hk^$dnstype=AAAA
