@@ -308,6 +308,7 @@
 ||30boxes.com^$dnstype=AAAA
 ||30plusgirls.com^$dnstype=AAAA
 ||315lz.com^$dnstype=AAAA
+||32bm.cc^$dnstype=AAAA
 ||32red.com^$dnstype=AAAA
 ||35s4.com^$dnstype=AAAA
 ||360autodesk.com^$dnstype=AAAA
@@ -2282,6 +2283,7 @@
 ||apornvideo.com^$dnstype=AAAA
 ||app-dynamics.com^$dnstype=AAAA
 ||app-measurement.net^$dnstype=AAAA
+||app-pay.jp^$dnstype=AAAA
 ||app-store.wang^$dnstype=AAAA
 ||app.box.com^$dnstype=AAAA
 ||app.cloudcone.com^$dnstype=AAAA
@@ -3469,6 +3471,7 @@
 ||bag-glasses1.com^$dnstype=AAAA
 ||bahamut.com.tw^$dnstype=AAAA
 ||bahcesehir.ac.uk^$dnstype=AAAA
+||bai29.xyz^$dnstype=AAAA
 ||baicaonetwork.com^$dnstype=AAAA
 ||baice.ac.uk^$dnstype=AAAA
 ||baijie.org^$dnstype=AAAA
@@ -5877,6 +5880,7 @@
 ||cafr.ca^$dnstype=AAAA
 ||cafre.ac.uk^$dnstype=AAAA
 ||cahr.org.tw^$dnstype=AAAA
+||cai21.xyz^$dnstype=AAAA
 ||caice.com^$dnstype=AAAA
 ||caijinglengyan.com^$dnstype=AAAA
 ||caime.xyz^$dnstype=AAAA
@@ -18680,6 +18684,7 @@
 ||luminateeducation.ac.uk^$dnstype=AAAA
 ||luminateeducationgroup.ac.uk^$dnstype=AAAA
 ||luminategroup.ac.uk^$dnstype=AAAA
+||luminews.my^$dnstype=AAAA
 ||lunchwithpype.com^$dnstype=AAAA
 ||luoli.info^$dnstype=AAAA
 ||luotihg-tv.buzz^$dnstype=AAAA
@@ -21792,6 +21797,7 @@
 ||nikestyles.com^$dnstype=AAAA
 ||nikeswim.com^$dnstype=AAAA
 ||niketaiwan.net^$dnstype=AAAA
+||niketracking.com^$dnstype=AAAA
 ||niketradeweb.com^$dnstype=AAAA
 ||niketrainer.com^$dnstype=AAAA
 ||niketrainers.com^$dnstype=AAAA
@@ -25541,6 +25547,7 @@
 ||rimg.com.tw^$dnstype=AAAA
 ||rin.ac.uk^$dnstype=AAAA
 ||rink.hockeyapp.net^$dnstype=AAAA
+||rinvdh7.xyz^$dnstype=AAAA
 ||riot-games.com^$dnstype=AAAA
 ||riot.com^$dnstype=AAAA
 ||riot.im^$dnstype=AAAA
@@ -26009,6 +26016,7 @@
 ||samsunggalaxyfriends.com^$dnstype=AAAA
 ||samsunghealth.com^$dnstype=AAAA
 ||samsungiotcloud.com^$dnstype=AAAA
+||samsungiots.com^$dnstype=AAAA
 ||samsungknox.com^$dnstype=AAAA
 ||samsungosp.com^$dnstype=AAAA
 ||samsungqbe.com^$dnstype=AAAA
@@ -27346,6 +27354,7 @@
 ||smartonesolutions.hk^$dnstype=AAAA
 ||smartsheet.com^$dnstype=AAAA
 ||smartstream.ne.jp^$dnstype=AAAA
+||smartthings.com^$dnstype=AAAA
 ||smashed.xxx^$dnstype=AAAA
 ||smashwords.com^$dnstype=AAAA
 ||smbc.co.jp^$dnstype=AAAA
@@ -28938,6 +28947,7 @@
 ||tec.ac.uk^$dnstype=AAAA
 ||tech26.de^$dnstype=AAAA
 ||techatbloomberg.com^$dnstype=AAAA
+||techbang.com^$dnstype=AAAA
 ||techcrunch.com^$dnstype=AAAA
 ||techextra.ac.uk^$dnstype=AAAA
 ||techhub.ms^$dnstype=AAAA
