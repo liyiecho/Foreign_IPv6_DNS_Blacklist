@@ -9658,6 +9658,7 @@
 ||dynamobuilds.com^$dnstype=AAAA
 ||dynamopackages.com^$dnstype=AAAA
 ||dynamoreach.com^$dnstype=AAAA
+||dynatrace.com^$dnstype=AAAA
 ||dynawebinc.com^$dnstype=AAAA
 ||dyncdn.me^$dnstype=AAAA
 ||dyndns-ip.com^$dnstype=AAAA
@@ -11177,6 +11178,7 @@
 ||familypies.net^$dnstype=AAAA
 ||familyporn.tv^$dnstype=AAAA
 ||familypornhd.com^$dnstype=AAAA
+||familysearch.org^$dnstype=AAAA
 ||familysexsimulator.com^$dnstype=AAAA
 ||familysimulator.com^$dnstype=AAAA
 ||familysimulator.io^$dnstype=AAAA
@@ -26955,6 +26957,7 @@
 ||shitaotv.org^$dnstype=AAAA
 ||shithd.com^$dnstype=AAAA
 ||shitjav.com^$dnstype=AAAA
+||shitjournal.org^$dnstype=AAAA
 ||shittytube.com^$dnstype=AAAA
 ||shixiao.org^$dnstype=AAAA
 ||shizhao.org^$dnstype=AAAA
