@@ -3524,6 +3524,7 @@
 ||bangyoulater.com^$dnstype=AAAA
 ||bangyourwife.com^$dnstype=AAAA
 ||bank-maskan.ir^$dnstype=AAAA
+||bank.in^$dnstype=AAAA
 ||bankline.ru^$dnstype=AAAA
 ||bankmellat.ir^$dnstype=AAAA
 ||bankmobilevibe.com^$dnstype=AAAA
@@ -8045,6 +8046,7 @@
 ||cuv.ac.uk^$dnstype=AAAA
 ||cuwm.ac.uk^$dnstype=AAAA
 ||cvcp.ac.uk^$dnstype=AAAA
+||cve.org^$dnstype=AAAA
 ||cvma.ac.uk^$dnstype=AAAA
 ||cvr.ac.uk^$dnstype=AAAA
 ||cvs.ac.uk^$dnstype=AAAA
@@ -15481,6 +15483,7 @@
 ||id.taipei^$dnstype=AAAA
 ||idaiwan.com^$dnstype=AAAA
 ||idarkdoll.com^$dnstype=AAAA
+||idbi.bank.in^$dnstype=AAAA
 ||idcflare.com^$dnstype=AAAA
 ||idcore.ac.uk^$dnstype=AAAA
 ||idea-server.com^$dnstype=AAAA
@@ -18175,6 +18178,7 @@
 ||lifestudy.ac.uk^$dnstype=AAAA
 ||lifewire.com^$dnstype=AAAA
 ||liftapp.ac.uk^$dnstype=AAAA
+||ligamx.net^$dnstype=AAAA
 ||lightboxcdn.com^$dnstype=AAAA
 ||lightbridge.com^$dnstype=AAAA
 ||lighten.org.tw^$dnstype=AAAA
