@@ -27174,6 +27174,7 @@
 ||sinoquebec.com^$dnstype=AAAA
 ||sinovision.net^$dnstype=AAAA
 ||sinto.ac.uk^$dnstype=AAAA
+||sinyalee.com^$dnstype=AAAA
 ||sip.ac.uk^$dnstype=AAAA
 ||sipher.ac.uk^$dnstype=AAAA
 ||sipml5.org^$dnstype=AAAA
