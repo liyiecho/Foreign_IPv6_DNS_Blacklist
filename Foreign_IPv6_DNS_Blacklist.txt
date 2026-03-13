@@ -7030,10 +7030,12 @@
 ||classicnike.com^$dnstype=AAAA
 ||classics.ac.uk^$dnstype=AAAA
 ||classymomsex.com^$dnstype=AAAA
+||clau.de^$dnstype=AAAA
 ||claude.ai^$dnstype=AAAA
 ||claude.com^$dnstype=AAAA
 ||claudemcpclient.com^$dnstype=AAAA
 ||claudeusercontent.com^$dnstype=AAAA
+||clawhub.ai^$dnstype=AAAA
 ||clb.org.hk^$dnstype=AAAA
 ||clc-london.ac.uk^$dnstype=AAAA
 ||clco.cc^$dnstype=AAAA
@@ -13809,6 +13811,7 @@
 ||h0930.com^$dnstype=AAAA
 ||h18ani1.vip^$dnstype=AAAA
 ||h1n1china.org^$dnstype=AAAA
+||h2o.ai^$dnstype=AAAA
 ||h2porn.com^$dnstype=AAAA
 ||h528.com^$dnstype=AAAA
 ||h5dm.com^$dnstype=AAAA
@@ -22787,6 +22790,7 @@
 ||openbase.com^$dnstype=AAAA
 ||openbook.org.tw^$dnstype=AAAA
 ||opencas.io^$dnstype=AAAA
+||openclaw.ai^$dnstype=AAAA
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opencritic.com^$dnstype=AAAA
