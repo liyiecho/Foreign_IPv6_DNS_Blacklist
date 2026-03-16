@@ -8027,6 +8027,7 @@
 ||cusp.ac.uk^$dnstype=AAAA
 ||cusp.hk^$dnstype=AAAA
 ||cusplondon.ac.uk^$dnstype=AAAA
+||custhelp.com^$dnstype=AAAA
 ||custom-iphonecase.com^$dnstype=AAAA
 ||custombeatsbydrebuy.com^$dnstype=AAAA
 ||custombeatsdeals.com^$dnstype=AAAA
@@ -21946,6 +21947,7 @@
 ||nocn.ac.uk^$dnstype=AAAA
 ||nocookie.net^$dnstype=AAAA
 ||nocs.ac.uk^$dnstype=AAAA
+||nodeget.com^$dnstype=AAAA
 ||nodeimage.com^$dnstype=AAAA
 ||nodejs.org^$dnstype=AAAA
 ||nodequality.com^$dnstype=AAAA
@@ -22376,6 +22378,7 @@
 ||nvidia.com.tw^$dnstype=AAAA
 ||nvidia.com.ua^$dnstype=AAAA
 ||nvidia.com.ve^$dnstype=AAAA
+||nvidia.custhelp.com^$dnstype=AAAA
 ||nvidia.cz^$dnstype=AAAA
 ||nvidia.de^$dnstype=AAAA
 ||nvidia.dk^$dnstype=AAAA
@@ -27819,6 +27822,7 @@
 ||spiceworksstatic.com^$dnstype=AAAA
 ||spicybigtits.com^$dnstype=AAAA
 ||spicystory.net^$dnstype=AAAA
+||spicywriter.com^$dnstype=AAAA
 ||spider.ac.uk^$dnstype=AAAA
 ||spideroak.com^$dnstype=AAAA
 ||spiderpool.com^$dnstype=AAAA
