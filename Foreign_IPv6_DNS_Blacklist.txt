@@ -32754,6 +32754,7 @@
 ||worc.ac.uk^$dnstype=AAAA
 ||worcester.ac.uk^$dnstype=AAAA
 ||wordpress.com^$dnstype=AAAA
+||wordpress.net^$dnstype=AAAA
 ||wordpress.org^$dnstype=AAAA
 ||wordpress.tv^$dnstype=AAAA
 ||work2icu.org^$dnstype=AAAA
