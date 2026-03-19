@@ -29589,6 +29589,11 @@
 ||tiktokv.us^$dnstype=AAAA
 ||tiktokw.eu^$dnstype=AAAA
 ||tiktokw.us^$dnstype=AAAA
+||tilda.cc^$dnstype=AAAA
+||tilda.ru^$dnstype=AAAA
+||tilda.ws^$dnstype=AAAA
+||tildaapi.com^$dnstype=AAAA
+||tildacdn.com^$dnstype=AAAA
 ||tilehill.ac.uk^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
 ||timdir.com^$dnstype=AAAA
