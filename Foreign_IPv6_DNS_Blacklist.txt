@@ -4009,6 +4009,7 @@
 ||beeg.rest^$dnstype=AAAA
 ||beegfree.com^$dnstype=AAAA
 ||beejp.net^$dnstype=AAAA
+||beeline.tv^$dnstype=AAAA
 ||beep.ac.uk^$dnstype=AAAA
 ||beepool.com^$dnstype=AAAA
 ||beepool.org^$dnstype=AAAA
