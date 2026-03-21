@@ -4120,6 +4120,7 @@
 ||bestbuyus.com^$dnstype=AAAA
 ||bestcamsites.net^$dnstype=AAAA
 ||bestclouddrive.com^$dnstype=AAAA
+||bestdori.com^$dnstype=AAAA
 ||besterpornos.com^$dnstype=AAAA
 ||bestescortgirls.nl^$dnstype=AAAA
 ||bestforchina.org^$dnstype=AAAA
@@ -10632,6 +10633,7 @@
 ||esopworld.com^$dnstype=AAAA
 ||esp-scotland.ac.uk^$dnstype=AAAA
 ||esp32.com^$dnstype=AAAA
+||esp8266.com^$dnstype=AAAA
 ||espa-headlines.ac.uk^$dnstype=AAAA
 ||espa.ac.uk^$dnstype=AAAA
 ||espadoldettol.com.ar^$dnstype=AAAA
@@ -10646,6 +10648,7 @@
 ||espnqa.com^$dnstype=AAAA
 ||esports.gg^$dnstype=AAAA
 ||esposasymaridos.com^$dnstype=AAAA
+||espressif.com^$dnstype=AAAA
 ||esrc.ac.uk^$dnstype=AAAA
 ||esrcfestival.ac.uk^$dnstype=AAAA
 ||esrcmanchesterfest.ac.uk^$dnstype=AAAA
@@ -13895,6 +13898,7 @@
 ||hanime.tv^$dnstype=AAAA
 ||hanime.xxx^$dnstype=AAAA
 ||hanime.xyz^$dnstype=AAAA
+||hanime1.com^$dnstype=AAAA
 ||hanime1.me^$dnstype=AAAA
 ||hanminzu.org^$dnstype=AAAA
 ||hannah.ac.uk^$dnstype=AAAA
@@ -34496,6 +34500,7 @@
 ||zi5.me^$dnstype=AAAA
 ||zibacity.com^$dnstype=AAAA
 ||ziddu.com^$dnstype=AAAA
+||ziglang.org^$dnstype=AAAA
 ||zigzag.kr^$dnstype=AAAA
 ||zillionk.com^$dnstype=AAAA
 ||zim.vn^$dnstype=AAAA
