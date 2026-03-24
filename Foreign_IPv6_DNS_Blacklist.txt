@@ -9323,6 +9323,7 @@
 ||dpp.org.tw^$dnstype=AAAA
 ||dpr.info^$dnstype=AAAA
 ||dpscitt.ac.uk^$dnstype=AAAA
+||dqd0jw5gvbchn.cloudfront.net^$dnstype=AAAA
 ||dqrpb9wgowsf5.cloudfront.net^$dnstype=AAAA
 ||draftjs.org^$dnstype=AAAA
 ||dragonage.com^$dnstype=AAAA
@@ -22820,6 +22821,7 @@
 ||openlibrary.org^$dnstype=AAAA
 ||openmaps.org^$dnstype=AAAA
 ||openreality.com^$dnstype=AAAA
+||openrec.tv^$dnstype=AAAA
 ||openresty.org^$dnstype=AAAA
 ||openreview.net^$dnstype=AAAA
 ||openrouter.ai^$dnstype=AAAA
@@ -25611,6 +25613,7 @@
 ||rma.ac.uk^$dnstype=AAAA
 ||rmas.ac.uk^$dnstype=AAAA
 ||rmbl.ws^$dnstype=AAAA
+||rmimg.com^$dnstype=AAAA
 ||rmjdw.com^$dnstype=AAAA
 ||rmjdw132.info^$dnstype=AAAA
 ||rnc.ac.uk^$dnstype=AAAA
@@ -25928,6 +25931,7 @@
 ||s-nbcnews.com^$dnstype=AAAA
 ||s-rewards.hk^$dnstype=AAAA
 ||s-xoom.com^$dnstype=AAAA
+||s.rmimg.com^$dnstype=AAAA
 ||s.team^$dnstype=AAAA
 ||s.yimg.com^$dnstype=AAAA
 ||s1heng.com^$dnstype=AAAA
