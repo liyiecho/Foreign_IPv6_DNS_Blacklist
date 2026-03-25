@@ -16830,6 +16830,7 @@
 ||javcc.cc^$dnstype=AAAA
 ||javcc.com^$dnstype=AAAA
 ||javcdn.cc^$dnstype=AAAA
+||javchu.com^$dnstype=AAAA
 ||javcl.com^$dnstype=AAAA
 ||javct.net^$dnstype=AAAA
 ||javcup.com^$dnstype=AAAA
@@ -23074,8 +23075,15 @@
 ||ozeex.com^$dnstype=AAAA
 ||ozodi.org^$dnstype=AAAA
 ||ozodlik.org^$dnstype=AAAA
+||ozon.by^$dnstype=AAAA
+||ozon.com^$dnstype=AAAA
+||ozon.com.by^$dnstype=AAAA
+||ozon.com.kz^$dnstype=AAAA
+||ozon.kz^$dnstype=AAAA
 ||ozon.ru^$dnstype=AAAA
+||ozon.tm^$dnstype=AAAA
 ||ozone.ru^$dnstype=AAAA
+||ozonru.me^$dnstype=AAAA
 ||ozonusercontent.com^$dnstype=AAAA
 ||ozvoice.org^$dnstype=AAAA
 ||ozyoyo.com^$dnstype=AAAA
@@ -33292,6 +33300,7 @@
 ||xmulib.org^$dnstype=AAAA
 ||xn--096-4g6em5t.com^$dnstype=AAAA
 ||xn--11xs86f.icu^$dnstype=AAAA
+||xn--1jqvh729avzfcy2d8ummib.com^$dnstype=AAAA
 ||xn--201-4g6em5t.com^$dnstype=AAAA
 ||xn--202-4g6em5t.com^$dnstype=AAAA
 ||xn--203-4g6em5t.com^$dnstype=AAAA
