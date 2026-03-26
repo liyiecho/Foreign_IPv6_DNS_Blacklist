@@ -5776,6 +5776,7 @@
 ||buyshoponly.com^$dnstype=AAAA
 ||buzzardflapper.com^$dnstype=AAAA
 ||buzzav.com^$dnstype=AAAA
+||buzzfeed.com^$dnstype=AAAA
 ||buzzhand.com^$dnstype=AAAA
 ||buzzhand.net^$dnstype=AAAA
 ||buzzorange.com^$dnstype=AAAA
@@ -6861,6 +6862,7 @@
 ||chuls.ac.uk^$dnstype=AAAA
 ||chuneo.xyz^$dnstype=AAAA
 ||chunja19.net^$dnstype=AAAA
+||chunkbase.com^$dnstype=AAAA
 ||chuokoron.jp^$dnstype=AAAA
 ||chuporno.com^$dnstype=AAAA
 ||churchill.ac.uk^$dnstype=AAAA
@@ -10473,6 +10475,7 @@
 ||equalityhigher.ac.uk^$dnstype=AAAA
 ||equator.ac.uk^$dnstype=AAAA
 ||equinenow.com^$dnstype=AAAA
+||equinox.io^$dnstype=AAAA
 ||equistudy.ac.uk^$dnstype=AAAA
 ||era.ac.uk^$dnstype=AAAA
 ||erabaru.net^$dnstype=AAAA
@@ -14558,7 +14561,6 @@
 ||hjb246.top^$dnstype=AAAA
 ||hjb7e9.top^$dnstype=AAAA
 ||hjclub.info^$dnstype=AAAA
-||hjd.tw^$dnstype=AAAA
 ||hjd2048.com^$dnstype=AAAA
 ||hk-pub.com^$dnstype=AAAA
 ||hk.file.myqcloud.com^$dnstype=AAAA
@@ -19813,6 +19815,7 @@
 ||minecraft-services.net^$dnstype=AAAA
 ||minecraft.net^$dnstype=AAAA
 ||minecraft.wiki^$dnstype=AAAA
+||minecraftforge.net^$dnstype=AAAA
 ||minecraftservices.com^$dnstype=AAAA
 ||minecraftshop.com^$dnstype=AAAA
 ||mineofinfo.ac.uk^$dnstype=AAAA
@@ -21018,6 +21021,7 @@
 ||naln.ac.uk^$dnstype=AAAA
 ||nam.ac.uk^$dnstype=AAAA
 ||name.com^$dnstype=AAAA
+||namemc.com^$dnstype=AAAA
 ||namemybeats.com^$dnstype=AAAA
 ||namethatporn.com^$dnstype=AAAA
 ||namethatpornad.com^$dnstype=AAAA
@@ -21610,6 +21614,7 @@
 ||nginx.org^$dnstype=AAAA
 ||nginxconfig.io^$dnstype=AAAA
 ||ngodupdongchung.com^$dnstype=AAAA
+||ngrok-agent.com^$dnstype=AAAA
 ||ngrok-free.app^$dnstype=AAAA
 ||ngrok-free.dev^$dnstype=AAAA
 ||ngrok-free.pizza^$dnstype=AAAA
@@ -22871,6 +22876,7 @@
 ||optica.org^$dnstype=AAAA
 ||opticore.com^$dnstype=AAAA
 ||opticsforthecloud.net^$dnstype=AAAA
+||optifine.net^$dnstype=AAAA
 ||optima-cdt.ac.uk^$dnstype=AAAA
 ||optimumssl.com^$dnstype=AAAA
 ||opwall.ac.uk^$dnstype=AAAA
@@ -26459,6 +26465,7 @@
 ||searchapi.culture.tw^$dnstype=AAAA
 ||searchtruth.com^$dnstype=AAAA
 ||searx.me^$dnstype=AAAA
+||searx.space^$dnstype=AAAA
 ||seas.ac.uk^$dnstype=AAAA
 ||seasidestory.tokyo^$dnstype=AAAA
 ||seatguru.com^$dnstype=AAAA
@@ -27249,7 +27256,6 @@
 ||sjhsp1.buzz^$dnstype=AAAA
 ||sjr.ac.uk^$dnstype=AAAA
 ||sjrt.org^$dnstype=AAAA
-||sjum.cn^$dnstype=AAAA
 ||skate2.com^$dnstype=AAAA
 ||skebetter.com^$dnstype=AAAA
 ||skegnesstec.ac.uk^$dnstype=AAAA
@@ -27844,6 +27850,7 @@
 ||spideroak.com^$dnstype=AAAA
 ||spiderpool.com^$dnstype=AAAA
 ||spiegel.de^$dnstype=AAAA
+||spigotmc.org^$dnstype=AAAA
 ||spike.com^$dnstype=AAAA
 ||spinesurgeons.ac.uk^$dnstype=AAAA
 ||spiritclubs.com^$dnstype=AAAA
@@ -29054,6 +29061,8 @@
 ||teldap.tw^$dnstype=AAAA
 ||telebay.com^$dnstype=AAAA
 ||telecomspace.com^$dnstype=AAAA
+||telega.info^$dnstype=AAAA
+||telega.me^$dnstype=AAAA
 ||telega.one^$dnstype=AAAA
 ||telegra.ph^$dnstype=AAAA
 ||telegram-cdn.org^$dnstype=AAAA
