@@ -24856,6 +24856,7 @@
 ||qbmengmei6.mom^$dnstype=AAAA
 ||qbsc.ac.uk^$dnstype=AAAA
 ||qckprn.com^$dnstype=AAAA
+||qcomgeo2.com^$dnstype=AAAA
 ||qctconnect.com^$dnstype=AAAA
 ||qdiehzz7.me^$dnstype=AAAA
 ||qdmomentum.com^$dnstype=AAAA
@@ -24926,6 +24927,7 @@
 ||quadraminstitute.ac.uk^$dnstype=AAAA
 ||quadrat.ac.uk^$dnstype=AAAA
 ||qualcomm-email.com^$dnstype=AAAA
+||qualcomm-inc.com^$dnstype=AAAA
 ||qualcomm.co.id^$dnstype=AAAA
 ||qualcomm.co.in^$dnstype=AAAA
 ||qualcomm.co.jp^$dnstype=AAAA
@@ -33347,6 +33349,7 @@
 ||xn--hckl3e1e8a8ajin0czf.net^$dnstype=AAAA
 ||xn--hhr917d3fecva.xyz^$dnstype=AAAA
 ||xn--i2ru8q2qg.com^$dnstype=AAAA
+||xn--kcrv3utim32hx9f6qe.com^$dnstype=AAAA
 ||xn--m1abbbgjah.lol^$dnstype=AAAA
 ||xn--mts47c3w9b1qr.net^$dnstype=AAAA
 ||xn--mtswd61ejxq.com^$dnstype=AAAA
