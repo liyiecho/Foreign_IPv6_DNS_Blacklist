@@ -17296,6 +17296,7 @@
 ||justgetflux.com^$dnstype=AAAA
 ||justhd.xyz^$dnstype=AAAA
 ||justhost.ru^$dnstype=AAAA
+||justice.gov^$dnstype=AAAA
 ||justicefortenzin.org^$dnstype=AAAA
 ||justincraig.ac.uk^$dnstype=AAAA
 ||justindianporn.me^$dnstype=AAAA
