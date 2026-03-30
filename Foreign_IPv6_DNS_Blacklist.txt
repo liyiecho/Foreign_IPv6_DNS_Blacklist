@@ -25630,7 +25630,6 @@
 ||rma.ac.uk^$dnstype=AAAA
 ||rmas.ac.uk^$dnstype=AAAA
 ||rmbl.ws^$dnstype=AAAA
-||rmimg.com^$dnstype=AAAA
 ||rmjdw.com^$dnstype=AAAA
 ||rmjdw132.info^$dnstype=AAAA
 ||rnc.ac.uk^$dnstype=AAAA
@@ -25948,7 +25947,6 @@
 ||s-nbcnews.com^$dnstype=AAAA
 ||s-rewards.hk^$dnstype=AAAA
 ||s-xoom.com^$dnstype=AAAA
-||s.rmimg.com^$dnstype=AAAA
 ||s.team^$dnstype=AAAA
 ||s.yimg.com^$dnstype=AAAA
 ||s1heng.com^$dnstype=AAAA
