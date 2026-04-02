@@ -257,6 +257,7 @@
 ||233abc.com^$dnstype=AAAA
 ||233v2.com^$dnstype=AAAA
 ||2371tom.com^$dnstype=AAAA
+||24av.net^$dnstype=AAAA
 ||24h.tv^$dnstype=AAAA
 ||24hjav.com^$dnstype=AAAA
 ||24hrs.ca^$dnstype=AAAA
@@ -3270,6 +3271,7 @@
 ||avsee01.tv^$dnstype=AAAA
 ||avseesee.com^$dnstype=AAAA
 ||avsforum.com^$dnstype=AAAA
+||avsox.click^$dnstype=AAAA
 ||avstar.me^$dnstype=AAAA
 ||avstar01.me^$dnstype=AAAA
 ||avstar02.me^$dnstype=AAAA
@@ -7811,6 +7813,7 @@
 ||create.ac.uk^$dnstype=AAAA
 ||createspace.com^$dnstype=AAAA
 ||createwhatsnext.com^$dnstype=AAAA
+||creative.myavlive.com^$dnstype=AAAA
 ||creativecloud.com^$dnstype=AAAA
 ||creativecommons.engineering^$dnstype=AAAA
 ||creativecommons.org^$dnstype=AAAA
@@ -20836,6 +20839,7 @@
 ||myav.com.tw^$dnstype=AAAA
 ||myav886.buzz^$dnstype=AAAA
 ||myavfun.com^$dnstype=AAAA
+||myavlive.com^$dnstype=AAAA
 ||myavok.com^$dnstype=AAAA
 ||myavsuper.com^$dnstype=AAAA
 ||myavxx.xyz^$dnstype=AAAA
