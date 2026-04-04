@@ -3177,6 +3177,8 @@
 ||autodeskworkshop.com^$dnstype=AAAA
 ||autodeskworkshop.net^$dnstype=AAAA
 ||autodraw.com^$dnstype=AAAA
+||autoesporte.com^$dnstype=AAAA
+||autoesporte.com.br^$dnstype=AAAA
 ||automaton-media.com^$dnstype=AAAA
 ||automobile.fr^$dnstype=AAAA
 ||automotive-cadcam.com^$dnstype=AAAA
@@ -4232,6 +4234,7 @@
 ||bhamcityuniversity.ac.uk^$dnstype=AAAA
 ||bhasvic.ac.uk^$dnstype=AAAA
 ||bhent.co.kr^$dnstype=AAAA
+||bhfm.com.br^$dnstype=AAAA
 ||bhggn.xyz^$dnstype=AAAA
 ||bhpgms.ac.uk^$dnstype=AAAA
 ||bhpms.ac.uk^$dnstype=AAAA
@@ -6160,6 +6163,7 @@
 ||carryzhou.com^$dnstype=AAAA
 ||carshalton.ac.uk^$dnstype=AAAA
 ||carstagram.com^$dnstype=AAAA
+||cartola.com.br^$dnstype=AAAA
 ||cartoon-sex.tv^$dnstype=AAAA
 ||cartoon18.com^$dnstype=AAAA
 ||cartoon3thumbs.com^$dnstype=AAAA
@@ -6258,6 +6262,7 @@
 ||cbcdc.ac.uk^$dnstype=AAAA
 ||cbi.ir^$dnstype=AAAA
 ||cbm.com.mm^$dnstype=AAAA
+||cbn.com.br^$dnstype=AAAA
 ||cbpar.ac.uk^$dnstype=AAAA
 ||cbrl.ac.uk^$dnstype=AAAA
 ||cbs.ac.uk^$dnstype=AAAA
@@ -6409,6 +6414,7 @@
 ||cdnst.net^$dnstype=AAAA
 ||cdnuc.vip^$dnstype=AAAA
 ||cdnvideo.ru^$dnstype=AAAA
+||cdnvideohub.com^$dnstype=AAAA
 ||cdnxxx-proxy.co^$dnstype=AAAA
 ||cdnxxx-proxy.xyz^$dnstype=AAAA
 ||cdp1989.org^$dnstype=AAAA
@@ -10443,6 +10449,8 @@
 ||episodic.com^$dnstype=AAAA
 ||epizy.com^$dnstype=AAAA
 ||epne.ac.uk^$dnstype=AAAA
+||epoca.com.br^$dnstype=AAAA
+||epocanegocios.com.br^$dnstype=AAAA
 ||epoch.cloud^$dnstype=AAAA
 ||epoch.org.il^$dnstype=AAAA
 ||epochbase.com^$dnstype=AAAA
@@ -12510,6 +12518,7 @@
 ||g.kfd.me^$dnstype=AAAA
 ||g.page^$dnstype=AAAA
 ||g0v.social^$dnstype=AAAA
+||g1.com.br^$dnstype=AAAA
 ||g1d1goob.xyz^$dnstype=AAAA
 ||g6hentai.com^$dnstype=AAAA
 ||gab.com^$dnstype=AAAA
@@ -13087,7 +13096,14 @@
 ||globalvoices.org^$dnstype=AAAA
 ||globalvoicesonline.org^$dnstype=AAAA
 ||globalvpn.net^$dnstype=AAAA
+||globo.com^$dnstype=AAAA
+||globo.com.br^$dnstype=AAAA
 ||globolakes.ac.uk^$dnstype=AAAA
+||globoplay.com^$dnstype=AAAA
+||globoplay.com.br^$dnstype=AAAA
+||globoradio.com.br^$dnstype=AAAA
+||globoreporter.com.br^$dnstype=AAAA
+||globorural.com.br^$dnstype=AAAA
 ||glock.com^$dnstype=AAAA
 ||gloknos.ac.uk^$dnstype=AAAA
 ||gloporn.com^$dnstype=AAAA
@@ -13782,6 +13798,8 @@
 ||gscanada.info^$dnstype=AAAA
 ||gsccdn.com^$dnstype=AAAA
 ||gsearch.media^$dnstype=AAAA
+||gshow.com^$dnstype=AAAA
+||gshow.com.br^$dnstype=AAAA
 ||gslink.us^$dnstype=AAAA
 ||gsmd.ac.uk^$dnstype=AAAA
 ||gsmlondon.ac.uk^$dnstype=AAAA
@@ -16020,6 +16038,7 @@
 ||info-graf.fr^$dnstype=AAAA
 ||infocert.digital^$dnstype=AAAA
 ||infocert.it^$dnstype=AAAA
+||infoglobo.com.br^$dnstype=AAAA
 ||infogov.ac.uk^$dnstype=AAAA
 ||infolinker.com.tw^$dnstype=AAAA
 ||infoq.jp^$dnstype=AAAA
@@ -22670,6 +22689,8 @@
 ||ogaoga.org^$dnstype=AAAA
 ||ogate.org^$dnstype=AAAA
 ||oge.ac.uk^$dnstype=AAAA
+||oghost.com.br^$dnstype=AAAA
+||oglobo.com.br^$dnstype=AAAA
 ||ogp.me^$dnstype=AAAA
 ||ogsa-dai.ac.uk^$dnstype=AAAA
 ||ohchr.org^$dnstype=AAAA
@@ -23100,6 +23121,7 @@
 ||oudoll.com^$dnstype=AAAA
 ||ouo.io^$dnstype=AAAA
 ||ouplaw.com^$dnstype=AAAA
+||our-notes.jp^$dnstype=AAAA
 ||ourdearamy.com^$dnstype=AAAA
 ||ourhobby.com^$dnstype=AAAA
 ||ourjourney.ac.uk^$dnstype=AAAA
@@ -23643,6 +23665,8 @@
 ||peepholecam.com^$dnstype=AAAA
 ||peerj.com^$dnstype=AAAA
 ||peerlearning.ac.uk^$dnstype=AAAA
+||pegn.com^$dnstype=AAAA
+||pegn.com.br^$dnstype=AAAA
 ||peing.net^$dnstype=AAAA
 ||pejyyah.com^$dnstype=AAAA
 ||pekingduck.org^$dnstype=AAAA
@@ -25168,6 +25192,7 @@
 ||radio.garden^$dnstype=AAAA
 ||radioaustralia.net.au^$dnstype=AAAA
 ||radiofarda.com^$dnstype=AAAA
+||radioglobo.com.br^$dnstype=AAAA
 ||radiohilight.net^$dnstype=AAAA
 ||radiojar.com^$dnstype=AAAA
 ||radioline.co^$dnstype=AAAA
@@ -25628,6 +25653,13 @@
 ||reutersagency.cn^$dnstype=AAAA
 ||reutersmedia.net^$dnstype=AAAA
 ||revenue-performance-management.com^$dnstype=AAAA
+||revistaepoca.com^$dnstype=AAAA
+||revistaepoca.com.br^$dnstype=AAAA
+||revistagalileu.com.br^$dnstype=AAAA
+||revistapegn.com^$dnstype=AAAA
+||revistapegn.com.br^$dnstype=AAAA
+||revistaquem.com.br^$dnstype=AAAA
+||revistavalor.com.br^$dnstype=AAAA
 ||revit.com^$dnstype=AAAA
 ||revitcc.com^$dnstype=AAAA
 ||revitsucks.net^$dnstype=AAAA
@@ -26950,6 +26982,7 @@
 ||sgp1.fun^$dnstype=AAAA
 ||sgpe.ac.uk^$dnstype=AAAA
 ||sgpstatp.com^$dnstype=AAAA
+||sgr.com.br^$dnstype=AAAA
 ||sgsah.ac.uk^$dnstype=AAAA
 ||sgscol.ac.uk^$dnstype=AAAA
 ||sgspe.de^$dnstype=AAAA
@@ -29124,6 +29157,8 @@
 ||techspot.com^$dnstype=AAAA
 ||techstreet.com^$dnstype=AAAA
 ||techtimes.com^$dnstype=AAAA
+||techtudo.com^$dnstype=AAAA
+||techtudo.com.br^$dnstype=AAAA
 ||techviz.net^$dnstype=AAAA
 ||techxtra.ac.uk^$dnstype=AAAA
 ||teck.in^$dnstype=AAAA
@@ -30851,6 +30886,8 @@
 ||umist.ac.uk^$dnstype=AAAA
 ||ums.ac.uk^$dnstype=AAAA
 ||umslg.ac.uk^$dnstype=AAAA
+||umsoplaneta.com^$dnstype=AAAA
+||umsoplaneta.com.br^$dnstype=AAAA
 ||umtc.ac.uk^$dnstype=AAAA
 ||umzzz.com^$dnstype=AAAA
 ||unblock-us.com^$dnstype=AAAA
@@ -31184,6 +31221,10 @@
 ||vagrantcloud.com^$dnstype=AAAA
 ||vagrantup.com^$dnstype=AAAA
 ||valeursactuelles.com^$dnstype=AAAA
+||valor.com.br^$dnstype=AAAA
+||valoreconomico.com.br^$dnstype=AAAA
+||valorinveste.com^$dnstype=AAAA
+||valorinveste.com.br^$dnstype=AAAA
 ||valoryirene.com^$dnstype=AAAA
 ||value-domain.com^$dnstype=AAAA
 ||value-server.com^$dnstype=AAAA
@@ -33605,6 +33646,7 @@
 ||xuehua.us^$dnstype=AAAA
 ||xuite.net^$dnstype=AAAA
 ||xujan.com^$dnstype=AAAA
+||xuxaverso.com.br^$dnstype=AAAA
 ||xuzhiyong.net^$dnstype=AAAA
 ||xv-ru.com^$dnstype=AAAA
 ||xv1.monster^$dnstype=AAAA
