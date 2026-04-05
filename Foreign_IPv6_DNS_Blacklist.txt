@@ -3028,6 +3028,7 @@
 ||audiobeatsbydre.com^$dnstype=AAAA
 ||audiomonsterbeatsonline.com^$dnstype=AAAA
 ||audionow.com^$dnstype=AAAA
+||audioscrobbler.com^$dnstype=AAAA
 ||aue.ac.uk^$dnstype=AAAA
 ||auee.ac.uk^$dnstype=AAAA
 ||aukcar.ac.uk^$dnstype=AAAA
@@ -10661,6 +10662,7 @@
 ||eskimotube.com^$dnstype=AAAA
 ||eslite.com^$dnstype=AAAA
 ||esm.run^$dnstype=AAAA
+||esm.sh^$dnstype=AAAA
 ||esmarthealth.com^$dnstype=AAAA
 ||esmatube.com^$dnstype=AAAA
 ||esmtp.biz^$dnstype=AAAA
@@ -23968,6 +23970,7 @@
 ||pjgirls.com^$dnstype=AAAA
 ||pjsekai.sega.jp^$dnstype=AAAA
 ||pk.com^$dnstype=AAAA
+||pkgbuild.com^$dnstype=AAAA
 ||pki-post.ch^$dnstype=AAAA
 ||pki-posta.ch^$dnstype=AAAA
 ||pki-poste.ch^$dnstype=AAAA
@@ -33048,6 +33051,7 @@
 ||wrssdtp.ac.uk^$dnstype=AAAA
 ||ws-blau.com^$dnstype=AAAA
 ||ws-tcg.com^$dnstype=AAAA
+||ws.audioscrobbler.com^$dnstype=AAAA
 ||wsc.ac.uk^$dnstype=AAAA
 ||wscinternational.ac.uk^$dnstype=AAAA
 ||wsfc.ac.uk^$dnstype=AAAA
