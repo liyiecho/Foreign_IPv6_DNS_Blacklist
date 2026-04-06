@@ -9237,6 +9237,7 @@
 ||dogslife.ac.uk^$dnstype=AAAA
 ||dogspics.net^$dnstype=AAAA
 ||doh.opendns.com^$dnstype=AAAA
+||doh.sb^$dnstype=AAAA
 ||doi.info^$dnstype=AAAA
 ||doi.org^$dnstype=AAAA
 ||doitpoms.ac.uk^$dnstype=AAAA
@@ -9296,6 +9297,7 @@
 ||dot-mac.de^$dnstype=AAAA
 ||dot.ca.gov^$dnstype=AAAA
 ||dot.net^$dnstype=AAAA
+||dot.sb^$dnstype=AAAA
 ||dotcernpilot.info^$dnstype=AAAA
 ||dotdeb.org^$dnstype=AAAA
 ||dotfacebook.com^$dnstype=AAAA
