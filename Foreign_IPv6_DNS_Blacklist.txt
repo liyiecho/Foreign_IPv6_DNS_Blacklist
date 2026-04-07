@@ -243,6 +243,7 @@
 ||20thcenturystudios.com.br^$dnstype=AAAA
 ||20thcenturystudios.jp^$dnstype=AAAA
 ||20yearsoffea.com^$dnstype=AAAA
+||21-school.ru^$dnstype=AAAA
 ||21andy.com^$dnstype=AAAA
 ||21centuryaccess.com^$dnstype=AAAA
 ||21heise360dh.cc^$dnstype=AAAA
@@ -1249,6 +1250,7 @@
 ||affinity.studio^$dnstype=AAAA
 ||affirmtrust.com^$dnstype=AAAA
 ||afi.ac.uk^$dnstype=AAAA
+||afisha.ru^$dnstype=AAAA
 ||afkv28.com^$dnstype=AAAA
 ||aflamporn.com^$dnstype=AAAA
 ||aflamsex.net^$dnstype=AAAA
@@ -1601,6 +1603,7 @@
 ||alexanderstreet.com^$dnstype=AAAA
 ||alexlur.org^$dnstype=AAAA
 ||alfabank.ru^$dnstype=AAAA
+||alfabank.st^$dnstype=AAAA
 ||alfera.com.hk^$dnstype=AAAA
 ||alfera.com.my^$dnstype=AAAA
 ||alfera.in^$dnstype=AAAA
@@ -4076,6 +4079,7 @@
 ||bep.ac.uk^$dnstype=AAAA
 ||bera.ac.uk^$dnstype=AAAA
 ||beric.me^$dnstype=AAAA
+||berizaryad.ru^$dnstype=AAAA
 ||berkanawireless.com^$dnstype=AAAA
 ||berkeley.edu^$dnstype=AAAA
 ||berks-coll-ag.ac.uk^$dnstype=AAAA
@@ -5346,6 +5350,7 @@
 ||bpi.ir^$dnstype=AAAA
 ||bpmf.ac.uk^$dnstype=AAAA
 ||bppuniversity.ac.uk^$dnstype=AAAA
+||bps-sberbank.by^$dnstype=AAAA
 ||bps.ac.uk^$dnstype=AAAA
 ||br.com^$dnstype=AAAA
 ||br.hao123.com^$dnstype=AAAA
@@ -6492,6 +6497,7 @@
 ||centralnottingham.ac.uk^$dnstype=AAAA
 ||centralstmichaels.ac.uk^$dnstype=AAAA
 ||centralsussex.ac.uk^$dnstype=AAAA
+||centraluniversity.ru^$dnstype=AAAA
 ||centralvalidation.com^$dnstype=AAAA
 ||centreformacroeconomics.ac.uk^$dnstype=AAAA
 ||centreforsustainablecities.ac.uk^$dnstype=AAAA
@@ -6995,6 +7001,7 @@
 ||citycollegepeterborough.ac.uk^$dnstype=AAAA
 ||citycollegeplymouth.ac.uk^$dnstype=AAAA
 ||citycollegesoton.ac.uk^$dnstype=AAAA
+||citydrive.ru^$dnstype=AAAA
 ||cityheaven.net^$dnstype=AAAA
 ||citylab.com^$dnstype=AAAA
 ||citylit.ac.uk^$dnstype=AAAA
@@ -7061,6 +7068,7 @@
 ||clawhub.ai^$dnstype=AAAA
 ||clb.org.hk^$dnstype=AAAA
 ||clc-london.ac.uk^$dnstype=AAAA
+||clck.ru^$dnstype=AAAA
 ||clco.cc^$dnstype=AAAA
 ||cldr.unicode.org^$dnstype=AAAA
 ||clean-cooling.ac.uk^$dnstype=AAAA
@@ -7119,6 +7127,7 @@
 ||cloud.dify.ai^$dnstype=AAAA
 ||cloud.mail.ru^$dnstype=AAAA
 ||cloud.oracle.com^$dnstype=AAAA
+||cloud.ru^$dnstype=AAAA
 ||cloud.run^$dnstype=AAAA
 ||cloudaicompanion.googleapis.com^$dnstype=AAAA
 ||cloudapp.net^$dnstype=AAAA
@@ -7973,6 +7982,7 @@
 ||cttoolkit.ac.uk^$dnstype=AAAA
 ||ctv.com.tw^$dnstype=AAAA
 ||ctwant.com^$dnstype=AAAA
+||cu.ru^$dnstype=AAAA
 ||cubicmotion.com^$dnstype=AAAA
 ||cubicodyssey.game^$dnstype=AAAA
 ||cubo.ac.uk^$dnstype=AAAA
@@ -9257,6 +9267,7 @@
 ||dollf.com^$dnstype=AAAA
 ||dollnight.com^$dnstype=AAAA
 ||dolphiners.com^$dnstype=AAAA
+||dolyame.ru^$dnstype=AAAA
 ||domain.club.tw^$dnstype=AAAA
 ||domain.glass^$dnstype=AAAA
 ||domainhelp.search.com^$dnstype=AAAA
@@ -9769,6 +9780,7 @@
 ||eandc-sirgar.ac.uk^$dnstype=AAAA
 ||eanordic.com^$dnstype=AAAA
 ||eaplay.com^$dnstype=AAAA
+||eapteka.ru^$dnstype=AAAA
 ||earlham.ac.uk^$dnstype=AAAA
 ||earlhaminstitute.ac.uk^$dnstype=AAAA
 ||earlyenglishlaws.ac.uk^$dnstype=AAAA
@@ -10127,9 +10139,11 @@
 ||edu.ci^$dnstype=AAAA
 ||edu.hk^$dnstype=AAAA
 ||edu.ir^$dnstype=AAAA
+||edu.tinkoff.ru^$dnstype=AAAA
 ||edu.tw^$dnstype=AAAA
 ||edubridge.com^$dnstype=AAAA
 ||education-cadcam.com^$dnstype=AAAA
+||education.tbank.ru^$dnstype=AAAA
 ||educationlondonconnect.ac.uk^$dnstype=AAAA
 ||educationpartnershipne.ac.uk^$dnstype=AAAA
 ||educationpartnershipnortheast.ac.uk^$dnstype=AAAA
@@ -10197,6 +10211,7 @@
 ||ekolojik.org^$dnstype=AAAA
 ||eksisozluk.com^$dnstype=AAAA
 ||el-ladies.com^$dnstype=AAAA
+||elama.ru^$dnstype=AAAA
 ||elanguages.ac.uk^$dnstype=AAAA
 ||elastic.co^$dnstype=AAAA
 ||elastic.com^$dnstype=AAAA
@@ -10553,6 +10568,7 @@
 ||ero-ma-nia.com^$dnstype=AAAA
 ||ero-manga-platinum.net^$dnstype=AAAA
 ||ero-mangalife.com^$dnstype=AAAA
+||ero-video.net^$dnstype=AAAA
 ||eroan.xyz^$dnstype=AAAA
 ||erocurves.com^$dnstype=AAAA
 ||erodaizensyu.com^$dnstype=AAAA
@@ -12689,6 +12705,8 @@
 ||gaywatch.com^$dnstype=AAAA
 ||gazotube.com^$dnstype=AAAA
 ||gazounabi.com^$dnstype=AAAA
+||gazprombank.com^$dnstype=AAAA
+||gazprombank.investments^$dnstype=AAAA
 ||gazprombank.ru^$dnstype=AAAA
 ||gbank.com.mm^$dnstype=AAAA
 ||gbmc.ac.uk^$dnstype=AAAA
@@ -12955,6 +12973,7 @@
 ||gifree.com^$dnstype=AAAA
 ||gift-surg.ac.uk^$dnstype=AAAA
 ||giga-web.jp^$dnstype=AAAA
+||giga.chat^$dnstype=AAAA
 ||gigabyte.com^$dnstype=AAAA
 ||gigabyte2.azureedge.net^$dnstype=AAAA
 ||gigacircle.com^$dnstype=AAAA
@@ -14076,6 +14095,7 @@
 ||hayabusa.dev^$dnstype=AAAA
 ||hayabusa.io^$dnstype=AAAA
 ||hayabusa.media^$dnstype=AAAA
+||hayav.com^$dnstype=AAAA
 ||hayday.com^$dnstype=AAAA
 ||haydaygame.com^$dnstype=AAAA
 ||hayle.ac.uk^$dnstype=AAAA
@@ -15582,6 +15602,7 @@
 ||id.au^$dnstype=AAAA
 ||id.hao123.com^$dnstype=AAAA
 ||id.heroku.com^$dnstype=AAAA
+||id.ru^$dnstype=AAAA
 ||id.taipei^$dnstype=AAAA
 ||idaiwan.com^$dnstype=AAAA
 ||idarkdoll.com^$dnstype=AAAA
@@ -17872,6 +17893,7 @@
 ||kumo.com^$dnstype=AAAA
 ||kun.im^$dnstype=AAAA
 ||kundun1069.com^$dnstype=AAAA
+||kuper.ru^$dnstype=AAAA
 ||kurashsultan.com^$dnstype=AAAA
 ||kurtmunger.com^$dnstype=AAAA
 ||kusocity.com^$dnstype=AAAA
@@ -19564,6 +19586,8 @@
 ||megafilmporno.com^$dnstype=AAAA
 ||megahdporno.net^$dnstype=AAAA
 ||megalodon.jp^$dnstype=AAAA
+||megamarket.ru^$dnstype=AAAA
+||megamarket.tech^$dnstype=AAAA
 ||megamon.co.kr^$dnstype=AAAA
 ||megaphone.fm^$dnstype=AAAA
 ||megapornfreehd.com^$dnstype=AAAA
@@ -19674,6 +19698,7 @@
 ||metcams.com^$dnstype=AAAA
 ||meteorr.ac.uk^$dnstype=AAAA
 ||meteorshowersonline.com^$dnstype=AAAA
+||meteum.ai^$dnstype=AAAA
 ||metfilm.ac.uk^$dnstype=AAAA
 ||metfilmschool.ac.uk^$dnstype=AAAA
 ||methnet.ac.uk^$dnstype=AAAA
@@ -23113,6 +23138,7 @@
 ||otakuboo.com^$dnstype=AAAA
 ||otbm.com^$dnstype=AAAA
 ||otcbtc.com^$dnstype=AAAA
+||otello.ru^$dnstype=AAAA
 ||otleycollege.ac.uk^$dnstype=AAAA
 ||otleyeaston.ac.uk^$dnstype=AAAA
 ||otleyonline.ac.uk^$dnstype=AAAA
@@ -23389,6 +23415,7 @@
 ||paygonline.com^$dnstype=AAAA
 ||payhulu.com^$dnstype=AAAA
 ||paylike.com^$dnstype=AAAA
+||payment.ru^$dnstype=AAAA
 ||payments-jp.amazon.com^$dnstype=AAAA
 ||paypa1.com^$dnstype=AAAA
 ||paypa1.org^$dnstype=AAAA
@@ -23775,6 +23802,7 @@
 ||phimsexnhanh.club^$dnstype=AAAA
 ||phmsociety.org^$dnstype=AAAA
 ||phncdn.com^$dnstype=AAAA
+||phoenix-ca.ru^$dnstype=AAAA
 ||phoenix.ac.uk^$dnstype=AAAA
 ||phonegap.com^$dnstype=AAAA
 ||phosphation13.rssing.com^$dnstype=AAAA
@@ -24085,6 +24113,7 @@
 ||po2b.com^$dnstype=AAAA
 ||pobieramy.top^$dnstype=AAAA
 ||pobl-content.com^$dnstype=AAAA
+||pochtabank.ru^$dnstype=AAAA
 ||pocketbiketrader.com^$dnstype=AAAA
 ||pocketcasts.com^$dnstype=AAAA
 ||podbean.com^$dnstype=AAAA
@@ -24825,6 +24854,8 @@
 ||prucomm.ac.uk^$dnstype=AAAA
 ||ps-exchange.com^$dnstype=AAAA
 ||psa.ac.uk^$dnstype=AAAA
+||psb-ocenka.ru^$dnstype=AAAA
+||psb.ru^$dnstype=AAAA
 ||psbank.ru^$dnstype=AAAA
 ||psblog.name^$dnstype=AAAA
 ||psc.ac.uk^$dnstype=AAAA
@@ -26186,6 +26217,7 @@
 ||sambhota.org^$dnstype=AAAA
 ||samc.ac.uk^$dnstype=AAAA
 ||samebags.com^$dnstype=AAAA
+||samokat.ru^$dnstype=AAAA
 ||sams.ac.uk^$dnstype=AAAA
 ||samsung.com^$dnstype=AAAA
 ||samsungapps.com^$dnstype=AAAA
@@ -26296,9 +26328,27 @@
 ||sb24.com^$dnstype=AAAA
 ||sbank.ir^$dnstype=AAAA
 ||sbc.ac.uk^$dnstype=AAAA
+||sber-bank.by^$dnstype=AAAA
+||sber.pro^$dnstype=AAAA
 ||sber.ru^$dnstype=AAAA
+||sberauto.com^$dnstype=AAAA
+||sberbank-insurance.ru^$dnstype=AAAA
 ||sberbank.com^$dnstype=AAAA
 ||sberbank.ru^$dnstype=AAAA
+||sberbankins.ru^$dnstype=AAAA
+||sbercloud.ru^$dnstype=AAAA
+||sbercloud.tech^$dnstype=AAAA
+||sberdevices.ru^$dnstype=AAAA
+||sberdisk.ru^$dnstype=AAAA
+||sberhealth.ru^$dnstype=AAAA
+||sberindex.ru^$dnstype=AAAA
+||sberleasing.ru^$dnstype=AAAA
+||sberlogistics.ru^$dnstype=AAAA
+||sbermegamarket.ru^$dnstype=AAAA
+||sbermobile.ru^$dnstype=AAAA
+||sberpb.ru^$dnstype=AAAA
+||sberpro.vedomosti.ru^$dnstype=AAAA
+||sbertroika.ru^$dnstype=AAAA
 ||sbgkstv.shop^$dnstype=AAAA
 ||sbirmc.ac.uk^$dnstype=AAAA
 ||sbishinseibank.co.jp^$dnstype=AAAA
@@ -27058,6 +27108,7 @@
 ||shc.ac.uk^$dnstype=AAAA
 ||shdd.ink^$dnstype=AAAA
 ||shdf.ac.uk^$dnstype=AAAA
+||shedevrum.ai^$dnstype=AAAA
 ||sheef.ac.uk^$dnstype=AAAA
 ||sheet.new^$dnstype=AAAA
 ||sheets.new^$dnstype=AAAA
@@ -27868,6 +27919,7 @@
 ||soup.io^$dnstype=AAAA
 ||soupofmedia.com^$dnstype=AAAA
 ||source.ac.uk^$dnstype=AAAA
+||sourcecraft.dev^$dnstype=AAAA
 ||sourceforge.com^$dnstype=AAAA
 ||sourceforge.net^$dnstype=AAAA
 ||sourcegraph.com^$dnstype=AAAA
@@ -27957,6 +28009,8 @@
 ||sparsholtcollegegroup.ac.uk^$dnstype=AAAA
 ||sparsholtcollegeservices.ac.uk^$dnstype=AAAA
 ||sparsholtservices.ac.uk^$dnstype=AAAA
+||spasibosb.ru^$dnstype=AAAA
+||spasibosberbank.ru^$dnstype=AAAA
 ||spatial.io^$dnstype=AAAA
 ||spatialeconomics.ac.uk^$dnstype=AAAA
 ||spb.com^$dnstype=AAAA
@@ -28917,10 +28971,14 @@
 ||szetowah.org.hk^$dnstype=AAAA
 ||szexvideo.top^$dnstype=AAAA
 ||szwinnertechnology.com^$dnstype=AAAA
+||t-bank-app.ru^$dnstype=AAAA
 ||t-g.com^$dnstype=AAAA
+||t-j.ru^$dnstype=AAAA
 ||t-msedge.net^$dnstype=AAAA
 ||t-mus.ac.uk^$dnstype=AAAA
 ||t-splines.com^$dnstype=AAAA
+||t-static.ru^$dnstype=AAAA
+||t-technologies.ru^$dnstype=AAAA
 ||t.co^$dnstype=AAAA
 ||t.me^$dnstype=AAAA
 ||t21.nikkei.co.jp^$dnstype=AAAA
@@ -29839,7 +29897,11 @@
 ||tinkercad.com^$dnstype=AAAA
 ||tinkerentertainment.com^$dnstype=AAAA
 ||tinkerplay.net^$dnstype=AAAA
+||tinkoff-group.com^$dnstype=AAAA
+||tinkoff.ru^$dnstype=AAAA
+||tinkoffjournal.ru^$dnstype=AAAA
 ||tinp.net.tw^$dnstype=AAAA
+||tinsurance.ru^$dnstype=AAAA
 ||tintuc101.com^$dnstype=AAAA
 ||tiny.cc^$dnstype=AAAA
 ||tiny4k.com^$dnstype=AAAA
@@ -30922,6 +30984,7 @@
 ||unialliance.ac.uk^$dnstype=AAAA
 ||unicode.org^$dnstype=AAAA
 ||unidesk.ac.uk^$dnstype=AAAA
+||unidraw.io^$dnstype=AAAA
 ||unification.net^$dnstype=AAAA
 ||unification.org.tw^$dnstype=AAAA
 ||unilang.ac.uk^$dnstype=AAAA
@@ -31318,6 +31381,7 @@
 ||ve-uhd-push-uk-live.akamaized.net^$dnstype=AAAA
 ||vecchiescopate.casa^$dnstype=AAAA
 ||vector.im^$dnstype=AAAA
+||vedomosti.ru^$dnstype=AAAA
 ||veet.at^$dnstype=AAAA
 ||veet.be^$dnstype=AAAA
 ||veet.ca^$dnstype=AAAA
@@ -33855,6 +33919,7 @@
 ||xzxxporn.com^$dnstype=AAAA
 ||xzxxtube.com^$dnstype=AAAA
 ||y2mate.com^$dnstype=AAAA
+||ya.cc^$dnstype=AAAA
 ||ya.ru^$dnstype=AAAA
 ||yabang.org^$dnstype=AAAA
 ||yaburi.men^$dnstype=AAAA
@@ -34038,6 +34103,7 @@
 ||yandex-pogoda.static-storage.net^$dnstype=AAAA
 ||yandex-team.ru^$dnstype=AAAA
 ||yandex.aero^$dnstype=AAAA
+||yandex.asia^$dnstype=AAAA
 ||yandex.az^$dnstype=AAAA
 ||yandex.by^$dnstype=AAAA
 ||yandex.cloud^$dnstype=AAAA
@@ -34059,6 +34125,7 @@
 ||yandex.lt^$dnstype=AAAA
 ||yandex.lv^$dnstype=AAAA
 ||yandex.md^$dnstype=AAAA
+||yandex.mobi^$dnstype=AAAA
 ||yandex.net^$dnstype=AAAA
 ||yandex.org^$dnstype=AAAA
 ||yandex.pl^$dnstype=AAAA
@@ -34073,6 +34140,7 @@
 ||yandexadexchange.net^$dnstype=AAAA
 ||yandexcloud.net^$dnstype=AAAA
 ||yandexcom.net^$dnstype=AAAA
+||yandexlyceum.ru^$dnstype=AAAA
 ||yandexmetrica.com^$dnstype=AAAA
 ||yandexwebcache.net^$dnstype=AAAA
 ||yandexwebcache.org^$dnstype=AAAA
@@ -34101,6 +34169,7 @@
 ||yayadizhi.xyz^$dnstype=AAAA
 ||yazhouse8.com^$dnstype=AAAA
 ||ycc.ac.uk^$dnstype=AAAA
+||yccdn.ru^$dnstype=AAAA
 ||ycoastco.ac.uk^$dnstype=AAAA
 ||ycombinator.com^$dnstype=AAAA
 ||ycrc.com.tw^$dnstype=AAAA
@@ -34820,6 +34889,8 @@
 ||zuobiao.me^$dnstype=AAAA
 ||zuola.com^$dnstype=AAAA
 ||zvereff.com^$dnstype=AAAA
+||zvuk-b2b.com^$dnstype=AAAA
+||zvuk.com^$dnstype=AAAA
 ||zweiporn.com^$dnstype=AAAA
 ||zwtvusa.com^$dnstype=AAAA
 ||zynaima.com^$dnstype=AAAA
