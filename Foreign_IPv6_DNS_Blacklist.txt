@@ -960,7 +960,6 @@
 ||adelaidebbs.com^$dnstype=AAAA
 ||adelaidenow.com.au^$dnstype=AAAA
 ||adeptt.ac.uk^$dnstype=AAAA
-||adfox.ru^$dnstype=AAAA
 ||adgoogle.net^$dnstype=AAAA
 ||adguard-dns.com^$dnstype=AAAA
 ||adguard-dns.io^$dnstype=AAAA
@@ -1061,7 +1060,6 @@
 ||adlib.ac.uk^$dnstype=AAAA
 ||adls.ac.uk^$dnstype=AAAA
 ||admeld.com^$dnstype=AAAA
-||admetrica.ru^$dnstype=AAAA
 ||admin.recaptcha.net^$dnstype=AAAA
 ||admob.com^$dnstype=AAAA
 ||adobe-aemassets-value.com^$dnstype=AAAA
@@ -4068,6 +4066,7 @@
 ||bellesa.co^$dnstype=AAAA
 ||bellotube.com^$dnstype=AAAA
 ||bellsouth.net^$dnstype=AAAA
+||belonging.google^$dnstype=AAAA
 ||belwue.net^$dnstype=AAAA
 ||bemix.ac.uk^$dnstype=AAAA
 ||bemywife.cc^$dnstype=AAAA
@@ -6767,6 +6766,7 @@
 ||chinaelections.org^$dnstype=AAAA
 ||chinaeweekly.com^$dnstype=AAAA
 ||chinafile.com^$dnstype=AAAA
+||chinafirewalltest.com^$dnstype=AAAA
 ||chinafreepress.org^$dnstype=AAAA
 ||chinagate.com^$dnstype=AAAA
 ||chinageeks.org^$dnstype=AAAA
@@ -7395,6 +7395,7 @@
 ||cointiger.com^$dnstype=AAAA
 ||cointobe.com^$dnstype=AAAA
 ||coinut.com^$dnstype=AAAA
+||coinw.com^$dnstype=AAAA
 ||coithienthai.com^$dnstype=AAAA
 ||coitustube.com^$dnstype=AAAA
 ||col-westanglia.ac.uk^$dnstype=AAAA
@@ -17750,7 +17751,6 @@
 ||kinmen.org.tw^$dnstype=AAAA
 ||kinmen.travel^$dnstype=AAAA
 ||kinokuniya.com^$dnstype=AAAA
-||kinopoisk-ru.clstorage.net^$dnstype=AAAA
 ||kinopoisk.ru^$dnstype=AAAA
 ||kinorium.com^$dnstype=AAAA
 ||kir.jp^$dnstype=AAAA
@@ -32569,8 +32569,6 @@
 ||webtoons.com^$dnstype=AAAA
 ||webtoonscorp.com^$dnstype=AAAA
 ||webtype.com^$dnstype=AAAA
-||webvisor.com^$dnstype=AAAA
-||webvisor.org^$dnstype=AAAA
 ||webwarper.net^$dnstype=AAAA
 ||webworkerdaily.com^$dnstype=AAAA
 ||wechatlawsuit.com^$dnstype=AAAA
@@ -33926,7 +33924,6 @@
 ||yaddal.tv^$dnstype=AAAA
 ||yadi.sk^$dnstype=AAAA
 ||yadori.club^$dnstype=AAAA
-||yads.tech^$dnstype=AAAA
 ||yaeby.info^$dnstype=AAAA
 ||yaeby.pro^$dnstype=AAAA
 ||yahoo-news.com.hk^$dnstype=AAAA
@@ -34099,8 +34096,6 @@
 ||yamoon.club^$dnstype=AAAA
 ||yande.re^$dnstype=AAAA
 ||yandex-bank.net^$dnstype=AAAA
-||yandex-images.clstorage.net^$dnstype=AAAA
-||yandex-pogoda.static-storage.net^$dnstype=AAAA
 ||yandex-team.ru^$dnstype=AAAA
 ||yandex.aero^$dnstype=AAAA
 ||yandex.asia^$dnstype=AAAA
@@ -34141,7 +34136,6 @@
 ||yandexcloud.net^$dnstype=AAAA
 ||yandexcom.net^$dnstype=AAAA
 ||yandexlyceum.ru^$dnstype=AAAA
-||yandexmetrica.com^$dnstype=AAAA
 ||yandexwebcache.net^$dnstype=AAAA
 ||yandexwebcache.org^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
