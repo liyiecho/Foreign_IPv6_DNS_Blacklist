@@ -2125,9 +2125,12 @@
 ||ankarazirvesi2018.com^$dnstype=AAAA
 ||anm.co.uk^$dnstype=AAAA
 ||annamilk.com^$dnstype=AAAA
+||annas-archive.gd^$dnstype=AAAA
+||annas-archive.gl^$dnstype=AAAA
 ||annas-archive.in^$dnstype=AAAA
 ||annas-archive.li^$dnstype=AAAA
 ||annas-archive.org^$dnstype=AAAA
+||annas-archive.pk^$dnstype=AAAA
 ||annas-archive.pm^$dnstype=AAAA
 ||annas-archive.se^$dnstype=AAAA
 ||annatam.com^$dnstype=AAAA
@@ -5869,6 +5872,7 @@
 ||caadoc.ac.uk^$dnstype=AAAA
 ||caagcc.ac.uk^$dnstype=AAAA
 ||caban.ac.uk^$dnstype=AAAA
+||cabconnect.org^$dnstype=AAAA
 ||cableav.tv^$dnstype=AAAA
 ||cableav.xyz^$dnstype=AAAA
 ||cablegatesearch.net^$dnstype=AAAA
@@ -6031,6 +6035,7 @@
 ||candypleasure.com^$dnstype=AAAA
 ||cannington.ac.uk^$dnstype=AAAA
 ||cannock.ac.uk^$dnstype=AAAA
+||canny.io^$dnstype=AAAA
 ||canolfansgiliaucadarn.ac.uk^$dnstype=AAAA
 ||canolfanyramgylcheddolcymru.ac.uk^$dnstype=AAAA
 ||canon-cee.com^$dnstype=AAAA
@@ -7799,6 +7804,7 @@
 ||cranfield.ac.uk^$dnstype=AAAA
 ||crankplayer.com^$dnstype=AAAA
 ||crash.ac.uk^$dnstype=AAAA
+||crashlytics.com^$dnstype=AAAA
 ||crates.io^$dnstype=AAAA
 ||craven-college.ac.uk^$dnstype=AAAA
 ||crawley-college.ac.uk^$dnstype=AAAA
@@ -9452,6 +9458,7 @@
 ||dribbble.com^$dnstype=AAAA
 ||drift.click^$dnstype=AAAA
 ||drindod.ac.uk^$dnstype=AAAA
+||driveawaytaxi.org^$dnstype=AAAA
 ||driverxxx.com^$dnstype=AAAA
 ||drivevideo.xyz^$dnstype=AAAA
 ||driving.co.uk^$dnstype=AAAA
@@ -10445,6 +10452,9 @@
 ||entrust.com^$dnstype=AAAA
 ||entrust.net^$dnstype=AAAA
 ||entrustdatacard.com^$dnstype=AAAA
+||envato-static.com^$dnstype=AAAA
+||envato.com^$dnstype=AAAA
+||envatousercontent.com^$dnstype=AAAA
 ||enveast.ac.uk^$dnstype=AAAA
 ||environment-health.ac.uk^$dnstype=AAAA
 ||eotarchive.org^$dnstype=AAAA
@@ -13264,6 +13274,7 @@
 ||gog-statics.com^$dnstype=AAAA
 ||gog.com^$dnstype=AAAA
 ||gogeo.ac.uk^$dnstype=AAAA
+||gogettaxi.org^$dnstype=AAAA
 ||gogle.com^$dnstype=AAAA
 ||gogle.de^$dnstype=AAAA
 ||gogo-load.com^$dnstype=AAAA
@@ -13661,6 +13672,7 @@
 ||gotrusted.com^$dnstype=AAAA
 ||gotw.ca^$dnstype=AAAA
 ||gouhuo.qq.com^$dnstype=AAAA
+||goup.ai^$dnstype=AAAA
 ||gouri.xyz^$dnstype=AAAA
 ||gov.hk^$dnstype=AAAA
 ||gov.in^$dnstype=AAAA
@@ -14101,6 +14113,7 @@
 ||haydaygame.com^$dnstype=AAAA
 ||hayle.ac.uk^$dnstype=AAAA
 ||haywardsheath.ac.uk^$dnstype=AAAA
+||hayya.ae^$dnstype=AAAA
 ||hbabit.com^$dnstype=AAAA
 ||hbfile.net^$dnstype=AAAA
 ||hbg.com^$dnstype=AAAA
@@ -17213,6 +17226,21 @@
 ||jiuse904.com^$dnstype=AAAA
 ||jiuse905.com^$dnstype=AAAA
 ||jiuzhouyihuo.com^$dnstype=AAAA
+||jivo.chat^$dnstype=AAAA
+||jivo.ru^$dnstype=AAAA
+||jivochat.co.in^$dnstype=AAAA
+||jivochat.co.za^$dnstype=AAAA
+||jivochat.com^$dnstype=AAAA
+||jivochat.com.br^$dnstype=AAAA
+||jivochat.com.co^$dnstype=AAAA
+||jivochat.com.pe^$dnstype=AAAA
+||jivochat.com.tr^$dnstype=AAAA
+||jivochat.de^$dnstype=AAAA
+||jivochat.es^$dnstype=AAAA
+||jivochat.ng^$dnstype=AAAA
+||jivochat.ru^$dnstype=AAAA
+||jivosite.com^$dnstype=AAAA
+||jivosite.ru^$dnstype=AAAA
 ||jiyou520.com^$dnstype=AAAA
 ||jiyu-kobo.co.jp^$dnstype=AAAA
 ||jizzboom.com^$dnstype=AAAA
@@ -20856,6 +20884,7 @@
 ||my-formosa.com^$dnstype=AAAA
 ||my-kualalumpur-1.myhuaweicloud.com^$dnstype=AAAA
 ||my-magazine.me^$dnstype=AAAA
+||my-manager-account.com^$dnstype=AAAA
 ||my-private-network.co.uk^$dnstype=AAAA
 ||my-proxy.com^$dnstype=AAAA
 ||my.mail.ru^$dnstype=AAAA
@@ -22352,6 +22381,7 @@
 ||ntp.ripe.net^$dnstype=AAAA
 ||ntp.se^$dnstype=AAAA
 ||ntp.t.ring.gr.jp^$dnstype=AAAA
+||ntp.time.nl^$dnstype=AAAA
 ||ntp.tohoku.ac.jp^$dnstype=AAAA
 ||ntp.tut.ac.jp^$dnstype=AAAA
 ||ntp.ubuntu.com^$dnstype=AAAA
@@ -22362,6 +22392,7 @@
 ||ntp1.ntp-servers.net^$dnstype=AAAA
 ||ntp1.plala.or.jp^$dnstype=AAAA
 ||ntp1.ring.gr.jp^$dnstype=AAAA
+||ntp1.time.nl^$dnstype=AAAA
 ||ntp1.tohoku.ac.jp^$dnstype=AAAA
 ||ntp1.v6.mfeed.ad.jp^$dnstype=AAAA
 ||ntp1.wakwak.com^$dnstype=AAAA
@@ -22369,6 +22400,7 @@
 ||ntp2.ntp-servers.net^$dnstype=AAAA
 ||ntp2.plala.or.jp^$dnstype=AAAA
 ||ntp2.ring.gr.jp^$dnstype=AAAA
+||ntp2.time.nl^$dnstype=AAAA
 ||ntp2.tohoku.ac.jp^$dnstype=AAAA
 ||ntp2.v6.mfeed.ad.jp^$dnstype=AAAA
 ||ntp2.wakwak.com^$dnstype=AAAA
@@ -22379,6 +22411,8 @@
 ||ntp5.ntp-servers.net^$dnstype=AAAA
 ||ntp6.ntp-servers.net^$dnstype=AAAA
 ||ntp7.ntp-servers.net^$dnstype=AAAA
+||ntppool1.time.nl^$dnstype=AAAA
+||ntppool2.time.nl^$dnstype=AAAA
 ||ntrfun.com^$dnstype=AAAA
 ||ntsna.gov.tw^$dnstype=AAAA
 ||ntten-mg.buzz^$dnstype=AAAA
@@ -28763,6 +28797,7 @@
 ||suppig.net^$dnstype=AAAA
 ||supply-chain.ac.uk^$dnstype=AAAA
 ||supplybestjerseys.com^$dnstype=AAAA
+||support-uber.com^$dnstype=AAAA
 ||supportfacebook.com^$dnstype=AAAA
 ||supremacy.com^$dnstype=AAAA
 ||supremacy.net^$dnstype=AAAA
@@ -29129,7 +29164,10 @@
 ||tawny-peaks.com^$dnstype=AAAA
 ||taxel.media^$dnstype=AAAA
 ||taxi69.com^$dnstype=AAAA
+||taxiaid.org^$dnstype=AAAA
 ||taxidrivermovie.com^$dnstype=AAAA
+||taxiguru.org^$dnstype=AAAA
+||taxitax.org^$dnstype=AAAA
 ||tay.ac.uk^$dnstype=AAAA
 ||taylorandfrancis.com^$dnstype=AAAA
 ||taylorfrancis.com^$dnstype=AAAA
@@ -29534,6 +29572,7 @@
 ||themanchestercollege.ac.uk^$dnstype=AAAA
 ||themarvelexperiencetour.com^$dnstype=AAAA
 ||themathsfactor.com^$dnstype=AAAA
+||themeforest.net^$dnstype=AAAA
 ||themercury.com.au^$dnstype=AAAA
 ||themessengeradelaide.com.au^$dnstype=AAAA
 ||themilfmovies.com^$dnstype=AAAA
@@ -29864,6 +29903,7 @@
 ||time.google.com^$dnstype=AAAA
 ||time.gov^$dnstype=AAAA
 ||time.nist.gov^$dnstype=AAAA
+||time.nl^$dnstype=AAAA
 ||time.nrc.ca^$dnstype=AAAA
 ||time.windows.com^$dnstype=AAAA
 ||time1.facebook.com^$dnstype=AAAA
@@ -31239,6 +31279,7 @@
 ||uwtsdlondon.ac.uk^$dnstype=AAAA
 ||uxbridge.ac.uk^$dnstype=AAAA
 ||uxbridgecollege.ac.uk^$dnstype=AAAA
+||uxthemes.com^$dnstype=AAAA
 ||uxxxporn.com^$dnstype=AAAA
 ||uyghur-archive.com^$dnstype=AAAA
 ||uyghur-j.org^$dnstype=AAAA
@@ -34135,10 +34176,24 @@
 ||yandexadexchange.net^$dnstype=AAAA
 ||yandexcloud.net^$dnstype=AAAA
 ||yandexcom.net^$dnstype=AAAA
+||yandexgo.com^$dnstype=AAAA
 ||yandexlyceum.ru^$dnstype=AAAA
 ||yandexwebcache.net^$dnstype=AAAA
 ||yandexwebcache.org^$dnstype=AAAA
 ||yangjianli.com^$dnstype=AAAA
+||yango-b2b.com^$dnstype=AAAA
+||yango-team.com^$dnstype=AAAA
+||yango-tech.com^$dnstype=AAAA
+||yango.africa^$dnstype=AAAA
+||yango.ao^$dnstype=AAAA
+||yango.bh^$dnstype=AAAA
+||yango.co.il^$dnstype=AAAA
+||yango.com^$dnstype=AAAA
+||yango.fi^$dnstype=AAAA
+||yango.qa^$dnstype=AAAA
+||yango.taxi^$dnstype=AAAA
+||yango.tech^$dnstype=AAAA
+||yangofellowship.com^$dnstype=AAAA
 ||yangzhi.app^$dnstype=AAAA
 ||yangzhi.org^$dnstype=AAAA
 ||yaohubaba.com^$dnstype=AAAA
