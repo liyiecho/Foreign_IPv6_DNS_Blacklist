@@ -32252,7 +32252,6 @@
 ||vizvaz.com^$dnstype=AAAA
 ||vjav.com^$dnstype=AAAA
 ||vjmedia.com.hk^$dnstype=AAAA
-||vk-analytics.ru^$dnstype=AAAA
 ||vk-apps.com^$dnstype=AAAA
 ||vk-apps.ru^$dnstype=AAAA
 ||vk-cdn.me^$dnstype=AAAA
@@ -34775,7 +34774,6 @@
 ||youjism.com^$dnstype=AAAA
 ||youjizz.com^$dnstype=AAAA
 ||youjizz.sex^$dnstype=AAAA
-||youla-web-static.mrgcdn.ru^$dnstype=AAAA
 ||youla.io^$dnstype=AAAA
 ||youla.ru^$dnstype=AAAA
 ||youlucky.com^$dnstype=AAAA
