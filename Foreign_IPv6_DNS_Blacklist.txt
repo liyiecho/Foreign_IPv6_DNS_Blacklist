@@ -293,6 +293,7 @@
 ||2gis.kg^$dnstype=AAAA
 ||2gis.kz^$dnstype=AAAA
 ||2gis.ru^$dnstype=AAAA
+||2gis.tech^$dnstype=AAAA
 ||2gis.tj^$dnstype=AAAA
 ||2gis.ua^$dnstype=AAAA
 ||2gis.uz^$dnstype=AAAA
@@ -2942,6 +2943,7 @@
 ||asuswebstorage.com^$dnstype=AAAA
 ||asvin.ac.uk^$dnstype=AAAA
 ||async.be^$dnstype=AAAA
+||at.ua^$dnstype=AAAA
 ||atandt.com^$dnstype=AAAA
 ||atasale.com^$dnstype=AAAA
 ||atc.org.au^$dnstype=AAAA
@@ -2983,6 +2985,7 @@
 ||att.jobs^$dnstype=AAAA
 ||att.net^$dnstype=AAAA
 ||att.tv^$dnstype=AAAA
+||attachmail.ru^$dnstype=AAAA
 ||attachmy.com^$dnstype=AAAA
 ||attackers.net^$dnstype=AAAA
 ||attalascom.com^$dnstype=AAAA
@@ -3261,6 +3264,7 @@
 ||avinetworks.com^$dnstype=AAAA
 ||avinin.com^$dnstype=AAAA
 ||avira.com^$dnstype=AAAA
+||avistaz.to^$dnstype=AAAA
 ||avito.ru^$dnstype=AAAA
 ||avito.st^$dnstype=AAAA
 ||avizoon.site^$dnstype=AAAA
@@ -4053,6 +4057,8 @@
 ||befuck.com^$dnstype=AAAA
 ||befuck.net^$dnstype=AAAA
 ||begellhouse.com^$dnstype=AAAA
+||beget.com^$dnstype=AAAA
+||beget.ru^$dnstype=AAAA
 ||begin-trade.com^$dnstype=AAAA
 ||behance.net^$dnstype=AAAA
 ||behaviour4learning.ac.uk^$dnstype=AAAA
@@ -6596,6 +6602,7 @@
 ||cgkate.jinvod.com^$dnstype=AAAA
 ||cglas.ac.uk^$dnstype=AAAA
 ||cgst.edu^$dnstype=AAAA
+||cgw666.com^$dnstype=AAAA
 ||ch9.ms^$dnstype=AAAA
 ||chace.ac.uk^$dnstype=AAAA
 ||championshipseriesleague.com^$dnstype=AAAA
@@ -10388,6 +10395,7 @@
 ||emojipedia.org^$dnstype=AAAA
 ||emol.ac.uk^$dnstype=AAAA
 ||emome.net^$dnstype=AAAA
+||emorpm.com^$dnstype=AAAA
 ||emory.edu^$dnstype=AAAA
 ||empero-right.mom^$dnstype=AAAA
 ||empfil.com^$dnstype=AAAA
@@ -13053,6 +13061,7 @@
 ||ghut.org^$dnstype=AAAA
 ||giantessbooru.com^$dnstype=AAAA
 ||giantessnight.com^$dnstype=AAAA
+||gid.ru^$dnstype=AAAA
 ||giffgaff.com^$dnstype=AAAA
 ||giffgaff.design^$dnstype=AAAA
 ||gifnuki.com^$dnstype=AAAA
@@ -22974,6 +22983,7 @@
 ||okkisokuho.com^$dnstype=AAAA
 ||okko.sport^$dnstype=AAAA
 ||okko.tv^$dnstype=AAAA
+||okkoapi.tv^$dnstype=AAAA
 ||okl.lt^$dnstype=AAAA
 ||okpool.me^$dnstype=AAAA
 ||oktech.ru^$dnstype=AAAA
@@ -25049,6 +25059,7 @@
 ||projectshoreline.com^$dnstype=AAAA
 ||projectvasari.com^$dnstype=AAAA
 ||projectvoyeur.com^$dnstype=AAAA
+||promodj.com^$dnstype=AAAA
 ||promonsterbeatsbydre.com^$dnstype=AAAA
 ||promotingpartnership.ac.uk^$dnstype=AAAA
 ||prompthero.com^$dnstype=AAAA
@@ -26892,6 +26903,7 @@
 ||screw-my-wife.com^$dnstype=AAAA
 ||scri.ac.uk^$dnstype=AAAA
 ||scribd.com^$dnstype=AAAA
+||scripts-for-ucoz.ru^$dnstype=AAAA
 ||scriptspot.com^$dnstype=AAAA
 ||scrolla.ac.uk^$dnstype=AAAA
 ||scrolller.com^$dnstype=AAAA
@@ -30230,6 +30242,8 @@
 ||timesnownews.com^$dnstype=AAAA
 ||timesofindia.indiatimes.com^$dnstype=AAAA
 ||timestalks.com^$dnstype=AAAA
+||timeweb.cloud^$dnstype=AAAA
+||timeweb.com^$dnstype=AAAA
 ||timi1.me^$dnstype=AAAA
 ||timo0.com^$dnstype=AAAA
 ||timsah.com^$dnstype=AAAA
@@ -30872,6 +30886,7 @@
 ||twca.com.tw^$dnstype=AAAA
 ||twcert.org.tw^$dnstype=AAAA
 ||twcomix.com^$dnstype=AAAA
+||twcstorage.ru^$dnstype=AAAA
 ||twdvd.com^$dnstype=AAAA
 ||tweakadmin.com^$dnstype=AAAA
 ||tweakfilms.com^$dnstype=AAAA
@@ -31138,6 +31153,30 @@
 ||ucn.ac.uk^$dnstype=AAAA
 ||ucnl.ac.uk^$dnstype=AAAA
 ||uco.ac.uk^$dnstype=AAAA
+||ucoz.ae^$dnstype=AAAA
+||ucoz.club^$dnstype=AAAA
+||ucoz.co^$dnstype=AAAA
+||ucoz.co.il^$dnstype=AAAA
+||ucoz.co.uk^$dnstype=AAAA
+||ucoz.com^$dnstype=AAAA
+||ucoz.com.br^$dnstype=AAAA
+||ucoz.com.ro^$dnstype=AAAA
+||ucoz.de^$dnstype=AAAA
+||ucoz.es^$dnstype=AAAA
+||ucoz.fr^$dnstype=AAAA
+||ucoz.hu^$dnstype=AAAA
+||ucoz.kz^$dnstype=AAAA
+||ucoz.lv^$dnstype=AAAA
+||ucoz.md^$dnstype=AAAA
+||ucoz.net^$dnstype=AAAA
+||ucoz.org^$dnstype=AAAA
+||ucoz.pl^$dnstype=AAAA
+||ucoz.ru^$dnstype=AAAA
+||ucoz.site^$dnstype=AAAA
+||ucoz.ua^$dnstype=AAAA
+||ucozmedia.com^$dnstype=AAAA
+||ucozmedia.ru^$dnstype=AAAA
+||ucoztemplates.com^$dnstype=AAAA
 ||ucp.ac.uk^$dnstype=AAAA
 ||ucpmarjon.ac.uk^$dnstype=AAAA
 ||ucq.ac.uk^$dnstype=AAAA
@@ -31180,6 +31219,7 @@
 ||uforadio.com.tw^$dnstype=AAAA
 ||ufreevpn.com^$dnstype=AAAA
 ||ugo.com^$dnstype=AAAA
+||uguide.ru^$dnstype=AAAA
 ||uguisupapa.net^$dnstype=AAAA
 ||uhairy.com^$dnstype=AAAA
 ||uhdwallpapers.org^$dnstype=AAAA
@@ -31246,6 +31286,10 @@
 ||ukimr.ac.uk^$dnstype=AAAA
 ||ukipad.com^$dnstype=AAAA
 ||ukirc.ac.uk^$dnstype=AAAA
+||ukit.ai^$dnstype=AAAA
+||ukit.com^$dnstype=AAAA
+||ukit.group^$dnstype=AAAA
+||ukit.me^$dnstype=AAAA
 ||uklibrariesplus.ac.uk^$dnstype=AAAA
 ||ukliferadio.co.uk^$dnstype=AAAA
 ||uklight.ac.uk^$dnstype=AAAA
@@ -31303,6 +31347,7 @@
 ||ultraxs.com^$dnstype=AAAA
 ||ultrayoungsex.com^$dnstype=AAAA
 ||ulyssesapp.com^$dnstype=AAAA
+||uma.media^$dnstype=AAAA
 ||umagazine.com.hk^$dnstype=AAAA
 ||umass.edu^$dnstype=AAAA
 ||umbrella.com^$dnstype=AAAA
@@ -33998,6 +34043,7 @@
 ||xlstudio.com^$dnstype=AAAA
 ||xlydh.cc^$dnstype=AAAA
 ||xm.com^$dnstype=AAAA
+||xmail.ru^$dnstype=AAAA
 ||xmalay.com^$dnstype=AAAA
 ||xmart.tw^$dnstype=AAAA
 ||xmas.ac.uk^$dnstype=AAAA
