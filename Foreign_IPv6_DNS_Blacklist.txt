@@ -295,7 +295,6 @@
 ||2gis.ru^$dnstype=AAAA
 ||2gis.tech^$dnstype=AAAA
 ||2gis.tj^$dnstype=AAAA
-||2gis.ua^$dnstype=AAAA
 ||2gis.uz^$dnstype=AAAA
 ||2k.com^$dnstype=AAAA
 ||2kcoretech.online^$dnstype=AAAA
