@@ -976,6 +976,7 @@
 ||adguard.io^$dnstype=AAAA
 ||adguard.org^$dnstype=AAAA
 ||adguardaccount.com^$dnstype=AAAA
+||adguardcdn.com^$dnstype=AAAA
 ||adguardvpn.com^$dnstype=AAAA
 ||adhelpnews.com^$dnstype=AAAA
 ||adidas-archive.org^$dnstype=AAAA
