@@ -20346,6 +20346,7 @@
 ||minim.ac.uk^$dnstype=AAAA
 ||minimarkham.ca^$dnstype=AAAA
 ||minimarkham.com^$dnstype=AAAA
+||minimax.io^$dnstype=AAAA
 ||minimoncton.ca^$dnstype=AAAA
 ||minimoncton.com^$dnstype=AAAA
 ||minimontrealcentre.ca^$dnstype=AAAA
@@ -26847,6 +26848,7 @@
 ||scope-uk.ac.uk^$dnstype=AAAA
 ||scopic.ac.uk^$dnstype=AAAA
 ||score.ac.uk^$dnstype=AAAA
+||scorecardresearch.com^$dnstype=AAAA
 ||scoreclassics.com^$dnstype=AAAA
 ||scorediscounts.club^$dnstype=AAAA
 ||scoregroup.com^$dnstype=AAAA
