@@ -16150,6 +16150,7 @@
 ||imstagram.com^$dnstype=AAAA
 ||imt.ac.uk^$dnstype=AAAA
 ||imtagram.com^$dnstype=AAAA
+||imtintl.com^$dnstype=AAAA
 ||imtoken.fans^$dnstype=AAAA
 ||imzog.com^$dnstype=AAAA
 ||in-disguise.com^$dnstype=AAAA
