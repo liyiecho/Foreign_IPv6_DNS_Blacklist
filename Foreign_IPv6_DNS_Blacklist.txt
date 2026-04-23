@@ -2306,6 +2306,7 @@
 ||app-store.wang^$dnstype=AAAA
 ||app.box.com^$dnstype=AAAA
 ||app.cloudcone.com^$dnstype=AAAA
+||app.element.io^$dnstype=AAAA
 ||app.link^$dnstype=AAAA
 ||app.smartmailcloud.com^$dnstype=AAAA
 ||app.smartsheet.com^$dnstype=AAAA
@@ -2874,6 +2875,7 @@
 ||asianxxxjoy.com^$dnstype=AAAA
 ||asianxxxvideos.cc^$dnstype=AAAA
 ||asiaone.com^$dnstype=AAAA
+||asiasociety.org^$dnstype=AAAA
 ||asiatgp.com^$dnstype=AAAA
 ||asiatimes.com^$dnstype=AAAA
 ||asiatoday.us^$dnstype=AAAA
@@ -4091,6 +4093,7 @@
 ||bellebound.com^$dnstype=AAAA
 ||bellerbys.ac.uk^$dnstype=AAAA
 ||bellesa.co^$dnstype=AAAA
+||bellingcat.com^$dnstype=AAAA
 ||bellotube.com^$dnstype=AAAA
 ||bellsouth.net^$dnstype=AAAA
 ||belonging.google^$dnstype=AAAA
@@ -7905,6 +7908,7 @@
 ||crest.ac.uk^$dnstype=AAAA
 ||crestresearch.ac.uk^$dnstype=AAAA
 ||crew.ac.uk^$dnstype=AAAA
+||crewai.com^$dnstype=AAAA
 ||crfr.ac.uk^$dnstype=AAAA
 ||crh.ac.uk^$dnstype=AAAA
 ||cri.ac.uk^$dnstype=AAAA
@@ -16873,6 +16877,7 @@
 ||issitedownrightnow.com^$dnstype=AAAA
 ||issquaredown.com^$dnstype=AAAA
 ||issquareup.com^$dnstype=AAAA
+||issues.chromium.org^$dnstype=AAAA
 ||issuu.com^$dnstype=AAAA
 ||istar.ac.uk^$dnstype=AAAA
 ||istars.co.nz^$dnstype=AAAA
@@ -18161,6 +18166,7 @@
 ||landmarks.ac.uk^$dnstype=AAAA
 ||landofhope.tv^$dnstype=AAAA
 ||landscape.ac.uk^$dnstype=AAAA
+||langchain.com^$dnstype=AAAA
 ||langdoncollege.ac.uk^$dnstype=AAAA
 ||langpol.ac.uk^$dnstype=AAAA
 ||langside.ac.uk^$dnstype=AAAA
@@ -18737,6 +18743,7 @@
 ||lmmbtc.com^$dnstype=AAAA
 ||lms.ac.uk^$dnstype=AAAA
 ||lms01.com^$dnstype=AAAA
+||lmstudio.ai^$dnstype=AAAA
 ||lmsys.org^$dnstype=AAAA
 ||lmu.ac.uk^$dnstype=AAAA
 ||lnat.ac.uk^$dnstype=AAAA
@@ -23019,6 +23026,7 @@
 ||olf.ac.uk^$dnstype=AAAA
 ||oli-school.com^$dnstype=AAAA
 ||oli.ac.uk^$dnstype=AAAA
+||ollama.com^$dnstype=AAAA
 ||olumpo.com^$dnstype=AAAA
 ||olympicwatch.org^$dnstype=AAAA
 ||omafotze.com^$dnstype=AAAA
@@ -25785,6 +25793,7 @@
 ||recoiljs.org^$dnstype=AAAA
 ||reconinstruments.com^$dnstype=AAAA
 ||reconjet.com^$dnstype=AAAA
+||recordedfuture.com^$dnstype=AAAA
 ||recordhistory.org^$dnstype=AAAA
 ||recordingachievement.ac.uk^$dnstype=AAAA
 ||recovery.org.tw^$dnstype=AAAA
@@ -29990,6 +29999,7 @@
 ||thieme.com^$dnstype=AAAA
 ||thieme.de^$dnstype=AAAA
 ||thinkboxsoftware.com^$dnstype=AAAA
+||thinkchina.sg^$dnstype=AAAA
 ||thinkdifferent.us^$dnstype=AAAA
 ||thinkgeek.com^$dnstype=AAAA
 ||thinkhigher.ac.uk^$dnstype=AAAA
