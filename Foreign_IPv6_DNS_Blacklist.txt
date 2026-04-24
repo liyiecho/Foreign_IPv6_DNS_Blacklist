@@ -1276,6 +1276,7 @@
 ||agemys.org^$dnstype=AAAA
 ||agendaweek.com^$dnstype=AAAA
 ||agenet.ac.uk^$dnstype=AAAA
+||agentclientprotocol.com^$dnstype=AAAA
 ||agilebits.com^$dnstype=AAAA
 ||agnesb.fr^$dnstype=AAAA
 ||agnss.goog^$dnstype=AAAA
@@ -24282,6 +24283,7 @@
 ||placesdocs.com^$dnstype=AAAA
 ||planetminecraft.com^$dnstype=AAAA
 ||planetsuzy.org^$dnstype=AAAA
+||plannotator.ai^$dnstype=AAAA
 ||plansondemand.com^$dnstype=AAAA
 ||plant-phenomics.ac.uk^$dnstype=AAAA
 ||plantsvszombies2.com^$dnstype=AAAA
@@ -30977,6 +30979,7 @@
 ||twitcause.com^$dnstype=AAAA
 ||twitch.tv^$dnstype=AAAA
 ||twitchcdn.net^$dnstype=AAAA
+||twitchcon.com^$dnstype=AAAA
 ||twitchsvc.net^$dnstype=AAAA
 ||twitcomike.jp^$dnstype=AAAA
 ||twitgether.com^$dnstype=AAAA
