@@ -8196,6 +8196,7 @@
 ||cython.org^$dnstype=AAAA
 ||cytode.us^$dnstype=AAAA
 ||cyyeshb.com^$dnstype=AAAA
+||cz.cc^$dnstype=AAAA
 ||czechav.com^$dnstype=AAAA
 ||czechbiporn.com^$dnstype=AAAA
 ||czechcasting.com^$dnstype=AAAA
@@ -9683,6 +9684,7 @@
 ||duping.net^$dnstype=AAAA
 ||duplicati.com^$dnstype=AAAA
 ||dupola.com^$dnstype=AAAA
+||dupola.net^$dnstype=AAAA
 ||dur.ac.uk^$dnstype=AAAA
 ||durex-shop.ch^$dnstype=AAAA
 ||durex-shopline.com^$dnstype=AAAA
@@ -11594,6 +11596,8 @@
 ||fedoramagazine.org^$dnstype=AAAA
 ||fedorapeople.org^$dnstype=AAAA
 ||fedoraproject.org^$dnstype=AAAA
+||feebee.com.tw^$dnstype=AAAA
+||feebee.tw^$dnstype=AAAA
 ||feedburner.com^$dnstype=AAAA
 ||feeder.co^$dnstype=AAAA
 ||feedherfuckher.com^$dnstype=AAAA
@@ -13157,6 +13161,7 @@
 ||gizlen.net^$dnstype=AAAA
 ||gizmoxxx.com^$dnstype=AAAA
 ||gjczz.com^$dnstype=AAAA
+||gjtaiwan.com^$dnstype=AAAA
 ||gla.ac.uk^$dnstype=AAAA
 ||glaadh.ac.uk^$dnstype=AAAA
 ||gladporn.com^$dnstype=AAAA
@@ -15268,6 +15273,7 @@
 ||hrsaz.com^$dnstype=AAAA
 ||hrsfc.ac.uk^$dnstype=AAAA
 ||hrtek.ru^$dnstype=AAAA
+||hrtsea.com^$dnstype=AAAA
 ||hrw.org^$dnstype=AAAA
 ||hrweb.org^$dnstype=AAAA
 ||hsad.ac.uk^$dnstype=AAAA
@@ -16262,6 +16268,7 @@
 ||inmediahk.net^$dnstype=AAAA
 ||innermongolia.org^$dnstype=AAAA
 ||innogen.ac.uk^$dnstype=AAAA
+||innovarad.tw^$dnstype=AAAA
 ||innovation-exchange.ac.uk^$dnstype=AAAA
 ||innovation.ac.uk^$dnstype=AAAA
 ||innovations-i.com^$dnstype=AAAA
@@ -22558,6 +22565,7 @@
 ||ntec.ac.uk^$dnstype=AAAA
 ||ntfs.ac.uk^$dnstype=AAAA
 ||ntidagenham.ac.uk^$dnstype=AAAA
+||ntl.edu.tw^$dnstype=AAAA
 ||ntnews.com.au^$dnstype=AAAA
 ||ntp-b.nist.gov^$dnstype=AAAA
 ||ntp-c.colorado.edu^$dnstype=AAAA
@@ -34246,6 +34254,7 @@
 ||xtube.com^$dnstype=AAAA
 ||xtubebdsm.com^$dnstype=AAAA
 ||xtubezoo.com^$dnstype=AAAA
+||xu97.vip^$dnstype=AAAA
 ||xuchao.net^$dnstype=AAAA
 ||xuchao.org^$dnstype=AAAA
 ||xuehua.us^$dnstype=AAAA
