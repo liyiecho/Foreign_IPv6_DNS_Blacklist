@@ -2677,6 +2677,7 @@
 ||apu.ac.uk^$dnstype=AAAA
 ||apuc-scot.ac.uk^$dnstype=AAAA
 ||apyle.com^$dnstype=AAAA
+||aqdlt.net^$dnstype=AAAA
 ||aqi.aqicn.org^$dnstype=AAAA
 ||aqicn.org^$dnstype=AAAA
 ||aqmen.ac.uk^$dnstype=AAAA
@@ -5718,6 +5719,7 @@
 ||bullguard.com^$dnstype=AAAA
 ||bullog.org^$dnstype=AAAA
 ||bullogger.com^$dnstype=AAAA
+||bululusexdoll.com^$dnstype=AAAA
 ||bumingbai.net^$dnstype=AAAA
 ||bumpshare.com^$dnstype=AAAA
 ||bumptop.ca^$dnstype=AAAA
@@ -8277,6 +8279,7 @@
 ||dahlmessenger.com^$dnstype=AAAA
 ||daidostup.ru^$dnstype=AAAA
 ||daiichibank.co.jp^$dnstype=AAAA
+||dailidaili.com^$dnstype=AAAA
 ||daily-cloudcode-pa.googleapis.com^$dnstype=AAAA
 ||dailybasis.com^$dnstype=AAAA
 ||dailym.ai^$dnstype=AAAA
@@ -25177,6 +25180,7 @@
 ||pttyes.com^$dnstype=AAAA
 ||ptwxz.com^$dnstype=AAAA
 ||ptzwx.com^$dnstype=AAAA
+||pu82.vip^$dnstype=AAAA
 ||pub.dev^$dnstype=AAAA
 ||pubg.com^$dnstype=AAAA
 ||pubg1.battleye.com^$dnstype=AAAA
@@ -32890,6 +32894,7 @@
 ||warwickequine.ac.uk^$dnstype=AAAA
 ||warwickhri.ac.uk^$dnstype=AAAA
 ||warwickshire.ac.uk^$dnstype=AAAA
+||wasdj.com^$dnstype=AAAA
 ||waselpro.com^$dnstype=AAAA
 ||washa.tv^$dnstype=AAAA
 ||washeng.net^$dnstype=AAAA
