@@ -31541,6 +31541,7 @@
 ||upornia.com^$dnstype=AAAA
 ||uporno.xxx^$dnstype=AAAA
 ||uproxy.org^$dnstype=AAAA
+||upsangel.com^$dnstype=AAAA
 ||uptodown.com^$dnstype=AAAA
 ||upwill.org^$dnstype=AAAA
 ||upwork.com^$dnstype=AAAA
