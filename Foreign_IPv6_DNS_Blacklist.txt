@@ -30340,6 +30340,7 @@
 ||tmc.ac.uk^$dnstype=AAAA
 ||tmcs.ac.uk^$dnstype=AAAA
 ||tmdb-image-prod.b-cdn.net^$dnstype=AAAA
+||tmdb-web-image-prod.b-cdn.net^$dnstype=AAAA
 ||tmdb.org^$dnstype=AAAA
 ||tmdfish.com^$dnstype=AAAA
 ||tmei-taoyuan.com^$dnstype=AAAA
@@ -35148,6 +35149,7 @@
 ||ysmass.com^$dnstype=AAAA
 ||ysmeal.com^$dnstype=AAAA
 ||ysmeat.com^$dnstype=AAAA
+||ysmeet.com^$dnstype=AAAA
 ||ysmelf.com^$dnstype=AAAA
 ||ysmere.com^$dnstype=AAAA
 ||ysmuch.com^$dnstype=AAAA
