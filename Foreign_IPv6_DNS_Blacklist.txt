@@ -12487,6 +12487,7 @@
 ||ftvmilfs.com^$dnstype=AAAA
 ||ftvnews.com.tw^$dnstype=AAAA
 ||ftx.com^$dnstype=AAAA
+||fu62.vip^$dnstype=AAAA
 ||fubo.tv^$dnstype=AAAA
 ||fucd.com^$dnstype=AAAA
 ||fuchsia.dev^$dnstype=AAAA
@@ -20386,6 +20387,7 @@
 ||minisaskatoon.com^$dnstype=AAAA
 ||minisexdoll.com^$dnstype=AAAA
 ||minishop.ca^$dnstype=AAAA
+||miniso-au.com^$dnstype=AAAA
 ||miniso-bh.com^$dnstype=AAAA
 ||miniso-np.com^$dnstype=AAAA
 ||miniso-nz.com^$dnstype=AAAA
@@ -21319,6 +21321,7 @@
 ||mythicgames.com^$dnstype=AAAA
 ||mytimesplus.co.uk^$dnstype=AAAA
 ||mytizi.com^$dnstype=AAAA
+||mytokenapi.com^$dnstype=AAAA
 ||mytopf.com^$dnstype=AAAA
 ||mytrannycams.com^$dnstype=AAAA
 ||mytrk.link^$dnstype=AAAA
@@ -25701,6 +25704,7 @@
 ||rds-yes.buzz^$dnstype=AAAA
 ||rdtcdn.com^$dnstype=AAAA
 ||re-net.ac.uk^$dnstype=AAAA
+||re25.vip^$dnstype=AAAA
 ||rea-asia.com^$dnstype=AAAA
 ||rea-group.com^$dnstype=AAAA
 ||rea.design^$dnstype=AAAA
