@@ -8924,6 +8924,7 @@
 ||digitalid.ch^$dnstype=AAAA
 ||digitallifespan.ac.uk^$dnstype=AAAA
 ||digitalnomadsproject.org^$dnstype=AAAA
+||digitalocean-ui.com^$dnstype=AAAA
 ||digitalocean.com^$dnstype=AAAA
 ||digitaloceanspaces.com^$dnstype=AAAA
 ||digitalpack.com^$dnstype=AAAA
@@ -26689,9 +26690,6 @@
 ||sc1.ac.uk^$dnstype=AAAA
 ||sca-tolo.info^$dnstype=AAAA
 ||scaan.ac.uk^$dnstype=AAAA
-||scache.vzw.com^$dnstype=AAAA
-||scache1.vzw.com^$dnstype=AAAA
-||scache2.vzw.com^$dnstype=AAAA
 ||scadr.ac.uk^$dnstype=AAAA
 ||scae.ac.uk^$dnstype=AAAA
 ||scala-lang.org^$dnstype=AAAA
@@ -28505,7 +28503,6 @@
 ||ss.pythonic.life^$dnstype=AAAA
 ||ss2.us^$dnstype=AAAA
 ||ss7.app^$dnstype=AAAA
-||ss7.vzw.com^$dnstype=AAAA
 ||ssa.gov^$dnstype=AAAA
 ||ssdevrd.com^$dnstype=AAAA
 ||ssees.ac.uk^$dnstype=AAAA
