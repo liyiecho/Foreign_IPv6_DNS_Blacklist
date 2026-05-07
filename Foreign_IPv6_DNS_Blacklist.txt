@@ -874,6 +874,7 @@
 ||acesofthunder.net^$dnstype=AAAA
 ||acets.ac.uk^$dnstype=AAAA
 ||acevpn.com^$dnstype=AAAA
+||acg.mn^$dnstype=AAAA
 ||acg.rip^$dnstype=AAAA
 ||acg18.me^$dnstype=AAAA
 ||acgbox.link^$dnstype=AAAA
@@ -2200,6 +2201,7 @@
 ||anypornsexxx.com^$dnstype=AAAA
 ||anysex.com^$dnstype=AAAA
 ||anyshemale.com^$dnstype=AAAA
+||anythingllm.com^$dnstype=AAAA
 ||anyxxx.me^$dnstype=AAAA
 ||anyxxx.pro^$dnstype=AAAA
 ||ao3.org^$dnstype=AAAA
@@ -4590,6 +4592,7 @@
 ||blazor.net^$dnstype=AAAA
 ||blc.ac.uk^$dnstype=AAAA
 ||ble.ac.uk^$dnstype=AAAA
+||bleepingcomputer.com^$dnstype=AAAA
 ||blend-ed.ac.uk^$dnstype=AAAA
 ||blender.org^$dnstype=AAAA
 ||blewpass.com^$dnstype=AAAA
@@ -5315,6 +5318,7 @@
 ||boomba.club^$dnstype=AAAA
 ||boombeach.com^$dnstype=AAAA
 ||boomerang.com^$dnstype=AAAA
+||boomplay.com^$dnstype=AAAA
 ||boomssr.com^$dnstype=AAAA
 ||boomtrain.com^$dnstype=AAAA
 ||booru.org^$dnstype=AAAA
@@ -7749,7 +7753,10 @@
 ||coova.net^$dnstype=AAAA
 ||coova.org^$dnstype=AAAA
 ||copac.ac.uk^$dnstype=AAAA
+||copilot-proxy.githubusercontent.com^$dnstype=AAAA
+||copilot-workspace.githubnext.com^$dnstype=AAAA
 ||copilot.microsoft.com^$dnstype=AAAA
+||copilotprodattachments.blob.core.windows.net^$dnstype=AAAA
 ||copim.ac.uk^$dnstype=AAAA
 ||copior.ac.uk^$dnstype=AAAA
 ||copro.pw^$dnstype=AAAA
@@ -8043,6 +8050,7 @@
 ||ctg.ac.uk^$dnstype=AAAA
 ||ctinets.com^$dnstype=AAAA
 ||ctinews.com^$dnstype=AAAA
+||ctinsider.com^$dnstype=AAAA
 ||ctitv.com.tw^$dnstype=AAAA
 ||ctk.ac.uk^$dnstype=AAAA
 ||ctkaquinas.ac.uk^$dnstype=AAAA
@@ -10219,6 +10227,7 @@
 ||edhcc.ac.uk^$dnstype=AAAA
 ||edicypages.com^$dnstype=AAAA
 ||edifhe.ac.uk^$dnstype=AAAA
+||edigest.hk^$dnstype=AAAA
 ||edina.ac.uk^$dnstype=AAAA
 ||edinburgh.ac.uk^$dnstype=AAAA
 ||edinburghcollege.ac.uk^$dnstype=AAAA
@@ -13181,6 +13190,11 @@
 ||githack.com^$dnstype=AAAA
 ||github-api.arkoselabs.com^$dnstype=AAAA
 ||github-cloud.s3.amazonaws.com^$dnstype=AAAA
+||github-production-release-asset-2e65be.s3.amazonaws.com^$dnstype=AAAA
+||github-production-repository-file-5c1aeb.s3.amazonaws.com^$dnstype=AAAA
+||github-production-repository-image-32fea6.s3.amazonaws.com^$dnstype=AAAA
+||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$dnstype=AAAA
+||github-production-user-asset-6210df.s3.amazonaws.com^$dnstype=AAAA
 ||github.ai^$dnstype=AAAA
 ||github.blog^$dnstype=AAAA
 ||github.com^$dnstype=AAAA
@@ -14844,6 +14858,7 @@
 ||hitomi.la^$dnstype=AAAA
 ||hitun.io^$dnstype=AAAA
 ||hitxhot.com^$dnstype=AAAA
+||hive.blog^$dnstype=AAAA
 ||hiveon.net^$dnstype=AAAA
 ||hizb-ut-tahrir.info^$dnstype=AAAA
 ||hizb-ut-tahrir.org^$dnstype=AAAA
@@ -15710,6 +15725,7 @@
 ||icams.com^$dnstype=AAAA
 ||icashpassport.com.mx^$dnstype=AAAA
 ||icca.ac.uk^$dnstype=AAAA
+||iccf.com^$dnstype=AAAA
 ||iccliverpool.ac.uk^$dnstype=AAAA
 ||ice-cse.ac.uk^$dnstype=AAAA
 ||iced.ac.uk^$dnstype=AAAA
@@ -16302,6 +16318,7 @@
 ||informer.com^$dnstype=AAAA
 ||informs.org^$dnstype=AAAA
 ||infosciscotland.ac.uk^$dnstype=AAAA
+||infosec.exchange^$dnstype=AAAA
 ||infotimes.com.tw^$dnstype=AAAA
 ||infowars.com^$dnstype=AAAA
 ||infowarsmedia.com^$dnstype=AAAA
@@ -17829,6 +17846,7 @@
 ||kastatic.org^$dnstype=AAAA
 ||kat.cr^$dnstype=AAAA
 ||katestube.com^$dnstype=AAAA
+||kathmandupost.com^$dnstype=AAAA
 ||kavkazr.com^$dnstype=AAAA
 ||kawaiikawaii.jp^$dnstype=AAAA
 ||kawase.com^$dnstype=AAAA
@@ -19820,6 +19838,7 @@
 ||mediafire.com^$dnstype=AAAA
 ||mediafreakcity.com^$dnstype=AAAA
 ||mediahub.ac.uk^$dnstype=AAAA
+||mediamatters.org^$dnstype=AAAA
 ||median.ac.uk^$dnstype=AAAA
 ||mediasama.com^$dnstype=AAAA
 ||mediawiki.org^$dnstype=AAAA
@@ -21115,6 +21134,7 @@
 ||mushroomtrack.com^$dnstype=AAAA
 ||mushymush.tv^$dnstype=AAAA
 ||music-research.ac.uk^$dnstype=AAAA
+||music.amazon.com^$dnstype=AAAA
 ||musicade.net^$dnstype=AAAA
 ||musical.ly^$dnstype=AAAA
 ||musicandphilosophy.ac.uk^$dnstype=AAAA
@@ -21963,6 +21983,7 @@
 ||newsfeed.com^$dnstype=AAAA
 ||newsfilm.ac.uk^$dnstype=AAAA
 ||newsgawakaru.com^$dnstype=AAAA
+||newshub.co.nz^$dnstype=AAAA
 ||newslicensing.co.uk^$dnstype=AAAA
 ||newsmagazine.asia^$dnstype=AAAA
 ||newsmart.jp^$dnstype=AAAA
@@ -21978,6 +21999,7 @@
 ||newstapa.org^$dnstype=AAAA
 ||newstarnet.com^$dnstype=AAAA
 ||newstatesman.com^$dnstype=AAAA
+||newstimes.com^$dnstype=AAAA
 ||newsukadops.com^$dnstype=AAAA
 ||newsupermariobrosu.com^$dnstype=AAAA
 ||newswav.com^$dnstype=AAAA
@@ -22049,6 +22071,7 @@
 ||nflxvideo.net^$dnstype=AAAA
 ||nfo.ac.uk^$dnstype=AAAA
 ||nfsc.global^$dnstype=AAAA
+||nfsc.press^$dnstype=AAAA
 ||nfscdict.com^$dnstype=AAAA
 ||nfscofficial.com^$dnstype=AAAA
 ||nfsworld.com^$dnstype=AAAA
@@ -23164,6 +23187,7 @@
 ||onapp.com^$dnstype=AAAA
 ||onbeatsbydresale.com^$dnstype=AAAA
 ||oncars.in^$dnstype=AAAA
+||ondigitalocean.com^$dnstype=AAAA
 ||one.one^$dnstype=AAAA
 ||one.one.one^$dnstype=AAAA
 ||one.one.one.one^$dnstype=AAAA
@@ -23323,6 +23347,7 @@
 ||opensource.guide^$dnstype=AAAA
 ||opensourceinsight.dev^$dnstype=AAAA
 ||opensourceinsights.dev^$dnstype=AAAA
+||openspec.dev^$dnstype=AAAA
 ||openssl.org^$dnstype=AAAA
 ||openstemlab.ac.uk^$dnstype=AAAA
 ||openstemlabs.ac.uk^$dnstype=AAAA
@@ -23515,6 +23540,7 @@
 ||overapple.com^$dnstype=AAAA
 ||overcast.fm^$dnstype=AAAA
 ||overdaily.org^$dnstype=AAAA
+||overdrive.com^$dnstype=AAAA
 ||overleaf.com^$dnstype=AAAA
 ||overplay.net^$dnstype=AAAA
 ||oversea.istarshine.com^$dnstype=AAAA
@@ -24073,6 +24099,7 @@
 ||pencoed.ac.uk^$dnstype=AAAA
 ||pendcoll.ac.uk^$dnstype=AAAA
 ||pendrivelinux.com^$dnstype=AAAA
+||penguin.com.au^$dnstype=AAAA
 ||pengwerncollege.ac.uk^$dnstype=AAAA
 ||pengyulong.com^$dnstype=AAAA
 ||peninsula.ac.uk^$dnstype=AAAA
@@ -25141,6 +25168,26 @@
 ||prodrive-japan.com^$dnstype=AAAA
 ||product.co.jp^$dnstype=AAAA
 ||production-openaicom-storage.azureedge.net^$dnstype=AAAA
+||productionresultssa0.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa1.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa10.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa11.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa12.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa13.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa14.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa15.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa16.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa17.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa18.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa19.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa2.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa3.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa4.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa5.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa6.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa7.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa8.blob.core.windows.net^$dnstype=AAAA
+||productionresultssa9.blob.core.windows.net^$dnstype=AAAA
 ||productivemargins.ac.uk^$dnstype=AAAA
 ||profile.ac.uk^$dnstype=AAAA
 ||profilemaster.com^$dnstype=AAAA
@@ -26421,6 +26468,7 @@
 ||rti.tw^$dnstype=AAAA
 ||rtings.com^$dnstype=AAAA
 ||rtm.tnt-ea.com^$dnstype=AAAA
+||rts.ch^$dnstype=AAAA
 ||rtycminnesota.org^$dnstype=AAAA
 ||ru-moscow-1.myhuaweicloud.com^$dnstype=AAAA
 ||rua-project.ac.uk^$dnstype=AAAA
@@ -29199,6 +29247,7 @@
 ||supplybestjerseys.com^$dnstype=AAAA
 ||support-uber.com^$dnstype=AAAA
 ||supportfacebook.com^$dnstype=AAAA
+||supr.cl^$dnstype=AAAA
 ||supremacy.com^$dnstype=AAAA
 ||supremacy.net^$dnstype=AAAA
 ||suprememastertv.com^$dnstype=AAAA
@@ -29887,6 +29936,7 @@
 ||the-japan-news.com^$dnstype=AAAA
 ||the-m-festival.com^$dnstype=AAAA
 ||the-monster-beats.com^$dnstype=AAAA
+||the-sun.com^$dnstype=AAAA
 ||the-tls.co.uk^$dnstype=AAAA
 ||the123d.com^$dnstype=AAAA
 ||theadulthub.com^$dnstype=AAAA
@@ -30088,6 +30138,7 @@
 ||theverge.com^$dnstype=AAAA
 ||thevirtualsexreview.com^$dnstype=AAAA
 ||thevivekspot.com^$dnstype=AAAA
+||theweek.com^$dnstype=AAAA
 ||theweek.in^$dnstype=AAAA
 ||thewgo.org^$dnstype=AAAA
 ||thewirechina.com^$dnstype=AAAA
@@ -30968,6 +31019,7 @@
 ||tvbweekly.com^$dnstype=AAAA
 ||tvc.ac.uk^$dnstype=AAAA
 ||tvcastlive-hamivideo.cdn.hinet.net^$dnstype=AAAA
+||tvdy1.com^$dnstype=AAAA
 ||tver.co.jp^$dnstype=AAAA
 ||tver.jp^$dnstype=AAAA
 ||tvider.com^$dnstype=AAAA
@@ -31050,6 +31102,7 @@
 ||twiggit.org^$dnstype=AAAA
 ||twilightsex.com^$dnstype=AAAA
 ||twilio.com^$dnstype=AAAA
+||twilio.jp^$dnstype=AAAA
 ||twilog.org^$dnstype=AAAA
 ||twimbow.com^$dnstype=AAAA
 ||twimg.co^$dnstype=AAAA
@@ -31165,6 +31218,7 @@
 ||typora.io^$dnstype=AAAA
 ||tyre-cadcam.com^$dnstype=AAAA
 ||tyrecadcam.com^$dnstype=AAAA
+||tytch.com^$dnstype=AAAA
 ||tytng189.com^$dnstype=AAAA
 ||tytporno.online^$dnstype=AAAA
 ||u.nu^$dnstype=AAAA
@@ -31682,7 +31736,9 @@
 ||usercentrics.eu^$dnstype=AAAA
 ||usercontent.dev^$dnstype=AAAA
 ||usercontent.goog^$dnstype=AAAA
+||userdrive.org^$dnstype=AAAA
 ||userpxt.io^$dnstype=AAAA
+||usersdrive.com^$dnstype=AAAA
 ||usertrust.com^$dnstype=AAAA
 ||usfk.mil^$dnstype=AAAA
 ||usgs.gov^$dnstype=AAAA
