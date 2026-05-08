@@ -23352,6 +23352,7 @@
 ||openstemlab.ac.uk^$dnstype=AAAA
 ||openstemlabs.ac.uk^$dnstype=AAAA
 ||openstreetmap.com^$dnstype=AAAA
+||openstreetmap.fr^$dnstype=AAAA
 ||openstreetmap.net^$dnstype=AAAA
 ||openstreetmap.org^$dnstype=AAAA
 ||openstreetmaps.org^$dnstype=AAAA
@@ -31520,6 +31521,7 @@
 ||ulyssesapp.com^$dnstype=AAAA
 ||uma.media^$dnstype=AAAA
 ||umagazine.com.hk^$dnstype=AAAA
+||umap.openstreetmap.fr^$dnstype=AAAA
 ||umass.edu^$dnstype=AAAA
 ||umbrella.com^$dnstype=AAAA
 ||umd.edu^$dnstype=AAAA
