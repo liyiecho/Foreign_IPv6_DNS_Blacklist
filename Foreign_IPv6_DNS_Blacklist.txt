@@ -32619,6 +32619,7 @@
 ||vodafone.com.tr^$dnstype=AAAA
 ||vodafone.de^$dnstype=AAAA
 ||vodafone.it^$dnstype=AAAA
+||vodafone.nl^$dnstype=AAAA
 ||voi.id^$dnstype=AAAA
 ||voicettank.org^$dnstype=AAAA
 ||voila.ac.uk^$dnstype=AAAA
