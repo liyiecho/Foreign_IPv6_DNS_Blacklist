@@ -7367,6 +7367,7 @@
 ||co.ck^$dnstype=AAAA
 ||co.cr^$dnstype=AAAA
 ||co.de^$dnstype=AAAA
+||co.ee^$dnstype=AAAA
 ||co.hu^$dnstype=AAAA
 ||co.il^$dnstype=AAAA
 ||co.it^$dnstype=AAAA
@@ -17707,6 +17708,7 @@
 ||justswallows.com^$dnstype=AAAA
 ||justtristan.com^$dnstype=AAAA
 ||justusboys.com^$dnstype=AAAA
+||justveryok.com^$dnstype=AAAA
 ||juyangbee.xyz^$dnstype=AAAA
 ||juyangto.info^$dnstype=AAAA
 ||juyuange.org^$dnstype=AAAA
@@ -17917,6 +17919,7 @@
 ||kex.com^$dnstype=AAAA
 ||keybase.io^$dnstype=AAAA
 ||keybaseapi.com^$dnstype=AAAA
+||keyboardmen.com^$dnstype=AAAA
 ||keycdn.com^$dnstype=AAAA
 ||keyhole.com^$dnstype=AAAA
 ||keyporntube.com^$dnstype=AAAA
@@ -23037,7 +23040,15 @@
 ||oculusvr.com^$dnstype=AAAA
 ||ocvc.ac.uk^$dnstype=AAAA
 ||odkl.ru^$dnstype=AAAA
+||odnoklasniki.by^$dnstype=AAAA
+||odnoklasniki.ua^$dnstype=AAAA
+||odnoklassniki.am^$dnstype=AAAA
+||odnoklassniki.by^$dnstype=AAAA
+||odnoklassniki.co.ee^$dnstype=AAAA
+||odnoklassniki.eu^$dnstype=AAAA
+||odnoklassniki.lv^$dnstype=AAAA
 ||odnoklassniki.ru^$dnstype=AAAA
+||odnoklassniki.tj^$dnstype=AAAA
 ||odysee.com^$dnstype=AAAA
 ||oed.com^$dnstype=AAAA
 ||oekakiskey.com^$dnstype=AAAA
@@ -25629,6 +25640,7 @@
 ||ra-review.ac.uk^$dnstype=AAAA
 ||ra.gg^$dnstype=AAAA
 ||raa.ac.uk^$dnstype=AAAA
+||rabbitcounter.com^$dnstype=AAAA
 ||rabbitscams.com^$dnstype=AAAA
 ||rabbitscams.sex^$dnstype=AAAA
 ||rabbitsreviews.com^$dnstype=AAAA
@@ -26767,6 +26779,7 @@
 ||savoycomputing.com^$dnstype=AAAA
 ||savvyshopper.net.au^$dnstype=AAAA
 ||say2.info^$dnstype=AAAA
+||sayeasy.eu^$dnstype=AAAA
 ||saynow.com^$dnstype=AAAA
 ||sb-cd.com^$dnstype=AAAA
 ||sb-mobile.jp^$dnstype=AAAA
@@ -34478,6 +34491,7 @@
 ||xxbook.cc^$dnstype=AAAA
 ||xxbrits.com^$dnstype=AAAA
 ||xxeronetxx.info^$dnstype=AAAA
+||xxfbiaa.xyz^$dnstype=AAAA
 ||xxgasm.com^$dnstype=AAAA
 ||xxindianporn.com^$dnstype=AAAA
 ||xxiqiyiavxx.buzz^$dnstype=AAAA
