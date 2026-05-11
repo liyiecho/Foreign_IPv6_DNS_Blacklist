@@ -8413,6 +8413,7 @@
 ||data.flurry.com^$dnstype=AAAA
 ||data.gov.tw^$dnstype=AAAA
 ||data.taipei^$dnstype=AAAA
+||data18.com^$dnstype=AAAA
 ||databank.worldbank.org^$dnstype=AAAA
 ||database.asahi.com^$dnstype=AAAA
 ||datacenters.google^$dnstype=AAAA
@@ -9625,6 +9626,7 @@
 ||dswz88.xyz^$dnstype=AAAA
 ||dsyiren.com^$dnstype=AAAA
 ||dt-toolkit.ac.uk^$dnstype=AAAA
+||dt18.com^$dnstype=AAAA
 ||dtc-online.ac.uk^$dnstype=AAAA
 ||dtci.co^$dnstype=AAAA
 ||dtci.technology^$dnstype=AAAA
@@ -13076,6 +13078,7 @@
 ||gettyimages.us^$dnstype=AAAA
 ||getuploader.com^$dnstype=AAAA
 ||getws1.com^$dnstype=AAAA
+||getwsj.com^$dnstype=AAAA
 ||getwsone.com^$dnstype=AAAA
 ||getzola.org^$dnstype=AAAA
 ||gfacecbook.com^$dnstype=AAAA
@@ -17218,6 +17221,7 @@
 ||javdove.com^$dnstype=AAAA
 ||javdove8.xyz^$dnstype=AAAA
 ||javextreme.net^$dnstype=AAAA
+||javfc2.xyz^$dnstype=AAAA
 ||javfilms.com^$dnstype=AAAA
 ||javfinder.ai^$dnstype=AAAA
 ||javfor.me^$dnstype=AAAA
@@ -31021,6 +31025,7 @@
 ||tv.com^$dnstype=AAAA
 ||tv.google^$dnstype=AAAA
 ||tv.jtbc.joins.com^$dnstype=AAAA
+||tvants.com^$dnstype=AAAA
 ||tvappstore.net^$dnstype=AAAA
 ||tvb.com^$dnstype=AAAA
 ||tvb.com.au^$dnstype=AAAA
