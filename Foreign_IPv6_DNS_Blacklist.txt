@@ -6937,6 +6937,7 @@
 ||chocotv.com.tw^$dnstype=AAAA
 ||choicereviews.org^$dnstype=AAAA
 ||chomp.com^$dnstype=AAAA
+||chonglangtv.org^$dnstype=AAAA
 ||chopinonline.ac.uk^$dnstype=AAAA
 ||chosun.com^$dnstype=AAAA
 ||chped.com^$dnstype=AAAA
@@ -18217,6 +18218,7 @@
 ||kumapon.jp^$dnstype=AAAA
 ||kumo.com^$dnstype=AAAA
 ||kun.im^$dnstype=AAAA
+||kun66.xyz^$dnstype=AAAA
 ||kundun1069.com^$dnstype=AAAA
 ||kuper.ru^$dnstype=AAAA
 ||kurashsultan.com^$dnstype=AAAA
