@@ -27597,6 +27597,7 @@
 ||sgwritings.com^$dnstype=AAAA
 ||sgzhan.com^$dnstype=AAAA
 ||sh-xuxingda.com^$dnstype=AAAA
+||sh83.xyz^$dnstype=AAAA
 ||shadbase.com^$dnstype=AAAA
 ||shadeyouvpn.com^$dnstype=AAAA
 ||shadow.ma^$dnstype=AAAA
@@ -33031,6 +33032,7 @@
 ||vultr.com^$dnstype=AAAA
 ||vultryhw.com^$dnstype=AAAA
 ||vuvuzela.io^$dnstype=AAAA
+||vv1865.com^$dnstype=AAAA
 ||vxnbbrs.xyz^$dnstype=AAAA
 ||vxxsred.xyz^$dnstype=AAAA
 ||vyprvpn.com^$dnstype=AAAA
