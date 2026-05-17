@@ -2730,6 +2730,7 @@
 ||archivx.to^$dnstype=AAAA
 ||archlinux.de^$dnstype=AAAA
 ||archlinux.org^$dnstype=AAAA
+||archlinux.page^$dnstype=AAAA
 ||archlinuxarm.org^$dnstype=AAAA
 ||archlinuxcn.org^$dnstype=AAAA
 ||archway.ac.uk^$dnstype=AAAA
@@ -7017,7 +7018,6 @@
 ||cios.org^$dnstype=AAAA
 ||ciota.ac.uk^$dnstype=AAAA
 ||cipfg.org^$dnstype=AAAA
-||circle19.org^$dnstype=AAAA
 ||circlethebayfortibet.org^$dnstype=AAAA
 ||cirencester.ac.uk^$dnstype=AAAA
 ||cirius.ac.uk^$dnstype=AAAA
@@ -26256,6 +26256,7 @@
 ||rightbtc.com^$dnstype=AAAA
 ||rightster.com^$dnstype=AAAA
 ||rigpa.org^$dnstype=AAAA
+||rigums.xyz^$dnstype=AAAA
 ||riku.me^$dnstype=AAAA
 ||rileyguide.com^$dnstype=AAAA
 ||rime.im^$dnstype=AAAA
