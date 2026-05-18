@@ -12814,6 +12814,7 @@
 ||garena.tw^$dnstype=AAAA
 ||garena.vn^$dnstype=AAAA
 ||garenanow.com^$dnstype=AAAA
+||garminmap.com^$dnstype=AAAA
 ||garotaporno.com^$dnstype=AAAA
 ||garotoesperto.com^$dnstype=AAAA
 ||gartlive.com^$dnstype=AAAA
@@ -23234,6 +23235,7 @@
 ||omorashi.org^$dnstype=AAAA
 ||omscr.com^$dnstype=AAAA
 ||omsiirc.ac.uk^$dnstype=AAAA
+||omt.garmin.com^$dnstype=AAAA
 ||omtrdc.net^$dnstype=AAAA
 ||omy.sg^$dnstype=AAAA
 ||on-media.ru^$dnstype=AAAA
@@ -27856,6 +27858,7 @@
 ||side.ac.uk^$dnstype=AAAA
 ||sidelinesnews.com^$dnstype=AAAA
 ||sidelinessportseatery.com^$dnstype=AAAA
+||sider.ai^$dnstype=AAAA
 ||sidewalklabs.com^$dnstype=AAAA
 ||sie.ac.uk^$dnstype=AAAA
 ||siege-amazon.com^$dnstype=AAAA
@@ -35579,6 +35582,7 @@
 ||zhangboli.net^$dnstype=AAAA
 ||zhangboz1.xyz^$dnstype=AAAA
 ||zhangtianliang.com^$dnstype=AAAA
+||zhangzhehan.net^$dnstype=AAAA
 ||zhanlve.org^$dnstype=AAAA
 ||zhao.1984.city^$dnstype=AAAA
 ||zhenghui.org^$dnstype=AAAA
