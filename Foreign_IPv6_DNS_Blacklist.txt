@@ -478,6 +478,7 @@
 ||5657.com.tw^$dnstype=AAAA
 ||567321.online^$dnstype=AAAA
 ||568xe.com^$dnstype=AAAA
+||573.jp^$dnstype=AAAA
 ||58avgo.com^$dnstype=AAAA
 ||592r.com^$dnstype=AAAA
 ||59mvmv.com^$dnstype=AAAA
@@ -17969,6 +17970,7 @@
 ||keytransparency.org^$dnstype=AAAA
 ||kfd.me^$dnstype=AAAA
 ||kfs.io^$dnstype=AAAA
+||kgisystems.com^$dnstype=AAAA
 ||kgslb.com^$dnstype=AAAA
 ||kgv.ac.uk^$dnstype=AAAA
 ||khabdha.org^$dnstype=AAAA
@@ -18092,6 +18094,7 @@
 ||kitakyushubank.co.jp^$dnstype=AAAA
 ||kitazawa.me^$dnstype=AAAA
 ||kitts.ac.uk^$dnstype=AAAA
+||kiwi.jp^$dnstype=AAAA
 ||kiwi.kz^$dnstype=AAAA
 ||kiwibrowser.com^$dnstype=AAAA
 ||kiyobank.co.jp^$dnstype=AAAA
@@ -18147,6 +18150,19 @@
 ||konachan.com^$dnstype=AAAA
 ||konachan.net^$dnstype=AAAA
 ||konachan.wjcodes.com^$dnstype=AAAA
+||konami-igaming.online^$dnstype=AAAA
+||konami.co.jp^$dnstype=AAAA
+||konami.com^$dnstype=AAAA
+||konami.net^$dnstype=AAAA
+||konami.org^$dnstype=AAAA
+||konamicrossmedia.com^$dnstype=AAAA
+||konamigaming.com^$dnstype=AAAA
+||konamigaming.net^$dnstype=AAAA
+||konamigaming.online^$dnstype=AAAA
+||konamionline.com^$dnstype=AAAA
+||konamiopen.jp^$dnstype=AAAA
+||konamisportsclub.jp^$dnstype=AAAA
+||konamistyle.jp^$dnstype=AAAA
 ||kone.com^$dnstype=AAAA
 ||koolsolutions.com^$dnstype=AAAA
 ||koornk.com^$dnstype=AAAA
@@ -26165,6 +26181,8 @@
 ||researchkit.tv^$dnstype=AAAA
 ||researchscotland.ac.uk^$dnstype=AAAA
 ||researchwales.ac.uk^$dnstype=AAAA
+||resella.jp^$dnstype=AAAA
+||resellablue.com^$dnstype=AAAA
 ||resilient-decarbonised-energy-cdt.ac.uk^$dnstype=AAAA
 ||resilient-decarbonised-energy-dtc.ac.uk^$dnstype=AAAA
 ||resilio.com^$dnstype=AAAA
@@ -35446,6 +35464,7 @@
 ||yuanzhengtang.org^$dnstype=AAAA
 ||yuenuge113.xyz^$dnstype=AAAA
 ||yuenuge18.cc^$dnstype=AAAA
+||yugioh-card.com^$dnstype=AAAA
 ||yukineko.me^$dnstype=AAAA
 ||yulghun.com^$dnstype=AAAA
 ||yuming.qxbbs.org^$dnstype=AAAA
