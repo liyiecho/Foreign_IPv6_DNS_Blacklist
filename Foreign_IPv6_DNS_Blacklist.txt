@@ -1611,6 +1611,7 @@
 ||alexanderlondoncollege.ac.uk^$dnstype=AAAA
 ||alexanderstreet.com^$dnstype=AAAA
 ||alexlur.org^$dnstype=AAAA
+||alfa.me^$dnstype=AAAA
 ||alfabank.oavdo.amc^$dnstype=AAAA
 ||alfabank.ru^$dnstype=AAAA
 ||alfabank.st^$dnstype=AAAA
@@ -9488,6 +9489,7 @@
 ||download.com^$dnstype=AAAA
 ||download.dappcdn.com^$dnstype=AAAA
 ||download.fastgit.org^$dnstype=AAAA
+||download.qatp1.net^$dnstype=AAAA
 ||download.qcpp1.net^$dnstype=AAAA
 ||download.qpdp1.net^$dnstype=AAAA
 ||downloadpass.com^$dnstype=AAAA
@@ -11574,6 +11576,7 @@
 ||favepornmovs.com^$dnstype=AAAA
 ||favepornvids.com^$dnstype=AAAA
 ||favjapaneseporn.com^$dnstype=AAAA
+||favoritescc-hamivideo2.cdn.hinet.net^$dnstype=AAAA
 ||favotter.net^$dnstype=AAAA
 ||favstar.fm^$dnstype=AAAA
 ||fawanghuihui.org^$dnstype=AAAA
@@ -18596,6 +18599,7 @@
 ||lgappstv.com^$dnstype=AAAA
 ||lgbtnonhe.ac.uk^$dnstype=AAAA
 ||lgbtq.games^$dnstype=AAAA
+||lgcscc-hamivideo2.cdn.hinet.net^$dnstype=AAAA
 ||lge.co.kr^$dnstype=AAAA
 ||lge.com^$dnstype=AAAA
 ||lgecareers.com^$dnstype=AAAA
@@ -20855,6 +20859,7 @@
 ||monitorchina.org^$dnstype=AAAA
 ||monitoring.qatp1.net^$dnstype=AAAA
 ||monitoring.qcpp1.net^$dnstype=AAAA
+||monitoring.qpdp1.net^$dnstype=AAAA
 ||monitorware.com^$dnstype=AAAA
 ||monitrix.net^$dnstype=AAAA
 ||monkwear.ac.uk^$dnstype=AAAA
@@ -25516,10 +25521,12 @@
 ||qaa.ac.uk^$dnstype=AAAA
 ||qac.ac.uk^$dnstype=AAAA
 ||qacollege.ac.uk^$dnstype=AAAA
+||qagpublic.qatp1.net^$dnstype=AAAA
 ||qagpublic.qcpp1.net^$dnstype=AAAA
 ||qagpublic.qpdp1.net^$dnstype=AAAA
 ||qanote.com^$dnstype=AAAA
 ||qatarescortsvip.com^$dnstype=AAAA
+||qatp1.net^$dnstype=AAAA
 ||qattdh.cc^$dnstype=AAAA
 ||qattdh.top^$dnstype=AAAA
 ||qattdh1.cc^$dnstype=AAAA
@@ -25530,11 +25537,13 @@
 ||qbsc.ac.uk^$dnstype=AAAA
 ||qckprn.com^$dnstype=AAAA
 ||qcomgeo2.com^$dnstype=AAAA
+||qcpp1.net^$dnstype=AAAA
 ||qctconnect.com^$dnstype=AAAA
 ||qdiehzz7.me^$dnstype=AAAA
 ||qdmomentum.com^$dnstype=AAAA
 ||qeliz.ac.uk^$dnstype=AAAA
 ||qgadmin.qatp1.net^$dnstype=AAAA
+||qgadmin.qcpp1.net^$dnstype=AAAA
 ||qgadmin.qpdp1.net^$dnstype=AAAA
 ||qgirl.com.tw^$dnstype=AAAA
 ||qhigh.com^$dnstype=AAAA
@@ -25581,6 +25590,7 @@
 ||qooza.hk^$dnstype=AAAA
 ||qorno.com^$dnstype=AAAA
 ||qoru.ac.uk^$dnstype=AAAA
+||qpdp1.net^$dnstype=AAAA
 ||qpoe.com^$dnstype=AAAA
 ||qporno.xxx^$dnstype=AAAA
 ||qprize.com^$dnstype=AAAA
@@ -25621,10 +25631,12 @@
 ||qualidata.ac.uk^$dnstype=AAAA
 ||qualphone.com^$dnstype=AAAA
 ||qualtrics.com^$dnstype=AAAA
+||qualysapi.qatp1.net^$dnstype=AAAA
 ||qualysapi.qcpp1.net^$dnstype=AAAA
 ||qualysapi.qpdp1.net^$dnstype=AAAA
 ||qualysguard.qatp1.net^$dnstype=AAAA
 ||qualysguard.qcpp1.net^$dnstype=AAAA
+||qualysguard.qpdp1.net^$dnstype=AAAA
 ||quanben-xiaoshuo.com^$dnstype=AAAA
 ||quanben.io^$dnstype=AAAA
 ||quannengshen.org^$dnstype=AAAA
@@ -26930,6 +26942,7 @@
 ||scandalplanet.com^$dnstype=AAAA
 ||scanlover.com^$dnstype=AAAA
 ||scanservice1.qatp1.net^$dnstype=AAAA
+||scanservice1.qcpp1.net^$dnstype=AAAA
 ||scanservice1.qpdp1.net^$dnstype=AAAA
 ||scapa.ac.uk^$dnstype=AAAA
 ||scarb-6-form.ac.uk^$dnstype=AAAA
@@ -29815,6 +29828,8 @@
 ||teamamericany.com^$dnstype=AAAA
 ||teamneedforspeed.com^$dnstype=AAAA
 ||teamskeet.com^$dnstype=AAAA
+||teamspeak-services.com^$dnstype=AAAA
+||teamspeak.com^$dnstype=AAAA
 ||teamviewer.com^$dnstype=AAAA
 ||teamviewer.com.cdn.cloudflare.net^$dnstype=AAAA
 ||teamviewer.us^$dnstype=AAAA
@@ -30331,6 +30346,7 @@
 ||thtmod1.com^$dnstype=AAAA
 ||thu.monster^$dnstype=AAAA
 ||thuhole.com^$dnstype=AAAA
+||thumbnail-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||thumbnailseries.com^$dnstype=AAAA
 ||thumbzilla.com^$dnstype=AAAA
 ||thunderbird.net^$dnstype=AAAA
@@ -30585,6 +30601,7 @@
 ||tlccollege.ac.uk^$dnstype=AAAA
 ||tlcmd.ac.uk^$dnstype=AAAA
 ||tlcmoodle.ac.uk^$dnstype=AAAA
+||tlmr-hamivideo2.cdn.hinet.net^$dnstype=AAAA
 ||tltp.ac.uk^$dnstype=AAAA
 ||tma.co.jp^$dnstype=AAAA
 ||tmagazine.com^$dnstype=AAAA
@@ -33338,6 +33355,7 @@
 ||webtoons.com^$dnstype=AAAA
 ||webtoonscorp.com^$dnstype=AAAA
 ||webtype.com^$dnstype=AAAA
+||webvodad-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||webwarper.net^$dnstype=AAAA
 ||webworkerdaily.com^$dnstype=AAAA
 ||wechatlawsuit.com^$dnstype=AAAA
@@ -34413,6 +34431,7 @@
 ||xn--czq75pvv1aj5c.org^$dnstype=AAAA
 ||xn--d1abkf4ap.fun^$dnstype=AAAA
 ||xn--d4ty0ojsqzfd.com^$dnstype=AAAA
+||xn--flw351e.com^$dnstype=AAAA
 ||xn--ggle-55da.com^$dnstype=AAAA
 ||xn--gmq348bujlxrb.com^$dnstype=AAAA
 ||xn--gmq92kd2rm1kx34a.com^$dnstype=AAAA
