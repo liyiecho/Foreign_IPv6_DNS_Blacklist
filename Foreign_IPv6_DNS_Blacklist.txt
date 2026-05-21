@@ -12719,6 +12719,7 @@
 ||g-tun.com^$dnstype=AAAA
 ||g-tvapp.com^$dnstype=AAAA
 ||g-xxxhub.com^$dnstype=AAAA
+||g.ai^$dnstype=AAAA
 ||g.co^$dnstype=AAAA
 ||g.dev^$dnstype=AAAA
 ||g.kfd.me^$dnstype=AAAA
@@ -15262,7 +15263,6 @@
 ||hpcodewarsbcn.com^$dnstype=AAAA
 ||hpcomputers.com^$dnstype=AAAA
 ||hpcomputerservices.com^$dnstype=AAAA
-||hpconnected.com^$dnstype=AAAA
 ||hpconnected.net^$dnstype=AAAA
 ||hpconnected.org^$dnstype=AAAA
 ||hpconnected.us^$dnstype=AAAA
@@ -18538,6 +18538,7 @@
 ||lenporno.red^$dnstype=AAAA
 ||lens.google^$dnstype=AAAA
 ||lenwhite.com^$dnstype=AAAA
+||leonardo.ai^$dnstype=AAAA
 ||leorockwell.com^$dnstype=AAAA
 ||leos-scot.ac.uk^$dnstype=AAAA
 ||lepoint.fr^$dnstype=AAAA
@@ -21022,11 +21023,13 @@
 ||moxing.news^$dnstype=AAAA
 ||moystoys.com^$dnstype=AAAA
 ||mozgcp.net^$dnstype=AAAA
+||mozilla.ai^$dnstype=AAAA
 ||mozilla.com^$dnstype=AAAA
 ||mozilla.community^$dnstype=AAAA
 ||mozilla.net^$dnstype=AAAA
 ||mozilla.org^$dnstype=AAAA
 ||mozillademos.org^$dnstype=AAAA
+||mozillafoundation.org^$dnstype=AAAA
 ||mozit.cloud^$dnstype=AAAA
 ||moztw.org^$dnstype=AAAA
 ||mp-pxcdn.com^$dnstype=AAAA
@@ -21510,6 +21513,7 @@
 ||myyoungwifeisnude.com^$dnstype=AAAA
 ||myz.info^$dnstype=AAAA
 ||mzed.com^$dnstype=AAAA
+||mzl.la^$dnstype=AAAA
 ||n-tv.de^$dnstype=AAAA
 ||n15zev3w.shop^$dnstype=AAAA
 ||n26.com^$dnstype=AAAA
@@ -25802,6 +25806,7 @@
 ||rapbull.net^$dnstype=AAAA
 ||rapefilms.net^$dnstype=AAAA
 ||rapetube.me^$dnstype=AAAA
+||raphael.app^$dnstype=AAAA
 ||rapid.ac.uk^$dnstype=AAAA
 ||rapidgator.net^$dnstype=AAAA
 ||rapidmoviez.com^$dnstype=AAAA
@@ -26597,6 +26602,7 @@
 ||rukor.org^$dnstype=AAAA
 ||rul.ac.uk^$dnstype=AAAA
 ||rulaisc-tv.buzz^$dnstype=AAAA
+||rule34.us^$dnstype=AAAA
 ||rule34.world^$dnstype=AAAA
 ||rule34.xxx^$dnstype=AAAA
 ||rule34.xyz^$dnstype=AAAA
@@ -29725,6 +29731,7 @@
 ||tapbots.com^$dnstype=AAAA
 ||tapbots.net^$dnstype=AAAA
 ||tapestry.ac.uk^$dnstype=AAAA
+||tapnow.ai^$dnstype=AAAA
 ||taptap.io^$dnstype=AAAA
 ||taptap.tw^$dnstype=AAAA
 ||taptotokyo.com^$dnstype=AAAA
