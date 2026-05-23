@@ -260,6 +260,7 @@
 ||2371tom.com^$dnstype=AAAA
 ||24av.net^$dnstype=AAAA
 ||24h.tv^$dnstype=AAAA
+||24hbook.com^$dnstype=AAAA
 ||24hjav.com^$dnstype=AAAA
 ||24hrs.ca^$dnstype=AAAA
 ||24porn.com^$dnstype=AAAA
@@ -3530,6 +3531,7 @@
 ||bai29.xyz^$dnstype=AAAA
 ||baicaonetwork.com^$dnstype=AAAA
 ||baice.ac.uk^$dnstype=AAAA
+||baidu.jp^$dnstype=AAAA
 ||baijie.org^$dnstype=AAAA
 ||bailandaily.com^$dnstype=AAAA
 ||bailer.ac.uk^$dnstype=AAAA
@@ -19578,6 +19580,7 @@
 ||maryvale.ac.uk^$dnstype=AAAA
 ||maryward.ac.uk^$dnstype=AAAA
 ||marywardcentre.ac.uk^$dnstype=AAAA
+||mas.to^$dnstype=AAAA
 ||masalabin.com^$dnstype=AAAA
 ||masaladesi.com^$dnstype=AAAA
 ||masalaseen.net^$dnstype=AAAA
@@ -21819,6 +21822,7 @@
 ||neo-miracle.com^$dnstype=AAAA
 ||neo.com.tw^$dnstype=AAAA
 ||neodaas.ac.uk^$dnstype=AAAA
+||neodb.social^$dnstype=AAAA
 ||neoforged.net^$dnstype=AAAA
 ||neonatalsociety.ac.uk^$dnstype=AAAA
 ||neotokyo.supertop-100.com^$dnstype=AAAA
