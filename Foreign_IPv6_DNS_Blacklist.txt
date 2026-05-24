@@ -9895,6 +9895,7 @@
 ||e123.hk^$dnstype=AAAA
 ||e3an.ac.uk^$dnstype=AAAA
 ||e5.sk^$dnstype=AAAA
+||e53w.com^$dnstype=AAAA
 ||e621.net^$dnstype=AAAA
 ||ea-anz-press.com^$dnstype=AAAA
 ||ea.com^$dnstype=AAAA
@@ -25544,6 +25545,7 @@
 ||qbmengmei6.mom^$dnstype=AAAA
 ||qbsc.ac.uk^$dnstype=AAAA
 ||qckprn.com^$dnstype=AAAA
+||qcmod.xyz^$dnstype=AAAA
 ||qcomgeo2.com^$dnstype=AAAA
 ||qcpp1.net^$dnstype=AAAA
 ||qctconnect.com^$dnstype=AAAA
