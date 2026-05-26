@@ -20249,6 +20249,7 @@
 ||midentsolutions.com^$dnstype=AAAA
 ||midfife.ac.uk^$dnstype=AAAA
 ||midhurst.ac.uk^$dnstype=AAAA
+||midjourney.com^$dnstype=AAAA
 ||midkent.ac.uk^$dnstype=AAAA
 ||midlands3cities.ac.uk^$dnstype=AAAA
 ||midlands4cities.ac.uk^$dnstype=AAAA
