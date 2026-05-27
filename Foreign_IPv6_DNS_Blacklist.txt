@@ -30183,6 +30183,7 @@
 ||theinventionworks.net^$dnstype=AAAA
 ||thekarups.com^$dnstype=AAAA
 ||theknowledgeacademy.ac.uk^$dnstype=AAAA
+||thelallantop.com^$dnstype=AAAA
 ||thelancet.com^$dnstype=AAAA
 ||theleakbay.com^$dnstype=AAAA
 ||thelearningcentrebexley.ac.uk^$dnstype=AAAA
