@@ -10377,6 +10377,7 @@
 ||electronicsignature.ru^$dnstype=AAAA
 ||electronjs.org^$dnstype=AAAA
 ||element.io^$dnstype=AAAA
+||elementary.io^$dnstype=AAAA
 ||elephantlist.com^$dnstype=AAAA
 ||elephantsdream.org^$dnstype=AAAA
 ||elephanttube.com^$dnstype=AAAA
@@ -13426,6 +13427,7 @@
 ||gnci.org.hk^$dnstype=AAAA
 ||gnews.org^$dnstype=AAAA
 ||gnom-cham.com^$dnstype=AAAA
+||gnome.org^$dnstype=AAAA
 ||gnu.org^$dnstype=AAAA
 ||gnzi.xyz^$dnstype=AAAA
 ||gnzi1.top^$dnstype=AAAA
@@ -14535,6 +14537,7 @@
 ||helloavgirls.com^$dnstype=AAAA
 ||hellofuture.ac.uk^$dnstype=AAAA
 ||hellokittybeats.com^$dnstype=AAAA
+||hellomoto.com^$dnstype=AAAA
 ||helloqueer.com^$dnstype=AAAA
 ||hellosmartbook.com^$dnstype=AAAA
 ||helloss.pw^$dnstype=AAAA
@@ -17915,6 +17918,7 @@
 ||kcollege.ac.uk^$dnstype=AAAA
 ||kcoolonline.com^$dnstype=AAAA
 ||kcqsw-na.sbs^$dnstype=AAAA
+||kde.org^$dnstype=AAAA
 ||kdfuli.com^$dnstype=AAAA
 ||kdy202312.shop^$dnstype=AAAA
 ||ke-westyorkshire.ac.uk^$dnstype=AAAA
@@ -19222,6 +19226,7 @@
 ||lww-cetl.ac.uk^$dnstype=AAAA
 ||lwwcn.buzz^$dnstype=AAAA
 ||lwwcn.xyz^$dnstype=AAAA
+||lxqt-project.org^$dnstype=AAAA
 ||lxxlxx.com^$dnstype=AAAA
 ||ly.gov.tw^$dnstype=AAAA
 ||lyellcentre.ac.uk^$dnstype=AAAA
@@ -19711,6 +19716,7 @@
 ||matainja.com^$dnstype=AAAA
 ||match.ac.uk^$dnstype=AAAA
 ||matchmover.com^$dnstype=AAAA
+||mate-desktop.org^$dnstype=AAAA
 ||material.io^$dnstype=AAAA
 ||materials.ac.uk^$dnstype=AAAA
 ||materialsnexus.ac.uk^$dnstype=AAAA
@@ -20990,8 +20996,32 @@
 ||motiongraphicsandmore.com^$dnstype=AAAA
 ||motionpictureser.com^$dnstype=AAAA
 ||motiyun.com^$dnstype=AAAA
+||moto.com^$dnstype=AAAA
 ||motolia.com^$dnstype=AAAA
 ||motor4ik.ru^$dnstype=AAAA
+||motorola.ca^$dnstype=AAAA
+||motorola.cl^$dnstype=AAAA
+||motorola.co^$dnstype=AAAA
+||motorola.co.id^$dnstype=AAAA
+||motorola.co.jp^$dnstype=AAAA
+||motorola.co.th^$dnstype=AAAA
+||motorola.co.uk^$dnstype=AAAA
+||motorola.com^$dnstype=AAAA
+||motorola.com.au^$dnstype=AAAA
+||motorola.com.co^$dnstype=AAAA
+||motorola.com.pe^$dnstype=AAAA
+||motorola.com.pr^$dnstype=AAAA
+||motorola.de^$dnstype=AAAA
+||motorola.es^$dnstype=AAAA
+||motorola.fr^$dnstype=AAAA
+||motorola.gr^$dnstype=AAAA
+||motorola.in^$dnstype=AAAA
+||motorola.it^$dnstype=AAAA
+||motorola.net^$dnstype=AAAA
+||motorola.vn^$dnstype=AAAA
+||motorolacareers.com^$dnstype=AAAA
+||motorolanews.com^$dnstype=AAAA
+||motorolasolutions.com^$dnstype=AAAA
 ||motorshowblog.com^$dnstype=AAAA
 ||mottainai.info^$dnstype=AAAA
 ||moulton.ac.uk^$dnstype=AAAA
@@ -24504,6 +24534,7 @@
 ||plansondemand.com^$dnstype=AAAA
 ||plant-phenomics.ac.uk^$dnstype=AAAA
 ||plantsvszombies2.com^$dnstype=AAAA
+||plasma-mobile.org^$dnstype=AAAA
 ||plasticlabs.com^$dnstype=AAAA
 ||plastics-cadcam.com^$dnstype=AAAA
 ||platiecom.ru^$dnstype=AAAA
@@ -29580,6 +29611,7 @@
 ||sysinternals.com^$dnstype=AAAA
 ||sysmic.ac.uk^$dnstype=AAAA
 ||sysresccd.org^$dnstype=AAAA
+||system76.com^$dnstype=AAAA
 ||systemicrisk.ac.uk^$dnstype=AAAA
 ||sytes.net^$dnstype=AAAA
 ||syx86.com^$dnstype=AAAA
@@ -34289,6 +34321,7 @@
 ||xeon.com^$dnstype=AAAA
 ||xerotica.com^$dnstype=AAAA
 ||xfantazy.com^$dnstype=AAAA
+||xfce.org^$dnstype=AAAA
 ||xfemaledom.com^$dnstype=AAAA
 ||xfiles.to^$dnstype=AAAA
 ||xfinity.com^$dnstype=AAAA
@@ -34347,6 +34380,7 @@
 ||xihua.es^$dnstype=AAAA
 ||xii.jp^$dnstype=AAAA
 ||xijie.wordpress.com^$dnstype=AAAA
+||xin21.xyz^$dnstype=AAAA
 ||xinaia-av.buzz^$dnstype=AAAA
 ||xinbao.de^$dnstype=AAAA
 ||xindelu.com^$dnstype=AAAA
