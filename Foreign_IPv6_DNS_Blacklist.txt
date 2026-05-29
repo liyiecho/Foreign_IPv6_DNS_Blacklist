@@ -12994,6 +12994,7 @@
 ||gen.lib.rus.ec^$dnstype=AAAA
 ||gen.tr^$dnstype=AAAA
 ||gen2.ac.uk^$dnstype=AAAA
+||gencraft.com^$dnstype=AAAA
 ||gendai.net^$dnstype=AAAA
 ||generated.photos^$dnstype=AAAA
 ||generationpup.ac.uk^$dnstype=AAAA
@@ -32154,6 +32155,7 @@
 ||vecchiescopate.casa^$dnstype=AAAA
 ||vector.im^$dnstype=AAAA
 ||vedomosti.ru^$dnstype=AAAA
+||veed.io^$dnstype=AAAA
 ||veet.at^$dnstype=AAAA
 ||veet.be^$dnstype=AAAA
 ||veet.ca^$dnstype=AAAA
