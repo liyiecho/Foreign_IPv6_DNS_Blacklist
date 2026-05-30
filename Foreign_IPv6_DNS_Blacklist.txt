@@ -14198,6 +14198,7 @@
 ||haicomdc.com^$dnstype=AAAA
 ||haicomdc.ru^$dnstype=AAAA
 ||haicomgroup.ru^$dnstype=AAAA
+||haijiao.ai^$dnstype=AAAA
 ||haijiao.com^$dnstype=AAAA
 ||hairdressing.ac.uk^$dnstype=AAAA
 ||hairy-amateurs.com^$dnstype=AAAA
@@ -14915,6 +14916,7 @@
 ||hjb7e9.top^$dnstype=AAAA
 ||hjclub.info^$dnstype=AAAA
 ||hjd2048.com^$dnstype=AAAA
+||hjw01.com^$dnstype=AAAA
 ||hk-pub.com^$dnstype=AAAA
 ||hk.file.myqcloud.com^$dnstype=AAAA
 ||hk.gradconnection.com^$dnstype=AAAA
