@@ -18871,6 +18871,7 @@
 ||livingstream.com^$dnstype=AAAA
 ||livingwithmachines.ac.uk^$dnstype=AAAA
 ||livingyourambition.com^$dnstype=AAAA
+||livinno.org^$dnstype=AAAA
 ||livjm.ac.uk^$dnstype=AAAA
 ||livrariart.com.br^$dnstype=AAAA
 ||liwangyang.com^$dnstype=AAAA
@@ -23423,6 +23424,7 @@
 ||ooyala.com^$dnstype=AAAA
 ||op.gg^$dnstype=AAAA
 ||op7979.com^$dnstype=AAAA
+||opac-project.eu^$dnstype=AAAA
 ||opdems.ac.uk^$dnstype=AAAA
 ||open-assistant.io^$dnstype=AAAA
 ||open.ac.uk^$dnstype=AAAA
