@@ -20539,7 +20539,6 @@
 ||minim.ac.uk^$dnstype=AAAA
 ||minimarkham.ca^$dnstype=AAAA
 ||minimarkham.com^$dnstype=AAAA
-||minimax.io^$dnstype=AAAA
 ||minimoncton.ca^$dnstype=AAAA
 ||minimoncton.com^$dnstype=AAAA
 ||minimontrealcentre.ca^$dnstype=AAAA
@@ -21062,6 +21061,7 @@
 ||moxing.news^$dnstype=AAAA
 ||moystoys.com^$dnstype=AAAA
 ||mozgcp.net^$dnstype=AAAA
+||mozilla-ohttp.fastly-edge.com^$dnstype=AAAA
 ||mozilla.ai^$dnstype=AAAA
 ||mozilla.com^$dnstype=AAAA
 ||mozilla.community^$dnstype=AAAA
@@ -34356,8 +34356,11 @@
 ||xhamster3.com^$dnstype=AAAA
 ||xhamsterlive.com^$dnstype=AAAA
 ||xhcdn.com^$dnstype=AAAA
+||xhnews.live^$dnstype=AAAA
 ||xhot.pro^$dnstype=AAAA
+||xhpingcdn.com^$dnstype=AAAA
 ||xhpjc6-cdn-settings.appsflyersdk.com^$dnstype=AAAA
+||xhreal5.com^$dnstype=AAAA
 ||xhub.tv^$dnstype=AAAA
 ||xianba.net^$dnstype=AAAA
 ||xianchawang.net^$dnstype=AAAA
