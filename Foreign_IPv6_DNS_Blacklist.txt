@@ -13080,6 +13080,7 @@
 ||getmdl.io^$dnstype=AAAA
 ||getnews.jp^$dnstype=AAAA
 ||getoutline.org^$dnstype=AAAA
+||getpaint.net^$dnstype=AAAA
 ||getpocket.com^$dnstype=AAAA
 ||getporn.tv^$dnstype=AAAA
 ||getpricetag.com^$dnstype=AAAA
@@ -23806,6 +23807,7 @@
 ||paimon.moe^$dnstype=AAAA
 ||painfulpussytortures.com^$dnstype=AAAA
 ||painnovel.com^$dnstype=AAAA
+||paint.net^$dnstype=AAAA
 ||paipal.com^$dnstype=AAAA
 ||paipancon.com^$dnstype=AAAA
 ||paisapay.cc^$dnstype=AAAA
