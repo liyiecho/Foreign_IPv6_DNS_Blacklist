@@ -30717,6 +30717,7 @@
 ||tomsguide.com^$dnstype=AAAA
 ||tomshardware.com^$dnstype=AAAA
 ||ton.org^$dnstype=AAAA
+||toncenter.com^$dnstype=AAAA
 ||tonec.com^$dnstype=AAAA
 ||tongil.or.kr^$dnstype=AAAA
 ||tonicmovies.com^$dnstype=AAAA
@@ -34491,6 +34492,7 @@
 ||xn--czq75pvv1aj5c.org^$dnstype=AAAA
 ||xn--d1abkf4ap.fun^$dnstype=AAAA
 ||xn--d4ty0ojsqzfd.com^$dnstype=AAAA
+||xn--dgtr4ppoz.com^$dnstype=AAAA
 ||xn--flw351e.com^$dnstype=AAAA
 ||xn--ggle-55da.com^$dnstype=AAAA
 ||xn--gmq348bujlxrb.com^$dnstype=AAAA
