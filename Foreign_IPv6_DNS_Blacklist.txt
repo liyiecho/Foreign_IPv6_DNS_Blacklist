@@ -29419,6 +29419,7 @@
 ||strikinglycdn.com^$dnstype=AAAA
 ||strip-poker.xxx^$dnstype=AAAA
 ||stripcamfun.com^$dnstype=AAAA
+||stripchat.cam^$dnstype=AAAA
 ||stripchat.com^$dnstype=AAAA
 ||stripe-terminal-local-reader.net^$dnstype=AAAA
 ||stripe.ac.uk^$dnstype=AAAA
