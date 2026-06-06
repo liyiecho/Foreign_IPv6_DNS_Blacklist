@@ -7175,6 +7175,7 @@
 ||claude.ai^$dnstype=AAAA
 ||claude.com^$dnstype=AAAA
 ||claudemcpclient.com^$dnstype=AAAA
+||claudemcpcontent.com^$dnstype=AAAA
 ||claudeusercontent.com^$dnstype=AAAA
 ||clawhub.ai^$dnstype=AAAA
 ||clb.org.hk^$dnstype=AAAA
@@ -8906,7 +8907,6 @@
 ||devcon.org^$dnstype=AAAA
 ||developebp.ac.uk^$dnstype=AAAA
 ||developer-advisor.com^$dnstype=AAAA
-||developer.allizom.org^$dnstype=AAAA
 ||developers.box.net^$dnstype=AAAA
 ||developers.facebook.com^$dnstype=AAAA
 ||developria.com^$dnstype=AAAA
@@ -19937,10 +19937,8 @@
 ||mdbankpublic.com^$dnstype=AAAA
 ||mdhcdn.com^$dnstype=AAAA
 ||mdialog.com^$dnstype=AAAA
-||mdn.allizom.net^$dnstype=AAAA
 ||mdn.dev^$dnstype=AAAA
 ||mdn.mozillademos.org^$dnstype=AAAA
-||mdn.mozit.cloud^$dnstype=AAAA
 ||mdnkids.com^$dnstype=AAAA
 ||mdnplay.dev^$dnstype=AAAA
 ||mdnyalp.dev^$dnstype=AAAA
@@ -29643,6 +29641,7 @@
 ||suxib.com^$dnstype=AAAA
 ||suxiebu.com^$dnstype=AAAA
 ||suyangg.com^$dnstype=AAAA
+||suyingtv.com^$dnstype=AAAA
 ||suzuri.jp^$dnstype=AAAA
 ||svaboda.org^$dnstype=AAAA
 ||svc.ms^$dnstype=AAAA
@@ -34154,6 +34153,7 @@
 ||wp-themes.com^$dnstype=AAAA
 ||wp.com^$dnstype=AAAA
 ||wpewebkit.org^$dnstype=AAAA
+||wplace.live^$dnstype=AAAA
 ||wpoforum.com^$dnstype=AAAA
 ||wpvip.com^$dnstype=AAAA
 ||wqe.ac.uk^$dnstype=AAAA
@@ -34357,6 +34357,7 @@
 ||www.msn.com^$dnstype=AAAA
 ||www.oxid.it^$dnstype=AAAA
 ||www.powerpointninja.com^$dnstype=AAAA
+||www.quora.com.cdn.cloudflare.net^$dnstype=AAAA
 ||www.s4miniarchive.com^$dnstype=AAAA
 ||www.sb^$dnstype=AAAA
 ||www.shadowsocks.com^$dnstype=AAAA
