@@ -1976,6 +1976,7 @@
 ||amcnetworks.com^$dnstype=AAAA
 ||amcplus.com^$dnstype=AAAA
 ||amdfanstore.com^$dnstype=AAAA
+||amdgaming.com^$dnstype=AAAA
 ||amdigital.co.uk^$dnstype=AAAA
 ||ameba.jp^$dnstype=AAAA
 ||amebame.com^$dnstype=AAAA
@@ -5754,6 +5755,7 @@
 ||bufdg.ac.uk^$dnstype=AAAA
 ||buffered.com^$dnstype=AAAA
 ||bufvc.ac.uk^$dnstype=AAAA
+||bugsnag.com^$dnstype=AAAA
 ||bugzilla.org^$dnstype=AAAA
 ||buhidoh.net^$dnstype=AAAA
 ||bui.ac.uk^$dnstype=AAAA
@@ -6426,6 +6428,7 @@
 ||ccievoicelabs.com^$dnstype=AAAA
 ||ccim.org^$dnstype=AAAA
 ||ccl.ac.uk^$dnstype=AAAA
+||ccleaner.com^$dnstype=AAAA
 ||cclife.ca^$dnstype=AAAA
 ||cclife.org^$dnstype=AAAA
 ||cclifefl.org^$dnstype=AAAA
@@ -7127,6 +7130,7 @@
 ||citysun.ac.uk^$dnstype=AAAA
 ||citytalk.tw^$dnstype=AAAA
 ||citytourgirls.com^$dnstype=AAAA
+||cityu.hk^$dnstype=AAAA
 ||cityuniversitybirmingham.ac.uk^$dnstype=AAAA
 ||ciu.ac.uk^$dnstype=AAAA
 ||civicparty.hk^$dnstype=AAAA
@@ -8135,6 +8139,7 @@
 ||cuebic.biz^$dnstype=AAAA
 ||cuffiesaldi.com^$dnstype=AAAA
 ||cuhk.edu.hk^$dnstype=AAAA
+||cuhk.hk^$dnstype=AAAA
 ||cuhkacs.org^$dnstype=AAAA
 ||cuhop.ac.uk^$dnstype=AAAA
 ||cuihua.org^$dnstype=AAAA
@@ -10317,6 +10322,7 @@
 ||educationlondonconnect.ac.uk^$dnstype=AAAA
 ||educationpartnershipne.ac.uk^$dnstype=AAAA
 ||educationpartnershipnortheast.ac.uk^$dnstype=AAAA
+||eduhk.hk^$dnstype=AAAA
 ||eduplus.hk^$dnstype=AAAA
 ||edupro.org^$dnstype=AAAA
 ||eduroam.ac.uk^$dnstype=AAAA
@@ -11814,6 +11820,7 @@
 ||fileserve.com^$dnstype=AAAA
 ||filesmonster.vip^$dnstype=AAAA
 ||filesor.com^$dnstype=AAAA
+||filezilla-project.org^$dnstype=AAAA
 ||filipino-music.net^$dnstype=AAAA
 ||fillthesquare.org^$dnstype=AAAA
 ||filmandsound.ac.uk^$dnstype=AAAA
@@ -13282,6 +13289,7 @@
 ||gitbook.com^$dnstype=AAAA
 ||gitbook.io^$dnstype=AAAA
 ||gitbooks.io^$dnstype=AAAA
+||gitgud.io^$dnstype=AAAA
 ||githack.com^$dnstype=AAAA
 ||github-api.arkoselabs.com^$dnstype=AAAA
 ||github-cloud.s3.amazonaws.com^$dnstype=AAAA
@@ -14391,6 +14399,7 @@
 ||hayle.ac.uk^$dnstype=AAAA
 ||haywardsheath.ac.uk^$dnstype=AAAA
 ||hayya.ae^$dnstype=AAAA
+||hb.imgix.net^$dnstype=AAAA
 ||hbabit.com^$dnstype=AAAA
 ||hbfile.net^$dnstype=AAAA
 ||hbg.com^$dnstype=AAAA
@@ -14961,6 +14970,7 @@
 ||hitxhot.com^$dnstype=AAAA
 ||hive.blog^$dnstype=AAAA
 ||hiveon.net^$dnstype=AAAA
+||hivepress.io^$dnstype=AAAA
 ||hizb-ut-tahrir.info^$dnstype=AAAA
 ||hizb-ut-tahrir.org^$dnstype=AAAA
 ||hizbuttahrir.org^$dnstype=AAAA
@@ -14990,6 +15000,7 @@
 ||hkbn.net^$dnstype=AAAA
 ||hkbnes.net^$dnstype=AAAA
 ||hkbookcity.com^$dnstype=AAAA
+||hkbu.hk^$dnstype=AAAA
 ||hkchronicles.com^$dnstype=AAAA
 ||hkchurch.org^$dnstype=AAAA
 ||hkci.org.hk^$dnstype=AAAA
@@ -15046,6 +15057,7 @@
 ||hktpremier.com^$dnstype=AAAA
 ||hktshop.com^$dnstype=AAAA
 ||hku.hk^$dnstype=AAAA
+||hkust.hk^$dnstype=AAAA
 ||hkusu.net^$dnstype=AAAA
 ||hkvets.ac.uk^$dnstype=AAAA
 ||hkvwet.com^$dnstype=AAAA
@@ -18404,6 +18416,7 @@
 ||languagesmythsfinds.ac.uk^$dnstype=AAAA
 ||languagesresearch.ac.uk^$dnstype=AAAA
 ||languagessoutheast.ac.uk^$dnstype=AAAA
+||languagetool.org^$dnstype=AAAA
 ||lanik.us^$dnstype=AAAA
 ||lanmdh.net^$dnstype=AAAA
 ||lanniser-ylo.shop^$dnstype=AAAA
@@ -21063,6 +21076,7 @@
 ||motiyun.com^$dnstype=AAAA
 ||moto.com^$dnstype=AAAA
 ||motolia.com^$dnstype=AAAA
+||motopress.com^$dnstype=AAAA
 ||motor4ik.ru^$dnstype=AAAA
 ||motorola.ca^$dnstype=AAAA
 ||motorola.cl^$dnstype=AAAA
@@ -21255,6 +21269,7 @@
 ||msudalosti.com^$dnstype=AAAA
 ||msunlimitedcloudsummit.com^$dnstype=AAAA
 ||mswe1.org^$dnstype=AAAA
+||msys2.org^$dnstype=AAAA
 ||mt.co.kr^$dnstype=AAAA
 ||mt.lv^$dnstype=AAAA
 ||mt0011.site^$dnstype=AAAA
@@ -23175,6 +23190,7 @@
 ||o3team.ru^$dnstype=AAAA
 ||oaa-anaes.ac.uk^$dnstype=AAAA
 ||oaistatic.com^$dnstype=AAAA
+||oaistatsig.com^$dnstype=AAAA
 ||oaiusercontent.com^$dnstype=AAAA
 ||oakhill.ac.uk^$dnstype=AAAA
 ||oaklands.ac.uk^$dnstype=AAAA
@@ -24794,6 +24810,7 @@
 ||polymer-project.org^$dnstype=AAAA
 ||polymerhk.com^$dnstype=AAAA
 ||polymerproject.org^$dnstype=AAAA
+||polyu.hk^$dnstype=AAAA
 ||poms.ac.uk^$dnstype=AAAA
 ||pone.ac.uk^$dnstype=AAAA
 ||pontypridd.ac.uk^$dnstype=AAAA
@@ -34154,6 +34171,7 @@
 ||wp.com^$dnstype=AAAA
 ||wpewebkit.org^$dnstype=AAAA
 ||wplace.live^$dnstype=AAAA
+||wpmailsmtp.com^$dnstype=AAAA
 ||wpoforum.com^$dnstype=AAAA
 ||wpvip.com^$dnstype=AAAA
 ||wqe.ac.uk^$dnstype=AAAA
@@ -34667,7 +34685,10 @@
 ||xn--d1abkf4ap.fun^$dnstype=AAAA
 ||xn--d4ty0ojsqzfd.com^$dnstype=AAAA
 ||xn--dgtr4ppoz.com^$dnstype=AAAA
+||xn--fiqs8s1bxp3anr7a.hk^$dnstype=AAAA
+||xn--fiqs8s1byzqyvl.hk^$dnstype=AAAA
 ||xn--flw351e.com^$dnstype=AAAA
+||xn--gdt08a.hk^$dnstype=AAAA
 ||xn--ggle-55da.com^$dnstype=AAAA
 ||xn--gmq348bujlxrb.com^$dnstype=AAAA
 ||xn--gmq92kd2rm1kx34a.com^$dnstype=AAAA
@@ -34683,10 +34704,16 @@
 ||xn--m1abbbgjah.lol^$dnstype=AAAA
 ||xn--mts47c3w9b1qr.net^$dnstype=AAAA
 ||xn--mtswd61ejxq.com^$dnstype=AAAA
+||xn--mxtq18a.hk^$dnstype=AAAA
 ||xn--ngstr-lra8j.com^$dnstype=AAAA
 ||xn--noss43i.com^$dnstype=AAAA
 ||xn--oiq.cc^$dnstype=AAAA
 ||xn--pearsonenespaol-brb.com^$dnstype=AAAA
+||xn--pssu7ci2j23mp9ny48b.hk^$dnstype=AAAA
+||xn--pssu7cv61af1tcs59bnvd.hk^$dnstype=AAAA
+||xn--pssu7cv61af44b.hk^$dnstype=AAAA
+||xn--pssu7cv61ahw8aq79bztd.hk^$dnstype=AAAA
+||xn--pssu7cv61ahwcb1p2yk.hk^$dnstype=AAAA
 ||xn--q41am8x.com^$dnstype=AAAA
 ||xn--qhrx81fxh2a.xn--55qx5d.hk^$dnstype=AAAA
 ||xn--qoq462m.com^$dnstype=AAAA
@@ -34698,6 +34725,8 @@
 ||xn--ubt498knmf.com^$dnstype=AAAA
 ||xn--uis17aj9kmuf.com^$dnstype=AAAA
 ||xn--urs05q.jp^$dnstype=AAAA
+||xn--wcv22d.hk^$dnstype=AAAA
+||xn--wcvs22d1m.hk^$dnstype=AAAA
 ||xn--x-qeu1ji09tzlg.biz^$dnstype=AAAA
 ||xn--x-qeu1ji09tzlg.net^$dnstype=AAAA
 ||xn--xsq421m.com^$dnstype=AAAA
