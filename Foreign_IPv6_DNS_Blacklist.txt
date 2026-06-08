@@ -22737,6 +22737,7 @@
 ||notify.ppy.sh^$dnstype=AAAA
 ||notimundo.press^$dnstype=AAAA
 ||notion-static.com^$dnstype=AAAA
+||notion-status.com^$dnstype=AAAA
 ||notion.com^$dnstype=AAAA
 ||notion.new^$dnstype=AAAA
 ||notion.site^$dnstype=AAAA
