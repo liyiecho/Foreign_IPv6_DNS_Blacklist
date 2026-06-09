@@ -16818,6 +16818,7 @@
 ||intuitpayments.com^$dnstype=AAAA
 ||intunewiki.com^$dnstype=AAAA
 ||intute.ac.uk^$dnstype=AAAA
+||invade.tw^$dnstype=AAAA
 ||inventor-certified.com^$dnstype=AAAA
 ||inventorfusion.com^$dnstype=AAAA
 ||inventorseries.com^$dnstype=AAAA
@@ -29888,7 +29889,6 @@
 ||taisounds.com^$dnstype=AAAA
 ||tait.ac.uk^$dnstype=AAAA
 ||taiwan-sex.com^$dnstype=AAAA
-||taiwan.net.tw^$dnstype=AAAA
 ||taiwanadultexpo.com^$dnstype=AAAA
 ||taiwanbible.com^$dnstype=AAAA
 ||taiwancon.com^$dnstype=AAAA
@@ -29909,7 +29909,6 @@
 ||taiwanstay.net.tw^$dnstype=AAAA
 ||taiwantoday.tw^$dnstype=AAAA
 ||taiwantp.net^$dnstype=AAAA
-||taiwantrip.com.tw^$dnstype=AAAA
 ||taiwantt.org.tw^$dnstype=AAAA
 ||taiwanus.net^$dnstype=AAAA
 ||taiwanyes.com^$dnstype=AAAA
@@ -32124,6 +32123,7 @@
 ||ushare.ac.uk^$dnstype=AAAA
 ||ushaw.ac.uk^$dnstype=AAAA
 ||usma.edu^$dnstype=AAAA
+||usmart.hk^$dnstype=AAAA
 ||usmc.mil^$dnstype=AAAA
 ||usmgtcg.ning.com^$dnstype=AAAA
 ||usno.navy.mil^$dnstype=AAAA
