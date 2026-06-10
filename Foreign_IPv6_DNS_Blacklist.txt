@@ -23152,6 +23152,7 @@
 ||nxtdig.com.hk^$dnstype=AAAA
 ||nxtdig.com.tw^$dnstype=AAAA
 ||nxtrace.org^$dnstype=AAAA
+||nxtv.jp^$dnstype=AAAA
 ||nyaa.eu^$dnstype=AAAA
 ||nyaa.net^$dnstype=AAAA
 ||nyaa.si^$dnstype=AAAA
@@ -31930,6 +31931,9 @@
 ||understanding-inequalities.ac.uk^$dnstype=AAAA
 ||understandingsociety.ac.uk^$dnstype=AAAA
 ||underwoodammo.com^$dnstype=AAAA
+||unext-info.jp^$dnstype=AAAA
+||unext.co.jp^$dnstype=AAAA
+||unext.jp^$dnstype=AAAA
 ||unfiltered.news^$dnstype=AAAA
 ||ungrounded.net^$dnstype=AAAA
 ||unholyknight.com^$dnstype=AAAA
@@ -32122,6 +32126,7 @@
 ||usgs.gov^$dnstype=AAAA
 ||ushare.ac.uk^$dnstype=AAAA
 ||ushaw.ac.uk^$dnstype=AAAA
+||ushmm.org^$dnstype=AAAA
 ||usma.edu^$dnstype=AAAA
 ||usmart.hk^$dnstype=AAAA
 ||usmc.mil^$dnstype=AAAA
