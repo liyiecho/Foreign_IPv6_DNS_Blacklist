@@ -1724,6 +1724,7 @@
 ||allizom.org^$dnstype=AAAA
 ||alljackpotscasino.com^$dnstype=AAAA
 ||alljapanesepass.com^$dnstype=AAAA
+||allkeyshop.com^$dnstype=AAAA
 ||allmomsex.com^$dnstype=AAAA
 ||allmovie.com^$dnstype=AAAA
 ||allnations.ac.uk^$dnstype=AAAA
@@ -3279,6 +3280,7 @@
 ||avdwang.xyz^$dnstype=AAAA
 ||avelip.com^$dnstype=AAAA
 ||aventertainments.com^$dnstype=AAAA
+||avermedia.com^$dnstype=AAAA
 ||aversbank.ru^$dnstype=AAAA
 ||avfantasy.com^$dnstype=AAAA
 ||avfox.cc^$dnstype=AAAA
@@ -4291,6 +4293,7 @@
 ||beyondfirewall.com^$dnstype=AAAA
 ||beyondtext.ac.uk^$dnstype=AAAA
 ||bfa.ru^$dnstype=AAAA
+||bfads.net^$dnstype=AAAA
 ||bffshd.com^$dnstype=AAAA
 ||bfmat.ac.uk^$dnstype=AAAA
 ||bfnn.org^$dnstype=AAAA
@@ -5882,6 +5885,7 @@
 ||buypass.com^$dnstype=AAAA
 ||buypass.no^$dnstype=AAAA
 ||buypass.se^$dnstype=AAAA
+||buyservices.com^$dnstype=AAAA
 ||buyshoponly.com^$dnstype=AAAA
 ||buzzardflapper.com^$dnstype=AAAA
 ||buzzav.com^$dnstype=AAAA
@@ -7503,6 +7507,7 @@
 ||coindesk.com^$dnstype=AAAA
 ||coinegg.com^$dnstype=AAAA
 ||coinex.com^$dnstype=AAAA
+||coingate.com^$dnstype=AAAA
 ||coingecko.com^$dnstype=AAAA
 ||coingi.com^$dnstype=AAAA
 ||coinglass.com^$dnstype=AAAA
@@ -9128,6 +9133,9 @@
 ||discountbeatsstore.com^$dnstype=AAAA
 ||discountedporn.com^$dnstype=AAAA
 ||discountporn.club^$dnstype=AAAA
+||discourse-cdn.com^$dnstype=AAAA
+||discourse.group^$dnstype=AAAA
+||discourse.org^$dnstype=AAAA
 ||discover.ac.uk^$dnstype=AAAA
 ||discovereconomics.ac.uk^$dnstype=AAAA
 ||discovershiretoko.org^$dnstype=AAAA
@@ -10035,6 +10043,10 @@
 ||ebahy.com^$dnstype=AAAA
 ||ebalovo.com^$dnstype=AAAA
 ||ebam.ac.uk^$dnstype=AAAA
+||ebates.ca^$dnstype=AAAA
+||ebates.kr^$dnstype=AAAA
+||ebates.sg^$dnstype=AAAA
+||ebatescanada.com^$dnstype=AAAA
 ||ebay-25-assets.s3-us-west-1.amazonaws.com^$dnstype=AAAA
 ||ebay-authenticate.net^$dnstype=AAAA
 ||ebay-confirm.com^$dnstype=AAAA
@@ -10229,6 +10241,7 @@
 ||eca.ac.uk^$dnstype=AAAA
 ||ecampus-leeds.ac.uk^$dnstype=AAAA
 ||ecapi-pchome.cdn.hinet.net^$dnstype=AAAA
+||ecbsn.com^$dnstype=AAAA
 ||ecc.ac.uk^$dnstype=AAAA
 ||ecchinohentai.ru^$dnstype=AAAA
 ||ecci.ac.uk^$dnstype=AAAA
@@ -10410,6 +10423,7 @@
 ||electronicarts.fr^$dnstype=AAAA
 ||electronicsignature.ru^$dnstype=AAAA
 ||electronjs.org^$dnstype=AAAA
+||elegantthemes.com^$dnstype=AAAA
 ||element.io^$dnstype=AAAA
 ||elementary.io^$dnstype=AAAA
 ||elephantlist.com^$dnstype=AAAA
@@ -10436,6 +10450,7 @@
 ||elixir.ac.uk^$dnstype=AAAA
 ||elizabethmontagunetwork.ac.uk^$dnstype=AAAA
 ||ellawine.org^$dnstype=AAAA
+||elliot.ai^$dnstype=AAAA
 ||elliotthudsoncollege.ac.uk^$dnstype=AAAA
 ||elmwood.ac.uk^$dnstype=AAAA
 ||elne.ac.uk^$dnstype=AAAA
@@ -11615,6 +11630,7 @@
 ||fatakat-n.club^$dnstype=AAAA
 ||fatbtc.com^$dnstype=AAAA
 ||fatstube.com^$dnstype=AAAA
+||fatwallet.com^$dnstype=AAAA
 ||fau11.com^$dnstype=AAAA
 ||fault-analysis-group.ac.uk^$dnstype=AAAA
 ||favebook.com^$dnstype=AAAA
@@ -11800,6 +11816,7 @@
 ||ficador.com^$dnstype=AAAA
 ||ficbook.net^$dnstype=AAAA
 ||ficeboock.com^$dnstype=AAAA
+||ficgs.com^$dnstype=AAAA
 ||ficm.ac.uk^$dnstype=AAAA
 ||ficmania.com^$dnstype=AAAA
 ||fictionmania.tv^$dnstype=AAAA
@@ -12839,7 +12856,9 @@
 ||gamesfuckgirls.com^$dnstype=AAAA
 ||gamesofdesire.com^$dnstype=AAAA
 ||gamespark.jp^$dnstype=AAAA
+||gamesplanet.com^$dnstype=AAAA
 ||gamesstack.com^$dnstype=AAAA
+||gametap.com^$dnstype=AAAA
 ||gameuxmasterguide.com^$dnstype=AAAA
 ||gamez.com.tw^$dnstype=AAAA
 ||gaming-notebooks.com^$dnstype=AAAA
@@ -13203,6 +13222,7 @@
 ||gfx.ms^$dnstype=AAAA
 ||gfycat.com^$dnstype=AAAA
 ||gfysex.com^$dnstype=AAAA
+||gg.deals^$dnstype=AAAA
 ||ggdiao.com^$dnstype=AAAA
 ||ggjav.com^$dnstype=AAAA
 ||ggoogle.com^$dnstype=AAAA
@@ -13216,6 +13236,7 @@
 ||ghanely.me^$dnstype=AAAA
 ||ghbi.ir^$dnstype=AAAA
 ||ghcr.io^$dnstype=AAAA
+||ghe.com^$dnstype=AAAA
 ||ghettotube.com^$dnstype=AAAA
 ||ghidra-sre.org^$dnstype=AAAA
 ||ghil.ac.uk^$dnstype=AAAA
@@ -13957,6 +13978,7 @@
 ||gowercollegeswansea.ac.uk^$dnstype=AAAA
 ||gpb.ru^$dnstype=AAAA
 ||gpkss.ac.uk^$dnstype=AAAA
+||gpstatic.com^$dnstype=AAAA
 ||gpstheseries.com^$dnstype=AAAA
 ||gpucomputing.ac.uk^$dnstype=AAAA
 ||gputechconf.co.kr^$dnstype=AAAA
@@ -15734,6 +15756,7 @@
 ||hyper.is^$dnstype=AAAA
 ||hyperbeam.com^$dnstype=AAAA
 ||hyperdreams.com^$dnstype=AAAA
+||hyperliquid.xyz^$dnstype=AAAA
 ||hyperrate.com^$dnstype=AAAA
 ||hyperscan.io^$dnstype=AAAA
 ||hypnohub.net^$dnstype=AAAA
@@ -18149,6 +18172,7 @@
 ||kingstonalumni.ac.uk^$dnstype=AAAA
 ||kingstone.com.tw^$dnstype=AAAA
 ||kingsway.ac.uk^$dnstype=AAAA
+||kinguin.net^$dnstype=AAAA
 ||kinguno.xyz^$dnstype=AAAA
 ||kink.com^$dnstype=AAAA
 ||kinkbook.com^$dnstype=AAAA
@@ -18758,6 +18782,8 @@
 ||lightboxcdn.com^$dnstype=AAAA
 ||lightbridge.com^$dnstype=AAAA
 ||lighten.org.tw^$dnstype=AAAA
+||lighter.exchange^$dnstype=AAAA
+||lighter.xyz^$dnstype=AAAA
 ||lighthouselearningtrust.ac.uk^$dnstype=AAAA
 ||lighti.me^$dnstype=AAAA
 ||lightnovel.cn^$dnstype=AAAA
@@ -22241,7 +22267,9 @@
 ||nexon.co.jp^$dnstype=AAAA
 ||nexon.com^$dnstype=AAAA
 ||nexon.io^$dnstype=AAAA
+||nexon.net^$dnstype=AAAA
 ||nexoncdn.co.kr^$dnstype=AAAA
+||nexongames.co.kr^$dnstype=AAAA
 ||nexpart.com^$dnstype=AAAA
 ||nexpart.tv^$dnstype=AAAA
 ||next-institute.ac.uk^$dnstype=AAAA
@@ -22328,7 +22356,9 @@
 ||nheos.com^$dnstype=AAAA
 ||nhi.gov.tw^$dnstype=AAAA
 ||nhk-ondemand.jp^$dnstype=AAAA
+||nhk.jp^$dnstype=AAAA
 ||nhk.or.jp^$dnstype=AAAA
+||nhkworld.jp^$dnstype=AAAA
 ||nhm.ac.uk^$dnstype=AAAA
 ||nhncorp.jp^$dnstype=AAAA
 ||niab.ac.uk^$dnstype=AAAA
@@ -25945,7 +25975,10 @@
 ||rakuten.com^$dnstype=AAAA
 ||rakuten.com.tw^$dnstype=AAAA
 ||rakuten.ne.jp^$dnstype=AAAA
+||rakuten.tv^$dnstype=AAAA
 ||rakuten.tw^$dnstype=AAAA
+||rakutenadvertising.com^$dnstype=AAAA
+||rakutengiftcards.ca^$dnstype=AAAA
 ||rakuya.com.tw^$dnstype=AAAA
 ||ram.ac.uk^$dnstype=AAAA
 ||ramcity.com.au^$dnstype=AAAA
@@ -26664,6 +26697,7 @@
 ||rprimelab.com^$dnstype=AAAA
 ||rps.ac.uk^$dnstype=AAAA
 ||rqbank.ir^$dnstype=AAAA
+||rrcbsn.com^$dnstype=AAAA
 ||rri.ro^$dnstype=AAAA
 ||rrl28.buzz^$dnstype=AAAA
 ||rrs1.xyz^$dnstype=AAAA
@@ -32626,6 +32660,7 @@
 ||vijayatemple.org^$dnstype=AAAA
 ||viju.ru^$dnstype=AAAA
 ||vikacg.com^$dnstype=AAAA
+||viki.com^$dnstype=AAAA
 ||vikiporn.com^$dnstype=AAAA
 ||vilanet.me^$dnstype=AAAA
 ||vilavpn.com^$dnstype=AAAA
@@ -34108,6 +34143,7 @@
 ||woopie.tv^$dnstype=AAAA
 ||worc.ac.uk^$dnstype=AAAA
 ||worcester.ac.uk^$dnstype=AAAA
+||wordcamp.org^$dnstype=AAAA
 ||wordpress.com^$dnstype=AAAA
 ||wordpress.net^$dnstype=AAAA
 ||wordpress.org^$dnstype=AAAA
@@ -35935,6 +35971,7 @@
 ||zishy.com^$dnstype=AAAA
 ||zkaip.com^$dnstype=AAAA
 ||zkiz.com^$dnstype=AAAA
+||zklighter.elliot.ai^$dnstype=AAAA
 ||zlib.life^$dnstype=AAAA
 ||zlibcdn.com^$dnstype=AAAA
 ||zlibcdn2.com^$dnstype=AAAA
