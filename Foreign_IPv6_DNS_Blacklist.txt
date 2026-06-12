@@ -9484,6 +9484,7 @@
 ||dot.ca.gov^$dnstype=AAAA
 ||dot.net^$dnstype=AAAA
 ||dot.sb^$dnstype=AAAA
+||dota2.com^$dnstype=AAAA
 ||dotcernpilot.info^$dnstype=AAAA
 ||dotdeb.org^$dnstype=AAAA
 ||dotfacebook.com^$dnstype=AAAA
@@ -18942,6 +18943,8 @@
 ||livehdcams.com^$dnstype=AAAA
 ||livejasmin.com^$dnstype=AAAA
 ||livejasminbabes.net^$dnstype=AAAA
+||livejournal.com^$dnstype=AAAA
+||livejournal.net^$dnstype=AAAA
 ||livekit.cloud^$dnstype=AAAA
 ||liveleak.com^$dnstype=AAAA
 ||livemint.com^$dnstype=AAAA
@@ -23375,6 +23378,7 @@
 ||okx-dns.com^$dnstype=AAAA
 ||okx-dns1.com^$dnstype=AAAA
 ||okx-dns2.com^$dnstype=AAAA
+||okx.ac^$dnstype=AAAA
 ||okx.cab^$dnstype=AAAA
 ||okx.com^$dnstype=AAAA
 ||olabloga.pl^$dnstype=AAAA
@@ -32265,6 +32269,7 @@
 ||v-has.com^$dnstype=AAAA
 ||v-resort.ac.uk^$dnstype=AAAA
 ||v.gd^$dnstype=AAAA
+||v.ps^$dnstype=AAAA
 ||v.roucdn^$dnstype=AAAA
 ||v2.help^$dnstype=AAAA
 ||v2.hysteria.network^$dnstype=AAAA
@@ -32301,6 +32306,7 @@
 ||value-domain.com^$dnstype=AAAA
 ||value-server.com^$dnstype=AAAA
 ||valuegb.com^$dnstype=AAAA
+||valve.net^$dnstype=AAAA
 ||valvesoftware.com^$dnstype=AAAA
 ||vam.ac.uk^$dnstype=AAAA
 ||vamo.com^$dnstype=AAAA
@@ -33285,6 +33291,7 @@
 ||vpornvideos.com^$dnstype=AAAA
 ||vpro.com^$dnstype=AAAA
 ||vpro.net^$dnstype=AAAA
+||vps.hosting^$dnstype=AAAA
 ||vpsxb.net^$dnstype=AAAA
 ||vr.org^$dnstype=AAAA
 ||vraiesagesse.net^$dnstype=AAAA
@@ -34864,6 +34871,16 @@
 ||xtapes.to^$dnstype=AAAA
 ||xtegvk.xyz^$dnstype=AAAA
 ||xteko.com^$dnstype=AAAA
+||xtom.au^$dnstype=AAAA
+||xtom.com^$dnstype=AAAA
+||xtom.de^$dnstype=AAAA
+||xtom.ee^$dnstype=AAAA
+||xtom.hk^$dnstype=AAAA
+||xtom.jp^$dnstype=AAAA
+||xtom.nl^$dnstype=AAAA
+||xtom.sg^$dnstype=AAAA
+||xtom.social^$dnstype=AAAA
+||xtom.us^$dnstype=AAAA
 ||xtracloud.net^$dnstype=AAAA
 ||xtube.com^$dnstype=AAAA
 ||xtubebdsm.com^$dnstype=AAAA
