@@ -10237,6 +10237,7 @@
 ||ebsco.com^$dnstype=AAAA
 ||ebsl.ac.uk^$dnstype=AAAA
 ||ebslondon.ac.uk^$dnstype=AAAA
+||ebtcbank.com^$dnstype=AAAA
 ||ebuyer.com^$dnstype=AAAA
 ||ebuyheadphones.com^$dnstype=AAAA
 ||eca.ac.uk^$dnstype=AAAA
@@ -12739,10 +12740,15 @@
 ||futhead.com^$dnstype=AAAA
 ||futoka.jp^$dnstype=AAAA
 ||futpromos.com^$dnstype=AAAA
+||futu.cn^$dnstype=AAAA
+||futu.link^$dnstype=AAAA
 ||futuhk.com^$dnstype=AAAA
+||futuhk1.com^$dnstype=AAAA
+||futuhk2.com^$dnstype=AAAA
 ||futuhkapp.com^$dnstype=AAAA
 ||futuholdings.com^$dnstype=AAAA
 ||futunited.com^$dnstype=AAAA
+||futuoa.com^$dnstype=AAAA
 ||future-cs.ru^$dnstype=AAAA
 ||future-media.ac.uk^$dnstype=AAAA
 ||future-reserves-research.ac.uk^$dnstype=AAAA
@@ -12759,6 +12765,7 @@
 ||futuretrack.ac.uk^$dnstype=AAAA
 ||futurevehicles.ac.uk^$dnstype=AAAA
 ||futureworks.ac.uk^$dnstype=AAAA
+||futusg.com^$dnstype=AAAA
 ||fux.com^$dnstype=AAAA
 ||fuxporn.com^$dnstype=AAAA
 ||fuyin.net^$dnstype=AAAA
@@ -16375,6 +16382,7 @@
 ||imperiodefamosas.com^$dnstype=AAAA
 ||impermium.com^$dnstype=AAAA
 ||impp.mn^$dnstype=AAAA
+||improd.works^$dnstype=AAAA
 ||imr-cdt.ac.uk^$dnstype=AAAA
 ||imrci.ac.uk^$dnstype=AAAA
 ||imsrbx.xyz^$dnstype=AAAA
@@ -19122,6 +19130,7 @@
 ||londonstudiocentre.ac.uk^$dnstype=AAAA
 ||lonestarnaughtygirls.com^$dnstype=AAAA
 ||longbridge.cloud^$dnstype=AAAA
+||longbridge.cn^$dnstype=AAAA
 ||longbridge.com^$dnstype=AAAA
 ||longbridge.global^$dnstype=AAAA
 ||longbridge.hk^$dnstype=AAAA
@@ -28364,6 +28373,7 @@
 ||skysports.ie^$dnstype=AAAA
 ||skysportsonline.com^$dnstype=AAAA
 ||skysportsracing.com^$dnstype=AAAA
+||skytigris.cn^$dnstype=AAAA
 ||skyvegas.com^$dnstype=AAAA
 ||sl-reverse.com^$dnstype=AAAA
 ||sl99mod.buzz^$dnstype=AAAA
@@ -29309,6 +29319,7 @@
 ||steamserver.net^$dnstype=AAAA
 ||steamstatic.com^$dnstype=AAAA
 ||steamstore-a.akamaihd.net^$dnstype=AAAA
+||steamugcquincy.blob.core.windows.net^$dnstype=AAAA
 ||steamunlocked.net^$dnstype=AAAA
 ||steamusercontent-a.akamaihd.net^$dnstype=AAAA
 ||steamusercontent.com^$dnstype=AAAA
@@ -30744,6 +30755,7 @@
 ||tier.org.tw^$dnstype=AAAA
 ||tiffany-towers.com^$dnstype=AAAA
 ||tig-ol-bitties.live^$dnstype=AAAA
+||tigerbbs.cn^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
 ||tiipple.ac.uk^$dnstype=AAAA
 ||tiktok-minis.com^$dnstype=AAAA
