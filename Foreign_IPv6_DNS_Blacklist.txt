@@ -3648,6 +3648,7 @@
 ||barton.de^$dnstype=AAAA
 ||bartvpn.com^$dnstype=AAAA
 ||bas.ac.uk^$dnstype=AAAA
+||base.org^$dnstype=AAAA
 ||baselinestudy.com^$dnstype=AAAA
 ||baselinestudy.org^$dnstype=AAAA
 ||basford-hall.ac.uk^$dnstype=AAAA
@@ -4567,6 +4568,7 @@
 ||bitget.com^$dnstype=AAAA
 ||bithumb.com^$dnstype=AAAA
 ||bitinka.com.ar^$dnstype=AAAA
+||bitlayer.org^$dnstype=AAAA
 ||bitly.com^$dnstype=AAAA
 ||bitly.is^$dnstype=AAAA
 ||bitmex.com^$dnstype=AAAA
@@ -4627,6 +4629,7 @@
 ||blackvpn.com^$dnstype=AAAA
 ||blake.ac.uk^$dnstype=AAAA
 ||blaoshi.cc^$dnstype=AAAA
+||blast.io^$dnstype=AAAA
 ||blazor.net^$dnstype=AAAA
 ||blc.ac.uk^$dnstype=AAAA
 ||ble.ac.uk^$dnstype=AAAA
@@ -5251,6 +5254,7 @@
 ||bmwusfactory.com^$dnstype=AAAA
 ||bmwusrideracademy.com^$dnstype=AAAA
 ||bmwvalueservice.com^$dnstype=AAAA
+||bmwweb.solutions^$dnstype=AAAA
 ||bmwwholesaleconnect.com^$dnstype=AAAA
 ||bmwworld.com^$dnstype=AAAA
 ||bmwworld.net^$dnstype=AAAA
@@ -5258,6 +5262,8 @@
 ||bmwzentrum.com^$dnstype=AAAA
 ||bn5x.net^$dnstype=AAAA
 ||bnac.ac.uk^$dnstype=AAAA
+||bnappweb.black^$dnstype=AAAA
+||bnbchain.org^$dnstype=AAAA
 ||bnbstatic.com^$dnstype=AAAA
 ||bnef.com^$dnstype=AAAA
 ||bnetcmsus-a.akamaihd.net^$dnstype=AAAA
@@ -5670,6 +5676,7 @@
 ||bs-adreview.com^$dnstype=AAAA
 ||bs-awh.ne.jp^$dnstype=AAAA
 ||bsa.ac.uk^$dnstype=AAAA
+||bsappapi.cc^$dnstype=AAAA
 ||bsappapi.com^$dnstype=AAAA
 ||bsaw.ac.uk^$dnstype=AAAA
 ||bsbec.ac.uk^$dnstype=AAAA
@@ -6673,6 +6680,7 @@
 ||cgw666.com^$dnstype=AAAA
 ||ch9.ms^$dnstype=AAAA
 ||chace.ac.uk^$dnstype=AAAA
+||chainid.network^$dnstype=AAAA
 ||championshipseriesleague.com^$dnstype=AAAA
 ||change.org^$dnstype=AAAA
 ||changeip.name^$dnstype=AAAA
@@ -7821,6 +7829,7 @@
 ||cordcloud.org^$dnstype=AAAA
 ||cordwainers.ac.uk^$dnstype=AAAA
 ||core.ac.uk^$dnstype=AAAA
+||coredao.org^$dnstype=AAAA
 ||coreduo.com^$dnstype=AAAA
 ||coreextreme.com^$dnstype=AAAA
 ||corel.com^$dnstype=AAAA
@@ -9653,6 +9662,7 @@
 ||dropboxstatic.com^$dnstype=AAAA
 ||dropboxusercontent.com^$dnstype=AAAA
 ||droplr.com^$dnstype=AAAA
+||drpc.org^$dnstype=AAAA
 ||drsunacademy.com^$dnstype=AAAA
 ||drtuber.com^$dnstype=AAAA
 ||drunk6.com^$dnstype=AAAA
@@ -11537,6 +11547,8 @@
 ||fantasiasguatemala.com^$dnstype=AAAA
 ||fantasti.cc^$dnstype=AAAA
 ||fantasticyoungporn.com^$dnstype=AAAA
+||fantom.foundation^$dnstype=AAAA
+||fantom.network^$dnstype=AAAA
 ||fantv.hk^$dnstype=AAAA
 ||fanyue.info^$dnstype=AAAA
 ||fap-xxx.com^$dnstype=AAAA
@@ -11812,6 +11824,7 @@
 ||fhreports.net^$dnstype=AAAA
 ||fi11av1.com^$dnstype=AAAA
 ||fi11tv1.com^$dnstype=AAAA
+||fiat24.com^$dnstype=AAAA
 ||fibank.bg^$dnstype=AAAA
 ||fibre-diffraction.ac.uk^$dnstype=AAAA
 ||fic.fan^$dnstype=AAAA
@@ -12027,6 +12040,7 @@
 ||flagsonline.it^$dnstype=AAAA
 ||flame.ac.uk^$dnstype=AAAA
 ||flameunleashed.com^$dnstype=AAAA
+||flare.network^$dnstype=AAAA
 ||flaru.com^$dnstype=AAAA
 ||flash-xxx.com^$dnstype=AAAA
 ||flashtranny.com^$dnstype=AAAA
@@ -17071,6 +17085,7 @@
 ||is-a-hunter.com^$dnstype=AAAA
 ||is.gd^$dnstype=AAAA
 ||isaacmao.com^$dnstype=AAAA
+||isafepal.com^$dnstype=AAAA
 ||isasecret.com^$dnstype=AAAA
 ||isbgpsafeyet.com^$dnstype=AAAA
 ||isc.ac.uk^$dnstype=AAAA
@@ -20073,6 +20088,7 @@
 ||mega.io^$dnstype=AAAA
 ||mega.nz^$dnstype=AAAA
 ||megacamz.com^$dnstype=AAAA
+||megaeth.com^$dnstype=AAAA
 ||megafilmporno.com^$dnstype=AAAA
 ||megafon.com^$dnstype=AAAA
 ||megafon.ru^$dnstype=AAAA
@@ -20147,6 +20163,7 @@
 ||meripet.com^$dnstype=AAAA
 ||merit-times.com^$dnstype=AAAA
 ||merit-times.com.tw^$dnstype=AAAA
+||merkl.xyz^$dnstype=AAAA
 ||merlin.ac.uk^$dnstype=AAAA
 ||merlinblog.xyz^$dnstype=AAAA
 ||merops.ac.uk^$dnstype=AAAA
@@ -20207,6 +20224,7 @@
 ||meu.ac.uk^$dnstype=AAAA
 ||meuhentai.com^$dnstype=AAAA
 ||mewe.com^$dnstype=AAAA
+||mexc.co^$dnstype=AAAA
 ||mexc.com^$dnstype=AAAA
 ||mexcsensors.com^$dnstype=AAAA
 ||meyou.jp^$dnstype=AAAA
@@ -22382,6 +22400,7 @@
 ||nic.cz^$dnstype=AAAA
 ||nic.cz.cc^$dnstype=AAAA
 ||nic.gov^$dnstype=AAAA
+||nic.ru^$dnstype=AAAA
 ||nic.youtube^$dnstype=AAAA
 ||nicats.ac.uk^$dnstype=AAAA
 ||nicd.ac.uk^$dnstype=AAAA
@@ -22394,6 +22413,7 @@
 ||nicesshop.net^$dnstype=AAAA
 ||nichepornsite.com^$dnstype=AAAA
 ||nichepornsites.com^$dnstype=AAAA
+||nichost.ru^$dnstype=AAAA
 ||nicis.ac.uk^$dnstype=AAAA
 ||nickscipio.com^$dnstype=AAAA
 ||nicky.xxx^$dnstype=AAAA
@@ -22697,6 +22717,7 @@
 ||nodeimage.com^$dnstype=AAAA
 ||nodejs.org^$dnstype=AAAA
 ||nodequality.com^$dnstype=AAAA
+||nodereal.io^$dnstype=AAAA
 ||nodes.ac.uk^$dnstype=AAAA
 ||nodeseek.com^$dnstype=AAAA
 ||nodesnoop.com^$dnstype=AAAA
@@ -23247,6 +23268,7 @@
 ||oann.com^$dnstype=AAAA
 ||oas.ac.uk^$dnstype=AAAA
 ||oasis.ac.uk^$dnstype=AAAA
+||oasis.io^$dnstype=AAAA
 ||oasiscollege.ac.uk^$dnstype=AAAA
 ||oasp.ac.uk^$dnstype=AAAA
 ||oath.cloud^$dnstype=AAAA
@@ -23500,6 +23522,7 @@
 ||onetrust.com^$dnstype=AAAA
 ||onevps.com^$dnstype=AAAA
 ||oneworldmanystories.com^$dnstype=AAAA
+||onfinality.io^$dnstype=AAAA
 ||onindiansex.com^$dnstype=AAAA
 ||oninstagram.com^$dnstype=AAAA
 ||onion.city^$dnstype=AAAA
@@ -25919,6 +25942,7 @@
 ||r-pool.net^$dnstype=AAAA
 ||r-project.org^$dnstype=AAAA
 ||r0.ru^$dnstype=AAAA
+||r01.ru^$dnstype=AAAA
 ||r10s.com^$dnstype=AAAA
 ||r10s.jp^$dnstype=AAAA
 ||r18.clickme.net^$dnstype=AAAA
@@ -26322,6 +26346,9 @@
 ||reflectivecode.com^$dnstype=AAAA
 ||reform-apple.com^$dnstype=AAAA
 ||refrain.ac.uk^$dnstype=AAAA
+||reg.cloud^$dnstype=AAAA
+||reg.com^$dnstype=AAAA
+||reg.ru^$dnstype=AAAA
 ||regard.ac.uk^$dnstype=AAAA
 ||regener8.ac.uk^$dnstype=AAAA
 ||regent-academy.ac.uk^$dnstype=AAAA
@@ -26750,6 +26777,7 @@
 ||rsg.sc^$dnstype=AAAA
 ||rsgamen.org^$dnstype=AAAA
 ||rshb.ru^$dnstype=AAAA
+||rsk.co^$dnstype=AAAA
 ||rslg.ac.uk^$dnstype=AAAA
 ||rslondon.ac.uk^$dnstype=AAAA
 ||rslp.ac.uk^$dnstype=AAAA
@@ -26975,6 +27003,7 @@
 ||saasexch.cc^$dnstype=AAAA
 ||saasexch.co^$dnstype=AAAA
 ||saasexch.com^$dnstype=AAAA
+||saasexch.info^$dnstype=AAAA
 ||saasexch.io^$dnstype=AAAA
 ||saboom.com^$dnstype=AAAA
 ||sabuibo.net^$dnstype=AAAA
@@ -26998,6 +27027,7 @@
 ||safechat.com^$dnstype=AAAA
 ||safeguarddefenders.com^$dnstype=AAAA
 ||safeliner.tech^$dnstype=AAAA
+||safepal.com^$dnstype=AAAA
 ||safepodnetwork.ac.uk^$dnstype=AAAA
 ||safervpn.com^$dnstype=AAAA
 ||safety.google^$dnstype=AAAA
@@ -28638,6 +28668,7 @@
 ||solid.ru^$dnstype=AAAA
 ||solidaritetibet.org^$dnstype=AAAA
 ||solidfiles.com^$dnstype=AAAA
+||solidifi.app^$dnstype=AAAA
 ||solihull.ac.uk^$dnstype=AAAA
 ||solihullsfc.ac.uk^$dnstype=AAAA
 ||solostudioksale.com^$dnstype=AAAA
@@ -29304,6 +29335,7 @@
 ||steamcloudsweden.blob.core.windows.net^$dnstype=AAAA
 ||steamcommunity-a.akamaihd.net.edgesuite.net^$dnstype=AAAA
 ||steamcommunity.com^$dnstype=AAAA
+||steamconnecttest.com^$dnstype=AAAA
 ||steamcontent.com^$dnstype=AAAA
 ||steamdb.info^$dnstype=AAAA
 ||steamdeck.com^$dnstype=AAAA
@@ -29748,6 +29780,7 @@
 ||swc.ac.uk^$dnstype=AAAA
 ||swdtc.ac.uk^$dnstype=AAAA
 ||swdtp.ac.uk^$dnstype=AAAA
+||sweb.ru^$dnstype=AAAA
 ||sweep.ac.uk^$dnstype=AAAA
 ||sweetadult-tube.com^$dnstype=AAAA
 ||sweetandmaxwell.co.uk^$dnstype=AAAA
@@ -29927,6 +29960,7 @@
 ||tagwalk.com^$dnstype=AAAA
 ||tahr.org.tw^$dnstype=AAAA
 ||taiav.com^$dnstype=AAAA
+||taiko.xyz^$dnstype=AAAA
 ||tail-f.com^$dnstype=AAAA
 ||tailf.com^$dnstype=AAAA
 ||tails.net^$dnstype=AAAA
@@ -30581,6 +30615,7 @@
 ||thinkwithgoogle.com^$dnstype=AAAA
 ||thirdmill.org^$dnstype=AAAA
 ||thirdns.de^$dnstype=AAAA
+||thirdweb.com^$dnstype=AAAA
 ||thisav.com^$dnstype=AAAA
 ||thisav.org^$dnstype=AAAA
 ||thisisgame.com^$dnstype=AAAA
@@ -34679,6 +34714,7 @@
 ||xkontakt18.com^$dnstype=AAAA
 ||xkorean.cam^$dnstype=AAAA
 ||xl-gaytube.com^$dnstype=AAAA
+||xlayer.tech^$dnstype=AAAA
 ||xlecx.org^$dnstype=AAAA
 ||xlfmtalk.com^$dnstype=AAAA
 ||xlfmwz.info^$dnstype=AAAA
@@ -35942,6 +35978,8 @@
 ||zettai-ero.com^$dnstype=AAAA
 ||zeutch.com^$dnstype=AAAA
 ||zfreet.com^$dnstype=AAAA
+||zftksc.cdn-settings.appsflyersdk.com^$dnstype=AAAA
+||zftksc.launches.appsflyersdk.com^$dnstype=AAAA
 ||zgsddh.com^$dnstype=AAAA
 ||zgzcjj.net^$dnstype=AAAA
 ||zh-hans.cfsh99.com^$dnstype=AAAA
