@@ -13890,6 +13890,7 @@
 ||googlearth.com^$dnstype=AAAA
 ||googleartproject.com^$dnstype=AAAA
 ||googleblog.com^$dnstype=AAAA
+||googlebook.google^$dnstype=AAAA
 ||googlebot.com^$dnstype=AAAA
 ||googlecapital.com^$dnstype=AAAA
 ||googlecensorship.org^$dnstype=AAAA
@@ -24078,6 +24079,7 @@
 ||passiontimes.hk^$dnstype=AAAA
 ||passport.net^$dnstype=AAAA
 ||passwordday.org^$dnstype=AAAA
+||passwords.google^$dnstype=AAAA
 ||pastahealth.com^$dnstype=AAAA
 ||paste.ee^$dnstype=AAAA
 ||pastebin.com^$dnstype=AAAA
@@ -34782,7 +34784,6 @@
 ||xn--czq75pvv1aj5c.org^$dnstype=AAAA
 ||xn--d1abkf4ap.fun^$dnstype=AAAA
 ||xn--d4ty0ojsqzfd.com^$dnstype=AAAA
-||xn--dgtr4ppoz.com^$dnstype=AAAA
 ||xn--fiqs8s1bxp3anr7a.hk^$dnstype=AAAA
 ||xn--fiqs8s1byzqyvl.hk^$dnstype=AAAA
 ||xn--flw351e.com^$dnstype=AAAA
