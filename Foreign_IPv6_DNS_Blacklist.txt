@@ -6575,6 +6575,7 @@
 ||celebgramme.com^$dnstype=AAAA
 ||celebmasta.live^$dnstype=AAAA
 ||celebritygay.com^$dnstype=AAAA
+||celebritymoviearchive.com^$dnstype=AAAA
 ||celebritynakeds.com^$dnstype=AAAA
 ||celebrityslips.com^$dnstype=AAAA
 ||celebritystorysite.com^$dnstype=AAAA
@@ -6722,6 +6723,7 @@
 ||chatgptvideob.buzz^$dnstype=AAAA
 ||chatnook.com^$dnstype=AAAA
 ||chatpdf.com^$dnstype=AAAA
+||chatscc-hamivideo2.cdn.hinet.net^$dnstype=AAAA
 ||chatsex.xxx^$dnstype=AAAA
 ||chatter.com^$dnstype=AAAA
 ||chatterbate.io^$dnstype=AAAA
@@ -10369,6 +10371,7 @@
 ||eevpn.com^$dnstype=AAAA
 ||efc.ac.uk^$dnstype=AAAA
 ||efcc.org.hk^$dnstype=AAAA
+||efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net^$dnstype=AAAA
 ||efetedc.ac.uk^$dnstype=AAAA
 ||eff.org^$dnstype=AAAA
 ||effers.com^$dnstype=AAAA
@@ -12401,6 +12404,7 @@
 ||fpmt.org^$dnstype=AAAA
 ||fpmt.tw^$dnstype=AAAA
 ||fpmtmexico.org^$dnstype=AAAA
+||fpo.xxx^$dnstype=AAAA
 ||fptolia.com^$dnstype=AAAA
 ||fqcebook.com^$dnstype=AAAA
 ||fqok.org^$dnstype=AAAA
@@ -12571,6 +12575,8 @@
 ||freeweibo.com^$dnstype=AAAA
 ||freewww.biz^$dnstype=AAAA
 ||freewww.info^$dnstype=AAAA
+||freexh.blog^$dnstype=AAAA
+||freexh.live^$dnstype=AAAA
 ||freexinwen.com^$dnstype=AAAA
 ||freexvideos.org^$dnstype=AAAA
 ||freexxx.best^$dnstype=AAAA
@@ -15115,6 +15121,7 @@
 ||hlnsc.ac.uk^$dnstype=AAAA
 ||hlrcv.stage.adobe.com^$dnstype=AAAA
 ||hls-amt.itunes.apple.com^$dnstype=AAAA
+||hls-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||hls.itunes.apple.com^$dnstype=AAAA
 ||hlsp1.pw^$dnstype=AAAA
 ||hm.com^$dnstype=AAAA
@@ -24570,6 +24577,7 @@
 ||pilgrimagestudies.ac.uk^$dnstype=AAAA
 ||pillbeatsblackfridaysale.com^$dnstype=AAAA
 ||pimg.tw^$dnstype=AAAA
+||pimpbunny.com^$dnstype=AAAA
 ||pin-cong.com^$dnstype=AAAA
 ||pin.it^$dnstype=AAAA
 ||pin6.com^$dnstype=AAAA
@@ -25333,6 +25341,7 @@
 ||powershellgallery.com^$dnstype=AAAA
 ||powersrv.de^$dnstype=AAAA
 ||powersunitedvr.com^$dnstype=AAAA
+||powfans.com^$dnstype=AAAA
 ||powia.ac.uk^$dnstype=AAAA
 ||pp-soc.com^$dnstype=AAAA
 ||pp.ru^$dnstype=AAAA
@@ -27274,6 +27283,7 @@
 ||scatsite.com^$dnstype=AAAA
 ||scatvids.club^$dnstype=AAAA
 ||scatville.com^$dnstype=AAAA
+||scc-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||scc.ac.uk^$dnstype=AAAA
 ||scc.ott.hinet.net^$dnstype=AAAA
 ||sccb.ac.uk^$dnstype=AAAA
@@ -27657,6 +27667,7 @@
 ||sequence.com^$dnstype=AAAA
 ||ser7.cc^$dnstype=AAAA
 ||sera.ac.uk^$dnstype=AAAA
+||serakon.com^$dnstype=AAAA
 ||seraph.me^$dnstype=AAAA
 ||serbiporno.net^$dnstype=AAAA
 ||serc.ac.uk^$dnstype=AAAA
@@ -29930,6 +29941,7 @@
 ||t.co^$dnstype=AAAA
 ||t.finance^$dnstype=AAAA
 ||t.me^$dnstype=AAAA
+||t.ssp.hinet.net^$dnstype=AAAA
 ||t2.ru^$dnstype=AAAA
 ||t21.nikkei.co.jp^$dnstype=AAAA
 ||t21ipau.nikkei.co.jp^$dnstype=AAAA
@@ -33388,6 +33400,7 @@
 ||vscode.dev^$dnstype=AAAA
 ||vscode.search.windows.net^$dnstype=AAAA
 ||vsemrabota.ru^$dnstype=AAAA
+||vsex.in^$dnstype=AAAA
 ||vsezoo.com^$dnstype=AAAA
 ||vsmarketplacebadge.apphb.com^$dnstype=AAAA
 ||vsphere.com^$dnstype=AAAA
@@ -33671,6 +33684,7 @@
 ||weblagu.com^$dnstype=AAAA
 ||weblate.org^$dnstype=AAAA
 ||weblive-hamivideo.cdn.hinet.net^$dnstype=AAAA
+||weblivea-hamivideo.cdn.hinet.net^$dnstype=AAAA
 ||webmademovies.org^$dnstype=AAAA
 ||webmoneyinfo.com^$dnstype=AAAA
 ||webmproject.org^$dnstype=AAAA
@@ -34649,6 +34663,7 @@
 ||xhamster2.com^$dnstype=AAAA
 ||xhamster3.com^$dnstype=AAAA
 ||xhamsterlive.com^$dnstype=AAAA
+||xhapp.live^$dnstype=AAAA
 ||xhcdn.com^$dnstype=AAAA
 ||xhnews.live^$dnstype=AAAA
 ||xhot.pro^$dnstype=AAAA
