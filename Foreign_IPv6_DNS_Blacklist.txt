@@ -2337,6 +2337,7 @@
 ||appbridge.it^$dnstype=AAAA
 ||appcenter.ms^$dnstype=AAAA
 ||appcloud.com^$dnstype=AAAA
+||appconsent.io^$dnstype=AAAA
 ||appdefensealliance.dev^$dnstype=AAAA
 ||appdomain.cloud^$dnstype=AAAA
 ||appdownloader.net^$dnstype=AAAA
@@ -3394,6 +3395,7 @@
 ||awwcn.xyz^$dnstype=AAAA
 ||awxcdn.com^$dnstype=AAAA
 ||axbdoll.com.tw^$dnstype=AAAA
+||axept.io^$dnstype=AAAA
 ||axios.com^$dnstype=AAAA
 ||axureformac.com^$dnstype=AAAA
 ||ayabank.com^$dnstype=AAAA
@@ -6501,6 +6503,7 @@
 ||cdkworkshop.com^$dnstype=AAAA
 ||cdmatech.com^$dnstype=AAAA
 ||cdn-apple.com^$dnstype=AAAA
+||cdn-cookieyes.com^$dnstype=AAAA
 ||cdn-images.mailchimp.com^$dnstype=AAAA
 ||cdn-spotify-experiments.conductrics.com^$dnstype=AAAA
 ||cdn-telegram.org^$dnstype=AAAA
@@ -7771,6 +7774,7 @@
 ||conquerwithcharacter.com^$dnstype=AAAA
 ||conscrypt.com^$dnstype=AAAA
 ||conscrypt.org^$dnstype=AAAA
+||consentmanager.net^$dnstype=AAAA
 ||consentpro.com^$dnstype=AAAA
 ||conservatoiresuk.ac.uk^$dnstype=AAAA
 ||consilience.ac.uk^$dnstype=AAAA
@@ -7792,9 +7796,11 @@
 ||convrgencegame.com^$dnstype=AAAA
 ||coobay.com^$dnstype=AAAA
 ||cooer.su^$dnstype=AAAA
+||cookiebot.com^$dnstype=AAAA
 ||cookiechoices.org^$dnstype=AAAA
 ||cookielaw.org^$dnstype=AAAA
 ||cookiepro.com^$dnstype=AAAA
+||cookieyes.com^$dnstype=AAAA
 ||cool-comics.com^$dnstype=AAAA
 ||cool18.com^$dnstype=AAAA
 ||cool3c.com^$dnstype=AAAA
@@ -29664,6 +29670,7 @@
 ||superadultgames.com^$dnstype=AAAA
 ||supercell.helpshift.com^$dnstype=AAAA
 ||supercell.net^$dnstype=AAAA
+||supercell.zendesk.com^$dnstype=AAAA
 ||supercellcreators.com^$dnstype=AAAA
 ||supercellgames.com^$dnstype=AAAA
 ||supercellid.com^$dnstype=AAAA
@@ -30307,6 +30314,7 @@
 ||terc.ac.uk^$dnstype=AAAA
 ||terk.nl^$dnstype=AAAA
 ||termius.com^$dnstype=AAAA
+||termly.io^$dnstype=AAAA
 ||termux.com^$dnstype=AAAA
 ||termux.dev^$dnstype=AAAA
 ||termux.org^$dnstype=AAAA
@@ -31268,6 +31276,7 @@
 ||trurocollege.ac.uk^$dnstype=AAAA
 ||truropenwith.ac.uk^$dnstype=AAAA
 ||trust-provider.com^$dnstype=AAAA
+||trustarc.com^$dnstype=AAAA
 ||trustasiassl.com^$dnstype=AAAA
 ||trustcor.ca^$dnstype=AAAA
 ||trustcor.com^$dnstype=AAAA
