@@ -693,6 +693,7 @@
 ||9nation.com.au^$dnstype=AAAA
 ||9news.com.au^$dnstype=AAAA
 ||9now.com.au^$dnstype=AAAA
+||9oju31.launches.appsflyersdk.com^$dnstype=AAAA
 ||9tak-nav.buzz^$dnstype=AAAA
 ||9to5google.com^$dnstype=AAAA
 ||9to5mac.com^$dnstype=AAAA
@@ -2269,13 +2270,17 @@
 ||aphe.ac.uk^$dnstype=AAAA
 ||api-drive.mypikpak.com^$dnstype=AAAA
 ||api-extractor.com^$dnstype=AAAA
+||api-gl.lbkrs.com^$dnstype=AAAA
 ||api-p.videomarket.jp^$dnstype=AAAA
 ||api-secure.recaptcha.net^$dnstype=AAAA
 ||api-verify.recaptcha.net^$dnstype=AAAA
 ||api.ai^$dnstype=AAAA
 ||api.dropboxapi.com^$dnstype=AAAA
+||api.futunn.com^$dnstype=AAAA
 ||api.ipify.org^$dnstype=AAAA
+||api.lbkrs.com^$dnstype=AAAA
 ||api.mixpanel.com^$dnstype=AAAA
+||api.moomoobull.com^$dnstype=AAAA
 ||api.nebula-emby.com^$dnstype=AAAA
 ||api.news^$dnstype=AAAA
 ||api.palworldgame.com^$dnstype=AAAA
@@ -2284,6 +2289,7 @@
 ||api.steampowered.com^$dnstype=AAAA
 ||api.viu.now.com^$dnstype=AAAA
 ||api.waqi.info^$dnstype=AAAA
+||api5.futunn.com^$dnstype=AAAA
 ||apiary.io^$dnstype=AAAA
 ||apibay.org^$dnstype=AAAA
 ||apigee.com^$dnstype=AAAA
@@ -6513,6 +6519,7 @@
 ||cdn-vk.ru^$dnstype=AAAA
 ||cdn.ac.uk^$dnstype=AAAA
 ||cdn.arstechnica.net^$dnstype=AAAA
+||cdn.futustatic.com^$dnstype=AAAA
 ||cdn.js7k.com^$dnstype=AAAA
 ||cdn.jsdelivr.net^$dnstype=AAAA
 ||cdn.jwplayer.com^$dnstype=AAAA
@@ -6676,6 +6683,7 @@
 ||cfsh99.com^$dnstype=AAAA
 ||cftfc.com^$dnstype=AAAA
 ||cfwives.com^$dnstype=AAAA
+||cg.play-analytics.com^$dnstype=AAAA
 ||cgdepot.org^$dnstype=AAAA
 ||cgh.ac.uk^$dnstype=AAAA
 ||cgkate.jinvod.com^$dnstype=AAAA
@@ -8961,6 +8969,7 @@
 ||dfas.mil^$dnstype=AAAA
 ||dfn.org^$dnstype=AAAA
 ||dfp6rglgjqszk.cloudfront.net^$dnstype=AAAA
+||dfvpn.com^$dnstype=AAAA
 ||dgaqp.com^$dnstype=AAAA
 ||dgeft87wbj63p.cloudfront.net^$dnstype=AAAA
 ||dgg.gg^$dnstype=AAAA
@@ -9548,6 +9557,7 @@
 ||download.com^$dnstype=AAAA
 ||download.dappcdn.com^$dnstype=AAAA
 ||download.fastgit.org^$dnstype=AAAA
+||download.futunn.com^$dnstype=AAAA
 ||download.qatp1.net^$dnstype=AAAA
 ||download.qcpp1.net^$dnstype=AAAA
 ||download.qpdp1.net^$dnstype=AAAA
@@ -12767,12 +12777,25 @@
 ||futoka.jp^$dnstype=AAAA
 ||futpromos.com^$dnstype=AAAA
 ||futu.cn^$dnstype=AAAA
+||futu.com^$dnstype=AAAA
 ||futu.link^$dnstype=AAAA
+||futu0.com^$dnstype=AAAA
+||futu1.com^$dnstype=AAAA
+||futu2.com^$dnstype=AAAA
+||futu3.com^$dnstype=AAAA
+||futu4.com^$dnstype=AAAA
+||futu6.com^$dnstype=AAAA
+||futu7.com^$dnstype=AAAA
+||futu8.com^$dnstype=AAAA
+||futu9.com^$dnstype=AAAA
+||futubull.cn^$dnstype=AAAA
+||futuchain.com^$dnstype=AAAA
 ||futuhk.com^$dnstype=AAAA
 ||futuhk1.com^$dnstype=AAAA
 ||futuhk2.com^$dnstype=AAAA
 ||futuhkapp.com^$dnstype=AAAA
 ||futuholdings.com^$dnstype=AAAA
+||futuinc.com^$dnstype=AAAA
 ||futunited.com^$dnstype=AAAA
 ||futuoa.com^$dnstype=AAAA
 ||future-cs.ru^$dnstype=AAAA
@@ -12894,6 +12917,7 @@
 ||gamesstack.com^$dnstype=AAAA
 ||gametap.com^$dnstype=AAAA
 ||gameuxmasterguide.com^$dnstype=AAAA
+||gamewtb.com^$dnstype=AAAA
 ||gamez.com.tw^$dnstype=AAAA
 ||gaming-notebooks.com^$dnstype=AAAA
 ||gamme.com.tw^$dnstype=AAAA
@@ -13575,6 +13599,7 @@
 ||gobuyonlinestore.net^$dnstype=AAAA
 ||gockhuatviet.com^$dnstype=AAAA
 ||godaddy.com^$dnstype=AAAA
+||godaddy.net^$dnstype=AAAA
 ||godalming.ac.uk^$dnstype=AAAA
 ||godbolt.org^$dnstype=AAAA
 ||godfootsteps.org^$dnstype=AAAA
@@ -19176,6 +19201,7 @@
 ||longmabookcn.com^$dnstype=AAAA
 ||longman.ch^$dnstype=AAAA
 ||longmusic.com^$dnstype=AAAA
+||longportapp.cn^$dnstype=AAAA
 ||longportapp.com^$dnstype=AAAA
 ||longroad.ac.uk^$dnstype=AAAA
 ||longtailvideo.com^$dnstype=AAAA
@@ -21099,6 +21125,7 @@
 ||moodleshare-hw.ac.uk^$dnstype=AAAA
 ||moodstocks.com^$dnstype=AAAA
 ||moodyz.com^$dnstype=AAAA
+||moomoobull.com^$dnstype=AAAA
 ||moon.fm^$dnstype=AAAA
 ||moonbbs.com^$dnstype=AAAA
 ||moonbbs.info^$dnstype=AAAA
@@ -23622,6 +23649,13 @@
 ||openaicomproductionae4b.blob.core.windows.net^$dnstype=AAAA
 ||openallweb.com^$dnstype=AAAA
 ||openamt.com^$dnstype=AAAA
+||openapi-quote.longbridge.cn^$dnstype=AAAA
+||openapi-quote.longbridge.com^$dnstype=AAAA
+||openapi-trade.longbridge.cn^$dnstype=AAAA
+||openapi-trade.longbridge.com^$dnstype=AAAA
+||openapi.futunn.com^$dnstype=AAAA
+||openapi.longbridge.cn^$dnstype=AAAA
+||openapi.longbridge.com^$dnstype=AAAA
 ||openapiplatform.com^$dnstype=AAAA
 ||openapiservice.com^$dnstype=AAAA
 ||openart.ai^$dnstype=AAAA
@@ -25847,6 +25881,8 @@
 ||qstatus.com^$dnstype=AAAA
 ||qt-project.org^$dnstype=AAAA
 ||qt.io^$dnstype=AAAA
+||qtcard.futunn.com^$dnstype=AAAA
+||qtcardfthk.futufin.com^$dnstype=AAAA
 ||qtrac.eu^$dnstype=AAAA
 ||qtweeter.com^$dnstype=AAAA
 ||quadram.ac.uk^$dnstype=AAAA
@@ -25937,6 +25973,7 @@
 ||quora.com^$dnstype=AAAA
 ||quoracdn.net^$dnstype=AAAA
 ||quotable.com^$dnstype=AAAA
+||quote.longbridge.global^$dnstype=AAAA
 ||quovadisglobal.com^$dnstype=AAAA
 ||quran.com^$dnstype=AAAA
 ||quranexplorer.com^$dnstype=AAAA
@@ -27945,6 +27982,7 @@
 ||sgp1.fun^$dnstype=AAAA
 ||sgpe.ac.uk^$dnstype=AAAA
 ||sgpstatp.com^$dnstype=AAAA
+||sgqt0j.launches.appsflyersdk.com^$dnstype=AAAA
 ||sgr.com.br^$dnstype=AAAA
 ||sgsah.ac.uk^$dnstype=AAAA
 ||sgscol.ac.uk^$dnstype=AAAA
@@ -28168,6 +28206,7 @@
 ||shops-disney.com^$dnstype=AAAA
 ||shopspeedtv.com^$dnstype=AAAA
 ||shoptraivip.com^$dnstype=AAAA
+||shortconn.im.qcloud.com^$dnstype=AAAA
 ||shorturl.at^$dnstype=AAAA
 ||shotgridsoftware.com^$dnstype=AAAA
 ||shotgridstudio.com^$dnstype=AAAA
@@ -29706,6 +29745,7 @@
 ||supply-chain.ac.uk^$dnstype=AAAA
 ||supplybestjerseys.com^$dnstype=AAAA
 ||support-uber.com^$dnstype=AAAA
+||support.futunn.com^$dnstype=AAAA
 ||supportfacebook.com^$dnstype=AAAA
 ||supr.cl^$dnstype=AAAA
 ||supremacy.com^$dnstype=AAAA
@@ -30111,6 +30151,7 @@
 ||taylorandfrancis.com^$dnstype=AAAA
 ||taylorfrancis.com^$dnstype=AAAA
 ||tb-esim.ru^$dnstype=AAAA
+||tb.pro^$dnstype=AAAA
 ||tbank-online.com^$dnstype=AAAA
 ||tbank.ru^$dnstype=AAAA
 ||tbcollege.org^$dnstype=AAAA
@@ -30696,6 +30737,7 @@
 ||thumbzilla.com^$dnstype=AAAA
 ||thunderbird.net^$dnstype=AAAA
 ||thunderbolttechnology.net^$dnstype=AAAA
+||thundermail.com^$dnstype=AAAA
 ||thurrock.ac.uk^$dnstype=AAAA
 ||thurrockcampus.ac.uk^$dnstype=AAAA
 ||thywords.com^$dnstype=AAAA
@@ -30813,6 +30855,7 @@
 ||tiffany-towers.com^$dnstype=AAAA
 ||tig-ol-bitties.live^$dnstype=AAAA
 ||tigerbbs.cn^$dnstype=AAAA
+||tigerbrokers.nz^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
 ||tiipple.ac.uk^$dnstype=AAAA
 ||tiktok-minis.com^$dnstype=AAAA
@@ -31152,6 +31195,9 @@
 ||tracker.gg^$dnstype=AAAA
 ||tracker.network^$dnstype=AAAA
 ||tracking-location.com^$dnstype=AAAA
+||trade.futunn.com^$dnstype=AAAA
+||trade.longportapp.com^$dnstype=AAAA
+||tradeup.com^$dnstype=AAAA
 ||tradevip1.com^$dnstype=AAAA
 ||tradingview.com^$dnstype=AAAA
 ||trae.ai^$dnstype=AAAA
@@ -34848,6 +34894,7 @@
 ||xn--ubt498knmf.com^$dnstype=AAAA
 ||xn--uis17aj9kmuf.com^$dnstype=AAAA
 ||xn--urs05q.jp^$dnstype=AAAA
+||xn--vuqv2cf7wzyig79c.com^$dnstype=AAAA
 ||xn--wcv22d.hk^$dnstype=AAAA
 ||xn--wcvs22d1m.hk^$dnstype=AAAA
 ||xn--x-qeu1ji09tzlg.biz^$dnstype=AAAA
@@ -36029,6 +36076,7 @@
 ||zhenlibu.info^$dnstype=AAAA
 ||zhenlibu1984.com^$dnstype=AAAA
 ||zhenxiang.biz^$dnstype=AAAA
+||zhijianfengyi.cn^$dnstype=AAAA
 ||zhijie.online^$dnstype=AAAA
 ||zhimeishe888.com^$dnstype=AAAA
 ||zhinengluyou.com^$dnstype=AAAA
