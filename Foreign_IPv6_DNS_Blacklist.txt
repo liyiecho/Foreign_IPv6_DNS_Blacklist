@@ -858,6 +858,7 @@
 ||account-paypal.net^$dnstype=AAAA
 ||account-paypal.org^$dnstype=AAAA
 ||accountancylearning.ac.uk^$dnstype=AAAA
+||accountboy.com^$dnstype=AAAA
 ||accountkit.com^$dnstype=AAAA
 ||accountpaypal.com^$dnstype=AAAA
 ||accountpaypal.net^$dnstype=AAAA
@@ -13616,6 +13617,8 @@
 ||gofucker.com^$dnstype=AAAA
 ||gofuckmenow.com^$dnstype=AAAA
 ||gofundme.com^$dnstype=AAAA
+||gog-cdn-lumen.secure2.footprint.net^$dnstype=AAAA
+||gog-cdn.akamaized.net^$dnstype=AAAA
 ||gog-statics.com^$dnstype=AAAA
 ||gog.com^$dnstype=AAAA
 ||gogeo.ac.uk^$dnstype=AAAA
