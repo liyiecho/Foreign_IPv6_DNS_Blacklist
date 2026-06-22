@@ -610,6 +610,7 @@
 ||8sp.biz^$dnstype=AAAA
 ||8teenxxx.com^$dnstype=AAAA
 ||8thstreetlatinas.com^$dnstype=AAAA
+||8tvnews.my^$dnstype=AAAA
 ||8world.com^$dnstype=AAAA
 ||8xxx.net^$dnstype=AAAA
 ||8z1.net^$dnstype=AAAA
@@ -13619,8 +13620,10 @@
 ||gofundme.com^$dnstype=AAAA
 ||gog-cdn-lumen.secure2.footprint.net^$dnstype=AAAA
 ||gog-cdn.akamaized.net^$dnstype=AAAA
+||gog-services.com^$dnstype=AAAA
 ||gog-statics.com^$dnstype=AAAA
 ||gog.com^$dnstype=AAAA
+||gogalaxy.com^$dnstype=AAAA
 ||gogeo.ac.uk^$dnstype=AAAA
 ||gogettaxi.org^$dnstype=AAAA
 ||gogle.com^$dnstype=AAAA
@@ -20922,6 +20925,7 @@
 ||mmwxl27.top^$dnstype=AAAA
 ||mnc.ac.uk^$dnstype=AAAA
 ||mndregister.ac.uk^$dnstype=AAAA
+||mnews.tw^$dnstype=AAAA
 ||mnewstv.com^$dnstype=AAAA
 ||mo.co^$dnstype=AAAA
 ||mo.nightlife141.com^$dnstype=AAAA
@@ -30098,6 +30102,7 @@
 ||tangbr.net^$dnstype=AAAA
 ||tangren.us^$dnstype=AAAA
 ||tanks.gg^$dnstype=AAAA
+||tantannews.com^$dnstype=AAAA
 ||taoil-cn.sbs^$dnstype=AAAA
 ||taoism.net^$dnstype=AAAA
 ||taolun.info^$dnstype=AAAA
@@ -34541,6 +34546,7 @@
 ||www.kindleren.com^$dnstype=AAAA
 ||www.lorenzetti.com.br^$dnstype=AAAA
 ||www.m-sport.co.uk^$dnstype=AAAA
+||www.microsoft.com^$dnstype=AAAA
 ||www.monlamit.org^$dnstype=AAAA
 ||www.moztw.org^$dnstype=AAAA
 ||www.msn.com^$dnstype=AAAA
@@ -35010,6 +35016,7 @@
 ||xtubebdsm.com^$dnstype=AAAA
 ||xtubezoo.com^$dnstype=AAAA
 ||xu97.vip^$dnstype=AAAA
+||xuan.com.my^$dnstype=AAAA
 ||xuchao.net^$dnstype=AAAA
 ||xuchao.org^$dnstype=AAAA
 ||xuehua.us^$dnstype=AAAA
