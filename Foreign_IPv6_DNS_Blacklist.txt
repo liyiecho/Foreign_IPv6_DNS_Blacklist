@@ -1741,6 +1741,7 @@
 ||allswingersclubs.org^$dnstype=AAAA
 ||allthefallen.moe^$dnstype=AAAA
 ||alma.ac.uk^$dnstype=AAAA
+||almalinux.org^$dnstype=AAAA
 ||almasdarnews.com^$dnstype=AAAA
 ||almcollege.ac.uk^$dnstype=AAAA
 ||almostmy.com^$dnstype=AAAA
@@ -5870,6 +5871,7 @@
 ||bustyoldsluts.com^$dnstype=AAAA
 ||bustysammieblack.com^$dnstype=AAAA
 ||busu.org^$dnstype=AAAA
+||busybox.net^$dnstype=AAAA
 ||butex.ac.uk^$dnstype=AAAA
 ||buugaa.com^$dnstype=AAAA
 ||buxtoncollege.ac.uk^$dnstype=AAAA
@@ -13381,6 +13383,7 @@
 ||github-production-user-asset-6210df.s3.amazonaws.com^$dnstype=AAAA
 ||github.ai^$dnstype=AAAA
 ||github.blog^$dnstype=AAAA
+||github.career^$dnstype=AAAA
 ||github.com^$dnstype=AAAA
 ||github.community^$dnstype=AAAA
 ||github.dev^$dnstype=AAAA
@@ -18837,6 +18840,7 @@
 ||life.ac.uk^$dnstype=AAAA
 ||lifearc.ac.uk^$dnstype=AAAA
 ||lifeatkings.ac.uk^$dnstype=AAAA
+||lifeatspotify.com^$dnstype=AAAA
 ||lifeattiktok.com^$dnstype=AAAA
 ||lifelab.ac.uk^$dnstype=AAAA
 ||lifelonglearning.ac.uk^$dnstype=AAAA
@@ -19675,6 +19679,7 @@
 ||maniakey.homes^$dnstype=AAAA
 ||maniash.com^$dnstype=AAAA
 ||manicur4ik.ru^$dnstype=AAAA
+||manjaro.org^$dnstype=AAAA
 ||manlitphil.ac.uk^$dnstype=AAAA
 ||manorama.com^$dnstype=AAAA
 ||manoramanews.com^$dnstype=AAAA
@@ -26708,6 +26713,7 @@
 ||rocksextube.com^$dnstype=AAAA
 ||rockstargames.com^$dnstype=AAAA
 ||rockstarnorth.com^$dnstype=AAAA
+||rockylinux.org^$dnstype=AAAA
 ||roco.qq.com^$dnstype=AAAA
 ||rodbaston.ac.uk^$dnstype=AAAA
 ||roe.ac.uk^$dnstype=AAAA
@@ -29067,6 +29073,7 @@
 ||spotifycharts.com^$dnstype=AAAA
 ||spotifycodes.com^$dnstype=AAAA
 ||spotifyforbrands.com^$dnstype=AAAA
+||spotifyforvendors.com^$dnstype=AAAA
 ||spotifyjobs.com^$dnstype=AAAA
 ||spr.ac.uk^$dnstype=AAAA
 ||spraynwash.com^$dnstype=AAAA
@@ -33459,9 +33466,12 @@
 ||vscode-sync-insiders.trafficmanager.net^$dnstype=AAAA
 ||vscode-sync.trafficmanager.net^$dnstype=AAAA
 ||vscode-unpkg.net^$dnstype=AAAA
+||vscode-webview.net^$dnstype=AAAA
 ||vscode.blob.core.windows.net^$dnstype=AAAA
 ||vscode.dev^$dnstype=AAAA
 ||vscode.search.windows.net^$dnstype=AAAA
+||vscodeedu.app^$dnstype=AAAA
+||vscodeedu.com^$dnstype=AAAA
 ||vsemrabota.ru^$dnstype=AAAA
 ||vsex.in^$dnstype=AAAA
 ||vsezoo.com^$dnstype=AAAA
