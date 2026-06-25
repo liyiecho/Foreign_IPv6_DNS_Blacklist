@@ -13176,6 +13176,7 @@
 ||gesoten.com^$dnstype=AAAA
 ||gesource.ac.uk^$dnstype=AAAA
 ||get.app^$dnstype=AAAA
+||get.dappcdn.com^$dnstype=AAAA
 ||get.dev^$dnstype=AAAA
 ||get.how^$dnstype=AAAA
 ||get.new^$dnstype=AAAA
