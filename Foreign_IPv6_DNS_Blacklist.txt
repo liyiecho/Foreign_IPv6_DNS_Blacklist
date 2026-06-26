@@ -7980,6 +7980,7 @@
 ||crbug.com^$dnstype=AAAA
 ||crchina.org^$dnstype=AAAA
 ||crd-net.org^$dnstype=AAAA
+||creader.com^$dnstype=AAAA
 ||creaders.net^$dnstype=AAAA
 ||creadersnet.com^$dnstype=AAAA
 ||cream.ac.uk^$dnstype=AAAA
