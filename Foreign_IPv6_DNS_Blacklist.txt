@@ -14402,6 +14402,7 @@
 ||hanime.xyz^$dnstype=AAAA
 ||hanime1.com^$dnstype=AAAA
 ||hanime1.me^$dnstype=AAAA
+||hanimeone.me^$dnstype=AAAA
 ||hanminzu.org^$dnstype=AAAA
 ||hannah.ac.uk^$dnstype=AAAA
 ||hanr-bao.mom^$dnstype=AAAA
