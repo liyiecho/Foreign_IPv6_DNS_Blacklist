@@ -1253,6 +1253,7 @@
 ||aesworkshops.com^$dnstype=AAAA
 ||aex.com^$dnstype=AAAA
 ||af-north-1.myhuaweicloud.com^$dnstype=AAAA
+||af.edu^$dnstype=AAAA
 ||af.mil^$dnstype=AAAA
 ||afantibbs.com^$dnstype=AAAA
 ||afao.ac.uk^$dnstype=AAAA
@@ -1465,6 +1466,7 @@
 ||airtunes.com^$dnstype=AAAA
 ||airtunes.info^$dnstype=AAAA
 ||airtunes.net^$dnstype=AAAA
+||airuniversity.af.edu^$dnstype=AAAA
 ||airvpn.org^$dnstype=AAAA
 ||airwatchexpress.com^$dnstype=AAAA
 ||airwatchqa.com^$dnstype=AAAA
@@ -2606,6 +2608,7 @@
 ||applereach.com^$dnstype=AAAA
 ||applereach.net^$dnstype=AAAA
 ||apples-msk.ru^$dnstype=AAAA
+||appleschoolcontent.com^$dnstype=AAAA
 ||applescreensavers.com^$dnstype=AAAA
 ||applescript.info^$dnstype=AAAA
 ||appleshare.info^$dnstype=AAAA
@@ -2704,6 +2707,7 @@
 ||apu.ac.uk^$dnstype=AAAA
 ||apuc-scot.ac.uk^$dnstype=AAAA
 ||apyle.com^$dnstype=AAAA
+||apzones.com^$dnstype=AAAA
 ||aqdlt.net^$dnstype=AAAA
 ||aqi.aqicn.org^$dnstype=AAAA
 ||aqicn.org^$dnstype=AAAA
@@ -3406,6 +3410,7 @@
 ||axbdoll.com.tw^$dnstype=AAAA
 ||axept.io^$dnstype=AAAA
 ||axios.com^$dnstype=AAAA
+||axm-usercontent-apple.com^$dnstype=AAAA
 ||axureformac.com^$dnstype=AAAA
 ||ayabank.com^$dnstype=AAAA
 ||aylesbury.ac.uk^$dnstype=AAAA
@@ -8429,6 +8434,7 @@
 ||danbooru.donmai.us^$dnstype=AAAA
 ||dance-archives.ac.uk^$dnstype=AAAA
 ||dandalinvoa.com^$dnstype=AAAA
+||dandanplay.net^$dnstype=AAAA
 ||dandanzan.cc^$dnstype=AAAA
 ||danemarket.com^$dnstype=AAAA
 ||danilo.to^$dnstype=AAAA
@@ -12965,6 +12971,7 @@
 ||gate-project.com^$dnstype=AAAA
 ||gate.ac.uk^$dnstype=AAAA
 ||gate.cc^$dnstype=AAAA
+||gate.com^$dnstype=AAAA
 ||gate.io^$dnstype=AAAA
 ||gatecoin.com^$dnstype=AAAA
 ||gatedata.org^$dnstype=AAAA
@@ -18152,6 +18159,7 @@
 ||keytransparency.foo^$dnstype=AAAA
 ||keytransparency.org^$dnstype=AAAA
 ||kfd.me^$dnstype=AAAA
+||kfor.com^$dnstype=AAAA
 ||kfs.io^$dnstype=AAAA
 ||kgisystems.com^$dnstype=AAAA
 ||kgslb.com^$dnstype=AAAA
@@ -20307,6 +20315,7 @@
 ||mhs-relay.ac.uk^$dnstype=AAAA
 ||mhs.ac.uk^$dnstype=AAAA
 ||mhshosting.com^$dnstype=AAAA
+||mhwindow.org^$dnstype=AAAA
 ||mi.kochudaho.me^$dnstype=AAAA
 ||mi.mashiro.site^$dnstype=AAAA
 ||mi.nakn.jp^$dnstype=AAAA
@@ -24347,6 +24356,7 @@
 ||pcdvd.com.tw^$dnstype=AAAA
 ||pcfe.ac.uk^$dnstype=AAAA
 ||pcfeonline.ac.uk^$dnstype=AAAA
+||pcgamesn.com^$dnstype=AAAA
 ||pcgamestorrents.com^$dnstype=AAAA
 ||pchome.com.tw^$dnstype=AAAA
 ||pchomeec.tw^$dnstype=AAAA
@@ -26511,6 +26521,7 @@
 ||resourceshare.ac.uk^$dnstype=AAAA
 ||respawnbyrazer.com^$dnstype=AAAA
 ||restnproducts.ru^$dnstype=AAAA
+||restofworld.org^$dnstype=AAAA
 ||restore.ac.uk^$dnstype=AAAA
 ||restream-media.net^$dnstype=AAAA
 ||restream.ru^$dnstype=AAAA
@@ -28963,6 +28974,7 @@
 ||sp.cool^$dnstype=AAAA
 ||spa.ac.uk^$dnstype=AAAA
 ||spaceexplored.com^$dnstype=AAAA
+||spaceforce.mil^$dnstype=AAAA
 ||spacely.com.au^$dnstype=AAAA
 ||spacemail.com^$dnstype=AAAA
 ||spaces.hightail.com^$dnstype=AAAA
@@ -29767,6 +29779,7 @@
 ||supr.cl^$dnstype=AAAA
 ||supremacy.com^$dnstype=AAAA
 ||supremacy.net^$dnstype=AAAA
+||supremecourt.gov^$dnstype=AAAA
 ||suprememastertv.com^$dnstype=AAAA
 ||sureporn.com^$dnstype=AAAA
 ||surf.ac.uk^$dnstype=AAAA
@@ -30566,6 +30579,7 @@
 ||theinitium.com^$dnstype=AAAA
 ||theinstagramhack.com^$dnstype=AAAA
 ||theintelstore.com^$dnstype=AAAA
+||theintercept.com^$dnstype=AAAA
 ||theinternetlawschool.ac.uk^$dnstype=AAAA
 ||theinventionworks.com^$dnstype=AAAA
 ||theinventionworks.net^$dnstype=AAAA
@@ -31304,6 +31318,7 @@
 ||trinitylaban.ac.uk^$dnstype=AAAA
 ||trinitysaintdavid.ac.uk^$dnstype=AAAA
 ||triokini.com^$dnstype=AAAA
+||tripo3d.ai^$dnstype=AAAA
 ||tristatebmw.com^$dnstype=AAAA
 ||trithucvn.net^$dnstype=AAAA
 ||trithucvn.org^$dnstype=AAAA
@@ -31322,6 +31337,7 @@
 ||trs.ac.uk^$dnstype=AAAA
 ||trt.net.tr^$dnstype=AAAA
 ||trtc.com.tw^$dnstype=AAAA
+||trtworld.com^$dnstype=AAAA
 ||trueamateurmodels.com^$dnstype=AAAA
 ||trueamateurs.com^$dnstype=AAAA
 ||trueanal.com^$dnstype=AAAA
@@ -31722,6 +31738,7 @@
 ||twporn.net^$dnstype=AAAA
 ||twreporter.org^$dnstype=AAAA
 ||twskype.com^$dnstype=AAAA
+||twstalker.com^$dnstype=AAAA
 ||twstar.net^$dnstype=AAAA
 ||twt.tl^$dnstype=AAAA
 ||twtkr.com^$dnstype=AAAA
@@ -33625,6 +33642,7 @@
 ||washeng.net^$dnstype=AAAA
 ||washingtondcbmw.com^$dnstype=AAAA
 ||washingtonpost.com^$dnstype=AAAA
+||washingtontimes.com^$dnstype=AAAA
 ||waskucity.com^$dnstype=AAAA
 ||wasmer.io^$dnstype=AAAA
 ||watch-ebay.org^$dnstype=AAAA
