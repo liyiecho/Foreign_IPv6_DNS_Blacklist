@@ -11134,6 +11134,7 @@
 ||expofutures.com^$dnstype=AAAA
 ||exporntoons.net^$dnstype=AAAA
 ||exposedlatinas.com^$dnstype=AAAA
+||expressnews.com^$dnstype=AAAA
 ||expressvpn.com^$dnstype=AAAA
 ||expresswifi.com^$dnstype=AAAA
 ||exrates.me^$dnstype=AAAA
@@ -30385,6 +30386,7 @@
 ||teraperk.com^$dnstype=AAAA
 ||terc.ac.uk^$dnstype=AAAA
 ||terk.nl^$dnstype=AAAA
+||terminus2049.xyz^$dnstype=AAAA
 ||termius.com^$dnstype=AAAA
 ||termly.io^$dnstype=AAAA
 ||termux.com^$dnstype=AAAA
@@ -33664,6 +33666,7 @@
 ||watchmygf.to^$dnstype=AAAA
 ||watchmygirlfriend.tv^$dnstype=AAAA
 ||watchout.tw^$dnstype=AAAA
+||watchpeopledie.tv^$dnstype=AAAA
 ||watchteencam.com^$dnstype=AAAA
 ||water-and-power.com^$dnstype=AAAA
 ||waterdamagesandiego.org^$dnstype=AAAA
