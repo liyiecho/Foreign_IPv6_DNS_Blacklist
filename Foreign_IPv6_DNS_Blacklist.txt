@@ -638,6 +638,7 @@
 ||91porn.plus^$dnstype=AAAA
 ||91porn.tw^$dnstype=AAAA
 ||91porn.work^$dnstype=AAAA
+||91porna.com^$dnstype=AAAA
 ||91pornf.com^$dnstype=AAAA
 ||91pornforum.com^$dnstype=AAAA
 ||91pornplus.com^$dnstype=AAAA
@@ -869,6 +870,7 @@
 ||accs.ac.uk^$dnstype=AAAA
 ||accuweather.com^$dnstype=AAAA
 ||accv.es^$dnstype=AAAA
+||acd89244c803f7181.awsglobalaccelerator.com^$dnstype=AAAA
 ||acdocs.com^$dnstype=AAAA
 ||ace-lp.ac.uk^$dnstype=AAAA
 ||acebooik.com^$dnstype=AAAA
@@ -1255,6 +1257,7 @@
 ||af-north-1.myhuaweicloud.com^$dnstype=AAAA
 ||af.edu^$dnstype=AAAA
 ||af.mil^$dnstype=AAAA
+||afa7f374f51cc8991.awsglobalaccelerator.com^$dnstype=AAAA
 ||afantibbs.com^$dnstype=AAAA
 ||afao.ac.uk^$dnstype=AAAA
 ||afappyending.com^$dnstype=AAAA
@@ -4644,6 +4647,7 @@
 ||blacktowhite.net^$dnstype=AAAA
 ||blackvpn.com^$dnstype=AAAA
 ||blake.ac.uk^$dnstype=AAAA
+||blanc.ru^$dnstype=AAAA
 ||blaoshi.cc^$dnstype=AAAA
 ||blast.io^$dnstype=AAAA
 ||blazor.net^$dnstype=AAAA
@@ -5417,6 +5421,7 @@
 ||bot.nu^$dnstype=AAAA
 ||botanwang.com^$dnstype=AAAA
 ||botframework.com^$dnstype=AAAA
+||botim.me^$dnstype=AAAA
 ||botmechanic.io^$dnstype=AAAA
 ||botorch.org^$dnstype=AAAA
 ||botstop.com^$dnstype=AAAA
@@ -9945,6 +9950,7 @@
 ||dzcdn.net^$dnstype=AAAA
 ||dzen.ru^$dnstype=AAAA
 ||dzeninfra.ru^$dnstype=AAAA
+||dzmm.ai^$dnstype=AAAA
 ||dzze.com^$dnstype=AAAA
 ||e-bay.com^$dnstype=AAAA
 ||e-bay.it^$dnstype=AAAA
@@ -14599,6 +14605,7 @@
 ||hdreporn.com^$dnstype=AAAA
 ||hdrplusdata.org^$dnstype=AAAA
 ||hdruk.ac.uk^$dnstype=AAAA
+||hdsex.org^$dnstype=AAAA
 ||hdsex.pro^$dnstype=AAAA
 ||hdsexxx.net^$dnstype=AAAA
 ||hdsky.me^$dnstype=AAAA
@@ -15291,6 +15298,9 @@
 ||horizontal-systems.com^$dnstype=AAAA
 ||horizontalglue.com^$dnstype=AAAA
 ||horizontalsystems.com^$dnstype=AAAA
+||hornet.com^$dnstype=AAAA
+||hornetapp.com^$dnstype=AAAA
+||hornetx.com^$dnstype=AAAA
 ||horniman.ac.uk^$dnstype=AAAA
 ||hornyasianmilfs.com^$dnstype=AAAA
 ||hornybitches.org^$dnstype=AAAA
@@ -18991,6 +19001,7 @@
 ||listinganalytics.net^$dnstype=AAAA
 ||listorious.com^$dnstype=AAAA
 ||litbus-anime.com^$dnstype=AAAA
+||litecoin.org^$dnstype=AAAA
 ||litenews.hk^$dnstype=AAAA
 ||literatumonline.com^$dnstype=AAAA
 ||literotica.com^$dnstype=AAAA
@@ -20009,6 +20020,7 @@
 ||mbro.ac.uk^$dnstype=AAAA
 ||mbs-worldwide.ac.uk^$dnstype=AAAA
 ||mbs.ac.uk^$dnstype=AAAA
+||mc.yandex.ru^$dnstype=AAAA
 ||mc6.ac.uk^$dnstype=AAAA
 ||mca.ac.uk^$dnstype=AAAA
 ||mcadforums.com^$dnstype=AAAA
@@ -21324,6 +21336,7 @@
 ||mrcong.com^$dnstype=AAAA
 ||mrcp.ac.uk^$dnstype=AAAA
 ||mrdeepfakes.com^$dnstype=AAAA
+||mrds66.com^$dnstype=AAAA
 ||mresalat.ir^$dnstype=AAAA
 ||mrface.com^$dnstype=AAAA
 ||mrgcdn.ru^$dnstype=AAAA
@@ -21756,6 +21769,7 @@
 ||mytrk.link^$dnstype=AAAA
 ||mytving.com^$dnstype=AAAA
 ||mytvsuper.com^$dnstype=AAAA
+||myvideo.net.tw^$dnstype=AAAA
 ||myvisaluxuryhotels.com^$dnstype=AAAA
 ||myvodafone.com.au^$dnstype=AAAA
 ||myvodafone.com.ws^$dnstype=AAAA
@@ -22185,7 +22199,9 @@
 ||netlab.ac.uk^$dnstype=AAAA
 ||netlify.app^$dnstype=AAAA
 ||netlify.com^$dnstype=AAAA
+||netlifydns.com^$dnstype=AAAA
 ||netlifystatus.com^$dnstype=AAAA
+||netlifyusercontent.com^$dnstype=AAAA
 ||netlock.hu^$dnstype=AAAA
 ||netmarble.com^$dnstype=AAAA
 ||netme.cc^$dnstype=AAAA
@@ -23020,6 +23036,7 @@
 ||ntfs.ac.uk^$dnstype=AAAA
 ||ntidagenham.ac.uk^$dnstype=AAAA
 ||ntl.edu.tw^$dnstype=AAAA
+||ntl.fyi^$dnstype=AAAA
 ||ntnews.com.au^$dnstype=AAAA
 ||ntp-b.nist.gov^$dnstype=AAAA
 ||ntp-c.colorado.edu^$dnstype=AAAA
