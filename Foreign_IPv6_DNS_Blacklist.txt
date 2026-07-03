@@ -7844,6 +7844,7 @@
 ||copac.ac.uk^$dnstype=AAAA
 ||copilot-proxy.githubusercontent.com^$dnstype=AAAA
 ||copilot-workspace.githubnext.com^$dnstype=AAAA
+||copilot.com^$dnstype=AAAA
 ||copilot.microsoft.com^$dnstype=AAAA
 ||copilotprodattachments.blob.core.windows.net^$dnstype=AAAA
 ||copim.ac.uk^$dnstype=AAAA
@@ -13470,6 +13471,7 @@
 ||globaljihad.net^$dnstype=AAAA
 ||globalmediaoutreach.com^$dnstype=AAAA
 ||globalmuseumoncommunism.org^$dnstype=AAAA
+||globalnewstv.com.tw^$dnstype=AAAA
 ||globalrescue.net^$dnstype=AAAA
 ||globalriskregulator.com^$dnstype=AAAA
 ||globalsecurity.org^$dnstype=AAAA
@@ -15879,6 +15881,7 @@
 ||i.org^$dnstype=AAAA
 ||i1.hk^$dnstype=AAAA
 ||i234.me^$dnstype=AAAA
+||i24news.tv^$dnstype=AAAA
 ||i2p2.de^$dnstype=AAAA
 ||i2runner.com^$dnstype=AAAA
 ||i69.com.tw^$dnstype=AAAA
@@ -16220,6 +16223,7 @@
 ||igvita.com^$dnstype=AAAA
 ||ihakka.net^$dnstype=AAAA
 ||ihao.org^$dnstype=AAAA
+||iheart.com^$dnstype=AAAA
 ||iherb.com^$dnstype=AAAA
 ||ihgs.ac.uk^$dnstype=AAAA
 ||ihighbury.ac.uk^$dnstype=AAAA
@@ -23686,6 +23690,7 @@
 ||open.firstory.me^$dnstype=AAAA
 ||openai.com^$dnstype=AAAA
 ||openaiapi-site.azureedge.net^$dnstype=AAAA
+||openaiassets.blob.core.windows.net^$dnstype=AAAA
 ||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net^$dnstype=AAAA
 ||openaicom.imgix.net^$dnstype=AAAA
 ||openaicomproductionae4b.blob.core.windows.net^$dnstype=AAAA
@@ -28490,6 +28495,7 @@
 ||skymansion.net^$dnstype=AAAA
 ||skymatter.com^$dnstype=AAAA
 ||skynet.be^$dnstype=AAAA
+||skynews.com.au^$dnstype=AAAA
 ||skyoceanrescue.com^$dnstype=AAAA
 ||skyoceanrescue.de^$dnstype=AAAA
 ||skyoceanrescue.it^$dnstype=AAAA
@@ -30099,6 +30105,7 @@
 ||taiwanncf.org.tw^$dnstype=AAAA
 ||taiwannews.com.tw^$dnstype=AAAA
 ||taiwanonline.cc^$dnstype=AAAA
+||taiwanplus.com^$dnstype=AAAA
 ||taiwansex.tw^$dnstype=AAAA
 ||taiwanstay.net.tw^$dnstype=AAAA
 ||taiwantoday.tw^$dnstype=AAAA
@@ -33817,6 +33824,7 @@
 ||webrush.net^$dnstype=AAAA
 ||webs-tv.net^$dnstype=AAAA
 ||websdr.org^$dnstype=AAAA
+||webshare.io^$dnstype=AAAA
 ||website.new^$dnstype=AAAA
 ||websitepulse.com^$dnstype=AAAA
 ||websnapr.com^$dnstype=AAAA
