@@ -3012,6 +3012,7 @@
 ||atlassian-dev.net^$dnstype=AAAA
 ||atlassian.com^$dnstype=AAAA
 ||atlassian.net^$dnstype=AAAA
+||atmeta.com^$dnstype=AAAA
 ||atnext.com^$dnstype=AAAA
 ||atokara.jp^$dnstype=AAAA
 ||atom.io^$dnstype=AAAA
@@ -3439,6 +3440,7 @@
 ||azirevpn.com^$dnstype=AAAA
 ||aznude.com^$dnstype=AAAA
 ||azubu.tv^$dnstype=AAAA
+||azure-api.net^$dnstype=AAAA
 ||azure-devices-int.net^$dnstype=AAAA
 ||azure-devices.net^$dnstype=AAAA
 ||azure-dns.com^$dnstype=AAAA
@@ -3478,6 +3480,7 @@
 ||azureserviceprofiler.com^$dnstype=AAAA
 ||azuresmartspaces.net^$dnstype=AAAA
 ||azurestackvalidation.com^$dnstype=AAAA
+||azurestaticapps.net^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
 ||b-cdn.net^$dnstype=AAAA
 ||b-eroland.net^$dnstype=AAAA
@@ -8376,6 +8379,7 @@
 ||dabr.mobi^$dnstype=AAAA
 ||dacebook.com^$dnstype=AAAA
 ||dachix.com^$dnstype=AAAA
+||dadabroadband.com^$dnstype=AAAA
 ||dadazim.com^$dnstype=AAAA
 ||daddyslilangel.com^$dnstype=AAAA
 ||dadi360.com^$dnstype=AAAA
@@ -24787,6 +24791,7 @@
 ||pixnet.tw^$dnstype=AAAA
 ||pixonic.com^$dnstype=AAAA
 ||pixplug.in^$dnstype=AAAA
+||pixtastock.com^$dnstype=AAAA
 ||pixtronix.com^$dnstype=AAAA
 ||pjbyj.top^$dnstype=AAAA
 ||pjful-app.lol^$dnstype=AAAA
@@ -31626,6 +31631,7 @@
 ||tw.hao123.com^$dnstype=AAAA
 ||tw.iqiyi.com^$dnstype=AAAA
 ||tw.jiepang.com^$dnstype=AAAA
+||tw.pixtastock.com^$dnstype=AAAA
 ||tw.weibo.com^$dnstype=AAAA
 ||tw01.org^$dnstype=AAAA
 ||tw985.com^$dnstype=AAAA
