@@ -5980,6 +5980,7 @@
 ||c-span.org^$dnstype=AAAA
 ||c-spanvideo.org^$dnstype=AAAA
 ||c.gle^$dnstype=AAAA
+||c.go-mpulse.net^$dnstype=AAAA
 ||c.mi.com^$dnstype=AAAA
 ||c.ppy.sh^$dnstype=AAAA
 ||c0930.com^$dnstype=AAAA
@@ -7922,6 +7923,7 @@
 ||couplecam.co.uk^$dnstype=AAAA
 ||courier-push-apple.com.akadns.net^$dnstype=AAAA
 ||couriermail.com.au^$dnstype=AAAA
+||courrier.jp^$dnstype=AAAA
 ||coursehero.com^$dnstype=AAAA
 ||coursera-for-business.org^$dnstype=AAAA
 ||coursera.community^$dnstype=AAAA
@@ -13472,6 +13474,7 @@
 ||globalbanking.ac.uk^$dnstype=AAAA
 ||globalbusinessofforcedlabour.ac.uk^$dnstype=AAAA
 ||globaledu.org^$dnstype=AAAA
+||globalexchange.org^$dnstype=AAAA
 ||globaljihad.net^$dnstype=AAAA
 ||globalmediaoutreach.com^$dnstype=AAAA
 ||globalmuseumoncommunism.org^$dnstype=AAAA
@@ -13600,6 +13603,7 @@
 ||go-lang.com^$dnstype=AAAA
 ||go-lang.net^$dnstype=AAAA
 ||go-lang.org^$dnstype=AAAA
+||go-mpulse.net^$dnstype=AAAA
 ||go-pki.com^$dnstype=AAAA
 ||go-to-zlibrary.se^$dnstype=AAAA
 ||go.com^$dnstype=AAAA
@@ -16564,7 +16568,6 @@
 ||infraworks.com^$dnstype=AAAA
 ||infura.io^$dnstype=AAAA
 ||ingads.com^$dnstype=AAAA
-||ingest.apple-studies.com^$dnstype=AAAA
 ||ingka.com^$dnstype=AAAA
 ||ingka.dev^$dnstype=AAAA
 ||ingkacentres.com^$dnstype=AAAA
@@ -32271,6 +32274,7 @@
 ||upfrontfea.com^$dnstype=AAAA
 ||upghsbc.com^$dnstype=AAAA
 ||upholdjustice.org^$dnstype=AAAA
+||upi.com^$dnstype=AAAA
 ||upjav.cc^$dnstype=AAAA
 ||uplay-istrip.com^$dnstype=AAAA
 ||uplay.com^$dnstype=AAAA
