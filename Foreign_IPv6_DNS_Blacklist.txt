@@ -12158,6 +12158,8 @@
 ||flowgpt.com^$dnstype=AAAA
 ||flowhongkong.net^$dnstype=AAAA
 ||flowtype.org^$dnstype=AAAA
+||flowwow-images.com^$dnstype=AAAA
+||flowwow.com^$dnstype=AAAA
 ||fluffychat.im^$dnstype=AAAA
 ||fluidfxapp.com^$dnstype=AAAA
 ||fluidpreview.com^$dnstype=AAAA
@@ -12792,6 +12794,8 @@
 ||funnyfacebook.org^$dnstype=AAAA
 ||funnyordie.com^$dnstype=AAAA
 ||funp.com^$dnstype=AAAA
+||funpay.com^$dnstype=AAAA
+||funpay.ru^$dnstype=AAAA
 ||funshemale.com^$dnstype=AAAA
 ||fuq.com^$dnstype=AAAA
 ||fuqqt.com^$dnstype=AAAA
@@ -28068,6 +28072,7 @@
 ||sfsstudents.ac.uk^$dnstype=AAAA
 ||sftindia.org^$dnstype=AAAA
 ||sftuk.org^$dnstype=AAAA
+||sfunpay.com^$dnstype=AAAA
 ||sfx.ac.uk^$dnstype=AAAA
 ||sfx.ms^$dnstype=AAAA
 ||sfxc.ac.uk^$dnstype=AAAA
@@ -30991,6 +30996,7 @@
 ||tilda.ws^$dnstype=AAAA
 ||tildaapi.com^$dnstype=AAAA
 ||tildacdn.com^$dnstype=AAAA
+||tildacdn.net^$dnstype=AAAA
 ||tilehill.ac.uk^$dnstype=AAAA
 ||tiltbrush.com^$dnstype=AAAA
 ||timdir.com^$dnstype=AAAA
