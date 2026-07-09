@@ -1,3 +1,4 @@
+||000aa.com^$dnstype=AAAA
 ||000webhost.com^$dnstype=AAAA
 ||02weqj32.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA
@@ -26096,6 +26097,7 @@
 ||qysg8.buzz^$dnstype=AAAA
 ||qz.com^$dnstype=AAAA
 ||qzav.tv^$dnstype=AAAA
+||r-art.com^$dnstype=AAAA
 ||r-pool.net^$dnstype=AAAA
 ||r-project.org^$dnstype=AAAA
 ||r0.ru^$dnstype=AAAA
