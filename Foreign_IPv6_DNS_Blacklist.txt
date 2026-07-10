@@ -19661,6 +19661,7 @@
 ||makearmanotwar.com^$dnstype=AAAA
 ||makebettercode.com^$dnstype=AAAA
 ||makecode.org^$dnstype=AAAA
+||makeeu.com^$dnstype=AAAA
 ||makeitopen.com^$dnstype=AAAA
 ||makeitrealcontest.com^$dnstype=AAAA
 ||makemymood.com^$dnstype=AAAA
@@ -20930,6 +20931,7 @@
 ||mistresskym.com^$dnstype=AAAA
 ||mit.edu^$dnstype=AAAA
 ||mit.net^$dnstype=AAAA
+||mitao.bar^$dnstype=AAAA
 ||mitao.com.tw^$dnstype=AAAA
 ||mitbbs.com^$dnstype=AAAA
 ||mitbbsau.com^$dnstype=AAAA
@@ -24870,7 +24872,6 @@
 ||play-asia.com^$dnstype=AAAA
 ||play-bmm.shop^$dnstype=AAAA
 ||play-bmmer.buzz^$dnstype=AAAA
-||play-edge.itunes.apple.com^$dnstype=AAAA
 ||play.google^$dnstype=AAAA
 ||play4free.com^$dnstype=AAAA
 ||playads.jp^$dnstype=AAAA
