@@ -4241,6 +4241,9 @@
 ||bestbuytradein.com^$dnstype=AAAA
 ||bestbuyus.com^$dnstype=AAAA
 ||bestcamsites.net^$dnstype=AAAA
+||bestchange.com^$dnstype=AAAA
+||bestchange.net^$dnstype=AAAA
+||bestchange.ru^$dnstype=AAAA
 ||bestclouddrive.com^$dnstype=AAAA
 ||bestdori.com^$dnstype=AAAA
 ||besterpornos.com^$dnstype=AAAA
@@ -8066,6 +8069,7 @@
 ||crmdynint-gcc.com^$dnstype=AAAA
 ||crmdynint.com^$dnstype=AAAA
 ||crocels.ac.uk^$dnstype=AAAA
+||crocoblock.com^$dnstype=AAAA
 ||crocotube.com^$dnstype=AAAA
 ||cromite.org^$dnstype=AAAA
 ||cronton.ac.uk^$dnstype=AAAA
@@ -8688,6 +8692,7 @@
 ||delcamtv.com^$dnstype=AAAA
 ||delcamuniversity.com^$dnstype=AAAA
 ||delcamusa.com^$dnstype=AAAA
+||delets.online^$dnstype=AAAA
 ||delicious.com^$dnstype=AAAA
 ||delicious.com.au^$dnstype=AAAA
 ||dell.ac^$dnstype=AAAA
@@ -13269,6 +13274,7 @@
 ||getpricetag.com^$dnstype=AAAA
 ||getprintersupports.com^$dnstype=AAAA
 ||getscorecash.com^$dnstype=AAAA
+||getsentry.com^$dnstype=AAAA
 ||getsession.org^$dnstype=AAAA
 ||getsexgames.com^$dnstype=AAAA
 ||getsocialscope.com^$dnstype=AAAA
@@ -14464,6 +14470,8 @@
 ||hao62.xyz^$dnstype=AAAA
 ||haori888.com^$dnstype=AAAA
 ||haplorrhini.com^$dnstype=AAAA
+||happ.info^$dnstype=AAAA
+||happ.su^$dnstype=AAAA
 ||happymeal.co.nz^$dnstype=AAAA
 ||happymeal.com^$dnstype=AAAA
 ||happymeal.com.au^$dnstype=AAAA
@@ -21257,6 +21265,7 @@
 ||motionpictureser.com^$dnstype=AAAA
 ||motiyun.com^$dnstype=AAAA
 ||moto.com^$dnstype=AAAA
+||motocms.com^$dnstype=AAAA
 ||motolia.com^$dnstype=AAAA
 ||motopress.com^$dnstype=AAAA
 ||motor4ik.ru^$dnstype=AAAA
@@ -23647,6 +23656,7 @@
 ||onekey.zendesk.com^$dnstype=AAAA
 ||onekeycn.com^$dnstype=AAAA
 ||oneme.ru^$dnstype=AAAA
+||onemoment.cc^$dnstype=AAAA
 ||onemozilla.org^$dnstype=AAAA
 ||onenote.com^$dnstype=AAAA
 ||oneocsp.microsoft.com^$dnstype=AAAA
@@ -24252,6 +24262,7 @@
 ||paxlicense.org^$dnstype=AAAA
 ||paydiant.com^$dnstype=AAAA
 ||payecom.ru^$dnstype=AAAA
+||payget.pro^$dnstype=AAAA
 ||paygonline.com^$dnstype=AAAA
 ||payhulu.com^$dnstype=AAAA
 ||paylike.com^$dnstype=AAAA
@@ -24869,6 +24880,7 @@
 ||plastics-cadcam.com^$dnstype=AAAA
 ||platiecom.ru^$dnstype=AAAA
 ||platinumlinks.org^$dnstype=AAAA
+||platov.co^$dnstype=AAAA
 ||play-asia.com^$dnstype=AAAA
 ||play-bmm.shop^$dnstype=AAAA
 ||play-bmmer.buzz^$dnstype=AAAA
@@ -26180,6 +26192,8 @@
 ||rakuya.com.tw^$dnstype=AAAA
 ||ram.ac.uk^$dnstype=AAAA
 ||ramcity.com.au^$dnstype=AAAA
+||ramon.cash^$dnstype=AAAA
+||ramon.money^$dnstype=AAAA
 ||randd.ac.uk^$dnstype=AAAA
 ||randomsystems-cdt.ac.uk^$dnstype=AAAA
 ||randyblue.com^$dnstype=AAAA
@@ -27806,6 +27820,7 @@
 ||sensualmothers.com^$dnstype=AAAA
 ||sensueel.net^$dnstype=AAAA
 ||sentry-cdn.com^$dnstype=AAAA
+||sentry.dev^$dnstype=AAAA
 ||sentry.io^$dnstype=AAAA
 ||sentry.ppy.sh^$dnstype=AAAA
 ||senzuritv.net^$dnstype=AAAA
@@ -30452,6 +30467,7 @@
 ||temenos.ac.uk^$dnstype=AAAA
 ||temetube.xyz^$dnstype=AAAA
 ||temp-mail.org^$dnstype=AAAA
+||templatemonster.com^$dnstype=AAAA
 ||tempusuk.ac.uk^$dnstype=AAAA
 ||temu.com^$dnstype=AAAA
 ||tenacy.com^$dnstype=AAAA
