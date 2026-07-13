@@ -33807,6 +33807,7 @@
 ||wbautomation.ru^$dnstype=AAAA
 ||wbautomation.tech^$dnstype=AAAA
 ||wbbasket.ru^$dnstype=AAAA
+||wbcontent.net^$dnstype=AAAA
 ||wbd.ms^$dnstype=AAAA
 ||wbdnbo.net^$dnstype=AAAA
 ||wbdubna.ru^$dnstype=AAAA
