@@ -6761,6 +6761,7 @@
 ||chatango.com^$dnstype=AAAA
 ||chatgpt.com^$dnstype=AAAA
 ||chatgpt.livekit.cloud^$dnstype=AAAA
+||chatgpt.site^$dnstype=AAAA
 ||chatgptvideo.xyz^$dnstype=AAAA
 ||chatgptvideob.buzz^$dnstype=AAAA
 ||chatnook.com^$dnstype=AAAA
@@ -18234,6 +18235,7 @@
 ||kiad.ac.uk^$dnstype=AAAA
 ||kichiku-doujinko.com^$dnstype=AAAA
 ||kichikuou.com^$dnstype=AAAA
+||kick.com^$dnstype=AAAA
 ||kickporn.com^$dnstype=AAAA
 ||kickshatchannel.com^$dnstype=AAAA
 ||kicksnike1.com^$dnstype=AAAA
