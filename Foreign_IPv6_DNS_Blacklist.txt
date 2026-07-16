@@ -1630,7 +1630,6 @@
 ||alexanderstreet.com^$dnstype=AAAA
 ||alexlur.org^$dnstype=AAAA
 ||alfa.me^$dnstype=AAAA
-||alfabank.oavdo.amc^$dnstype=AAAA
 ||alfabank.ru^$dnstype=AAAA
 ||alfabank.st^$dnstype=AAAA
 ||alfadirect.ru^$dnstype=AAAA
@@ -3477,6 +3476,7 @@
 ||azuredns-prd.org^$dnstype=AAAA
 ||azureedge-test.net^$dnstype=AAAA
 ||azureedge.net^$dnstype=AAAA
+||azureedge.us^$dnstype=AAAA
 ||azurefd.net^$dnstype=AAAA
 ||azureiotcentral.com^$dnstype=AAAA
 ||azureiotsolutions.com^$dnstype=AAAA
@@ -7866,6 +7866,7 @@
 ||coova.org^$dnstype=AAAA
 ||copac.ac.uk^$dnstype=AAAA
 ||copilot-proxy.githubusercontent.com^$dnstype=AAAA
+||copilot-stg.com^$dnstype=AAAA
 ||copilot-workspace.githubnext.com^$dnstype=AAAA
 ||copilot.com^$dnstype=AAAA
 ||copilot.microsoft.com^$dnstype=AAAA
@@ -20403,6 +20404,7 @@
 ||mhcb.ru^$dnstype=AAAA
 ||mhcbr.ru^$dnstype=AAAA
 ||mhdss.ac.uk^$dnstype=AAAA
+||mhgui.com^$dnstype=AAAA
 ||mhhanman.xyz^$dnstype=AAAA
 ||mhie.ac.uk^$dnstype=AAAA
 ||mhqwe.xyz^$dnstype=AAAA
@@ -23453,7 +23455,6 @@
 ||oatridge.ac.uk^$dnstype=AAAA
 ||oauth.net^$dnstype=AAAA
 ||oauthz.com^$dnstype=AAAA
-||oavdo.amc^$dnstype=AAAA
 ||obc.ac.uk^$dnstype=AAAA
 ||obhe.ac.uk^$dnstype=AAAA
 ||objectarx.com^$dnstype=AAAA
@@ -29471,6 +29472,7 @@
 ||stargazer-games.com^$dnstype=AAAA
 ||stark-verlag.ch^$dnstype=AAAA
 ||starlink.ac.uk^$dnstype=AAAA
+||starlink.com^$dnstype=AAAA
 ||starott.com^$dnstype=AAAA
 ||starp2p.com^$dnstype=AAAA
 ||starplus.com^$dnstype=AAAA
