@@ -22311,6 +22311,7 @@
 ||network54.com^$dnstype=AAAA
 ||networkedblogs.com^$dnstype=AAAA
 ||networktunnel.net^$dnstype=AAAA
+||netxh.blog^$dnstype=AAAA
 ||netzerobuildings.com^$dnstype=AAAA
 ||netzerobuildingstudio.com^$dnstype=AAAA
 ||netzwerkdeutsch.ac.uk^$dnstype=AAAA
