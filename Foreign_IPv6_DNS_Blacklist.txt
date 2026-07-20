@@ -30121,6 +30121,7 @@
 ||sysresccd.org^$dnstype=AAAA
 ||system76.com^$dnstype=AAAA
 ||systemicrisk.ac.uk^$dnstype=AAAA
+||sysub.com^$dnstype=AAAA
 ||sytes.net^$dnstype=AAAA
 ||syx86.com^$dnstype=AAAA
 ||syzbj36.xyz^$dnstype=AAAA
