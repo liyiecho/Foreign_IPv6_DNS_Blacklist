@@ -23545,6 +23545,7 @@
 ||offworldindustries.net^$dnstype=AAAA
 ||ofiii.com^$dnstype=AAAA
 ||ofile.org^$dnstype=AAAA
+||ofox.ai^$dnstype=AAAA
 ||ofs.ac.uk^$dnstype=AAAA
 ||ogakikyoritsu.co.jp^$dnstype=AAAA
 ||ogameblog.com^$dnstype=AAAA
@@ -36247,6 +36248,7 @@
 ||zenit.ru^$dnstype=AAAA
 ||zenmate.com^$dnstype=AAAA
 ||zenmate.com.ru^$dnstype=AAAA
+||zenmux.ai^$dnstype=AAAA
 ||zenodo.org^$dnstype=AAAA
 ||zeplerinstitute.ac.uk^$dnstype=AAAA
 ||zeplin.dev^$dnstype=AAAA
