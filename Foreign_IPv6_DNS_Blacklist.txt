@@ -31220,6 +31220,7 @@
 ||tok.media^$dnstype=AAAA
 ||token.im^$dnstype=AAAA
 ||tokenlon.im^$dnstype=AAAA
+||tokenplus.app^$dnstype=AAAA
 ||tokyo-247.com^$dnstype=AAAA
 ||tokyo-hot.com^$dnstype=AAAA
 ||tokyo-porn-tube.com^$dnstype=AAAA
@@ -33900,6 +33901,7 @@
 ||wearside.ac.uk^$dnstype=AAAA
 ||weather.com.hk^$dnstype=AAAA
 ||weav.xyz^$dnstype=AAAA
+||weavai.app^$dnstype=AAAA
 ||web-instagram.net^$dnstype=AAAA
 ||web.app^$dnstype=AAAA
 ||web.dev^$dnstype=AAAA
