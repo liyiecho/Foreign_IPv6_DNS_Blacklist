@@ -7104,6 +7104,7 @@
 ||cios.org^$dnstype=AAAA
 ||ciota.ac.uk^$dnstype=AAAA
 ||cipfg.org^$dnstype=AAAA
+||circle19.org^$dnstype=AAAA
 ||circlethebayfortibet.org^$dnstype=AAAA
 ||cirencester.ac.uk^$dnstype=AAAA
 ||cirius.ac.uk^$dnstype=AAAA
@@ -9496,6 +9497,7 @@
 ||docs.com^$dnstype=AAAA
 ||docs.new^$dnstype=AAAA
 ||docs.rs^$dnstype=AAAA
+||docs.rw^$dnstype=AAAA
 ||doctor-videos.com^$dnstype=AAAA
 ||doctorvoice.org^$dnstype=AAAA
 ||documentforce.com^$dnstype=AAAA
@@ -19226,6 +19228,7 @@
 ||location.microsoft.com^$dnstype=AAAA
 ||lockestek.com^$dnstype=AAAA
 ||lockssalliance.ac.uk^$dnstype=AAAA
+||log.rw^$dnstype=AAAA
 ||logbot.net^$dnstype=AAAA
 ||logi.com^$dnstype=AAAA
 ||logic.ac.uk^$dnstype=AAAA
@@ -31543,6 +31546,7 @@
 ||truyenkk1.com^$dnstype=AAAA
 ||truyentranh86.com^$dnstype=AAAA
 ||truyenwk.com^$dnstype=AAAA
+||try.rw^$dnstype=AAAA
 ||tryalias.com^$dnstype=AAAA
 ||tryboobs.com^$dnstype=AAAA
 ||trycloudflare.com^$dnstype=AAAA
