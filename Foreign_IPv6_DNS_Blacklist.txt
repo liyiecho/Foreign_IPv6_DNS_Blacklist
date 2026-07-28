@@ -13482,6 +13482,7 @@
 ||githubnext.com^$dnstype=AAAA
 ||githubpreview.dev^$dnstype=AAAA
 ||githubstatus.com^$dnstype=AAAA
+||githubsupport.com^$dnstype=AAAA
 ||githubuniverse.com^$dnstype=AAAA
 ||githubusercontent.com^$dnstype=AAAA
 ||gitlab-assets.oss-cn-hongkong.aliyuncs.com^$dnstype=AAAA
@@ -31547,6 +31548,7 @@
 ||truyentranh86.com^$dnstype=AAAA
 ||truyenwk.com^$dnstype=AAAA
 ||try.rw^$dnstype=AAAA
+||tryai.dev^$dnstype=AAAA
 ||tryalias.com^$dnstype=AAAA
 ||tryboobs.com^$dnstype=AAAA
 ||trycloudflare.com^$dnstype=AAAA
