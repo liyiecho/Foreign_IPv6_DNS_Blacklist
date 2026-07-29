@@ -2023,6 +2023,7 @@
 ||amitabhafoundation.us^$dnstype=AAAA
 ||amity.ac.uk^$dnstype=AAAA
 ||amlg.io^$dnstype=AAAA
+||amnesty-usa.org^$dnstype=AAAA
 ||amnesty.org^$dnstype=AAAA
 ||amnesty.org.hk^$dnstype=AAAA
 ||amnesty.tw^$dnstype=AAAA
@@ -4877,6 +4878,7 @@
 ||bluestacks.com^$dnstype=AAAA
 ||bluestone.ac.uk^$dnstype=AAAA
 ||bluffyporn.com^$dnstype=AAAA
+||blurams.app^$dnstype=AAAA
 ||blurams.com^$dnstype=AAAA
 ||blws.ac.uk^$dnstype=AAAA
 ||blylq.buzz^$dnstype=AAAA
@@ -6641,6 +6643,7 @@
 ||cencoastbmw.com^$dnstype=AAAA
 ||cenews.eu^$dnstype=AAAA
 ||cenkei.com^$dnstype=AAAA
+||ceno.app^$dnstype=AAAA
 ||censorship.ai^$dnstype=AAAA
 ||censorship.no^$dnstype=AAAA
 ||census-registration.ac.uk^$dnstype=AAAA
@@ -8312,6 +8315,7 @@
 ||cwrc.ac.uk^$dnstype=AAAA
 ||cws.ac.uk^$dnstype=AAAA
 ||cws.conviva.com^$dnstype=AAAA
+||cxense.com^$dnstype=AAAA
 ||cy22.tv^$dnstype=AAAA
 ||cyber-bay.info^$dnstype=AAAA
 ||cyber-bay.org^$dnstype=AAAA
@@ -17385,6 +17389,7 @@
 ||ivacy.com^$dnstype=AAAA
 ||iverycd.com^$dnstype=AAAA
 ||ivi.ru^$dnstype=AAAA
+||ivicdn.tv^$dnstype=AAAA
 ||ivintageporn.com^$dnstype=AAAA
 ||ivonblog.com^$dnstype=AAAA
 ||ivpn.net^$dnstype=AAAA
@@ -18325,6 +18330,7 @@
 ||kindnudist.com^$dnstype=AAAA
 ||kinds.ac.uk^$dnstype=AAAA
 ||kindteenporn.com^$dnstype=AAAA
+||kinescopecdn.net^$dnstype=AAAA
 ||king.ac.uk^$dnstype=AAAA
 ||kingalfreds.ac.uk^$dnstype=AAAA
 ||kingalfredsbasingstoke.ac.uk^$dnstype=AAAA
@@ -25834,7 +25840,6 @@
 ||ptthito.com^$dnstype=AAAA
 ||pttvan.org^$dnstype=AAAA
 ||pttweb.cc^$dnstype=AAAA
-||pttyes.com^$dnstype=AAAA
 ||ptwxz.com^$dnstype=AAAA
 ||ptzwx.com^$dnstype=AAAA
 ||pu82.vip^$dnstype=AAAA
@@ -27423,6 +27428,7 @@
 ||sber.ru^$dnstype=AAAA
 ||sberauto.com^$dnstype=AAAA
 ||sberbank-insurance.ru^$dnstype=AAAA
+||sberbank-tele.com^$dnstype=AAAA
 ||sberbank.com^$dnstype=AAAA
 ||sberbank.ru^$dnstype=AAAA
 ||sberbankaktivno.ru^$dnstype=AAAA
