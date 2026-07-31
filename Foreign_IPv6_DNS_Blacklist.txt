@@ -2305,6 +2305,7 @@
 ||api.waqi.info^$dnstype=AAAA
 ||api5.futunn.com^$dnstype=AAAA
 ||apiary.io^$dnstype=AAAA
+||apiauto.ru^$dnstype=AAAA
 ||apibay.org^$dnstype=AAAA
 ||apigee.com^$dnstype=AAAA
 ||apina.biz^$dnstype=AAAA
@@ -3122,6 +3123,7 @@
 ||authorxml.com^$dnstype=AAAA
 ||authpass.app^$dnstype=AAAA
 ||authy.com^$dnstype=AAAA
+||auto.ru^$dnstype=AAAA
 ||autocad-schulungen.com^$dnstype=AAAA
 ||autocad.com^$dnstype=AAAA
 ||autocad360.com^$dnstype=AAAA
@@ -3260,6 +3262,7 @@
 ||automaton-media.com^$dnstype=AAAA
 ||automobile.fr^$dnstype=AAAA
 ||automotive-cadcam.com^$dnstype=AAAA
+||autoru.me^$dnstype=AAAA
 ||autosketch.com^$dnstype=AAAA
 ||autosub.ac.uk^$dnstype=AAAA
 ||autumn-jade.com^$dnstype=AAAA
@@ -3375,6 +3378,7 @@
 ||avstar6.com^$dnstype=AAAA
 ||avstar8.com^$dnstype=AAAA
 ||avstar9.com^$dnstype=AAAA
+||avto.ru^$dnstype=AAAA
 ||avwong.com^$dnstype=AAAA
 ||avwto.com^$dnstype=AAAA
 ||avxde.org^$dnstype=AAAA
@@ -6881,6 +6885,8 @@
 ||cheshire.ac.uk^$dnstype=AAAA
 ||cheshirecolleges.ac.uk^$dnstype=AAAA
 ||cheshirehe.ac.uk^$dnstype=AAAA
+||chess.com^$dnstype=AAAA
+||chesscomfiles.com^$dnstype=AAAA
 ||chest.ac.uk^$dnstype=AAAA
 ||chester.ac.uk^$dnstype=AAAA
 ||chesterfield.ac.uk^$dnstype=AAAA
@@ -7081,6 +7087,9 @@
 ||ci-en.net^$dnstype=AAAA
 ||cia.ac.uk^$dnstype=AAAA
 ||cia.gov^$dnstype=AAAA
+||cian.ru^$dnstype=AAAA
+||cian.site^$dnstype=AAAA
+||ciangroup.ru^$dnstype=AAAA
 ||cias.ac.uk^$dnstype=AAAA
 ||ciattackers.com^$dnstype=AAAA
 ||cib.ac.uk^$dnstype=AAAA
@@ -7404,6 +7413,7 @@
 ||clydebank.ac.uk^$dnstype=AAAA
 ||clyp.it^$dnstype=AAAA
 ||clzz2.xyz^$dnstype=AAAA
+||cm.expert^$dnstype=AAAA
 ||cmac.ac.uk^$dnstype=AAAA
 ||cmail19.com^$dnstype=AAAA
 ||cmcn.org^$dnstype=AAAA
@@ -9410,6 +9420,7 @@
 ||dmed.technology^$dnstype=AAAA
 ||dmgmediaprivacy.co.uk^$dnstype=AAAA
 ||dmhy.org^$dnstype=AAAA
+||dmir.ru^$dnstype=AAAA
 ||dmit.io^$dnstype=AAAA
 ||dmit.sh^$dnstype=AAAA
 ||dml-lang.org^$dnstype=AAAA
@@ -9739,6 +9750,7 @@
 ||drnastran.com^$dnstype=AAAA
 ||drns.ac.uk^$dnstype=AAAA
 ||drobbox.pro^$dnstype=AAAA
+||drom.ru^$dnstype=AAAA
 ||dronedj.com^$dnstype=AAAA
 ||dropbooks.tv^$dnstype=AAAA
 ||dropbox-dns.com^$dnstype=AAAA
@@ -21388,6 +21400,7 @@
 ||mozilla.de^$dnstype=AAAA
 ||mozilla.jp^$dnstype=AAAA
 ||mozilla.lt^$dnstype=AAAA
+||mozilla.map.fastly.net^$dnstype=AAAA
 ||mozilla.net^$dnstype=AAAA
 ||mozilla.org^$dnstype=AAAA
 ||mozilla.org.uk^$dnstype=AAAA
@@ -23443,6 +23456,7 @@
 ||nzchinese.com^$dnstype=AAAA
 ||nzchinese.net.nz^$dnstype=AAAA
 ||o-courier.ru^$dnstype=AAAA
+||o-uchi.ru^$dnstype=AAAA
 ||o2action.co.kr^$dnstype=AAAA
 ||o3.ru^$dnstype=AAAA
 ||o365weve-dev.com^$dnstype=AAAA
@@ -25518,6 +25532,7 @@
 ||potteries.ac.uk^$dnstype=AAAA
 ||potterieseducationaltrust.ac.uk^$dnstype=AAAA
 ||potvpn.com^$dnstype=AAAA
+||poudobnee.com^$dnstype=AAAA
 ||pourquoi.tw^$dnstype=AAAA
 ||poverty.ac.uk^$dnstype=AAAA
 ||povpornonly.com^$dnstype=AAAA
@@ -26393,6 +26408,7 @@
 ||rdio.com^$dnstype=AAAA
 ||rdmrsc.ac.uk^$dnstype=AAAA
 ||rdnet.ac.uk^$dnstype=AAAA
+||rdrom.ru^$dnstype=AAAA
 ||rds-yes.buzz^$dnstype=AAAA
 ||rdtcdn.com^$dnstype=AAAA
 ||re-net.ac.uk^$dnstype=AAAA
@@ -26480,6 +26496,7 @@
 ||realtor.com^$dnstype=AAAA
 ||realtype.co.jp^$dnstype=AAAA
 ||realtype.jp^$dnstype=AAAA
+||realtyverif.ru^$dnstype=AAAA
 ||realvision.com^$dnstype=AAAA
 ||realviz.com^$dnstype=AAAA
 ||realzoomovies.com^$dnstype=AAAA
@@ -32047,6 +32064,7 @@
 ||ucg.ac.uk^$dnstype=AAAA
 ||uchi.ru^$dnstype=AAAA
 ||uchicago.edu^$dnstype=AAAA
+||uchilk.ru^$dnstype=AAAA
 ||ucisa.ac.uk^$dnstype=AAAA
 ||ucl-status.ac.uk^$dnstype=AAAA
 ||ucl.ac.uk^$dnstype=AAAA
@@ -32597,6 +32615,7 @@
 ||v-resort.ac.uk^$dnstype=AAAA
 ||v.gd^$dnstype=AAAA
 ||v.ps^$dnstype=AAAA
+||v.recipes^$dnstype=AAAA
 ||v.roucdn^$dnstype=AAAA
 ||v2.help^$dnstype=AAAA
 ||v2.hysteria.network^$dnstype=AAAA
@@ -35776,6 +35795,7 @@
 ||ymhsf.top^$dnstype=AAAA
 ||ymhsf1.top^$dnstype=AAAA
 ||ync.ne.jp^$dnstype=AAAA
+||yndx.net^$dnstype=AAAA
 ||ynoproject.net^$dnstype=AAAA
 ||yo-star.com^$dnstype=AAAA
 ||yo1health.com^$dnstype=AAAA
