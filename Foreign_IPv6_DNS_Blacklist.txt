@@ -928,6 +928,7 @@
 ||actalis.com^$dnstype=AAAA
 ||actalis.it^$dnstype=AAAA
 ||actfortibet.org^$dnstype=AAAA
+||actifio.com^$dnstype=AAAA
 ||actimes.com.au^$dnstype=AAAA
 ||activate-sea.adobe.com^$dnstype=AAAA
 ||activate-sjc0.adobe.com^$dnstype=AAAA
@@ -17710,7 +17711,10 @@
 ||jetbrains.ai^$dnstype=AAAA
 ||jetbrains.cloud^$dnstype=AAAA
 ||jetbrains.com^$dnstype=AAAA
+||jetbrains.dev^$dnstype=AAAA
 ||jetbrains.net^$dnstype=AAAA
+||jetbrains.org^$dnstype=AAAA
+||jetbrains.ru^$dnstype=AAAA
 ||jetbrains.space^$dnstype=AAAA
 ||jetbrains.team^$dnstype=AAAA
 ||jetfuelapp.com^$dnstype=AAAA
@@ -18485,6 +18489,8 @@
 ||koshelek.app^$dnstype=AAAA
 ||koskade.com^$dnstype=AAAA
 ||kostenlosepornoclips.com^$dnstype=AAAA
+||kotl.in^$dnstype=AAAA
+||kotlinconf.com^$dnstype=AAAA
 ||kotlinlang.org^$dnstype=AAAA
 ||koubaibu.jp^$dnstype=AAAA
 ||koukoku.jp^$dnstype=AAAA
@@ -18521,6 +18527,7 @@
 ||ksyp10.com^$dnstype=AAAA
 ||ktachibana.party^$dnstype=AAAA
 ||ktech.team^$dnstype=AAAA
+||ktor.io^$dnstype=AAAA
 ||ktvu.com^$dnstype=AAAA
 ||ktzhk.com^$dnstype=AAAA
 ||ku77.xyz^$dnstype=AAAA
@@ -21791,6 +21798,7 @@
 ||myiphide.com^$dnstype=AAAA
 ||myiphider.com^$dnstype=AAAA
 ||myipod.net^$dnstype=AAAA
+||myjetbrains.com^$dnstype=AAAA
 ||myjkwd.com^$dnstype=AAAA
 ||myjs.tw^$dnstype=AAAA
 ||mykomica.org^$dnstype=AAAA
@@ -23159,6 +23167,7 @@
 ||ntdvn.com^$dnstype=AAAA
 ||ntec.ac.uk^$dnstype=AAAA
 ||ntfs.ac.uk^$dnstype=AAAA
+||nthlink.com^$dnstype=AAAA
 ||ntidagenham.ac.uk^$dnstype=AAAA
 ||ntl.edu.tw^$dnstype=AAAA
 ||ntl.fyi^$dnstype=AAAA
@@ -23894,6 +23903,7 @@
 ||openweave.io^$dnstype=AAAA
 ||openwebster.com^$dnstype=AAAA
 ||openwrt.org^$dnstype=AAAA
+||openxla.org^$dnstype=AAAA
 ||opera-archive.ac.uk^$dnstype=AAAA
 ||opera-mini.net^$dnstype=AAAA
 ||opera.com^$dnstype=AAAA
@@ -30283,6 +30293,7 @@
 ||talkboxapp.com^$dnstype=AAAA
 ||talkcc.com^$dnstype=AAAA
 ||talkinghealthmatters.ac.uk^$dnstype=AAAA
+||talkingkotlin.com^$dnstype=AAAA
 ||talkonly.net^$dnstype=AAAA
 ||talksport.com^$dnstype=AAAA
 ||tamescol.ac.uk^$dnstype=AAAA
