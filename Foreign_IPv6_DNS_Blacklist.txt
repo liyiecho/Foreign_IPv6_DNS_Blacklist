@@ -8708,6 +8708,8 @@
 ||deepl.com^$dnstype=AAAA
 ||deepmind.com^$dnstype=AAAA
 ||deepmind.google^$dnstype=AAAA
+||deepwiki.com^$dnstype=AAAA
+||deepwiki.org^$dnstype=AAAA
 ||deeside.ac.uk^$dnstype=AAAA
 ||deezer.com^$dnstype=AAAA
 ||defac.ac.uk^$dnstype=AAAA
@@ -12220,8 +12222,11 @@
 ||flurry.com^$dnstype=AAAA
 ||flutter.dev^$dnstype=AAAA
 ||flutterapp.com^$dnstype=AAAA
+||fly.dev^$dnstype=AAAA
+||fly.io^$dnstype=AAAA
 ||flyflv.com^$dnstype=AAAA
 ||flyingjizz.com^$dnstype=AAAA
+||flyio.net^$dnstype=AAAA
 ||flypool.org^$dnstype=AAAA
 ||flyvpn.com^$dnstype=AAAA
 ||flyyindh-cc.sbs^$dnstype=AAAA
@@ -13547,6 +13552,7 @@
 ||glenfife.ac.uk^$dnstype=AAAA
 ||glenrothes-college.ac.uk^$dnstype=AAAA
 ||glhl.ac.uk^$dnstype=AAAA
+||glitchwave.com^$dnstype=AAAA
 ||gllm.ac.uk^$dnstype=AAAA
 ||global-sci.org^$dnstype=AAAA
 ||global.bing.com^$dnstype=AAAA
@@ -24134,14 +24140,17 @@
 ||ozon-credit.ru^$dnstype=AAAA
 ||ozon-dostavka.ru^$dnstype=AAAA
 ||ozon-tech.ru^$dnstype=AAAA
+||ozon.app^$dnstype=AAAA
 ||ozon.by^$dnstype=AAAA
 ||ozon.com^$dnstype=AAAA
 ||ozon.com.by^$dnstype=AAAA
 ||ozon.com.kz^$dnstype=AAAA
 ||ozon.dev^$dnstype=AAAA
 ||ozon.express^$dnstype=AAAA
+||ozon.global^$dnstype=AAAA
 ||ozon.kz^$dnstype=AAAA
 ||ozon.li^$dnstype=AAAA
+||ozon.market^$dnstype=AAAA
 ||ozon.ru^$dnstype=AAAA
 ||ozon.tech^$dnstype=AAAA
 ||ozon.tm^$dnstype=AAAA
@@ -27214,6 +27223,7 @@
 ||rutrecker.net^$dnstype=AAAA
 ||rutrk.org^$dnstype=AAAA
 ||rutube.ru^$dnstype=AAAA
+||rutube.sport^$dnstype=AAAA
 ||rutubelist.ru^$dnstype=AAAA
 ||ruvideos.net^$dnstype=AAAA
 ||ruyiseek.com^$dnstype=AAAA
@@ -27224,6 +27234,7 @@
 ||rwbgeo.ru^$dnstype=AAAA
 ||rwcmd.ac.uk^$dnstype=AAAA
 ||rxhj.net^$dnstype=AAAA
+||rym.fm^$dnstype=AAAA
 ||ryokoyomiuri.co.jp^$dnstype=AAAA
 ||ryukyubank.co.jp^$dnstype=AAAA
 ||rzr.to^$dnstype=AAAA
@@ -28835,6 +28846,7 @@
 ||snk-corp.co.jp^$dnstype=AAAA
 ||snk-corp.info^$dnstype=AAAA
 ||snkplaymore.info^$dnstype=AAAA
+||snmc.io^$dnstype=AAAA
 ||snow-plus.net^$dnstype=AAAA
 ||snow.me^$dnstype=AAAA
 ||snowcorp.com^$dnstype=AAAA
@@ -28952,6 +28964,8 @@
 ||somerset.ac.uk^$dnstype=AAAA
 ||somersetcolleges.ac.uk^$dnstype=AAAA
 ||sonatype.org^$dnstype=AAAA
+||sonematic.net^$dnstype=AAAA
+||sonemic.com^$dnstype=AAAA
 ||songjianjun.com^$dnstype=AAAA
 ||sonicbbs.cc^$dnstype=AAAA
 ||sonidodelaesperanza.org^$dnstype=AAAA
