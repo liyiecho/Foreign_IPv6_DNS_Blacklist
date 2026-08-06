@@ -242,6 +242,7 @@
 ||2047.name^$dnstype=AAAA
 ||2047.one^$dnstype=AAAA
 ||2049bbs.xyz^$dnstype=AAAA
+||20thcenturystudios.com^$dnstype=AAAA
 ||20thcenturystudios.com.au^$dnstype=AAAA
 ||20thcenturystudios.com.br^$dnstype=AAAA
 ||20thcenturystudios.jp^$dnstype=AAAA
@@ -280,11 +281,15 @@
 ||2bit8.com^$dnstype=AAAA
 ||2buybeatsbydre.com^$dnstype=AAAA
 ||2ch.hk^$dnstype=AAAA
+||2ch.life^$dnstype=AAAA
 ||2ch.net^$dnstype=AAAA
+||2ch.org^$dnstype=AAAA
+||2ch.su^$dnstype=AAAA
 ||2chav.com^$dnstype=AAAA
 ||2dgen.com^$dnstype=AAAA
 ||2drdrebeats.com^$dnstype=AAAA
 ||2du5.com^$dnstype=AAAA
+||2dust.link^$dnstype=AAAA
 ||2gayboys.com^$dnstype=AAAA
 ||2gis.ae^$dnstype=AAAA
 ||2gis.am^$dnstype=AAAA
@@ -758,6 +763,7 @@
 ||abchinese.com^$dnstype=AAAA
 ||abclider.com^$dnstype=AAAA
 ||abclite.net^$dnstype=AAAA
+||abcnews.com^$dnstype=AAAA
 ||abcol.ac.uk^$dnstype=AAAA
 ||abcolstudents.ac.uk^$dnstype=AAAA
 ||abdn-access-biomedical.ac.uk^$dnstype=AAAA
@@ -2029,6 +2035,7 @@
 ||amnesty.org.hk^$dnstype=AAAA
 ||amnesty.tw^$dnstype=AAAA
 ||amnestyusa.org^$dnstype=AAAA
+||amnezia.org^$dnstype=AAAA
 ||amnyemachen.org^$dnstype=AAAA
 ||amodoll.com^$dnstype=AAAA
 ||amof.ac.uk^$dnstype=AAAA
@@ -3598,6 +3605,7 @@
 ||bam.ac.uk^$dnstype=AAAA
 ||bamgrid.com^$dnstype=AAAA
 ||bams.ac.uk^$dnstype=AAAA
+||bamtech.net^$dnstype=AAAA
 ||bamtoki.com^$dnstype=AAAA
 ||banan.tv^$dnstype=AAAA
 ||banana-vpn.com^$dnstype=AAAA
@@ -7241,8 +7249,10 @@
 ||clarin.ac.uk^$dnstype=AAAA
 ||clarionproject.org^$dnstype=AAAA
 ||clash.com^$dnstype=AAAA
+||clashmi.app^$dnstype=AAAA
 ||clashmini.com^$dnstype=AAAA
 ||clashofclans.com^$dnstype=AAAA
+||clashparty.org^$dnstype=AAAA
 ||clashroyale.com^$dnstype=AAAA
 ||clashverge.dev^$dnstype=AAAA
 ||clashyun.com^$dnstype=AAAA
@@ -7343,9 +7353,11 @@
 ||cloudflare-ipfs.com^$dnstype=AAAA
 ||cloudflare-quic.com^$dnstype=AAAA
 ||cloudflare-terms-of-service-abuse.com^$dnstype=AAAA
+||cloudflare.app^$dnstype=AAAA
 ||cloudflare.com^$dnstype=AAAA
 ||cloudflare.dev^$dnstype=AAAA
 ||cloudflare.net^$dnstype=AAAA
+||cloudflare.pay^$dnstype=AAAA
 ||cloudflare.tv^$dnstype=AAAA
 ||cloudflareaccess.com^$dnstype=AAAA
 ||cloudflareapps.com^$dnstype=AAAA
@@ -8978,6 +8990,7 @@
 ||detaliczny.com^$dnstype=AAAA
 ||detentiongirls.com^$dnstype=AAAA
 ||detodosparatodos.org^$dnstype=AAAA
+||detpress.com^$dnstype=AAAA
 ||detroitnews.com^$dnstype=AAAA
 ||dettol-prize.com^$dnstype=AAAA
 ||dettol.at^$dnstype=AAAA
@@ -9308,7 +9321,9 @@
 ||disney.ru^$dnstype=AAAA
 ||disney.se^$dnstype=AAAA
 ||disney.sg^$dnstype=AAAA
+||disneyaccount.com^$dnstype=AAAA
 ||disneyadsales.com^$dnstype=AAAA
+||disneyanimation.com^$dnstype=AAAA
 ||disneyarena.com^$dnstype=AAAA
 ||disneyaulani.com^$dnstype=AAAA
 ||disneybaby.com^$dnstype=AAAA
@@ -9324,6 +9339,7 @@
 ||disneyinternationalhd.com^$dnstype=AAAA
 ||disneyjunior.com^$dnstype=AAAA
 ||disneyjuniortreataday.com^$dnstype=AAAA
+||disneylandparis.com^$dnstype=AAAA
 ||disneylatino.com^$dnstype=AAAA
 ||disneymagicmoments.co.il^$dnstype=AAAA
 ||disneymagicmoments.co.uk^$dnstype=AAAA
@@ -9346,11 +9362,13 @@
 ||disneyplus.bn5x.net^$dnstype=AAAA
 ||disneyplus.com^$dnstype=AAAA
 ||disneyplus.com.ssl.sc.omtrdc.net^$dnstype=AAAA
+||disneyprivacycenter.com^$dnstype=AAAA
 ||disneyredirects.com^$dnstype=AAAA
 ||disneysrivieraresort.com^$dnstype=AAAA
 ||disneystore.com^$dnstype=AAAA
 ||disneystreaming.com^$dnstype=AAAA
 ||disneysubscription.com^$dnstype=AAAA
+||disneytermsofuse.com^$dnstype=AAAA
 ||disneytickets.co.uk^$dnstype=AAAA
 ||disneyturkiye.com.tr^$dnstype=AAAA
 ||disneytvajobs.com^$dnstype=AAAA
@@ -12169,6 +12187,7 @@
 ||flatt.tech^$dnstype=AAAA
 ||flavournetwork.ac.uk^$dnstype=AAAA
 ||flbjc.net^$dnstype=AAAA
+||flclashx.app^$dnstype=AAAA
 ||fldz8.buzz^$dnstype=AAAA
 ||flecheinthepeche.fr^$dnstype=AAAA
 ||fleek.co^$dnstype=AAAA
@@ -12213,6 +12232,7 @@
 ||flowgpt.com^$dnstype=AAAA
 ||flowhongkong.net^$dnstype=AAAA
 ||flowtype.org^$dnstype=AAAA
+||flowvy.io^$dnstype=AAAA
 ||flowwow-images.com^$dnstype=AAAA
 ||flowwow.com^$dnstype=AAAA
 ||fluffychat.im^$dnstype=AAAA
@@ -12617,6 +12637,7 @@
 ||freefacebookads.net^$dnstype=AAAA
 ||freefblikes.com^$dnstype=AAAA
 ||freefbx.com^$dnstype=AAAA
+||freeform.com^$dnstype=AAAA
 ||freeforums.org^$dnstype=AAAA
 ||freefq.com^$dnstype=AAAA
 ||freefuckvids.com^$dnstype=AAAA
@@ -15373,6 +15394,7 @@
 ||hongjie10.xyz^$dnstype=AAAA
 ||hongjie11.xyz^$dnstype=AAAA
 ||hongkong.fandom.com^$dnstype=AAAA
+||hongkongdisneyland.com^$dnstype=AAAA
 ||hongkongdoll.tv^$dnstype=AAAA
 ||hongkongdollvideo.org^$dnstype=AAAA
 ||hongkongfp.com^$dnstype=AAAA
@@ -16600,6 +16622,7 @@
 ||inclusivegrowthscore.com^$dnstype=AAAA
 ||incommon-rsa.org^$dnstype=AAAA
 ||incredibox.fr^$dnstype=AAAA
+||incy.cc^$dnstype=AAAA
 ||ind.sh^$dnstype=AAAA
 ||indazn.com^$dnstype=AAAA
 ||indaznlab.com^$dnstype=AAAA
@@ -18154,6 +18177,7 @@
 ||kards.com^$dnstype=AAAA
 ||karechat.ai^$dnstype=AAAA
 ||karinahart.com^$dnstype=AAAA
+||karing.app^$dnstype=AAAA
 ||karkhung.com^$dnstype=AAAA
 ||karlajames.com^$dnstype=AAAA
 ||karmahelp.ru^$dnstype=AAAA
@@ -19502,6 +19526,7 @@
 ||lubetube.com^$dnstype=AAAA
 ||lucahmelayu.club^$dnstype=AAAA
 ||lucasentertainment.com^$dnstype=AAAA
+||lucasfilm.com^$dnstype=AAAA
 ||lucbjtu.ac.uk^$dnstype=AAAA
 ||lucid.ac.uk^$dnstype=AAAA
 ||luckydesigner.space^$dnstype=AAAA
@@ -20071,6 +20096,7 @@
 ||matrix.ac.uk^$dnstype=AAAA
 ||matrix.org^$dnstype=AAAA
 ||matrix.to^$dnstype=AAAA
+||matsuridayo.github.io^$dnstype=AAAA
 ||matsushimakaede.com^$dnstype=AAAA
 ||matters.news^$dnstype=AAAA
 ||matters.one^$dnstype=AAAA
@@ -20392,6 +20418,7 @@
 ||metacloud.com^$dnstype=AAAA
 ||metacpan.org^$dnstype=AAAA
 ||metacritic.com^$dnstype=AAAA
+||metacubex.github.io^$dnstype=AAAA
 ||metacubex.one^$dnstype=AAAA
 ||metadac.ac.uk^$dnstype=AAAA
 ||metafilter.com^$dnstype=AAAA
@@ -21937,7 +21964,6 @@
 ||naacoalition.org^$dnstype=AAAA
 ||naaktevrouwenporno.com^$dnstype=AAAA
 ||nab.com.au^$dnstype=AAAA
-||nab.demdex.net^$dnstype=AAAA
 ||nabble.com^$dnstype=AAAA
 ||nabo.go.kr^$dnstype=AAAA
 ||nabtravellercard.com.au^$dnstype=AAAA
@@ -22109,6 +22135,7 @@
 ||ncati.ac.uk^$dnstype=AAAA
 ||ncaveo.ac.uk^$dnstype=AAAA
 ||ncb.ac.uk^$dnstype=AAAA
+||ncbi.nlm.nih.gov^$dnstype=AAAA
 ||ncbradford.ac.uk^$dnstype=AAAA
 ||ncc.ac.uk^$dnstype=AAAA
 ||nccadultlearning.ac.uk^$dnstype=AAAA
@@ -22199,6 +22226,7 @@
 ||neicad.com^$dnstype=AAAA
 ||neiexplicit.com^$dnstype=AAAA
 ||neifea.com^$dnstype=AAAA
+||neigbuy.com^$dnstype=AAAA
 ||neimotion.com^$dnstype=AAAA
 ||neinastranincad.com^$dnstype=AAAA
 ||neipdg.ac.uk^$dnstype=AAAA
@@ -23127,6 +23155,7 @@
 ||nsfwmemes.com^$dnstype=AAAA
 ||nsimg.net^$dnstype=AAAA
 ||nsirc.ac.uk^$dnstype=AAAA
+||nsloon.com^$dnstype=AAAA
 ||nso.ac.uk^$dnstype=AAAA
 ||nspcr.ac.uk^$dnstype=AAAA
 ||nspk.ru^$dnstype=AAAA
@@ -23748,6 +23777,7 @@
 ||onetrust.com^$dnstype=AAAA
 ||onevps.com^$dnstype=AAAA
 ||oneworldmanystories.com^$dnstype=AAAA
+||onexray.com^$dnstype=AAAA
 ||onfinality.io^$dnstype=AAAA
 ||onindiansex.com^$dnstype=AAAA
 ||oninstagram.com^$dnstype=AAAA
@@ -24911,6 +24941,7 @@
 ||piwheels.org^$dnstype=AAAA
 ||pixanalytics.com^$dnstype=AAAA
 ||pixapp.net^$dnstype=AAAA
+||pixar.com^$dnstype=AAAA
 ||pixate.com^$dnstype=AAAA
 ||pixeldrain.com^$dnstype=AAAA
 ||pixelmator.com^$dnstype=AAAA
@@ -25722,6 +25753,7 @@
 ||privilege.hk^$dnstype=AAAA
 ||privilege.tw^$dnstype=AAAA
 ||privoxy.org^$dnstype=AAAA
+||prizrak.app^$dnstype=AAAA
 ||procat.ac.uk^$dnstype=AAAA
 ||procatdigital.ac.uk^$dnstype=AAAA
 ||procatstudent.ac.uk^$dnstype=AAAA
@@ -26215,6 +26247,7 @@
 ||ra-review.ac.uk^$dnstype=AAAA
 ||ra.gg^$dnstype=AAAA
 ||raa.ac.uk^$dnstype=AAAA
+||rabbit-hole-1.gitbook.io^$dnstype=AAAA
 ||rabbitcounter.com^$dnstype=AAAA
 ||rabbitscams.com^$dnstype=AAAA
 ||rabbitscams.sex^$dnstype=AAAA
@@ -27799,6 +27832,7 @@
 ||search.yahoo.co.jp^$dnstype=AAAA
 ||search25.ac.uk^$dnstype=AAAA
 ||searchapi.culture.tw^$dnstype=AAAA
+||searchlightpictures.com^$dnstype=AAAA
 ||searchtruth.com^$dnstype=AAAA
 ||searx.me^$dnstype=AAAA
 ||searx.space^$dnstype=AAAA
@@ -28218,6 +28252,7 @@
 ||shadeyouvpn.com^$dnstype=AAAA
 ||shadow.ma^$dnstype=AAAA
 ||shadowcomplex.com^$dnstype=AAAA
+||shadowlaunch.com^$dnstype=AAAA
 ||shadowsky.xyz^$dnstype=AAAA
 ||shadowslaves.com^$dnstype=AAAA
 ||shadowsocks-r.com^$dnstype=AAAA
@@ -29557,6 +29592,8 @@
 ||starwarsjedifallenorder.com^$dnstype=AAAA
 ||starwarskids.com^$dnstype=AAAA
 ||starwarstheoldrepublic.com^$dnstype=AAAA
+||stash.wiki^$dnstype=AAAA
+||stash.ws^$dnstype=AAAA
 ||stat.gov.tw^$dnstype=AAAA
 ||state.gov^$dnstype=AAAA
 ||statearmor.org^$dnstype=AAAA
@@ -30890,6 +30927,7 @@
 ||theverge.com^$dnstype=AAAA
 ||thevirtualsexreview.com^$dnstype=AAAA
 ||thevivekspot.com^$dnstype=AAAA
+||thewaltdisneycompany.com^$dnstype=AAAA
 ||theweek.com^$dnstype=AAAA
 ||theweek.in^$dnstype=AAAA
 ||thewgo.org^$dnstype=AAAA
@@ -30967,6 +31005,7 @@
 ||thri.xxx^$dnstype=AAAA
 ||thrixxx.com^$dnstype=AAAA
 ||thron.com^$dnstype=AAAA
+||throneproj.github.io^$dnstype=AAAA
 ||throughnightsfire.com^$dnstype=AAAA
 ||thtmod1.com^$dnstype=AAAA
 ||thu.monster^$dnstype=AAAA
@@ -31279,6 +31318,7 @@
 ||tokyo-sports.co.jp^$dnstype=AAAA
 ||tokyo-tosho.net^$dnstype=AAAA
 ||tokyocn.com^$dnstype=AAAA
+||tokyodisneyresort.jp^$dnstype=AAAA
 ||tokyomotion.com^$dnstype=AAAA
 ||tokyomotion.net^$dnstype=AAAA
 ||tokyonightstyle.com^$dnstype=AAAA
@@ -33804,6 +33844,7 @@
 ||walmartimages.com^$dnstype=AAAA
 ||walsall-coce.ac.uk^$dnstype=AAAA
 ||walsallcollege.ac.uk^$dnstype=AAAA
+||waltdisneystudios.com^$dnstype=AAAA
 ||waltermartin.com^$dnstype=AAAA
 ||waltermartin.org^$dnstype=AAAA
 ||waltham.ac.uk^$dnstype=AAAA
@@ -34143,6 +34184,7 @@
 ||wforum.com^$dnstype=AAAA
 ||wgcdn.co^$dnstype=AAAA
 ||wgcrowd.io^$dnstype=AAAA
+||wgtunnel.com^$dnstype=AAAA
 ||wgu.ac.uk^$dnstype=AAAA
 ||wha.la^$dnstype=AAAA
 ||whasil.xyz^$dnstype=AAAA
@@ -34419,6 +34461,7 @@
 ||wirelessreach.com^$dnstype=AAAA
 ||wiremoneytoirelandwithxoomeasierandcheaper.com^$dnstype=AAAA
 ||wireshark.org^$dnstype=AAAA
+||wiresock.net^$dnstype=AAAA
 ||wirralmet.ac.uk^$dnstype=AAAA
 ||wisdompubs.org^$dnstype=AAAA
 ||wise-research.com^$dnstype=AAAA
