@@ -3118,7 +3118,6 @@
 ||auee.ac.uk^$dnstype=AAAA
 ||aukcar.ac.uk^$dnstype=AAAA
 ||aulic.ac.uk^$dnstype=AAAA
-||auntology.fandom.com^$dnstype=AAAA
 ||auntymaza.com^$dnstype=AAAA
 ||auphf.ac.uk^$dnstype=AAAA
 ||auricularemonsterbeats.com^$dnstype=AAAA
@@ -15393,7 +15392,6 @@
 ||honeynet.org^$dnstype=AAAA
 ||hongjie10.xyz^$dnstype=AAAA
 ||hongjie11.xyz^$dnstype=AAAA
-||hongkong.fandom.com^$dnstype=AAAA
 ||hongkongdisneyland.com^$dnstype=AAAA
 ||hongkongdoll.tv^$dnstype=AAAA
 ||hongkongdollvideo.org^$dnstype=AAAA
