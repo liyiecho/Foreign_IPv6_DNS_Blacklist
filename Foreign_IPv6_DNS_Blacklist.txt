@@ -1362,6 +1362,7 @@
 ||aib.ac.uk^$dnstype=AAAA
 ||aibaobei.me^$dnstype=AAAA
 ||aicoin.com^$dnstype=AAAA
+||aihub.top^$dnstype=AAAA
 ||aim25.ac.uk^$dnstype=AAAA
 ||aimei133.com^$dnstype=AAAA
 ||aimhighergreatermerseyside.ac.uk^$dnstype=AAAA
@@ -3693,6 +3694,7 @@
 ||base.org^$dnstype=AAAA
 ||baselinestudy.com^$dnstype=AAAA
 ||baselinestudy.org^$dnstype=AAAA
+||basemaps.arcgis.com^$dnstype=AAAA
 ||basford-hall.ac.uk^$dnstype=AAAA
 ||basildon.ac.uk^$dnstype=AAAA
 ||basilisk-browser.org^$dnstype=AAAA
@@ -11034,6 +11036,7 @@
 ||esher.ac.uk^$dnstype=AAAA
 ||esi.ac.uk^$dnstype=AAAA
 ||esim.ac.uk^$dnstype=AAAA
+||esim.redteago.com^$dnstype=AAAA
 ||esiss.ac.uk^$dnstype=AAAA
 ||eskimotube.com^$dnstype=AAAA
 ||eslite.com^$dnstype=AAAA
@@ -11221,6 +11224,7 @@
 ||expecthim.com^$dnstype=AAAA
 ||expekt.com^$dnstype=AAAA
 ||experience-vmware.com^$dnstype=AAAA
+||experience.arcgis.com^$dnstype=AAAA
 ||experiencebillmelater.com^$dnstype=AAAA
 ||experienceworks.ac.uk^$dnstype=AAAA
 ||expertmaker.com^$dnstype=AAAA
@@ -26620,6 +26624,7 @@
 ||redporno.cz^$dnstype=AAAA
 ||redpornpictures.com^$dnstype=AAAA
 ||redsexhub.com^$dnstype=AAAA
+||redteago.com^$dnstype=AAAA
 ||redteenporn.com^$dnstype=AAAA
 ||redtub3xxx.com^$dnstype=AAAA
 ||redtube.blog^$dnstype=AAAA
