@@ -9386,6 +9386,7 @@
 ||distribution.qpdp1.net^$dnstype=AAAA
 ||dit-inc.us^$dnstype=AAAA
 ||divas.com.uy^$dnstype=AAAA
+||divdyn.com^$dnstype=AAAA
 ||diversity.google^$dnstype=AAAA
 ||diversityuk.ac.uk^$dnstype=AAAA
 ||diwodiwo.xyz^$dnstype=AAAA
@@ -29393,7 +29394,6 @@
 ||srwwu.uno^$dnstype=AAAA
 ||ss-inf.net^$dnstype=AAAA
 ||ss-link.com^$dnstype=AAAA
-||ss.pythonic.life^$dnstype=AAAA
 ||ss2.us^$dnstype=AAAA
 ||ss7.app^$dnstype=AAAA
 ||ssa.gov^$dnstype=AAAA
