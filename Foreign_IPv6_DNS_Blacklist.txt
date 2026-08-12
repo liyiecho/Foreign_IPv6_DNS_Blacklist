@@ -948,6 +948,9 @@
 ||activelearnprimary.com.au^$dnstype=AAAA
 ||activematter.game^$dnstype=AAAA
 ||activeteachonline.com^$dnstype=AAAA
+||activision.com^$dnstype=AAAA
+||activisionblizzard.com^$dnstype=AAAA
+||activisionblizzardmedia.com^$dnstype=AAAA
 ||activpn.com^$dnstype=AAAA
 ||actofunion.ac.uk^$dnstype=AAAA
 ||actris.ac.uk^$dnstype=AAAA
@@ -4195,6 +4198,7 @@
 ||bemywife.cc^$dnstype=AAAA
 ||benaughty.fun^$dnstype=AAAA
 ||benc.ac.uk^$dnstype=AAAA
+||benefitsforeveryworld.com^$dnstype=AAAA
 ||bengalisexvideos.com^$dnstype=AAAA
 ||benliton.com^$dnstype=AAAA
 ||bentobox.tv^$dnstype=AAAA
@@ -6105,6 +6109,11 @@
 ||callbackkiller.com^$dnstype=AAAA
 ||callersbane.com^$dnstype=AAAA
 ||callhulu.com^$dnstype=AAAA
+||callofduty.com^$dnstype=AAAA
+||callofdutyendowment.com^$dnstype=AAAA
+||callofdutyendowment.org^$dnstype=AAAA
+||callofdutyleague.com^$dnstype=AAAA
+||callofdutymobile.com^$dnstype=AAAA
 ||calls.ac.uk^$dnstype=AAAA
 ||callywith.ac.uk^$dnstype=AAAA
 ||caltech.edu^$dnstype=AAAA
@@ -6190,6 +6199,7 @@
 ||candi.ac.uk^$dnstype=AAAA
 ||candidforum-videos.com^$dnstype=AAAA
 ||cando.ac.uk^$dnstype=AAAA
+||candycrush.com^$dnstype=AAAA
 ||candycumcity.com^$dnstype=AAAA
 ||candypleasure.com^$dnstype=AAAA
 ||cannington.ac.uk^$dnstype=AAAA
@@ -8024,6 +8034,7 @@
 ||cranfield.ac.uk^$dnstype=AAAA
 ||crankplayer.com^$dnstype=AAAA
 ||crash.ac.uk^$dnstype=AAAA
+||crashbandicoot.com^$dnstype=AAAA
 ||crashlytics.com^$dnstype=AAAA
 ||crates.io^$dnstype=AAAA
 ||craven-college.ac.uk^$dnstype=AAAA
@@ -8921,6 +8932,7 @@
 ||democracy.earth^$dnstype=AAAA
 ||democrats.org^$dnstype=AAAA
 ||demonoid.is^$dnstype=AAAA
+||demonware.net^$dnstype=AAAA
 ||demoprint.com^$dnstype=AAAA
 ||demos.ac.uk^$dnstype=AAAA
 ||demosisto.hk^$dnstype=AAAA
@@ -9082,7 +9094,9 @@
 ||dhi.ac.uk^$dnstype=AAAA
 ||dhlestudio.com.co^$dnstype=AAAA
 ||diabetes-healthnet.ac.uk^$dnstype=AAAA
+||diablo.com^$dnstype=AAAA
 ||diablo3.com^$dnstype=AAAA
+||diablo4.com^$dnstype=AAAA
 ||diabloimmortal.com^$dnstype=AAAA
 ||diabrowser.com^$dnstype=AAAA
 ||diabrowser.engineering^$dnstype=AAAA
@@ -11149,6 +11163,7 @@
 ||europeansustainabledesign.net^$dnstype=AAAA
 ||europeansustainabledesigncouncil.com^$dnstype=AAAA
 ||europeansustainabledesigncouncil.net^$dnstype=AAAA
+||europeanwarzoneseries.com^$dnstype=AAAA
 ||europepmc.org^$dnstype=AAAA
 ||europeunit.ac.uk^$dnstype=AAAA
 ||europornstar.com^$dnstype=AAAA
@@ -15153,6 +15168,7 @@
 ||highfieldscentre.ac.uk^$dnstype=AAAA
 ||highlands-jersey.ac.uk^$dnstype=AAAA
 ||highlands.ac.uk^$dnstype=AAAA
+||highmoonstudios.com^$dnstype=AAAA
 ||highpeak.ac.uk^$dnstype=AAAA
 ||highpeakspureearth.com^$dnstype=AAAA
 ||highporn.net^$dnstype=AAAA
@@ -16667,6 +16683,7 @@
 ||inf.news^$dnstype=AAAA
 ||infinitetoons.com^$dnstype=AAAA
 ||infinitetube.com^$dnstype=AAAA
+||infinityward.com^$dnstype=AAAA
 ||influencersgonewild.com^$dnstype=AAAA
 ||info-graf.fr^$dnstype=AAAA
 ||infocert.digital^$dnstype=AAAA
@@ -18381,6 +18398,7 @@
 ||kindteenporn.com^$dnstype=AAAA
 ||kinescopecdn.net^$dnstype=AAAA
 ||king.ac.uk^$dnstype=AAAA
+||king.com^$dnstype=AAAA
 ||kingalfreds.ac.uk^$dnstype=AAAA
 ||kingalfredsbasingstoke.ac.uk^$dnstype=AAAA
 ||kingcomix.com^$dnstype=AAAA
@@ -26373,6 +26391,7 @@
 ||ravemedia.ac.uk^$dnstype=AAAA
 ||ravensbourne.ac.uk^$dnstype=AAAA
 ||ravensbourneuniversitylondon.ac.uk^$dnstype=AAAA
+||ravensoftware.com^$dnstype=AAAA
 ||ravm.tv^$dnstype=AAAA
 ||raw.fastgit.org^$dnstype=AAAA
 ||raw.githack.com^$dnstype=AAAA
@@ -27908,6 +27927,7 @@
 ||sejie80.com^$dnstype=AAAA
 ||seju.life^$dnstype=AAAA
 ||sekai.colorfulpalette.org^$dnstype=AAAA
+||sekirothegame.com^$dnstype=AAAA
 ||seksmet.nl^$dnstype=AAAA
 ||sekswebsite.nl^$dnstype=AAAA
 ||sekur1213.guru^$dnstype=AAAA
@@ -28518,6 +28538,7 @@
 ||sie.ac.uk^$dnstype=AAAA
 ||siege-amazon.com^$dnstype=AAAA
 ||sierrafriendsoftibet.org^$dnstype=AAAA
+||sierragames.com^$dnstype=AAAA
 ||sifa.ac.uk^$dnstype=AAAA
 ||sigcomm.org^$dnstype=AAAA
 ||sigma-cetl.ac.uk^$dnstype=AAAA
@@ -28701,6 +28722,7 @@
 ||skybet.com^$dnstype=AAAA
 ||skyking.com.tw^$dnstype=AAAA
 ||skykiwi.com^$dnstype=AAAA
+||skylanders.com^$dnstype=AAAA
 ||skylinktv.us^$dnstype=AAAA
 ||skymansion.net^$dnstype=AAAA
 ||skymatter.com^$dnstype=AAAA
@@ -28755,6 +28777,7 @@
 ||sleazydream.com^$dnstype=AAAA
 ||sleazyfork.org^$dnstype=AAAA
 ||sleazyneasy.com^$dnstype=AAAA
+||sledgehammergames.com^$dnstype=AAAA
 ||sleepandwakefulnessresearch.ac.uk^$dnstype=AAAA
 ||slg.ac.uk^$dnstype=AAAA
 ||slheng.com^$dnstype=AAAA
@@ -28989,6 +29012,7 @@
 ||solidaritetibet.org^$dnstype=AAAA
 ||solidfiles.com^$dnstype=AAAA
 ||solidifi.app^$dnstype=AAAA
+||solidstate.com^$dnstype=AAAA
 ||solihull.ac.uk^$dnstype=AAAA
 ||solihullsfc.ac.uk^$dnstype=AAAA
 ||solostudioksale.com^$dnstype=AAAA
@@ -29359,6 +29383,7 @@
 ||sputnikmediabank.com^$dnstype=AAAA
 ||sputniknews.com^$dnstype=AAAA
 ||spyjinx.com^$dnstype=AAAA
+||spyrothedragon.com^$dnstype=AAAA
 ||sqhwesternconsortium.ac.uk^$dnstype=AAAA
 ||sqlite.org^$dnstype=AAAA
 ||sqlserveronlinux.com^$dnstype=AAAA
@@ -31342,6 +31367,8 @@
 ||tongil.or.kr^$dnstype=AAAA
 ||tonicmovies.com^$dnstype=AAAA
 ||tono-oka.jp^$dnstype=AAAA
+||tonyhawk.com^$dnstype=AAAA
+||tonyhawkthegame.com^$dnstype=AAAA
 ||tonyyan.net^$dnstype=AAAA
 ||toodoc.com^$dnstype=AAAA
 ||toolforge.org^$dnstype=AAAA
@@ -31553,6 +31580,7 @@
 ||trendsmap.com^$dnstype=AAAA
 ||trendyporn.com^$dnstype=AAAA
 ||tresham.ac.uk^$dnstype=AAAA
+||treyarch.com^$dnstype=AAAA
 ||trezor.io^$dnstype=AAAA
 ||tri-london.ac.uk^$dnstype=AAAA
 ||trialofccp.org^$dnstype=AAAA
@@ -34623,6 +34651,7 @@
 ||worldpornvideos.com^$dnstype=AAAA
 ||worldsecureemail.com^$dnstype=AAAA
 ||worldsecuresystems.com^$dnstype=AAAA
+||worldseriesofwarzone.com^$dnstype=AAAA
 ||worldsex.com^$dnstype=AAAA
 ||worldsfastestgamer.net^$dnstype=AAAA
 ||worldvpn.net^$dnstype=AAAA
