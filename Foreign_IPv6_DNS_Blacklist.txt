@@ -5835,6 +5835,7 @@
 ||built-in.google^$dnstype=AAAA
 ||builtenvsigns.ac.uk^$dnstype=AAAA
 ||builtfromebay.com^$dnstype=AAAA
+||builtwithnix.org^$dnstype=AAAA
 ||bukkake-jav.com^$dnstype=AAAA
 ||bukkake.link^$dnstype=AAAA
 ||bullguard.com^$dnstype=AAAA
@@ -21883,6 +21884,7 @@
 ||mynetav.org^$dnstype=AAAA
 ||mynetname.net^$dnstype=AAAA
 ||mynike.com^$dnstype=AAAA
+||mynixos.com^$dnstype=AAAA
 ||mynumber.org^$dnstype=AAAA
 ||myoctocat.com^$dnstype=AAAA
 ||myparagliding.com^$dnstype=AAAA
@@ -22924,7 +22926,16 @@
 ||nivod.tv^$dnstype=AAAA
 ||nivodi.tv^$dnstype=AAAA
 ||nivodz.com^$dnstype=AAAA
+||nix-community.github.io^$dnstype=AAAA
+||nix-community.org^$dnstype=AAAA
+||nix.dev^$dnstype=AAAA
+||nix.store^$dnstype=AAAA
+||nixcon.org^$dnstype=AAAA
+||nixcon2017.org^$dnstype=AAAA
+||nixlang.com^$dnstype=AAAA
 ||nixos.org^$dnstype=AAAA
+||nixos.wiki^$dnstype=AAAA
+||nixpkgs.org^$dnstype=AAAA
 ||niziero.info^$dnstype=AAAA
 ||njactb.org^$dnstype=AAAA
 ||njav.tv^$dnstype=AAAA
@@ -35756,6 +35767,7 @@
 ||yandex.eu^$dnstype=AAAA
 ||yandex.fi^$dnstype=AAAA
 ||yandex.fr^$dnstype=AAAA
+||yandex.it^$dnstype=AAAA
 ||yandex.jobs^$dnstype=AAAA
 ||yandex.kg^$dnstype=AAAA
 ||yandex.kz^$dnstype=AAAA
