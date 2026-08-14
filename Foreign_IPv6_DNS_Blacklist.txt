@@ -27109,6 +27109,7 @@
 ||rse.ac.uk^$dnstype=AAAA
 ||rsf-chinese.org^$dnstype=AAAA
 ||rsf.org^$dnstype=AAAA
+||rsg.ms^$dnstype=AAAA
 ||rsg.sc^$dnstype=AAAA
 ||rsgamen.org^$dnstype=AAAA
 ||rshb.ru^$dnstype=AAAA
@@ -27572,6 +27573,8 @@
 ||sbux.com.my^$dnstype=AAAA
 ||sbuxcard.com^$dnstype=AAAA
 ||sc-cdn.net^$dnstype=AAAA
+||sc-gw.com^$dnstype=AAAA
+||sc-static.net^$dnstype=AAAA
 ||sc-toolkit.ac.uk^$dnstype=AAAA
 ||sc.com^$dnstype=AAAA
 ||sc1.ac.uk^$dnstype=AAAA
