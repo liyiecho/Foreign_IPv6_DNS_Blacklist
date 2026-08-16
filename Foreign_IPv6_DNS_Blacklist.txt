@@ -27288,6 +27288,7 @@
 ||rutracker.net^$dnstype=AAAA
 ||rutracker.nl^$dnstype=AAAA
 ||rutracker.org^$dnstype=AAAA
+||rutracker.wiki^$dnstype=AAAA
 ||rutrecker.net^$dnstype=AAAA
 ||rutrk.org^$dnstype=AAAA
 ||rutube.ru^$dnstype=AAAA
