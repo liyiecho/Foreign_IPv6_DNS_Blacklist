@@ -19231,6 +19231,7 @@
 ||livewell.ac.uk^$dnstype=AAAA
 ||livexxx.me^$dnstype=AAAA
 ||livhope.ac.uk^$dnstype=AAAA
+||livingatlas.arcgis.com^$dnstype=AAAA
 ||livingdigital.ac.uk^$dnstype=AAAA
 ||livinglab.ac.uk^$dnstype=AAAA
 ||livinglaboratory.ac.uk^$dnstype=AAAA
