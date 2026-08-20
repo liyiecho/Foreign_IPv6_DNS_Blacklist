@@ -495,6 +495,7 @@
 ||5aimiku.com^$dnstype=AAAA
 ||5axis-machining.com^$dnstype=AAAA
 ||5beatsbydre.com^$dnstype=AAAA
+||5ch.io^$dnstype=AAAA
 ||5ch.net^$dnstype=AAAA
 ||5fang.cc^$dnstype=AAAA
 ||5i01.com^$dnstype=AAAA
@@ -1994,6 +1995,7 @@
 ||amazonvideo.cc^$dnstype=AAAA
 ||amazonvideo.com^$dnstype=AAAA
 ||amazonvideodirect.com^$dnstype=AAAA
+||amazonwebservices.com^$dnstype=AAAA
 ||amazonworkdocs.com^$dnstype=AAAA
 ||ambs.ac.uk^$dnstype=AAAA
 ||amc.com^$dnstype=AAAA
@@ -9734,6 +9736,7 @@
 ||dreamamateurs.com^$dnstype=AAAA
 ||dreambmw.ca^$dnstype=AAAA
 ||dreamforce.com^$dnstype=AAAA
+||dreamgen.com^$dnstype=AAAA
 ||dreammovies.com^$dnstype=AAAA
 ||dreamorder.com^$dnstype=AAAA
 ||dreamteamfc.com^$dnstype=AAAA
@@ -11693,6 +11696,7 @@
 ||fans17.com^$dnstype=AAAA
 ||fans66.tw^$dnstype=AAAA
 ||fansking.tw^$dnstype=AAAA
+||fansly.com^$dnstype=AAAA
 ||fansnudes.com^$dnstype=AAAA
 ||fansone.co^$dnstype=AAAA
 ||fanspot.jp^$dnstype=AAAA
@@ -12684,6 +12688,7 @@
 ||freeman-centre.ac.uk^$dnstype=AAAA
 ||freeman2.com^$dnstype=AAAA
 ||freematuresgallery.com^$dnstype=AAAA
+||freemdict.com^$dnstype=AAAA
 ||freemoren.com^$dnstype=AAAA
 ||freemorenews.com^$dnstype=AAAA
 ||freemuse.org^$dnstype=AAAA
@@ -21492,6 +21497,7 @@
 ||mpettis.com^$dnstype=AAAA
 ||mpfinance.com^$dnstype=AAAA
 ||mpgw-my.com^$dnstype=AAAA
+||mphonline.com^$dnstype=AAAA
 ||mpinews.com^$dnstype=AAAA
 ||mplstudios.com^$dnstype=AAAA
 ||mpnevolution.com^$dnstype=AAAA
@@ -22686,6 +22692,8 @@
 ||nicis.ac.uk^$dnstype=AAAA
 ||nickscipio.com^$dnstype=AAAA
 ||nicky.xxx^$dnstype=AAAA
+||nico.ms^$dnstype=AAAA
+||nicochannel.jp^$dnstype=AAAA
 ||nicodic.jp^$dnstype=AAAA
 ||nicolepeters.com^$dnstype=AAAA
 ||nicomanga.jp^$dnstype=AAAA
@@ -23077,6 +23085,7 @@
 ||notebooklm-pa.googleapis.com^$dnstype=AAAA
 ||notebooklm.google^$dnstype=AAAA
 ||notebooklm.googleapis.com^$dnstype=AAAA
+||notegpt.io^$dnstype=AAAA
 ||notepad-plus-plus.org^$dnstype=AAAA
 ||noticias-rt.com^$dnstype=AAAA
 ||notify.dropboxapi.com^$dnstype=AAAA
@@ -23106,6 +23115,7 @@
 ||nottm-coll.ac.uk^$dnstype=AAAA
 ||nottsmaternity.ac.uk^$dnstype=AAAA
 ||novafile.com^$dnstype=AAAA
+||novelai.net^$dnstype=AAAA
 ||novelasia.com^$dnstype=AAAA
 ||novella.ac.uk^$dnstype=AAAA
 ||noveltrove.com^$dnstype=AAAA
@@ -23711,6 +23721,7 @@
 ||oldham.ac.uk^$dnstype=AAAA
 ||oldhornymilfs.com^$dnstype=AAAA
 ||oldje.com^$dnstype=AAAA
+||oldmapsonline.org^$dnstype=AAAA
 ||oldroyd.ac.uk^$dnstype=AAAA
 ||olds.ac.uk^$dnstype=AAAA
 ||oldvic.ac.uk^$dnstype=AAAA
@@ -30385,6 +30396,7 @@
 ||talantix.ru^$dnstype=AAAA
 ||talentlens.com^$dnstype=AAAA
 ||taleofthenight.com^$dnstype=AAAA
+||talkai.info^$dnstype=AAAA
 ||talkatone.com^$dnstype=AAAA
 ||talkboxapp.com^$dnstype=AAAA
 ||talkcc.com^$dnstype=AAAA
