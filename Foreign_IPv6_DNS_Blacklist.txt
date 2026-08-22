@@ -5586,6 +5586,7 @@
 ||brewmp.com^$dnstype=AAAA
 ||briantreepayments.net^$dnstype=AAAA
 ||briantreepayments.tv^$dnstype=AAAA
+||briarproject.org^$dnstype=AAAA
 ||bricoltech.ac.uk^$dnstype=AAAA
 ||bridgce.ac.uk^$dnstype=AAAA
 ||bridge-studio.co.uk^$dnstype=AAAA
