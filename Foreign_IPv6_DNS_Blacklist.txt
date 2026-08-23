@@ -15218,6 +15218,7 @@
 ||history-maps.com^$dnstype=AAAA
 ||history-uk.ac.uk^$dnstype=AAAA
 ||history.ac.uk^$dnstype=AAAA
+||historylines.net^$dnstype=AAAA
 ||historyofdota.com^$dnstype=AAAA
 ||historyofdota.net^$dnstype=AAAA
 ||historyofdota.org^$dnstype=AAAA
@@ -18467,6 +18468,7 @@
 ||kiwi.jp^$dnstype=AAAA
 ||kiwi.kz^$dnstype=AAAA
 ||kiwibrowser.com^$dnstype=AAAA
+||kiwix.org^$dnstype=AAAA
 ||kiyobank.co.jp^$dnstype=AAAA
 ||kk-whys.co.jp^$dnstype=AAAA
 ||kk.stream^$dnstype=AAAA
@@ -20243,6 +20245,7 @@
 ||mcdonaldsarabia.com^$dnstype=AAAA
 ||mcdonaldsparties.co.nz^$dnstype=AAAA
 ||mcdonaldsparties.com.au^$dnstype=AAAA
+||mceindex.com^$dnstype=AAAA
 ||mcfog.com^$dnstype=AAAA
 ||mcisco.com^$dnstype=AAAA
 ||mcls.ac.uk^$dnstype=AAAA
