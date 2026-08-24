@@ -2314,6 +2314,7 @@
 ||api.palworldgame.com^$dnstype=AAAA
 ||api.pureapk.com^$dnstype=AAAA
 ||api.recaptcha.net^$dnstype=AAAA
+||api.shuaiapi.com^$dnstype=AAAA
 ||api.steampowered.com^$dnstype=AAAA
 ||api.viu.now.com^$dnstype=AAAA
 ||api.waqi.info^$dnstype=AAAA
@@ -28545,6 +28546,7 @@
 ||shrkurl.com^$dnstype=AAAA
 ||shsh201.com^$dnstype=AAAA
 ||shu.ac.uk^$dnstype=AAAA
+||shuaiapi.com^$dnstype=AAAA
 ||shuangmawei.xyz^$dnstype=AAAA
 ||shufflesex.com^$dnstype=AAAA
 ||shuminavi.net^$dnstype=AAAA
@@ -34988,6 +34990,7 @@
 ||x3guide.com^$dnstype=AAAA
 ||x3vid.com^$dnstype=AAAA
 ||x6av.com^$dnstype=AAAA
+||x86.fr^$dnstype=AAAA
 ||x99av.com^$dnstype=AAAA
 ||x9wang.com^$dnstype=AAAA
 ||xacmbq.xyz^$dnstype=AAAA
