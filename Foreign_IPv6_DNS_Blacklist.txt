@@ -15573,7 +15573,6 @@
 ||hp-mns.com^$dnstype=AAAA
 ||hp-printing.com^$dnstype=AAAA
 ||hp-webplatform.com^$dnstype=AAAA
-||hp-ww.com^$dnstype=AAAA
 ||hp.company^$dnstype=AAAA
 ||hp.io^$dnstype=AAAA
 ||hp3d.com^$dnstype=AAAA
