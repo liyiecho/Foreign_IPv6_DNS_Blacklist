@@ -1003,6 +1003,7 @@
 ||adguard.io^$dnstype=AAAA
 ||adguard.org^$dnstype=AAAA
 ||adguardaccount.com^$dnstype=AAAA
+||adguardaccount.net^$dnstype=AAAA
 ||adguardcdn.com^$dnstype=AAAA
 ||adguardvpn.com^$dnstype=AAAA
 ||adhelpnews.com^$dnstype=AAAA
@@ -24143,6 +24144,7 @@
 ||oursteps.com.au^$dnstype=AAAA
 ||oursweb.net^$dnstype=AAAA
 ||ourtv.hk^$dnstype=AAAA
+||ouryahoo.com^$dnstype=AAAA
 ||oustudios.ac.uk^$dnstype=AAAA
 ||out-app-purchase.com^$dnstype=AAAA
 ||outbound.io^$dnstype=AAAA
