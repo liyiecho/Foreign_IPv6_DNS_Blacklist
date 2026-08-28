@@ -693,6 +693,7 @@
 ||9bis.com^$dnstype=AAAA
 ||9bis.net^$dnstype=AAAA
 ||9cache.com^$dnstype=AAAA
+||9cao9.com^$dnstype=AAAA
 ||9ccms.me^$dnstype=AAAA
 ||9cdn.net^$dnstype=AAAA
 ||9gag.com^$dnstype=AAAA
@@ -26735,6 +26736,7 @@
 ||relu.ac.uk^$dnstype=AAAA
 ||rememberingslavery.ac.uk^$dnstype=AAAA
 ||remirepo.net^$dnstype=AAAA
+||remna.st^$dnstype=AAAA
 ||rems-cdt.ac.uk^$dnstype=AAAA
 ||renaissanceskin.ac.uk^$dnstype=AAAA
 ||rencapbank.ru^$dnstype=AAAA
@@ -31438,6 +31440,7 @@
 ||toperoticartsites.com^$dnstype=AAAA
 ||topescort.nl^$dnstype=AAAA
 ||topescortbabes.com^$dnstype=AAAA
+||topexhib.net^$dnstype=AAAA
 ||topface.com^$dnstype=AAAA
 ||topfantasyart.com^$dnstype=AAAA
 ||topfreepornvideos.com^$dnstype=AAAA
@@ -34732,6 +34735,7 @@
 ||wretch.cc^$dnstype=AAAA
 ||wrexham.ac.uk^$dnstype=AAAA
 ||wripa.ac.uk^$dnstype=AAAA
+||write.as^$dnstype=AAAA
 ||writenow.ac.uk^$dnstype=AAAA
 ||writesonic.com^$dnstype=AAAA
 ||writing-pad.ac.uk^$dnstype=AAAA
