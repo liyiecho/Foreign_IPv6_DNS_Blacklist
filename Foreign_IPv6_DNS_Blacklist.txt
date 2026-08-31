@@ -13368,6 +13368,7 @@
 ||getliner.com^$dnstype=AAAA
 ||getmalus.com^$dnstype=AAAA
 ||getmdl.io^$dnstype=AAAA
+||getmonero.org^$dnstype=AAAA
 ||getnews.jp^$dnstype=AAAA
 ||getoutline.org^$dnstype=AAAA
 ||getpaint.net^$dnstype=AAAA
