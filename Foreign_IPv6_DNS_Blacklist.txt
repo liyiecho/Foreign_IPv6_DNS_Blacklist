@@ -4672,6 +4672,7 @@
 ||blackburn.ac.uk^$dnstype=AAAA
 ||blackcountryandmarchesiot.ac.uk^$dnstype=AAAA
 ||blacked.com^$dnstype=AAAA
+||blackedraw.com^$dnstype=AAAA
 ||blackfridaydrebeatsnew.com^$dnstype=AAAA
 ||blackfridaydrebeatsshop.com^$dnstype=AAAA
 ||blackhomeporn.com^$dnstype=AAAA
@@ -13119,6 +13120,8 @@
 ||gate.cc^$dnstype=AAAA
 ||gate.com^$dnstype=AAAA
 ||gate.io^$dnstype=AAAA
+||gate.tv^$dnstype=AAAA
+||gateapi.io^$dnstype=AAAA
 ||gatecoin.com^$dnstype=AAAA
 ||gatedata.org^$dnstype=AAAA
 ||gateimg.com^$dnstype=AAAA
@@ -20706,6 +20709,7 @@
 ||milftube.pro^$dnstype=AAAA
 ||milftugs.com^$dnstype=AAAA
 ||milfvr.com^$dnstype=AAAA
+||milfy.com^$dnstype=AAAA
 ||milfzr.com^$dnstype=AAAA
 ||miliav.com^$dnstype=AAAA
 ||milkmanbook.com^$dnstype=AAAA
@@ -28805,6 +28809,7 @@
 ||slashine.onl^$dnstype=AAAA
 ||slavbank.ru^$dnstype=AAAA
 ||slavicstar.com^$dnstype=AAAA
+||slayed.com^$dnstype=AAAA
 ||slaytizle.com^$dnstype=AAAA
 ||slc.ac.uk^$dnstype=AAAA
 ||slc.tl^$dnstype=AAAA
@@ -31881,6 +31886,7 @@
 ||tusco.ru^$dnstype=AAAA
 ||tushy.com^$dnstype=AAAA
 ||tushycash.com^$dnstype=AAAA
+||tushyraw.com^$dnstype=AAAA
 ||tuta.com^$dnstype=AAAA
 ||tuta.io^$dnstype=AAAA
 ||tutamail.com^$dnstype=AAAA
@@ -33380,6 +33386,7 @@
 ||vivaxnxx.com^$dnstype=AAAA
 ||vivthomas.com^$dnstype=AAAA
 ||vixen.com^$dnstype=AAAA
+||vixengroup.com^$dnstype=AAAA
 ||vixvids.to^$dnstype=AAAA
 ||viznet.ac.uk^$dnstype=AAAA
 ||vizvaz.com^$dnstype=AAAA
