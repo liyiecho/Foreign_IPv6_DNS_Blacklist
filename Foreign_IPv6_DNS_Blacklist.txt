@@ -18465,7 +18465,6 @@
 ||kiro.dev^$dnstype=AAAA
 ||kisharon.ac.uk^$dnstype=AAAA
 ||kismia.com^$dnstype=AAAA
-||kissbbao.cn^$dnstype=AAAA
 ||kisscos.net^$dnstype=AAAA
 ||kissjav.com^$dnstype=AAAA
 ||kissjav.li^$dnstype=AAAA
@@ -18587,6 +18586,7 @@
 ||ksdl.org^$dnstype=AAAA
 ||ksep.ac.uk^$dnstype=AAAA
 ||ksescortclub.com^$dnstype=AAAA
+||ksml.edu.tw^$dnstype=AAAA
 ||ksnews.com.tw^$dnstype=AAAA
 ||kspcoin.com^$dnstype=AAAA
 ||kssacademy.ac.uk^$dnstype=AAAA
@@ -23094,6 +23094,7 @@
 ||notary-submissions-prod.s3-accelerate.amazonaws.com^$dnstype=AAAA
 ||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
 ||note.com^$dnstype=AAAA
+||note.ms^$dnstype=AAAA
 ||notebooklm-pa.googleapis.com^$dnstype=AAAA
 ||notebooklm.google^$dnstype=AAAA
 ||notebooklm.googleapis.com^$dnstype=AAAA
