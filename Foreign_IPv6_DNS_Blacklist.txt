@@ -41,6 +41,8 @@
 ||119474.xyz^$dnstype=AAAA
 ||11jav.com^$dnstype=AAAA
 ||123-hp.com^$dnstype=AAAA
+||123av.com^$dnstype=AAAA
+||123av.me^$dnstype=AAAA
 ||123bin.cc^$dnstype=AAAA
 ||123dapp.com^$dnstype=AAAA
 ||123dappipad.com^$dnstype=AAAA
@@ -27069,6 +27071,7 @@
 ||roughebonysex.com^$dnstype=AAAA
 ||roughman.net^$dnstype=AAAA
 ||roundtable.ac.uk^$dnstype=AAAA
+||roushuwo.com^$dnstype=AAAA
 ||routerboard.com^$dnstype=AAAA
 ||routesintolanguages.ac.uk^$dnstype=AAAA
 ||routledgehandbooks.com^$dnstype=AAAA
@@ -34773,6 +34776,7 @@
 ||wspcr.ac.uk^$dnstype=AAAA
 ||wtbn.org^$dnstype=AAAA
 ||wtc.ac.uk^$dnstype=AAAA
+||wtfpass.com^$dnstype=AAAA
 ||wtfpeople.com^$dnstype=AAAA
 ||wtmobile.com^$dnstype=AAAA
 ||wto.org^$dnstype=AAAA
