@@ -18739,6 +18739,7 @@
 ||lasersawapp.com^$dnstype=AAAA
 ||last.fm^$dnstype=AAAA
 ||lastcombat.com^$dnstype=AAAA
+||lastfm-img.freetls.fastly.net^$dnstype=AAAA
 ||lastfm.es^$dnstype=AAAA
 ||lastfm.freetls.fastly.net^$dnstype=AAAA
 ||lastpass.com^$dnstype=AAAA
