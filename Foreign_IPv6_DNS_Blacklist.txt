@@ -23021,6 +23021,7 @@
 ||nodereal.io^$dnstype=AAAA
 ||nodes.ac.uk^$dnstype=AAAA
 ||nodeseek.com^$dnstype=AAAA
+||nodeseek.org^$dnstype=AAAA
 ||nodesnoop.com^$dnstype=AAAA
 ||nodesource.com^$dnstype=AAAA
 ||nodle.com^$dnstype=AAAA
