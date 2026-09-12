@@ -2302,15 +2302,12 @@
 ||aphe.ac.uk^$dnstype=AAAA
 ||api-drive.mypikpak.com^$dnstype=AAAA
 ||api-extractor.com^$dnstype=AAAA
-||api-gl.lbkrs.com^$dnstype=AAAA
 ||api-p.videomarket.jp^$dnstype=AAAA
 ||api-secure.recaptcha.net^$dnstype=AAAA
 ||api-verify.recaptcha.net^$dnstype=AAAA
 ||api.ai^$dnstype=AAAA
 ||api.dropboxapi.com^$dnstype=AAAA
-||api.futunn.com^$dnstype=AAAA
 ||api.ipify.org^$dnstype=AAAA
-||api.lbkrs.com^$dnstype=AAAA
 ||api.mixpanel.com^$dnstype=AAAA
 ||api.moomoobull.com^$dnstype=AAAA
 ||api.nebula-emby.com^$dnstype=AAAA
@@ -2322,7 +2319,6 @@
 ||api.steampowered.com^$dnstype=AAAA
 ||api.viu.now.com^$dnstype=AAAA
 ||api.waqi.info^$dnstype=AAAA
-||api5.futunn.com^$dnstype=AAAA
 ||apiary.io^$dnstype=AAAA
 ||apiauto.ru^$dnstype=AAAA
 ||apibay.org^$dnstype=AAAA
@@ -6590,7 +6586,6 @@
 ||cdn-vk.ru^$dnstype=AAAA
 ||cdn.ac.uk^$dnstype=AAAA
 ||cdn.arstechnica.net^$dnstype=AAAA
-||cdn.futustatic.com^$dnstype=AAAA
 ||cdn.js7k.com^$dnstype=AAAA
 ||cdn.jsdelivr.net^$dnstype=AAAA
 ||cdn.jwplayer.com^$dnstype=AAAA
@@ -7475,7 +7470,6 @@
 ||cn.sandscotaicentral.com^$dnstype=AAAA
 ||cn.shafaqna.com^$dnstype=AAAA
 ||cn.theaustralian.com.au^$dnstype=AAAA
-||cn.uptodown.com^$dnstype=AAAA
 ||cn6.eu^$dnstype=AAAA
 ||cna.com.tw^$dnstype=AAAA
 ||cnbbnews.wordpress.com^$dnstype=AAAA
@@ -9690,7 +9684,6 @@
 ||download.com^$dnstype=AAAA
 ||download.dappcdn.com^$dnstype=AAAA
 ||download.fastgit.org^$dnstype=AAAA
-||download.futunn.com^$dnstype=AAAA
 ||download.qatp1.net^$dnstype=AAAA
 ||download.qcpp1.net^$dnstype=AAAA
 ||download.qpdp1.net^$dnstype=AAAA
@@ -19641,7 +19634,6 @@
 ||m-power.com^$dnstype=AAAA
 ||m-rhex.ac.uk^$dnstype=AAAA
 ||m-sport.co.uk^$dnstype=AAAA
-||m.hkgalden.com^$dnstype=AAAA
 ||m.me^$dnstype=AAAA
 ||m.moegirl.org^$dnstype=AAAA
 ||m1.ppy.sh^$dnstype=AAAA
@@ -23927,12 +23919,8 @@
 ||openallweb.com^$dnstype=AAAA
 ||openamt.com^$dnstype=AAAA
 ||openapi-quote.longbridge.cn^$dnstype=AAAA
-||openapi-quote.longbridge.com^$dnstype=AAAA
 ||openapi-trade.longbridge.cn^$dnstype=AAAA
-||openapi-trade.longbridge.com^$dnstype=AAAA
-||openapi.futunn.com^$dnstype=AAAA
 ||openapi.longbridge.cn^$dnstype=AAAA
-||openapi.longbridge.com^$dnstype=AAAA
 ||openapiplatform.com^$dnstype=AAAA
 ||openapiservice.com^$dnstype=AAAA
 ||openart.ai^$dnstype=AAAA
@@ -26180,13 +26168,12 @@
 ||qstatus.com^$dnstype=AAAA
 ||qt-project.org^$dnstype=AAAA
 ||qt.io^$dnstype=AAAA
-||qtcard.futunn.com^$dnstype=AAAA
-||qtcardfthk.futufin.com^$dnstype=AAAA
 ||qtrac.eu^$dnstype=AAAA
 ||qtweeter.com^$dnstype=AAAA
 ||quadram.ac.uk^$dnstype=AAAA
 ||quadraminstitute.ac.uk^$dnstype=AAAA
 ||quadrat.ac.uk^$dnstype=AAAA
+||quakemachinex.com^$dnstype=AAAA
 ||qualcomm-email.com^$dnstype=AAAA
 ||qualcomm-inc.com^$dnstype=AAAA
 ||qualcomm.co.id^$dnstype=AAAA
@@ -30091,7 +30078,6 @@
 ||supply-chain.ac.uk^$dnstype=AAAA
 ||supplybestjerseys.com^$dnstype=AAAA
 ||support-uber.com^$dnstype=AAAA
-||support.futunn.com^$dnstype=AAAA
 ||supportfacebook.com^$dnstype=AAAA
 ||supr.cl^$dnstype=AAAA
 ||supremacy.com^$dnstype=AAAA
@@ -31558,8 +31544,6 @@
 ||tracker.gg^$dnstype=AAAA
 ||tracker.network^$dnstype=AAAA
 ||tracking-location.com^$dnstype=AAAA
-||trade.futunn.com^$dnstype=AAAA
-||trade.longportapp.com^$dnstype=AAAA
 ||tradeup.com^$dnstype=AAAA
 ||tradevip1.com^$dnstype=AAAA
 ||tradingview.com^$dnstype=AAAA
