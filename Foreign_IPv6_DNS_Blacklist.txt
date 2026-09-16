@@ -24256,6 +24256,7 @@
 ||ozyoyo.com^$dnstype=AAAA
 ||p-cdn.us^$dnstype=AAAA
 ||p-events-delivery.akamaized.net^$dnstype=AAAA
+||p16-tiktok-dm-sticker-sign-sg.ibyteimg.com^$dnstype=AAAA
 ||p16-tiktokcdn-com.akamaized.net^$dnstype=AAAA
 ||pa9pal.com^$dnstype=AAAA
 ||paaypal.com^$dnstype=AAAA
@@ -29915,6 +29916,9 @@
 ||stripe-terminal-local-reader.net^$dnstype=AAAA
 ||stripe.ac.uk^$dnstype=AAAA
 ||stripe.com^$dnstype=AAAA
+||stripe.dev^$dnstype=AAAA
+||stripe.events^$dnstype=AAAA
+||stripe.global^$dnstype=AAAA
 ||stripe.network^$dnstype=AAAA
 ||stripecdn.com^$dnstype=AAAA
 ||stripparadise.com^$dnstype=AAAA
