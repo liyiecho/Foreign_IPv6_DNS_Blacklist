@@ -7573,6 +7573,7 @@
 ||code1984.com^$dnstype=AAAA
 ||codeberg.org^$dnstype=AAAA
 ||codeberg.page^$dnstype=AAAA
+||codebuff.com^$dnstype=AAAA
 ||codecademy.com^$dnstype=AAAA
 ||codeforaliving.io^$dnstype=AAAA
 ||codeforces.com^$dnstype=AAAA
@@ -12118,11 +12119,13 @@
 ||fire-emblem-heroes.com^$dnstype=AAAA
 ||firearmsworld.net^$dnstype=AAAA
 ||firebase.com^$dnstype=AAAA
-||firebase.google.com^$dnstype=AAAA
+||firebase.dev^$dnstype=AAAA
 ||firebase.googleapis.com^$dnstype=AAAA
 ||firebase.io^$dnstype=AAAA
 ||firebaseapp.com^$dnstype=AAAA
 ||firebaseappcheck.googleapis.com^$dnstype=AAAA
+||firebaseappdistribution.googleapis.com^$dnstype=AAAA
+||firebaseapptesters.googleapis.com^$dnstype=AAAA
 ||firebasedynamiclinks-ipv4.googleapis.com^$dnstype=AAAA
 ||firebasedynamiclinks-ipv6.googleapis.com^$dnstype=AAAA
 ||firebasedynamiclinks.googleapis.com^$dnstype=AAAA
@@ -12136,6 +12139,7 @@
 ||firech.at^$dnstype=AAAA
 ||fireemblemawakening.com^$dnstype=AAAA
 ||fireflyresearch.ac.uk^$dnstype=AAAA
+||firefox-portal-detection.com^$dnstype=AAAA
 ||firefox.com^$dnstype=AAAA
 ||firefox.hu^$dnstype=AAAA
 ||firefoxtweetmachine.com^$dnstype=AAAA
@@ -12632,6 +12636,7 @@
 ||freebrowser.org^$dnstype=AAAA
 ||freebs.com^$dnstype=AAAA
 ||freebsd.org^$dnstype=AAAA
+||freebuff.com^$dnstype=AAAA
 ||freecamsfan.com^$dnstype=AAAA
 ||freecamstars.com^$dnstype=AAAA
 ||freecartoons.biz^$dnstype=AAAA
@@ -30749,6 +30754,7 @@
 ||textnow.me^$dnstype=AAAA
 ||texttobuy.org^$dnstype=AAAA
 ||texture.com^$dnstype=AAAA
+||tfbnw.net^$dnstype=AAAA
 ||tfc-taiwan.org.tw^$dnstype=AAAA
 ||tferwq.com^$dnstype=AAAA
 ||tfhub.dev^$dnstype=AAAA
