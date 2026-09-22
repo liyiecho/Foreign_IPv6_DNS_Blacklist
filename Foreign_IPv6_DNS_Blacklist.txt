@@ -7029,6 +7029,7 @@
 ||chinesen.de^$dnstype=AAAA
 ||chinesenews.net.au^$dnstype=AAAA
 ||chinesepen.org^$dnstype=AAAA
+||chineseposters.net^$dnstype=AAAA
 ||chineseradioseattle.com^$dnstype=AAAA
 ||chinesespanking.com^$dnstype=AAAA
 ||chinesetalks.net^$dnstype=AAAA
