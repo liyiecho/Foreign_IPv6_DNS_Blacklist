@@ -6989,6 +6989,7 @@
 ||chinalawtranslate.com^$dnstype=AAAA
 ||chinamz.org^$dnstype=AAAA
 ||chinanewscenter.com^$dnstype=AAAA
+||chinanewsx.com^$dnstype=AAAA
 ||chinapost.com.tw^$dnstype=AAAA
 ||chinapower.csis.org^$dnstype=AAAA
 ||chinapress.com.my^$dnstype=AAAA
@@ -12180,7 +12181,6 @@
 ||firstfivefollowers.com^$dnstype=AAAA
 ||firstgynexam.com^$dnstype=AAAA
 ||firstns.cc^$dnstype=AAAA
-||firstory.io^$dnstype=AAAA
 ||firstory.me^$dnstype=AAAA
 ||firstpelvicexam.com^$dnstype=AAAA
 ||firstpost.com^$dnstype=AAAA
@@ -17147,6 +17147,7 @@
 ||ipadair.tw^$dnstype=AAAA
 ||ipadaustralia.com^$dnstype=AAAA
 ||ipaddress.com^$dnstype=AAAA
+||ipaddress.my^$dnstype=AAAA
 ||ipadmini.cm^$dnstype=AAAA
 ||ipadmini.com.lk^$dnstype=AAAA
 ||ipadmini.lk^$dnstype=AAAA
@@ -21700,7 +21701,6 @@
 ||muyzorras.com^$dnstype=AAAA
 ||muzi.com^$dnstype=AAAA
 ||muzi.net^$dnstype=AAAA
-||muzmi.org^$dnstype=AAAA
 ||muzu.tv^$dnstype=AAAA
 ||mvdis.gov.tw^$dnstype=AAAA
 ||mvg.jp^$dnstype=AAAA
@@ -23049,6 +23049,7 @@
 ||nordstrommedia.com^$dnstype=AAAA
 ||nordstromrack.com^$dnstype=AAAA
 ||nordvpn.com^$dnstype=AAAA
+||nordwangluo.com^$dnstype=AAAA
 ||norfolkcove.ac.uk^$dnstype=AAAA
 ||norland.ac.uk^$dnstype=AAAA
 ||normanmanagedservices.ac.uk^$dnstype=AAAA
@@ -26020,6 +26021,7 @@
 ||puresexmovies.com^$dnstype=AAAA
 ||puretaboo.com^$dnstype=AAAA
 ||purevpn.com^$dnstype=AAAA
+||purevpn.com.tw^$dnstype=AAAA
 ||purextc.com^$dnstype=AAAA
 ||puripuriunkomura.com^$dnstype=AAAA
 ||purplelotus.org^$dnstype=AAAA
@@ -32865,6 +32867,7 @@
 ||vaultify.info^$dnstype=AAAA
 ||vaultify.net^$dnstype=AAAA
 ||vaultproject.io^$dnstype=AAAA
+||vava8.com^$dnstype=AAAA
 ||vbcdn.com^$dnstype=AAAA
 ||vbcdn.net^$dnstype=AAAA
 ||vbejeyv.shop^$dnstype=AAAA
@@ -34946,6 +34949,7 @@
 ||www.xicons.org^$dnstype=AAAA
 ||www.zensur.freerk.com^$dnstype=AAAA
 ||www1.biz^$dnstype=AAAA
+||www3.nhk.or.jp^$dnstype=AAAA
 ||www8-hp.com^$dnstype=AAAA
 ||wwwapple.com^$dnstype=AAAA
 ||wwwapple.net^$dnstype=AAAA
