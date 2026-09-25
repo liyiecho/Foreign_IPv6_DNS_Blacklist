@@ -19074,7 +19074,6 @@
 ||likee.com^$dnstype=AAAA
 ||likeeapp.ru^$dnstype=AAAA
 ||likeevideo.com^$dnstype=AAAA
-||likeevideo.ru^$dnstype=AAAA
 ||likeseiyu.com^$dnstype=AAAA
 ||liketruyen.net^$dnstype=AAAA
 ||liketwice.com^$dnstype=AAAA
@@ -19157,6 +19156,7 @@
 ||linux.do^$dnstype=AAAA
 ||linux.org^$dnstype=AAAA
 ||linux.org.hk^$dnstype=AAAA
+||linux.sb^$dnstype=AAAA
 ||linuxfoundation.org^$dnstype=AAAA
 ||linuxfromscratch.org^$dnstype=AAAA
 ||linuxmint.com^$dnstype=AAAA
