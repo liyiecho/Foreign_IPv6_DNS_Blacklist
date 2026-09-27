@@ -19930,6 +19930,7 @@
 ||mappingtheunderworld.ac.uk^$dnstype=AAAA
 ||mappingwales.ac.uk^$dnstype=AAAA
 ||mappingwelshmarches.ac.uk^$dnstype=AAAA
+||mapy.com^$dnstype=AAAA
 ||marble.ac.uk^$dnstype=AAAA
 ||marc.info^$dnstype=AAAA
 ||marchmont.ac.uk^$dnstype=AAAA
