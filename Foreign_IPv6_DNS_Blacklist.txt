@@ -5349,6 +5349,7 @@
 ||bodc.ac.uk^$dnstype=AAAA
 ||bodgirls.com^$dnstype=AAAA
 ||bodog88.com^$dnstype=AAAA
+||bodu365.co^$dnstype=AAAA
 ||bodyandsoul.com.au^$dnstype=AAAA
 ||bodyfluids-jav.com^$dnstype=AAAA
 ||bognor-training.ac.uk^$dnstype=AAAA
@@ -8084,6 +8085,7 @@
 ||creativepass.com^$dnstype=AAAA
 ||creativesdk.com^$dnstype=AAAA
 ||creativity-cetl.ac.uk^$dnstype=AAAA
+||creators.google^$dnstype=AAAA
 ||creatwhatsnext.com^$dnstype=AAAA
 ||crececonebay.com^$dnstype=AAAA
 ||credit-zenit.ru^$dnstype=AAAA
@@ -23099,6 +23101,7 @@
 ||notary-submissions-prod.s3.us-west-2.amazonaws.com^$dnstype=AAAA
 ||note.com^$dnstype=AAAA
 ||note.ms^$dnstype=AAAA
+||notebook.google^$dnstype=AAAA
 ||notebooklm-pa.googleapis.com^$dnstype=AAAA
 ||notebooklm.google^$dnstype=AAAA
 ||notebooklm.googleapis.com^$dnstype=AAAA
@@ -27652,6 +27655,7 @@
 ||sccc.ac.uk^$dnstype=AAAA
 ||sccjr.ac.uk^$dnstype=AAAA
 ||scct.ac.uk^$dnstype=AAAA
+||scdaily.com^$dnstype=AAAA
 ||scde.ac.uk^$dnstype=AAAA
 ||scdn.co^$dnstype=AAAA
 ||scene7.com^$dnstype=AAAA
