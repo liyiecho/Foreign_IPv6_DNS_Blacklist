@@ -7485,7 +7485,6 @@
 ||cnet.com^$dnstype=AAAA
 ||cnet.de^$dnstype=AAAA
 ||cnetfrance.fr^$dnstype=AAAA
-||cnex.org.cn^$dnstype=AAAA
 ||cnineu.com^$dnstype=AAAA
 ||cnivogue.com.au^$dnstype=AAAA
 ||cnix-gov-cn.com^$dnstype=AAAA
@@ -13284,6 +13283,8 @@
 ||gemfury.com^$dnstype=AAAA
 ||gemini.com^$dnstype=AAAA
 ||gemini.google^$dnstype=AAAA
+||geminiweb-pa.clients.google.com^$dnstype=AAAA
+||geminiweb-pa.clients6.google.com^$dnstype=AAAA
 ||gen.lib.rus.ec^$dnstype=AAAA
 ||gen.tr^$dnstype=AAAA
 ||gen2.ac.uk^$dnstype=AAAA
@@ -15842,6 +15843,7 @@
 ||huarenav.com^$dnstype=AAAA
 ||huarenjie.com^$dnstype=AAAA
 ||huarenporn.com^$dnstype=AAAA
+||huarun.win^$dnstype=AAAA
 ||huashangnews.com^$dnstype=AAAA
 ||huashundg.com^$dnstype=AAAA
 ||huasing.org^$dnstype=AAAA
@@ -20455,6 +20457,7 @@
 ||met-nude.com^$dnstype=AAAA
 ||meta.ai^$dnstype=AAAA
 ||meta.com^$dnstype=AAAA
+||metaaivm.com^$dnstype=AAAA
 ||metabolomics.ac.uk^$dnstype=AAAA
 ||metabora.io^$dnstype=AAAA
 ||metabrainz.org^$dnstype=AAAA
@@ -21677,6 +21680,7 @@
 ||muscache.com^$dnstype=AAAA
 ||muscdn.com^$dnstype=AAAA
 ||musclegirlflix.com^$dnstype=AAAA
+||muse.ai^$dnstype=AAAA
 ||muse.jhu.edu^$dnstype=AAAA
 ||museumofwriting.ac.uk^$dnstype=AAAA
 ||museumwales.ac.uk^$dnstype=AAAA
@@ -23939,6 +23943,7 @@
 ||openbook.org.tw^$dnstype=AAAA
 ||opencas.io^$dnstype=AAAA
 ||openclaw.ai^$dnstype=AAAA
+||opencode.ai^$dnstype=AAAA
 ||opencollective.com^$dnstype=AAAA
 ||opencreate.org^$dnstype=AAAA
 ||opencritic.com^$dnstype=AAAA
@@ -24039,7 +24044,6 @@
 ||oreillystatic.com^$dnstype=AAAA
 ||oreno3d.com^$dnstype=AAAA
 ||org.au^$dnstype=AAAA
-||org.cn^$dnstype=AAAA
 ||org.hk^$dnstype=AAAA
 ||org.il^$dnstype=AAAA
 ||org.mx^$dnstype=AAAA
