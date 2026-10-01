@@ -12978,6 +12978,7 @@
 ||fux.com^$dnstype=AAAA
 ||fuxporn.com^$dnstype=AAAA
 ||fuyin.net^$dnstype=AAAA
+||fuyin116.com^$dnstype=AAAA
 ||fuyindiantai.org^$dnstype=AAAA
 ||fuyu.org.tw^$dnstype=AAAA
 ||fuzokudx.com^$dnstype=AAAA
