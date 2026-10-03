@@ -7284,6 +7284,7 @@
 ||clau.de^$dnstype=AAAA
 ||claude.ai^$dnstype=AAAA
 ||claude.com^$dnstype=AAAA
+||claude.dev^$dnstype=AAAA
 ||claudemcpclient.com^$dnstype=AAAA
 ||claudemcpcontent.com^$dnstype=AAAA
 ||claudeusercontent.com^$dnstype=AAAA
@@ -28663,6 +28664,7 @@
 ||sinchew.my^$dnstype=AAAA
 ||sinet.ac.uk^$dnstype=AAAA
 ||sing-box.app^$dnstype=AAAA
+||sing-box.sagernet.org^$dnstype=AAAA
 ||sing4.lat^$dnstype=AAAA
 ||sing68.com^$dnstype=AAAA
 ||singaporepools.com.sg^$dnstype=AAAA
