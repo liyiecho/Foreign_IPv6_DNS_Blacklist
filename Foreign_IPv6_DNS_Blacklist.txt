@@ -34423,6 +34423,7 @@
 ||wikidata.org^$dnstype=AAAA
 ||wikidot.com^$dnstype=AAAA
 ||wikifeet.com^$dnstype=AAAA
+||wikifunctions.org^$dnstype=AAAA
 ||wikihow.com^$dnstype=AAAA
 ||wikileaks-forum.com^$dnstype=AAAA
 ||wikileaks.ch^$dnstype=AAAA
@@ -34448,6 +34449,7 @@
 ||wikis.tw^$dnstype=AAAA
 ||wikisexguide.com^$dnstype=AAAA
 ||wikisource.org^$dnstype=AAAA
+||wikispecies.org^$dnstype=AAAA
 ||wikiunblocked.org^$dnstype=AAAA
 ||wikiversity.org^$dnstype=AAAA
 ||wikivoyage.org^$dnstype=AAAA
