@@ -14141,6 +14141,7 @@
 ||googlepages.com^$dnstype=AAAA
 ||googlephotos.com^$dnstype=AAAA
 ||googleplay.com^$dnstype=AAAA
+||googleplaycensorship.com^$dnstype=AAAA
 ||googleplex.com^$dnstype=AAAA
 ||googleplus.com^$dnstype=AAAA
 ||googlers.com^$dnstype=AAAA
