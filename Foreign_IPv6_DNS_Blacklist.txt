@@ -1370,6 +1370,7 @@
 ||aib.ac.uk^$dnstype=AAAA
 ||aibaobei.me^$dnstype=AAAA
 ||aicoin.com^$dnstype=AAAA
+||aidc.com.tw^$dnstype=AAAA
 ||aihub.top^$dnstype=AAAA
 ||aim25.ac.uk^$dnstype=AAAA
 ||aimei133.com^$dnstype=AAAA
@@ -4888,6 +4889,7 @@
 ||blpprofessional.com^$dnstype=AAAA
 ||blubank.com^$dnstype=AAAA
 ||blubrry.com^$dnstype=AAAA
+||blue-plus.net^$dnstype=AAAA
 ||blueangellive.com^$dnstype=AAAA
 ||bluearchive.jp^$dnstype=AAAA
 ||bluefootcms.com^$dnstype=AAAA
@@ -6209,6 +6211,7 @@
 ||candycrush.com^$dnstype=AAAA
 ||candycumcity.com^$dnstype=AAAA
 ||candypleasure.com^$dnstype=AAAA
+||cangku.moe^$dnstype=AAAA
 ||cannington.ac.uk^$dnstype=AAAA
 ||cannock.ac.uk^$dnstype=AAAA
 ||canny.io^$dnstype=AAAA
@@ -8018,6 +8021,7 @@
 ||cp44.net^$dnstype=AAAA
 ||cpan.org^$dnstype=AAAA
 ||cpc.ac.uk^$dnstype=AAAA
+||cpc.com.tw^$dnstype=AAAA
 ||cpd25.ac.uk^$dnstype=AAAA
 ||cpd4phd.ac.uk^$dnstype=AAAA
 ||cpdnoticeboard.ac.uk^$dnstype=AAAA
@@ -8176,6 +8180,7 @@
 ||cs4hs.com^$dnstype=AAAA
 ||csakporno.hu^$dnstype=AAAA
 ||csc.ac.uk^$dnstype=AAAA
+||csc.com.tw^$dnstype=AAAA
 ||cscd.ac.uk^$dnstype=AAAA
 ||csct.ac.uk^$dnstype=AAAA
 ||cscuk.ac.uk^$dnstype=AAAA
@@ -9096,6 +9101,7 @@
 ||dgg.gg^$dnstype=AAAA
 ||dghe.ac.uk^$dnstype=AAAA
 ||dgwav.com^$dnstype=AAAA
+||dh.net^$dnstype=AAAA
 ||dh44.lol^$dnstype=AAAA
 ||dharamsalanet.com^$dnstype=AAAA
 ||dharmakara.net^$dnstype=AAAA
@@ -11237,6 +11243,7 @@
 ||exgfvideos.xxx^$dnstype=AAAA
 ||exgirlfriendmarket.com^$dnstype=AAAA
 ||exhentai.org^$dnstype=AAAA
+||eximbank.com.tw^$dnstype=AAAA
 ||exiporn.com^$dnstype=AAAA
 ||exmo.com^$dnstype=AAAA
 ||exmormon.org^$dnstype=AAAA
@@ -16126,6 +16133,7 @@
 ||icca.ac.uk^$dnstype=AAAA
 ||iccf.com^$dnstype=AAAA
 ||iccliverpool.ac.uk^$dnstype=AAAA
+||icdf.org.tw^$dnstype=AAAA
 ||ice-cse.ac.uk^$dnstype=AAAA
 ||iced.ac.uk^$dnstype=AAAA
 ||icedrive.net^$dnstype=AAAA
@@ -17138,6 +17146,7 @@
 ||ip.sb^$dnstype=AAAA
 ||ip73.com^$dnstype=AAAA
 ||ipa-iphone.net^$dnstype=AAAA
+||ipac.global^$dnstype=AAAA
 ||ipad.co.kr^$dnstype=AAAA
 ||ipad.de^$dnstype=AAAA
 ||ipad.host^$dnstype=AAAA
@@ -18358,6 +18367,7 @@
 ||khanacademy.org^$dnstype=AAAA
 ||khangar.net^$dnstype=AAAA
 ||khatrimaza.org^$dnstype=AAAA
+||khc.edu.tw^$dnstype=AAAA
 ||khmusic.com.tw^$dnstype=AAAA
 ||khotruyentranhx.com^$dnstype=AAAA
 ||kiad.ac.uk^$dnstype=AAAA
@@ -20139,6 +20149,7 @@
 ||mathstore.ac.uk^$dnstype=AAAA
 ||mathsvideoclubs.ac.uk^$dnstype=AAAA
 ||mathtutor.ac.uk^$dnstype=AAAA
+||matichon.co.th^$dnstype=AAAA
 ||matome-plus.com^$dnstype=AAAA
 ||matome-plus.net^$dnstype=AAAA
 ||matrix.ac.uk^$dnstype=AAAA
@@ -21044,6 +21055,7 @@
 ||mirailab.tech^$dnstype=AAAA
 ||mirandaicq.com^$dnstype=AAAA
 ||mirandanet.ac.uk^$dnstype=AAAA
+||mirdc.org.tw^$dnstype=AAAA
 ||miro.com^$dnstype=AAAA
 ||miroguide.com^$dnstype=AAAA
 ||mirror.ac.uk^$dnstype=AAAA
@@ -21212,6 +21224,7 @@
 ||moeerolibrary.com^$dnstype=AAAA
 ||moefuns.co^$dnstype=AAAA
 ||moeimg.net^$dnstype=AAAA
+||moeli-desu.com^$dnstype=AAAA
 ||moemax.net^$dnstype=AAAA
 ||moepedia.net^$dnstype=AAAA
 ||moeshare.cc^$dnstype=AAAA
@@ -22120,6 +22133,7 @@
 ||nationalskillsacademy.ac.uk^$dnstype=AAAA
 ||nationaltechnicianscentre.ac.uk^$dnstype=AAAA
 ||nationsonline.org^$dnstype=AAAA
+||nationthailand.com^$dnstype=AAAA
 ||nationwide.com^$dnstype=AAAA
 ||nativeincolour.com.au^$dnstype=AAAA
 ||natmatsci.ac.uk^$dnstype=AAAA
@@ -23232,6 +23246,7 @@
 ||nss.ac.uk^$dnstype=AAAA
 ||nsstatic.net^$dnstype=AAAA
 ||nssurge.com^$dnstype=AAAA
+||nstc.org.tw^$dnstype=AAAA
 ||nsu.ac.uk^$dnstype=AAAA
 ||nsw.ac.uk^$dnstype=AAAA
 ||ntb.ac.uk^$dnstype=AAAA
@@ -25214,6 +25229,7 @@
 ||pokerstars.net^$dnstype=AAAA
 ||pokerstrategy.com^$dnstype=AAAA
 ||pol.ac.uk^$dnstype=AAAA
+||poland.tw^$dnstype=AAAA
 ||political-science.ac.uk^$dnstype=AAAA
 ||politicalchina.org^$dnstype=AAAA
 ||politicalconsultation.org^$dnstype=AAAA
@@ -27020,6 +27036,7 @@
 ||rockstargames.com^$dnstype=AAAA
 ||rockstarnorth.com^$dnstype=AAAA
 ||rockylinux.org^$dnstype=AAAA
+||rocmgov.org^$dnstype=AAAA
 ||roco.qq.com^$dnstype=AAAA
 ||rodbaston.ac.uk^$dnstype=AAAA
 ||roe.ac.uk^$dnstype=AAAA
@@ -30772,6 +30789,7 @@
 ||texture.com^$dnstype=AAAA
 ||tfbnw.net^$dnstype=AAAA
 ||tfc-taiwan.org.tw^$dnstype=AAAA
+||tfd.org.tw^$dnstype=AAAA
 ||tferwq.com^$dnstype=AAAA
 ||tfhub.dev^$dnstype=AAAA
 ||tfiflve.com^$dnstype=AAAA
@@ -31779,6 +31797,7 @@
 ||tteshop.com^$dnstype=AAAA
 ||ttetraining.ac.uk^$dnstype=AAAA
 ||ttk.ru^$dnstype=AAAA
+||ttl.com.tw^$dnstype=AAAA
 ||ttlivecdn.com^$dnstype=AAAA
 ||ttoverseaus.net^$dnstype=AAAA
 ||ttrb.ac.uk^$dnstype=AAAA
@@ -31991,6 +32010,7 @@
 ||twelve.today^$dnstype=AAAA
 ||twenty65.ac.uk^$dnstype=AAAA
 ||twerkingbutt.com^$dnstype=AAAA
+||twfhcsec.com.tw^$dnstype=AAAA
 ||twftp.org^$dnstype=AAAA
 ||twgov.tw^$dnstype=AAAA
 ||twgreatdaily.com^$dnstype=AAAA
@@ -32109,6 +32129,7 @@
 ||txvlog.com^$dnstype=AAAA
 ||txxx.com^$dnstype=AAAA
 ||txxx1.com^$dnstype=AAAA
+||tybio.com.tw^$dnstype=AAAA
 ||tyc.edu.tw^$dnstype=AAAA
 ||tycool.com^$dnstype=AAAA
 ||tyler-brown.com^$dnstype=AAAA
@@ -33838,6 +33859,7 @@
 ||vscale.blog^$dnstype=AAAA
 ||vscale.io^$dnstype=AAAA
 ||vscale.ru^$dnstype=AAAA
+||vscc.org.tw^$dnstype=AAAA
 ||vsco.co^$dnstype=AAAA
 ||vscode-cdn.net^$dnstype=AAAA
 ||vscode-sync-insiders.trafficmanager.net^$dnstype=AAAA
@@ -35479,6 +35501,7 @@
 ||xvxxtube.com^$dnstype=AAAA
 ||xwbo.com^$dnstype=AAAA
 ||xx-map.com^$dnstype=AAAA
+||xx.net^$dnstype=AAAA
 ||xx9.app^$dnstype=AAAA
 ||xxbay.com^$dnstype=AAAA
 ||xxbb9.com^$dnstype=AAAA
