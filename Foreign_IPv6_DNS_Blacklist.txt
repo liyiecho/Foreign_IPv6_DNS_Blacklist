@@ -20373,6 +20373,7 @@
 ||mega.co.nz^$dnstype=AAAA
 ||mega.io^$dnstype=AAAA
 ||mega.nz^$dnstype=AAAA
+||megaad.nz^$dnstype=AAAA
 ||megacamz.com^$dnstype=AAAA
 ||megaeth.com^$dnstype=AAAA
 ||megafilmporno.com^$dnstype=AAAA
@@ -20384,12 +20385,14 @@
 ||megamarket.ru^$dnstype=AAAA
 ||megamarket.tech^$dnstype=AAAA
 ||megamon.co.kr^$dnstype=AAAA
+||megapay.nz^$dnstype=AAAA
 ||megaphone.fm^$dnstype=AAAA
 ||megapornfreehd.com^$dnstype=AAAA
 ||megaporno.com.br^$dnstype=AAAA
 ||megapornpics.com^$dnstype=AAAA
 ||megaproxy.com^$dnstype=AAAA
 ||megarotic.com^$dnstype=AAAA
+||megas4.com^$dnstype=AAAA
 ||megasrv.de^$dnstype=AAAA
 ||megatitsminka.com^$dnstype=AAAA
 ||megaupload.com^$dnstype=AAAA
@@ -31611,6 +31614,7 @@
 ||transarmuito.com^$dnstype=AAAA
 ||transcamslive.com^$dnstype=AAAA
 ||transcocon.ac.uk^$dnstype=AAAA
+||transfer.it^$dnstype=AAAA
 ||transferwise.com^$dnstype=AAAA
 ||transforming-musicology.ac.uk^$dnstype=AAAA
 ||transformingmusicology.ac.uk^$dnstype=AAAA
