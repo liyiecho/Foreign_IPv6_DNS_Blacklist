@@ -4435,6 +4435,7 @@
 ||bigf.ac.uk^$dnstype=AAAA
 ||bigfools.com^$dnstype=AAAA
 ||biggggg.com^$dnstype=AAAA
+||biggo.com^$dnstype=AAAA
 ||biggo.com.tw^$dnstype=AAAA
 ||bighead.group^$dnstype=AAAA
 ||bighealthactuarialdata.ac.uk^$dnstype=AAAA
@@ -7918,6 +7919,8 @@
 ||copac.ac.uk^$dnstype=AAAA
 ||copilot-proxy.githubusercontent.com^$dnstype=AAAA
 ||copilot-stg.com^$dnstype=AAAA
+||copilot-telemetry-service.githubusercontent.com^$dnstype=AAAA
+||copilot-telemetry.githubusercontent.com^$dnstype=AAAA
 ||copilot-workspace.githubnext.com^$dnstype=AAAA
 ||copilot.com^$dnstype=AAAA
 ||copilot.microsoft.com^$dnstype=AAAA
@@ -16670,6 +16673,8 @@
 ||incloak.com^$dnstype=AAAA
 ||inclusion.ac.uk^$dnstype=AAAA
 ||inclusivegrowthscore.com^$dnstype=AAAA
+||incoming-telemetry.thunderbird.net^$dnstype=AAAA
+||incoming.telemetry.mozilla.org^$dnstype=AAAA
 ||incommon-rsa.org^$dnstype=AAAA
 ||incredibox.fr^$dnstype=AAAA
 ||incy.cc^$dnstype=AAAA
@@ -21064,6 +21069,7 @@
 ||mirror.ac.uk^$dnstype=AAAA
 ||mirror.xyz^$dnstype=AAAA
 ||mirrorbooks.com^$dnstype=AAAA
+||mirrordaily.news^$dnstype=AAAA
 ||mirrormedia.com.tw^$dnstype=AAAA
 ||mirrormedia.mg^$dnstype=AAAA
 ||mirrormediagroup.com^$dnstype=AAAA
@@ -21640,6 +21646,7 @@
 ||mtalk4.google.com^$dnstype=AAAA
 ||mtao.fun^$dnstype=AAAA
 ||mtec.ac.uk^$dnstype=AAAA
+||mtgamer.com^$dnstype=AAAA
 ||mthruf.com^$dnstype=AAAA
 ||mti.ac.uk^$dnstype=AAAA
 ||mts-ws.net^$dnstype=AAAA
@@ -25954,7 +25961,6 @@
 ||prozz.net^$dnstype=AAAA
 ||prpops.com^$dnstype=AAAA
 ||prs-ltsn.ac.uk^$dnstype=AAAA
-||prts.plus^$dnstype=AAAA
 ||prucomm.ac.uk^$dnstype=AAAA
 ||prvbank.ru^$dnstype=AAAA
 ||ps-exchange.com^$dnstype=AAAA
@@ -31044,6 +31050,7 @@
 ||theweek.in^$dnstype=AAAA
 ||thewgo.org^$dnstype=AAAA
 ||thewirechina.com^$dnstype=AAAA
+||thewitnesshk.com^$dnstype=AAAA
 ||thewomenslibrary.ac.uk^$dnstype=AAAA
 ||thewonderful101.com^$dnstype=AAAA
 ||theync.com^$dnstype=AAAA
