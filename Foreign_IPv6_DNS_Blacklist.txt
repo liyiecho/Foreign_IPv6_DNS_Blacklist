@@ -249,7 +249,6 @@
 ||20thcenturystudios.com.br^$dnstype=AAAA
 ||20thcenturystudios.jp^$dnstype=AAAA
 ||20yearsoffea.com^$dnstype=AAAA
-||21-school.ru^$dnstype=AAAA
 ||21andy.com^$dnstype=AAAA
 ||21centuryaccess.com^$dnstype=AAAA
 ||21heise360dh.cc^$dnstype=AAAA
@@ -667,6 +666,7 @@
 ||91sesex.xyz^$dnstype=AAAA
 ||91sew.xyz^$dnstype=AAAA
 ||91sew40.buzz^$dnstype=AAAA
+||91short.com^$dnstype=AAAA
 ||91vhome.com^$dnstype=AAAA
 ||91vps.club^$dnstype=AAAA
 ||920share.com^$dnstype=AAAA
@@ -864,7 +864,6 @@
 ||accessfacebookfromschool.com^$dnstype=AAAA
 ||accesshe.ac.uk^$dnstype=AAAA
 ||accessheonline.ac.uk^$dnstype=AAAA
-||accesspoint.uz^$dnstype=AAAA
 ||accesstohe.ac.uk^$dnstype=AAAA
 ||accesstohighereducation.ac.uk^$dnstype=AAAA
 ||accesstomusic.ac.uk^$dnstype=AAAA
@@ -1286,7 +1285,6 @@
 ||affinity.studio^$dnstype=AAAA
 ||affirmtrust.com^$dnstype=AAAA
 ||afi.ac.uk^$dnstype=AAAA
-||afisha.ru^$dnstype=AAAA
 ||afkv28.com^$dnstype=AAAA
 ||aflamporn.com^$dnstype=AAAA
 ||aflamsex.net^$dnstype=AAAA
@@ -7247,7 +7245,6 @@
 ||citycollegepeterborough.ac.uk^$dnstype=AAAA
 ||citycollegeplymouth.ac.uk^$dnstype=AAAA
 ||citycollegesoton.ac.uk^$dnstype=AAAA
-||citydrive.ru^$dnstype=AAAA
 ||cityheaven.net^$dnstype=AAAA
 ||citylab.com^$dnstype=AAAA
 ||citylit.ac.uk^$dnstype=AAAA
@@ -7380,7 +7377,6 @@
 ||cloud.dify.ai^$dnstype=AAAA
 ||cloud.mail.ru^$dnstype=AAAA
 ||cloud.oracle.com^$dnstype=AAAA
-||cloud.ru^$dnstype=AAAA
 ||cloud.run^$dnstype=AAAA
 ||cloudaicompanion.googleapis.com^$dnstype=AAAA
 ||cloudapp.net^$dnstype=AAAA
@@ -10167,8 +10163,6 @@
 ||eandc-sirgar.ac.uk^$dnstype=AAAA
 ||eanordic.com^$dnstype=AAAA
 ||eaplay.com^$dnstype=AAAA
-||eaptechka.online^$dnstype=AAAA
-||eapteka.ru^$dnstype=AAAA
 ||earlham.ac.uk^$dnstype=AAAA
 ||earlhaminstitute.ac.uk^$dnstype=AAAA
 ||earlyenglishlaws.ac.uk^$dnstype=AAAA
@@ -13448,7 +13442,6 @@
 ||getsession.org^$dnstype=AAAA
 ||getsexgames.com^$dnstype=AAAA
 ||getsocialscope.com^$dnstype=AAAA
-||getsynapse.io^$dnstype=AAAA
 ||getsync.com^$dnstype=AAAA
 ||gettr.com^$dnstype=AAAA
 ||gettrials.com^$dnstype=AAAA
@@ -13540,14 +13533,12 @@
 ||gib.sg^$dnstype=AAAA
 ||gibdev.net^$dnstype=AAAA
 ||gibtds.ru^$dnstype=AAAA
-||gid.ru^$dnstype=AAAA
 ||giffgaff.com^$dnstype=AAAA
 ||giffgaff.design^$dnstype=AAAA
 ||gifnuki.com^$dnstype=AAAA
 ||gifree.com^$dnstype=AAAA
 ||gift-surg.ac.uk^$dnstype=AAAA
 ||giga-web.jp^$dnstype=AAAA
-||giga.chat^$dnstype=AAAA
 ||gigabyte.com^$dnstype=AAAA
 ||gigabyte2.azureedge.net^$dnstype=AAAA
 ||gigacircle.com^$dnstype=AAAA
@@ -13634,7 +13625,6 @@
 ||gitstar.net^$dnstype=AAAA
 ||gittigidiyor.net^$dnstype=AAAA
 ||gittigidiyorsikayet.com^$dnstype=AAAA
-||gitverse.ru^$dnstype=AAAA
 ||givemebuzzsaw.com^$dnstype=AAAA
 ||gizlen.net^$dnstype=AAAA
 ||gizmoxxx.com^$dnstype=AAAA
@@ -16301,7 +16291,6 @@
 ||id.au^$dnstype=AAAA
 ||id.hao123.com^$dnstype=AAAA
 ||id.heroku.com^$dnstype=AAAA
-||id.ru^$dnstype=AAAA
 ||id.taipei^$dnstype=AAAA
 ||idaiwan.com^$dnstype=AAAA
 ||idarkdoll.com^$dnstype=AAAA
@@ -17955,21 +17944,6 @@
 ||jiuse905.com^$dnstype=AAAA
 ||jiuzhouyihuo.com^$dnstype=AAAA
 ||jivara.global^$dnstype=AAAA
-||jivo.chat^$dnstype=AAAA
-||jivo.ru^$dnstype=AAAA
-||jivochat.co.in^$dnstype=AAAA
-||jivochat.co.za^$dnstype=AAAA
-||jivochat.com^$dnstype=AAAA
-||jivochat.com.br^$dnstype=AAAA
-||jivochat.com.co^$dnstype=AAAA
-||jivochat.com.pe^$dnstype=AAAA
-||jivochat.com.tr^$dnstype=AAAA
-||jivochat.de^$dnstype=AAAA
-||jivochat.es^$dnstype=AAAA
-||jivochat.ng^$dnstype=AAAA
-||jivochat.ru^$dnstype=AAAA
-||jivosite.com^$dnstype=AAAA
-||jivosite.ru^$dnstype=AAAA
 ||jiyou520.com^$dnstype=AAAA
 ||jiyu-kobo.co.jp^$dnstype=AAAA
 ||jizzboom.com^$dnstype=AAAA
@@ -18632,7 +18606,6 @@
 ||koreanpornmovie.com^$dnstype=AAAA
 ||korenan2.com^$dnstype=AAAA
 ||korewaeroi.com^$dnstype=AAAA
-||korona.com^$dnstype=AAAA
 ||koronapay.com^$dnstype=AAAA
 ||koshelek.app^$dnstype=AAAA
 ||koshelev-bank.ru^$dnstype=AAAA
@@ -18704,7 +18677,6 @@
 ||kun.im^$dnstype=AAAA
 ||kun66.xyz^$dnstype=AAAA
 ||kundun1069.com^$dnstype=AAAA
-||kuper.ru^$dnstype=AAAA
 ||kurashsultan.com^$dnstype=AAAA
 ||kurtmunger.com^$dnstype=AAAA
 ||kusocity.com^$dnstype=AAAA
@@ -20453,8 +20425,6 @@
 ||megafonpro.ru^$dnstype=AAAA
 ||megahdporno.net^$dnstype=AAAA
 ||megalodon.jp^$dnstype=AAAA
-||megamarket.ru^$dnstype=AAAA
-||megamarket.tech^$dnstype=AAAA
 ||megamon.co.kr^$dnstype=AAAA
 ||megapay.nz^$dnstype=AAAA
 ||megaphone.fm^$dnstype=AAAA
@@ -24246,7 +24216,6 @@
 ||otakuboo.com^$dnstype=AAAA
 ||otbm.com^$dnstype=AAAA
 ||otcbtc.com^$dnstype=AAAA
-||otello.ru^$dnstype=AAAA
 ||otleycollege.ac.uk^$dnstype=AAAA
 ||otleyeaston.ac.uk^$dnstype=AAAA
 ||otleyonline.ac.uk^$dnstype=AAAA
@@ -24554,7 +24523,6 @@
 ||paxful.com^$dnstype=AAAA
 ||paxlicense.org^$dnstype=AAAA
 ||paydiant.com^$dnstype=AAAA
-||payecom.ru^$dnstype=AAAA
 ||payget.pro^$dnstype=AAAA
 ||paygonline.com^$dnstype=AAAA
 ||payhulu.com^$dnstype=AAAA
@@ -25174,7 +25142,6 @@
 ||plasma-mobile.org^$dnstype=AAAA
 ||plasticlabs.com^$dnstype=AAAA
 ||plastics-cadcam.com^$dnstype=AAAA
-||platiecom.ru^$dnstype=AAAA
 ||platinumlinks.org^$dnstype=AAAA
 ||platov.co^$dnstype=AAAA
 ||play-asia.com^$dnstype=AAAA
@@ -26074,7 +26041,6 @@
 ||psiphon3.com^$dnstype=AAAA
 ||psiphontoday.com^$dnstype=AAAA
 ||pskb.com^$dnstype=AAAA
-||pskb.ru^$dnstype=AAAA
 ||pssru.ac.uk^$dnstype=AAAA
 ||pstatic.net^$dnstype=AAAA
 ||pstorage.space^$dnstype=AAAA
@@ -26478,7 +26444,6 @@
 ||ragnaporn.com^$dnstype=AAAA
 ||raidcall.com.tw^$dnstype=AAAA
 ||raidtalk.com.tw^$dnstype=AAAA
-||raiffeisen-media.ru^$dnstype=AAAA
 ||raiffeisen.ru^$dnstype=AAAA
 ||rainbowplan.org^$dnstype=AAAA
 ||raindrop.io^$dnstype=AAAA
@@ -26930,7 +26895,6 @@
 ||resoubang.buzz^$dnstype=AAAA
 ||resourceshare.ac.uk^$dnstype=AAAA
 ||respawnbyrazer.com^$dnstype=AAAA
-||restnproducts.ru^$dnstype=AAAA
 ||restofworld.org^$dnstype=AAAA
 ||restore.ac.uk^$dnstype=AAAA
 ||restream-media.net^$dnstype=AAAA
@@ -27581,7 +27545,6 @@
 ||sambhota.org^$dnstype=AAAA
 ||samc.ac.uk^$dnstype=AAAA
 ||samebags.com^$dnstype=AAAA
-||samokat.ru^$dnstype=AAAA
 ||sams.ac.uk^$dnstype=AAAA
 ||samsung.com^$dnstype=AAAA
 ||samsungapps.com^$dnstype=AAAA
@@ -27694,31 +27657,10 @@
 ||sbank.ir^$dnstype=AAAA
 ||sbc.ac.uk^$dnstype=AAAA
 ||sber-bank.by^$dnstype=AAAA
-||sber.pro^$dnstype=AAAA
 ||sber.ru^$dnstype=AAAA
-||sberauto.com^$dnstype=AAAA
-||sberbank-insurance.ru^$dnstype=AAAA
-||sberbank-tele.com^$dnstype=AAAA
 ||sberbank.com^$dnstype=AAAA
 ||sberbank.ru^$dnstype=AAAA
-||sberbankaktivno.ru^$dnstype=AAAA
-||sberbankins.ru^$dnstype=AAAA
-||sbercloud.ru^$dnstype=AAAA
-||sbercloud.tech^$dnstype=AAAA
-||sberdevices.ru^$dnstype=AAAA
-||sberdisk.ru^$dnstype=AAAA
-||sberfactoring.ru^$dnstype=AAAA
-||sberhealth.ru^$dnstype=AAAA
-||sberindex.ru^$dnstype=AAAA
-||sberleasing.ru^$dnstype=AAAA
-||sberlogistics.ru^$dnstype=AAAA
-||sbermegamarket.ru^$dnstype=AAAA
-||sbermobile.ru^$dnstype=AAAA
-||sberpb.ru^$dnstype=AAAA
-||sberpro.vedomosti.ru^$dnstype=AAAA
 ||sberspasibo.ru^$dnstype=AAAA
-||sbertech.ru^$dnstype=AAAA
-||sbertroika.ru^$dnstype=AAAA
 ||sbgkstv.shop^$dnstype=AAAA
 ||sbibankllc.ru^$dnstype=AAAA
 ||sbirmc.ac.uk^$dnstype=AAAA
@@ -33060,7 +33002,6 @@
 ||veb.ru^$dnstype=AAAA
 ||vecchiescopate.casa^$dnstype=AAAA
 ||vector.im^$dnstype=AAAA
-||vedomosti.ru^$dnstype=AAAA
 ||veed.io^$dnstype=AAAA
 ||veet.at^$dnstype=AAAA
 ||veet.be^$dnstype=AAAA
@@ -36810,8 +36751,6 @@
 ||zuobiao.me^$dnstype=AAAA
 ||zuola.com^$dnstype=AAAA
 ||zvereff.com^$dnstype=AAAA
-||zvuk-b2b.com^$dnstype=AAAA
-||zvuk.com^$dnstype=AAAA
 ||zweiporn.com^$dnstype=AAAA
 ||zwtvusa.com^$dnstype=AAAA
 ||zynaima.com^$dnstype=AAAA
