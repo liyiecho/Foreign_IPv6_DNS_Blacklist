@@ -5765,6 +5765,7 @@
 ||bsappapi.com^$dnstype=AAAA
 ||bsaw.ac.uk^$dnstype=AAAA
 ||bsbec.ac.uk^$dnstype=AAAA
+||bscdnweb.com^$dnstype=AAAA
 ||bsdc.ac.uk^$dnstype=AAAA
 ||bsersd.xyz^$dnstype=AAAA
 ||bsfc.ac.uk^$dnstype=AAAA
@@ -27732,6 +27733,7 @@
 ||scdaily.com^$dnstype=AAAA
 ||scde.ac.uk^$dnstype=AAAA
 ||scdn.co^$dnstype=AAAA
+||scea.com^$dnstype=AAAA
 ||scene7.com^$dnstype=AAAA
 ||scenesource.me^$dnstype=AAAA
 ||scentro.ac.uk^$dnstype=AAAA
@@ -28876,6 +28878,7 @@
 ||skysportsracing.com^$dnstype=AAAA
 ||skytigris.cn^$dnstype=AAAA
 ||skyvegas.com^$dnstype=AAAA
+||skyxvpn.com^$dnstype=AAAA
 ||sl-reverse.com^$dnstype=AAAA
 ||sl99mod.buzz^$dnstype=AAAA
 ||slack-core.com^$dnstype=AAAA
@@ -29213,6 +29216,7 @@
 ||sony.com.pa^$dnstype=AAAA
 ||sony.com.pe^$dnstype=AAAA
 ||sony.com.ph^$dnstype=AAAA
+||sony.com.py^$dnstype=AAAA
 ||sony.com.sg^$dnstype=AAAA
 ||sony.com.sv^$dnstype=AAAA
 ||sony.com.tr^$dnstype=AAAA
@@ -29255,8 +29259,10 @@
 ||sonydesign.com^$dnstype=AAAA
 ||sonydna.com^$dnstype=AAAA
 ||sonyglobalsolutions.jp^$dnstype=AAAA
+||sonyinteractive.com^$dnstype=AAAA
 ||sonykigyo.jp^$dnstype=AAAA
 ||sonylatvija.com^$dnstype=AAAA
+||sonymusic.com.hk^$dnstype=AAAA
 ||sonynetwork.co.jp^$dnstype=AAAA
 ||sonypcl.jp^$dnstype=AAAA
 ||sonypictures.com^$dnstype=AAAA
