@@ -584,6 +584,7 @@
 ||7tb.cc^$dnstype=AAAA
 ||7tv.app^$dnstype=AAAA
 ||7tv.io^$dnstype=AAAA
+||7x24hrs.com^$dnstype=AAAA
 ||8-d.com^$dnstype=AAAA
 ||8008206616.com^$dnstype=AAAA
 ||8111y.top^$dnstype=AAAA
