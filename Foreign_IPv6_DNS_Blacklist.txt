@@ -8348,6 +8348,7 @@
 ||cursor.com^$dnstype=AAAA
 ||cursor.sh^$dnstype=AAAA
 ||cursorapi.com^$dnstype=AAAA
+||cursorvm.com^$dnstype=AAAA
 ||curve.fi^$dnstype=AAAA
 ||curvefish.com^$dnstype=AAAA
 ||curvybbwwives.com^$dnstype=AAAA
@@ -24010,6 +24011,7 @@
 ||open.com.hk^$dnstype=AAAA
 ||open.firstory.me^$dnstype=AAAA
 ||openai.com^$dnstype=AAAA
+||openai.org^$dnstype=AAAA
 ||openaiapi-site.azureedge.net^$dnstype=AAAA
 ||openaiassets.blob.core.windows.net^$dnstype=AAAA
 ||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net^$dnstype=AAAA
@@ -27831,6 +27833,7 @@
 ||schwab.com.hk^$dnstype=AAAA
 ||schwab.com.sg^$dnstype=AAAA
 ||schwabassetmanagement.com^$dnstype=AAAA
+||schwabcdn.com^$dnstype=AAAA
 ||schwabplan.com^$dnstype=AAAA
 ||sci-hub.it.nf^$dnstype=AAAA
 ||sci-hub.mksa.top^$dnstype=AAAA
@@ -31391,6 +31394,8 @@
 ||timestalks.com^$dnstype=AAAA
 ||timeweb.cloud^$dnstype=AAAA
 ||timeweb.com^$dnstype=AAAA
+||timeweb.tech^$dnstype=AAAA
+||timewebcloud.kz^$dnstype=AAAA
 ||timi1.me^$dnstype=AAAA
 ||timo0.com^$dnstype=AAAA
 ||timsah.com^$dnstype=AAAA
@@ -32224,6 +32229,7 @@
 ||typekit.net^$dnstype=AAAA
 ||typenetwork.com^$dnstype=AAAA
 ||typepad.com^$dnstype=AAAA
+||typesafe.ai^$dnstype=AAAA
 ||typeset.io^$dnstype=AAAA
 ||typesquare.com^$dnstype=AAAA
 ||typography.com^$dnstype=AAAA
