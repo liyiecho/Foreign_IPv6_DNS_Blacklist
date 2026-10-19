@@ -4173,8 +4173,15 @@
 ||befuck.com^$dnstype=AAAA
 ||befuck.net^$dnstype=AAAA
 ||begellhouse.com^$dnstype=AAAA
+||beget.app^$dnstype=AAAA
+||beget.cloud^$dnstype=AAAA
 ||beget.com^$dnstype=AAAA
+||beget.de^$dnstype=AAAA
+||beget.hosting^$dnstype=AAAA
+||beget.pro^$dnstype=AAAA
 ||beget.ru^$dnstype=AAAA
+||beget.tech^$dnstype=AAAA
+||begetcdn.cloud^$dnstype=AAAA
 ||begin-trade.com^$dnstype=AAAA
 ||behance.net^$dnstype=AAAA
 ||behaviour4learning.ac.uk^$dnstype=AAAA
@@ -4238,6 +4245,7 @@
 ||beru.ru^$dnstype=AAAA
 ||besa.ac.uk^$dnstype=AAAA
 ||besc.ac.uk^$dnstype=AAAA
+||beserver.ru^$dnstype=AAAA
 ||beside.ac.uk^$dnstype=AAAA
 ||bess.ac.uk^$dnstype=AAAA
 ||best-practice.se^$dnstype=AAAA
@@ -4377,6 +4385,7 @@
 ||bg-call-donation-dev.goog^$dnstype=AAAA
 ||bg-call-donation.goog^$dnstype=AAAA
 ||bgc.ac.uk^$dnstype=AAAA
+||bget.ru^$dnstype=AAAA
 ||bgicdn.com^$dnstype=AAAA
 ||bgm.tv^$dnstype=AAAA
 ||bgme.me^$dnstype=AAAA
@@ -8483,6 +8492,7 @@
 ||d2xmjdvx03ij56.cloudfront.net^$dnstype=AAAA
 ||d31dormfno8pk4.cloudfront.net^$dnstype=AAAA
 ||d33wubrfki0l68.cloudfront.net^$dnstype=AAAA
+||d348twzf7a8p5.cloudfront.net^$dnstype=AAAA
 ||d36nr0u3xmc4mm.cloudfront.net^$dnstype=AAAA
 ||d3aqoihi2n8ty8.cloudfront.net^$dnstype=AAAA
 ||d3c27h4odz752x.cloudfront.net^$dnstype=AAAA
@@ -9105,6 +9115,7 @@
 ||developers.box.net^$dnstype=AAAA
 ||developers.facebook.com^$dnstype=AAAA
 ||developria.com^$dnstype=AAAA
+||devforum-uploads.s3.dualstack.us-east-2.amazonaws.com^$dnstype=AAAA
 ||deviantart.com^$dnstype=AAAA
 ||deviantart.net^$dnstype=AAAA
 ||deviantclip.com^$dnstype=AAAA
@@ -9734,6 +9745,7 @@
 ||download.qpdp1.net^$dnstype=AAAA
 ||downloadpass.com^$dnstype=AAAA
 ||downloadsforipod.com^$dnstype=AAAA
+||doy2mn9upadnk.cloudfront.net^$dnstype=AAAA
 ||dphk.org^$dnstype=AAAA
 ||dpoc.ac.uk^$dnstype=AAAA
 ||dpool.top^$dnstype=AAAA
@@ -12286,7 +12298,6 @@
 ||flickr.net^$dnstype=AAAA
 ||flickrhivemind.net^$dnstype=AAAA
 ||flickriver.com^$dnstype=AAAA
-||flightsimulator.azureedge.net^$dnstype=AAAA
 ||flightsimulator.com^$dnstype=AAAA
 ||fling.com^$dnstype=AAAA
 ||flipboard.com^$dnstype=AAAA
@@ -26146,6 +26157,7 @@
 ||putlocker.com^$dnstype=AAAA
 ||putty.org^$dnstype=AAAA
 ||puuko.com^$dnstype=AAAA
+||pv-cdn.net^$dnstype=AAAA
 ||pvp.net^$dnstype=AAAA
 ||pvp.tv^$dnstype=AAAA
 ||pvr-hamivideo.cdn.hinet.net^$dnstype=AAAA
@@ -29523,6 +29535,7 @@
 ||sprite.org^$dnstype=AAAA
 ||sproutcore.com^$dnstype=AAAA
 ||sproxy.info^$dnstype=AAAA
+||sprut.io^$dnstype=AAAA
 ||spsrn.ac.uk^$dnstype=AAAA
 ||sptvbroadcast.com^$dnstype=AAAA
 ||spurgeons.ac.uk^$dnstype=AAAA
