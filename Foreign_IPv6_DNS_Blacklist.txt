@@ -2969,7 +2969,6 @@
 ||asminternational.org^$dnstype=AAAA
 ||asmrbuluo.com^$dnstype=AAAA
 ||asn-online.org^$dnstype=AAAA
-||asobostudio.com^$dnstype=AAAA
 ||asp-cc.com^$dnstype=AAAA
 ||asp.net^$dnstype=AAAA
 ||aspbjournals.org^$dnstype=AAAA
@@ -12298,7 +12297,6 @@
 ||flickr.net^$dnstype=AAAA
 ||flickrhivemind.net^$dnstype=AAAA
 ||flickriver.com^$dnstype=AAAA
-||flightsimulator.com^$dnstype=AAAA
 ||fling.com^$dnstype=AAAA
 ||flipboard.com^$dnstype=AAAA
 ||flipfap.com^$dnstype=AAAA
@@ -18631,6 +18629,8 @@
 ||koubaibu.jp^$dnstype=AAAA
 ||koukoku.jp^$dnstype=AAAA
 ||kouwobb.com^$dnstype=AAAA
+||kp-config-smart-tv.akamaized.net^$dnstype=AAAA
+||kp-configs-smart-tv.s3.eu-central-1.amazonaws.com^$dnstype=AAAA
 ||kpacg.com^$dnstype=AAAA
 ||kphimsex.net^$dnstype=AAAA
 ||kpht85.com^$dnstype=AAAA
@@ -19840,6 +19840,7 @@
 ||magicmovies.com^$dnstype=AAAA
 ||maglue.ac.uk^$dnstype=AAAA
 ||magnacartacollege.ac.uk^$dnstype=AAAA
+||magnific.com^$dnstype=AAAA
 ||mahabodhi.org^$dnstype=AAAA
 ||mahajantech.com^$dnstype=AAAA
 ||mahjongsoul.com^$dnstype=AAAA
@@ -21705,6 +21706,7 @@
 ||mtgamer.com^$dnstype=AAAA
 ||mthruf.com^$dnstype=AAAA
 ||mti.ac.uk^$dnstype=AAAA
+||mts-link.ru^$dnstype=AAAA
 ||mts-ws.net^$dnstype=AAAA
 ||mts.ru^$dnstype=AAAA
 ||mtsbank.ru^$dnstype=AAAA
@@ -25738,6 +25740,7 @@
 ||postimg.cc^$dnstype=AAAA
 ||postimg.org^$dnstype=AAAA
 ||postini.com^$dnstype=AAAA
+||postman.com^$dnstype=AAAA
 ||posts.careerengine.us^$dnstype=AAAA
 ||posty.kr^$dnstype=AAAA
 ||postyourgirls.ws^$dnstype=AAAA
