@@ -3348,8 +3348,10 @@
 ||avinin.com^$dnstype=AAAA
 ||avira.com^$dnstype=AAAA
 ||avistaz.to^$dnstype=AAAA
+||avito.com^$dnstype=AAAA
 ||avito.ru^$dnstype=AAAA
 ||avito.st^$dnstype=AAAA
+||avito.tech^$dnstype=AAAA
 ||avizoon.site^$dnstype=AAAA
 ||avizoone.com^$dnstype=AAAA
 ||avjb.com^$dnstype=AAAA
