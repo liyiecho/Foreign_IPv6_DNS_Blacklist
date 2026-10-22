@@ -2213,6 +2213,7 @@
 ||ansarbank.com^$dnstype=AAAA
 ||ansin.erodayo.com^$dnstype=AAAA
 ||answering-islam.org^$dnstype=AAAA
+||ant.dev^$dnstype=AAAA
 ||antarctic.ac.uk^$dnstype=AAAA
 ||antarctica.ac.uk^$dnstype=AAAA
 ||antarvasnaclips.com^$dnstype=AAAA
@@ -2224,6 +2225,7 @@
 ||anthemthegame.com^$dnstype=AAAA
 ||anthonycalzadilla.com^$dnstype=AAAA
 ||anthropic.com^$dnstype=AAAA
+||anthropic.team^$dnstype=AAAA
 ||anthropology.ac.uk^$dnstype=AAAA
 ||anti1984.com^$dnstype=AAAA
 ||antichristendom.com^$dnstype=AAAA
@@ -2239,6 +2241,7 @@
 ||antisocial.science^$dnstype=AAAA
 ||antiwave.net^$dnstype=AAAA
 ||antpool.com^$dnstype=AAAA
+||antspace.dev^$dnstype=AAAA
 ||anudetube.com^$dnstype=AAAA
 ||anuneko.com^$dnstype=AAAA
 ||anws.gov.tw^$dnstype=AAAA
@@ -6831,6 +6834,7 @@
 ||chat.com^$dnstype=AAAA
 ||chat.lmsys.org^$dnstype=AAAA
 ||chatango.com^$dnstype=AAAA
+||chatbotclaude.com^$dnstype=AAAA
 ||chatgpt.com^$dnstype=AAAA
 ||chatgpt.livekit.cloud^$dnstype=AAAA
 ||chatgpt.site^$dnstype=AAAA
@@ -7321,10 +7325,16 @@
 ||classymomsex.com^$dnstype=AAAA
 ||clau.de^$dnstype=AAAA
 ||claude.ai^$dnstype=AAAA
+||claude.app^$dnstype=AAAA
 ||claude.com^$dnstype=AAAA
 ||claude.dev^$dnstype=AAAA
+||claude.new^$dnstype=AAAA
+||claude.site^$dnstype=AAAA
+||claudeacademy.com^$dnstype=AAAA
 ||claudemcpclient.com^$dnstype=AAAA
 ||claudemcpcontent.com^$dnstype=AAAA
+||claudepages.dev^$dnstype=AAAA
+||claudestudio.com^$dnstype=AAAA
 ||claudeusercontent.com^$dnstype=AAAA
 ||clawhub.ai^$dnstype=AAAA
 ||clb.org.hk^$dnstype=AAAA
@@ -8500,6 +8510,7 @@
 ||d3lh5kkip965lj.cloudfront.net^$dnstype=AAAA
 ||d3nwj80emtnjeo.cloudfront.net^$dnstype=AAAA
 ||d3r7nsslvs6aaf.cloudfront.net^$dnstype=AAAA
+||d3stzm2eumvgb4.cloudfront.net^$dnstype=AAAA
 ||d3ucl0eqgl80l5.cloudfront.net^$dnstype=AAAA
 ||d3vd9lfkzbru3h.cloudfront.net^$dnstype=AAAA
 ||d4dj-pj.com^$dnstype=AAAA
@@ -12333,6 +12344,17 @@
 ||flurry.com^$dnstype=AAAA
 ||flutter.dev^$dnstype=AAAA
 ||flutterapp.com^$dnstype=AAAA
+||fluxer.app^$dnstype=AAAA
+||fluxer.com^$dnstype=AAAA
+||fluxer.dev^$dnstype=AAAA
+||fluxer.gg^$dnstype=AAAA
+||fluxer.gift^$dnstype=AAAA
+||fluxer.media^$dnstype=AAAA
+||fluxer.tools^$dnstype=AAAA
+||fluxerapp.com^$dnstype=AAAA
+||fluxerstatic.com^$dnstype=AAAA
+||fluxerstatus.com^$dnstype=AAAA
+||fluxerusercontent.com^$dnstype=AAAA
 ||fly.dev^$dnstype=AAAA
 ||fly.io^$dnstype=AAAA
 ||flyflv.com^$dnstype=AAAA
