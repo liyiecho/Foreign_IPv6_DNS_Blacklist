@@ -4741,6 +4741,8 @@
 ||blob.core.windows.net^$dnstype=AAAA
 ||blockcast.it^$dnstype=AAAA
 ||blockchain.com^$dnstype=AAAA
+||blockchair.com^$dnstype=AAAA
+||blockchair.net^$dnstype=AAAA
 ||blockcn.com^$dnstype=AAAA
 ||blockedbyhk.com^$dnstype=AAAA
 ||blockfrost.io^$dnstype=AAAA
@@ -8087,6 +8089,7 @@
 ||cqcorea.com^$dnstype=AAAA
 ||crabporn.com^$dnstype=AAAA
 ||crackle.com^$dnstype=AAAA
+||craftifyx.com^$dnstype=AAAA
 ||craigslist.org^$dnstype=AAAA
 ||cral.ac.uk^$dnstype=AAAA
 ||cran.ac.uk^$dnstype=AAAA
@@ -8220,6 +8223,7 @@
 ||crypto.com^$dnstype=AAAA
 ||cryptocompare.com^$dnstype=AAAA
 ||cryptographyengineering.com^$dnstype=AAAA
+||cryptoid.info^$dnstype=AAAA
 ||cryptomus.com^$dnstype=AAAA
 ||crypton.co.jp^$dnstype=AAAA
 ||crysis.jp^$dnstype=AAAA
@@ -8827,6 +8831,7 @@
 ||delcamtv.com^$dnstype=AAAA
 ||delcamuniversity.com^$dnstype=AAAA
 ||delcamusa.com^$dnstype=AAAA
+||delets.cash^$dnstype=AAAA
 ||delets.online^$dnstype=AAAA
 ||delicious.com^$dnstype=AAAA
 ||delicious.com.au^$dnstype=AAAA
@@ -11745,6 +11750,7 @@
 ||fandango.com^$dnstype=AAAA
 ||fandom.com^$dnstype=AAAA
 ||fandom.zendesk.com^$dnstype=AAAA
+||fanfiction.net^$dnstype=AAAA
 ||fanfictionero.com^$dnstype=AAAA
 ||fanfox.net^$dnstype=AAAA
 ||fangbinxing.com^$dnstype=AAAA
@@ -12987,6 +12993,8 @@
 ||fundsupermart.com^$dnstype=AAAA
 ||funf.tw^$dnstype=AAAA
 ||funimation.com^$dnstype=AAAA
+||funko.com^$dnstype=AAAA
+||funko.my.site.com^$dnstype=AAAA
 ||funkyimg.com^$dnstype=AAAA
 ||funnyfacebook.org^$dnstype=AAAA
 ||funnyordie.com^$dnstype=AAAA
@@ -13131,6 +13139,7 @@
 ||game-repack.site^$dnstype=AAAA
 ||game735.com^$dnstype=AAAA
 ||gameapps.hk^$dnstype=AAAA
+||gamebanana.com^$dnstype=AAAA
 ||gamebase.com.tw^$dnstype=AAAA
 ||gamebeforethegame.com^$dnstype=AAAA
 ||gamebiz.jp^$dnstype=AAAA
@@ -13473,6 +13482,7 @@
 ||getporn.tv^$dnstype=AAAA
 ||getpricetag.com^$dnstype=AAAA
 ||getprintersupports.com^$dnstype=AAAA
+||getsafety.com^$dnstype=AAAA
 ||getscorecash.com^$dnstype=AAAA
 ||getsentry.com^$dnstype=AAAA
 ||getsession.org^$dnstype=AAAA
@@ -13695,6 +13705,8 @@
 ||glenfife.ac.uk^$dnstype=AAAA
 ||glenrothes-college.ac.uk^$dnstype=AAAA
 ||glhl.ac.uk^$dnstype=AAAA
+||glitchprod.com^$dnstype=AAAA
+||glitchproductions.store^$dnstype=AAAA
 ||glitchwave.com^$dnstype=AAAA
 ||gllm.ac.uk^$dnstype=AAAA
 ||global-sci.org^$dnstype=AAAA
@@ -18716,6 +18728,7 @@
 ||kun66.xyz^$dnstype=AAAA
 ||kundun1069.com^$dnstype=AAAA
 ||kurashsultan.com^$dnstype=AAAA
+||kurs.expert^$dnstype=AAAA
 ||kurtmunger.com^$dnstype=AAAA
 ||kusocity.com^$dnstype=AAAA
 ||kusugurizanmai.com^$dnstype=AAAA
@@ -19908,6 +19921,7 @@
 ||makemymood.com^$dnstype=AAAA
 ||makerepeater.jp^$dnstype=AAAA
 ||makesenseofdata.com^$dnstype=AAAA
+||makeship.com^$dnstype=AAAA
 ||makeshop.jp^$dnstype=AAAA
 ||makingassessmentcount.ac.uk^$dnstype=AAAA
 ||makingstartshere.com^$dnstype=AAAA
@@ -24311,6 +24325,7 @@
 ||owl-elearning.ac.uk^$dnstype=AAAA
 ||owl.li^$dnstype=AAAA
 ||owltail.com^$dnstype=AAAA
+||ownaj.com^$dnstype=AAAA
 ||owo.nz^$dnstype=AAAA
 ||owsc.ac.uk^$dnstype=AAAA
 ||owxd.xyz^$dnstype=AAAA
@@ -26217,6 +26232,7 @@
 ||pythonhosted.org^$dnstype=AAAA
 ||pythonic.life^$dnstype=AAAA
 ||pytorch.org^$dnstype=AAAA
+||pyup.io^$dnstype=AAAA
 ||pzforever.skin^$dnstype=AAAA
 ||pzforever01.homes^$dnstype=AAAA
 ||pzhanfor.today^$dnstype=AAAA
@@ -26437,6 +26453,7 @@
 ||r18lu-avi.shop^$dnstype=AAAA
 ||r18lu.com^$dnstype=AAAA
 ||r2.dev^$dnstype=AAAA
+||r2modman.com^$dnstype=AAAA
 ||r34porn.net^$dnstype=AAAA
 ||ra-review.ac.uk^$dnstype=AAAA
 ||ra.gg^$dnstype=AAAA
@@ -27541,6 +27558,7 @@
 ||safepodnetwork.ac.uk^$dnstype=AAAA
 ||safervpn.com^$dnstype=AAAA
 ||safety.google^$dnstype=AAAA
+||safetycli.com^$dnstype=AAAA
 ||saffrontech.com^$dnstype=AAAA
 ||sagabank.co.jp^$dnstype=AAAA
 ||sage-observability.tech^$dnstype=AAAA
@@ -29887,6 +29905,7 @@
 ||steamladder.com^$dnstype=AAAA
 ||steammobile.akamaized.net^$dnstype=AAAA
 ||steamofporn.com^$dnstype=AAAA
+||steamos.cloud^$dnstype=AAAA
 ||steampipe-kr.akamaized.net^$dnstype=AAAA
 ||steampipe-partner.akamaized.net^$dnstype=AAAA
 ||steampipe.akamaized.net^$dnstype=AAAA
@@ -30918,6 +30937,7 @@
 ||tgirlpostop.com^$dnstype=AAAA
 ||tgp6.com^$dnstype=AAAA
 ||tgstat.com^$dnstype=AAAA
+||tgtime.store^$dnstype=AAAA
 ||tgtube.com^$dnstype=AAAA
 ||tgutube.com^$dnstype=AAAA
 ||th.hao123.com^$dnstype=AAAA
@@ -31243,6 +31263,8 @@
 ||thunderbird.net^$dnstype=AAAA
 ||thunderbolttechnology.net^$dnstype=AAAA
 ||thundermail.com^$dnstype=AAAA
+||thunderstore.io^$dnstype=AAAA
+||thunderstore.org^$dnstype=AAAA
 ||thurrock.ac.uk^$dnstype=AAAA
 ||thurrockcampus.ac.uk^$dnstype=AAAA
 ||thywords.com^$dnstype=AAAA
@@ -31513,6 +31535,7 @@
 ||tmei-taoyuan.com^$dnstype=AAAA
 ||tmi.me^$dnstype=AAAA
 ||tmiaf.ru^$dnstype=AAAA
+||tmimgcdn.com^$dnstype=AAAA
 ||tmn.ac.uk^$dnstype=AAAA
 ||tmpp.org^$dnstype=AAAA
 ||tmsnrt.rs^$dnstype=AAAA
@@ -34875,6 +34898,7 @@
 ||worldoftanks.eu^$dnstype=AAAA
 ||worldofwarcraft.com^$dnstype=AAAA
 ||worldofwarplanes.com^$dnstype=AAAA
+||worldofwarships.asia^$dnstype=AAAA
 ||worldofwarships.com^$dnstype=AAAA
 ||worldpopulationreview.com^$dnstype=AAAA
 ||worldpornvideos.com^$dnstype=AAAA
@@ -36272,6 +36296,7 @@
 ||youthforfreechina.org^$dnstype=AAAA
 ||youthnetradio.org^$dnstype=AAAA
 ||youthwant.com.tw^$dnstype=AAAA
+||youtooz.com^$dnstype=AAAA
 ||youtrack.cloud^$dnstype=AAAA
 ||youtrannytube.com^$dnstype=AAAA
 ||youtu.be^$dnstype=AAAA
