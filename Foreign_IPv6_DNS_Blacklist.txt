@@ -7921,6 +7921,7 @@
 ||consentpro.com^$dnstype=AAAA
 ||conservatoiresuk.ac.uk^$dnstype=AAAA
 ||consilience.ac.uk^$dnstype=AAAA
+||console.typesafe.ai^$dnstype=AAAA
 ||constitutionalism.solutions^$dnstype=AAAA
 ||constructware.com^$dnstype=AAAA
 ||consul.io^$dnstype=AAAA
@@ -13110,6 +13111,7 @@
 ||g1.com.br^$dnstype=AAAA
 ||g1d1goob.xyz^$dnstype=AAAA
 ||g6hentai.com^$dnstype=AAAA
+||ga.jspm.io^$dnstype=AAAA
 ||gab.com^$dnstype=AAAA
 ||gabia.net^$dnstype=AAAA
 ||gabocorp.com^$dnstype=AAAA
@@ -18145,6 +18147,7 @@
 ||jshell.net^$dnstype=AAAA
 ||jshint.com^$dnstype=AAAA
 ||jsmc.ac.uk^$dnstype=AAAA
+||jspm.io^$dnstype=AAAA
 ||jstage.jst.go.jp^$dnstype=AAAA
 ||jstor.ac.uk^$dnstype=AAAA
 ||jstv51.com^$dnstype=AAAA
