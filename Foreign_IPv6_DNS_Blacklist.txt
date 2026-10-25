@@ -43,6 +43,7 @@
 ||123-hp.com^$dnstype=AAAA
 ||123av.com^$dnstype=AAAA
 ||123av.me^$dnstype=AAAA
+||123av.org^$dnstype=AAAA
 ||123bin.cc^$dnstype=AAAA
 ||123dapp.com^$dnstype=AAAA
 ||123dappipad.com^$dnstype=AAAA
@@ -205,6 +206,7 @@
 ||1password.co^$dnstype=AAAA
 ||1password.com^$dnstype=AAAA
 ||1password.community^$dnstype=AAAA
+||1password.dev^$dnstype=AAAA
 ||1password.drift.click^$dnstype=AAAA
 ||1password.eu^$dnstype=AAAA
 ||1password.io^$dnstype=AAAA
@@ -6659,6 +6661,10 @@
 ||cdp1998.org^$dnstype=AAAA
 ||cdp2006.org^$dnstype=AAAA
 ||cdpeu.org^$dnstype=AAAA
+||cdpred.services^$dnstype=AAAA
+||cdprojekt.com^$dnstype=AAAA
+||cdprojekt.red^$dnstype=AAAA
+||cdprojektred.com^$dnstype=AAAA
 ||cdpuk.co.uk^$dnstype=AAAA
 ||cdpusa.org^$dnstype=AAAA
 ||cdpweb.org^$dnstype=AAAA
@@ -8428,6 +8434,7 @@
 ||cyberctm.com^$dnstype=AAAA
 ||cyberghostvpn.com^$dnstype=AAAA
 ||cybermondaybeats4sale.com^$dnstype=AAAA
+||cyberpunk.net^$dnstype=AAAA
 ||cybersecurity-cdt.ac.uk^$dnstype=AAAA
 ||cybersecuritycdt.ac.uk^$dnstype=AAAA
 ||cybersport.ru^$dnstype=AAAA
@@ -18492,6 +18499,7 @@
 ||kilmeadeandfriends.com^$dnstype=AAAA
 ||kimchi.tv^$dnstype=AAAA
 ||kimogirl.cc^$dnstype=AAAA
+||kimootoko.net^$dnstype=AAAA
 ||kimosex.com^$dnstype=AAAA
 ||kimy.com.tw^$dnstype=AAAA
 ||kindgirls.com^$dnstype=AAAA
@@ -21142,6 +21150,7 @@
 ||miniworkshop.com^$dnstype=AAAA
 ||miniyaletown.ca^$dnstype=AAAA
 ||minjian-danganguan.org^$dnstype=AAAA
+||minkch.com^$dnstype=AAAA
 ||minnano-av.com^$dnstype=AAAA
 ||minne.com^$dnstype=AAAA
 ||minneapolisbmw.com^$dnstype=AAAA
@@ -21327,6 +21336,7 @@
 ||moeero-library.com^$dnstype=AAAA
 ||moeerolibrary.com^$dnstype=AAAA
 ||moefuns.co^$dnstype=AAAA
+||moegirl.org^$dnstype=AAAA
 ||moeimg.net^$dnstype=AAAA
 ||moeli-desu.com^$dnstype=AAAA
 ||moemax.net^$dnstype=AAAA
@@ -21583,6 +21593,7 @@
 ||movidius.net^$dnstype=AAAA
 ||movidius.org^$dnstype=AAAA
 ||movie-erog.com^$dnstype=AAAA
+||movie.eroterest.net^$dnstype=AAAA
 ||movie1000.xyz^$dnstype=AAAA
 ||moviefap.com^$dnstype=AAAA
 ||moviepost.com^$dnstype=AAAA
@@ -23097,6 +23108,7 @@
 ||nixpkgs.org^$dnstype=AAAA
 ||niziero.info^$dnstype=AAAA
 ||njactb.org^$dnstype=AAAA
+||njav.com^$dnstype=AAAA
 ||njav.tv^$dnstype=AAAA
 ||njavtv.com^$dnstype=AAAA
 ||njncscotlandscolleges.ac.uk^$dnstype=AAAA
@@ -25225,6 +25237,7 @@
 ||playfabapi.com^$dnstype=AAAA
 ||playfamily.ru^$dnstype=AAAA
 ||playforceone.com^$dnstype=AAAA
+||playgwent.com^$dnstype=AAAA
 ||playhearthstone.com^$dnstype=AAAA
 ||playmation.com^$dnstype=AAAA
 ||playmeow.com^$dnstype=AAAA
@@ -25293,6 +25306,7 @@
 ||pmhcjk.com^$dnstype=AAAA
 ||pml.ac.uk^$dnstype=AAAA
 ||pms.ac.uk^$dnstype=AAAA
+||po-kaki-to.com^$dnstype=AAAA
 ||po18.tw^$dnstype=AAAA
 ||po2b.com^$dnstype=AAAA
 ||pobeda.page^$dnstype=AAAA
@@ -31181,6 +31195,7 @@
 ||theweek.in^$dnstype=AAAA
 ||thewgo.org^$dnstype=AAAA
 ||thewirechina.com^$dnstype=AAAA
+||thewitcher.com^$dnstype=AAAA
 ||thewitnesshk.com^$dnstype=AAAA
 ||thewomenslibrary.ac.uk^$dnstype=AAAA
 ||thewonderful101.com^$dnstype=AAAA
@@ -35454,6 +35469,9 @@
 ||xn--czq75pvv1aj5c.org^$dnstype=AAAA
 ||xn--d1abkf4ap.fun^$dnstype=AAAA
 ||xn--d4ty0ojsqzfd.com^$dnstype=AAAA
+||xn--fiq80y.hk^$dnstype=AAAA
+||xn--fiq80y3xbiwr.hk^$dnstype=AAAA
+||xn--fiq80y3xbiwrs0kiu9d.hk^$dnstype=AAAA
 ||xn--fiqs8s1bxp3anr7a.hk^$dnstype=AAAA
 ||xn--fiqs8s1byzqyvl.hk^$dnstype=AAAA
 ||xn--flw351e.com^$dnstype=AAAA
@@ -36803,6 +36821,7 @@
 ||zorrovpn.com^$dnstype=AAAA
 ||zotero.org^$dnstype=AAAA
 ||zozotown.com^$dnstype=AAAA
+||zozovideo.com^$dnstype=AAAA
 ||zpagov.net^$dnstype=AAAA
 ||zpath.com^$dnstype=AAAA
 ||zpn.im^$dnstype=AAAA
