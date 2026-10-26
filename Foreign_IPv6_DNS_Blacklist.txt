@@ -4430,6 +4430,7 @@
 ||bicton.ac.uk^$dnstype=AAAA
 ||bidbay.com^$dnstype=AAAA
 ||bidi.net.uk^$dnstype=AAAA
+||bidobido.xyz^$dnstype=AAAA
 ||bidong25.com^$dnstype=AAAA
 ||bidong9.com^$dnstype=AAAA
 ||bidorbuyindia.com^$dnstype=AAAA
@@ -4497,6 +4498,7 @@
 ||bikaa.xyz^$dnstype=AAAA
 ||bikac.xyz^$dnstype=AAAA
 ||bikaios.xyz^$dnstype=AAAA
+||bikawebapp.com^$dnstype=AAAA
 ||bil.ac.uk^$dnstype=AAAA
 ||bilborough.ac.uk^$dnstype=AAAA
 ||bild.de^$dnstype=AAAA
@@ -15943,6 +15945,7 @@
 ||huabansp.com^$dnstype=AAAA
 ||huabansp7.club^$dnstype=AAAA
 ||huaglad.com^$dnstype=AAAA
+||huakacomic.com^$dnstype=AAAA
 ||huanghuagang.org^$dnstype=AAAA
 ||huangse.love^$dnstype=AAAA
 ||huangyiyu.com^$dnstype=AAAA
@@ -25018,6 +25021,7 @@
 ||piaotian.net^$dnstype=AAAA
 ||piapp.com.tw^$dnstype=AAAA
 ||piapro.net^$dnstype=AAAA
+||pica-id.com^$dnstype=AAAA
 ||picacg2022.com^$dnstype=AAAA
 ||picacgy.com^$dnstype=AAAA
 ||picacn.xyz^$dnstype=AAAA
@@ -31512,6 +31516,7 @@
 ||tinyurl.com^$dnstype=AAAA
 ||tiohentai.com^$dnstype=AAAA
 ||tipas.net^$dnstype=AAAA
+||tipatipa.xyz^$dnstype=AAAA
 ||tipo.gov.tw^$dnstype=AAAA
 ||tipple.ac.uk^$dnstype=AAAA
 ||tire-cadcam.com^$dnstype=AAAA
@@ -35472,10 +35477,7 @@
 ||xn--fiq80y.hk^$dnstype=AAAA
 ||xn--fiq80y3xbiwr.hk^$dnstype=AAAA
 ||xn--fiq80y3xbiwrs0kiu9d.hk^$dnstype=AAAA
-||xn--fiqs8s1bxp3anr7a.hk^$dnstype=AAAA
-||xn--fiqs8s1byzqyvl.hk^$dnstype=AAAA
 ||xn--flw351e.com^$dnstype=AAAA
-||xn--gdt08a.hk^$dnstype=AAAA
 ||xn--ggle-55da.com^$dnstype=AAAA
 ||xn--gmq348bujlxrb.com^$dnstype=AAAA
 ||xn--gmq92kd2rm1kx34a.com^$dnstype=AAAA
@@ -35491,16 +35493,12 @@
 ||xn--m1abbbgjah.lol^$dnstype=AAAA
 ||xn--mts47c3w9b1qr.net^$dnstype=AAAA
 ||xn--mtswd61ejxq.com^$dnstype=AAAA
-||xn--mxtq18a.hk^$dnstype=AAAA
 ||xn--ngstr-lra8j.com^$dnstype=AAAA
 ||xn--noss43i.com^$dnstype=AAAA
 ||xn--oiq.cc^$dnstype=AAAA
 ||xn--pearsonenespaol-brb.com^$dnstype=AAAA
 ||xn--pssu7ci2j23mp9ny48b.hk^$dnstype=AAAA
-||xn--pssu7cv61af1tcs59bnvd.hk^$dnstype=AAAA
 ||xn--pssu7cv61af44b.hk^$dnstype=AAAA
-||xn--pssu7cv61ahw8aq79bztd.hk^$dnstype=AAAA
-||xn--pssu7cv61ahwcb1p2yk.hk^$dnstype=AAAA
 ||xn--q41am8x.com^$dnstype=AAAA
 ||xn--qhrx81fxh2a.xn--55qx5d.hk^$dnstype=AAAA
 ||xn--qoq462m.com^$dnstype=AAAA
@@ -35513,8 +35511,6 @@
 ||xn--uis17aj9kmuf.com^$dnstype=AAAA
 ||xn--urs05q.jp^$dnstype=AAAA
 ||xn--vuqv2cf7wzyig79c.com^$dnstype=AAAA
-||xn--wcv22d.hk^$dnstype=AAAA
-||xn--wcvs22d1m.hk^$dnstype=AAAA
 ||xn--x-qeu1ji09tzlg.biz^$dnstype=AAAA
 ||xn--x-qeu1ji09tzlg.net^$dnstype=AAAA
 ||xn--xsq421m.com^$dnstype=AAAA
