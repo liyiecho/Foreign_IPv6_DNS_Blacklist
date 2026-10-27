@@ -992,6 +992,7 @@
 ||addthiscdn.com^$dnstype=AAAA
 ||addthisedge.com^$dnstype=AAAA
 ||addtoany.com^$dnstype=AAAA
+||addtodropbox.com^$dnstype=AAAA
 ||addyoutube.com^$dnstype=AAAA
 ||adelaidebbs.com^$dnstype=AAAA
 ||adelaidenow.com.au^$dnstype=AAAA
@@ -2720,6 +2721,9 @@
 ||apps.evozi.com^$dnstype=AAAA
 ||appsflayer.com^$dnstype=AAAA
 ||appsflyersdk.com^$dnstype=AAAA
+||appsgenaiserver-pa.clients.google.com^$dnstype=AAAA
+||appsgenaiserver-pa.clients6.google.com^$dnstype=AAAA
+||appsgenaiserver-pa.googleapis.com^$dnstype=AAAA
 ||appshopper.com^$dnstype=AAAA
 ||appsmail.ru^$dnstype=AAAA
 ||appsocks.net^$dnstype=AAAA
@@ -8650,6 +8654,7 @@
 ||dasaob.online^$dnstype=AAAA
 ||dasg.ac.uk^$dnstype=AAAA
 ||dash-1.ac.uk^$dnstype=AAAA
+||dash.ai^$dnstype=AAAA
 ||dash.cloudflare.com^$dnstype=AAAA
 ||dashlane.com^$dnstype=AAAA
 ||dashly.app^$dnstype=AAAA
@@ -8725,6 +8730,8 @@
 ||dbmoscow.ru^$dnstype=AAAA
 ||dbo-dengi.online^$dnstype=AAAA
 ||dc-msedge.net^$dnstype=AAAA
+||dc.applicationinsights.azure.com^$dnstype=AAAA
+||dc.services.visualstudio.com^$dnstype=AAAA
 ||dca.ac.uk^$dnstype=AAAA
 ||dcapital.ru^$dnstype=AAAA
 ||dcard.cc^$dnstype=AAAA
@@ -9637,6 +9644,7 @@
 ||docs.new^$dnstype=AAAA
 ||docs.rs^$dnstype=AAAA
 ||docs.rw^$dnstype=AAAA
+||docsend.com^$dnstype=AAAA
 ||doctor-videos.com^$dnstype=AAAA
 ||doctorvoice.org^$dnstype=AAAA
 ||documentforce.com^$dnstype=AAAA
@@ -9881,15 +9889,19 @@
 ||dropbox-dns.com^$dnstype=AAAA
 ||dropbox.com^$dnstype=AAAA
 ||dropbox.tech^$dnstype=AAAA
+||dropbox.zendesk.com^$dnstype=AAAA
 ||dropboxapi.com^$dnstype=AAAA
 ||dropboxbusiness.com^$dnstype=AAAA
 ||dropboxcaptcha.com^$dnstype=AAAA
+||dropboxexperiment.com^$dnstype=AAAA
 ||dropboxforum.com^$dnstype=AAAA
 ||dropboxforums.com^$dnstype=AAAA
 ||dropboxinsiders.com^$dnstype=AAAA
+||dropboxlegal.com^$dnstype=AAAA
 ||dropboxmail.com^$dnstype=AAAA
 ||dropboxpartners.com^$dnstype=AAAA
 ||dropboxstatic.com^$dnstype=AAAA
+||dropboxteam.com^$dnstype=AAAA
 ||dropboxusercontent.com^$dnstype=AAAA
 ||droplr.com^$dnstype=AAAA
 ||drpc.org^$dnstype=AAAA
@@ -14979,10 +14991,12 @@
 ||helixstudios.net^$dnstype=AAAA
 ||helloandroid.com^$dnstype=AAAA
 ||helloavgirls.com^$dnstype=AAAA
+||hellofax.com^$dnstype=AAAA
 ||hellofuture.ac.uk^$dnstype=AAAA
 ||hellokittybeats.com^$dnstype=AAAA
 ||hellomoto.com^$dnstype=AAAA
 ||helloqueer.com^$dnstype=AAAA
+||hellosign.com^$dnstype=AAAA
 ||hellosmartbook.com^$dnstype=AAAA
 ||helloss.pw^$dnstype=AAAA
 ||hellotxt.com^$dnstype=AAAA
@@ -19148,6 +19162,7 @@
 ||librarylovefest.com^$dnstype=AAAA
 ||libraryofthumbs.com^$dnstype=AAAA
 ||libredd.it^$dnstype=AAAA
+||librewolf.dev^$dnstype=AAAA
 ||librewolf.net^$dnstype=AAAA
 ||libsolutions.app^$dnstype=AAAA
 ||libsolutions.domains^$dnstype=AAAA
@@ -19331,6 +19346,7 @@
 ||live-patreon-marketing.pantheonsite.io^$dnstype=AAAA
 ||live-video.net^$dnstype=AAAA
 ||live.ac.uk^$dnstype=AAAA
+||live.applicationinsights.azure.com^$dnstype=AAAA
 ||live.com^$dnstype=AAAA
 ||live.com.au^$dnstype=AAAA
 ||live.eu^$dnstype=AAAA
@@ -22533,7 +22549,6 @@
 ||netflav5.com^$dnstype=AAAA
 ||netflix.ca^$dnstype=AAAA
 ||netflix.com^$dnstype=AAAA
-||netflix.com.edgesuite.net^$dnstype=AAAA
 ||netflix.net^$dnstype=AAAA
 ||netflixdnstest0.com^$dnstype=AAAA
 ||netflixdnstest1.com^$dnstype=AAAA
@@ -27353,6 +27368,7 @@
 ||rt.com^$dnstype=AAAA
 ||rt.rs^$dnstype=AAAA
 ||rt.ru^$dnstype=AAAA
+||rt.services.visualstudio.com^$dnstype=AAAA
 ||rtalabel.org^$dnstype=AAAA
 ||rtarabic.com^$dnstype=AAAA
 ||rtarabic.net^$dnstype=AAAA
@@ -29566,7 +29582,6 @@
 ||spoti.fi^$dnstype=AAAA
 ||spotify-everywhere.com^$dnstype=AAAA
 ||spotify.com^$dnstype=AAAA
-||spotify.com.edgesuite.net^$dnstype=AAAA
 ||spotify.design^$dnstype=AAAA
 ||spotify.link^$dnstype=AAAA
 ||spotify.map.fastly.net^$dnstype=AAAA
