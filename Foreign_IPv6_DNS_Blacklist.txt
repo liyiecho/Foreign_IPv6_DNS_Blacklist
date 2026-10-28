@@ -2861,6 +2861,7 @@
 ||arteldoc.tv^$dnstype=AAAA
 ||articles.sk^$dnstype=AAAA
 ||artifact.ac.uk^$dnstype=AAAA
+||artificialanalysis.ai^$dnstype=AAAA
 ||artixlinux.org^$dnstype=AAAA
 ||artnudegalleries.com^$dnstype=AAAA
 ||artoferotica.info^$dnstype=AAAA
@@ -7384,6 +7385,7 @@
 ||climate-server.com^$dnstype=AAAA
 ||climatechangewales.ac.uk^$dnstype=AAAA
 ||climb.ac.uk^$dnstype=AAAA
+||cline.bot^$dnstype=AAAA
 ||clinica-tibet.ru^$dnstype=AAAA
 ||clinical-videos.com^$dnstype=AAAA
 ||clinicalkey.com^$dnstype=AAAA
@@ -7861,6 +7863,7 @@
 ||comm-verse.com^$dnstype=AAAA
 ||commandandconquer.com^$dnstype=AAAA
 ||commandarms.com^$dnstype=AAAA
+||commandcode.ai^$dnstype=AAAA
 ||comments.app^$dnstype=AAAA
 ||commentshk.com^$dnstype=AAAA
 ||commerceos.com^$dnstype=AAAA
@@ -7947,6 +7950,7 @@
 ||contentful.com^$dnstype=AAAA
 ||contest.com^$dnstype=AAAA
 ||contests.twilio.com^$dnstype=AAAA
+||context7.com^$dnstype=AAAA
 ||convio.net^$dnstype=AAAA
 ||conviva.com^$dnstype=AAAA
 ||convrgencegame.com^$dnstype=AAAA
@@ -20598,6 +20602,7 @@
 ||met-nude.com^$dnstype=AAAA
 ||meta.ai^$dnstype=AAAA
 ||meta.com^$dnstype=AAAA
+||metaaiusercontent.com^$dnstype=AAAA
 ||metaaivm.com^$dnstype=AAAA
 ||metabolomics.ac.uk^$dnstype=AAAA
 ||metabora.io^$dnstype=AAAA
@@ -23300,6 +23305,7 @@
 ||nottinghamtrentadfs.ac.uk^$dnstype=AAAA
 ||nottm-coll.ac.uk^$dnstype=AAAA
 ||nottsmaternity.ac.uk^$dnstype=AAAA
+||nousresearch.com^$dnstype=AAAA
 ||novafile.com^$dnstype=AAAA
 ||novelai.net^$dnstype=AAAA
 ||novelasia.com^$dnstype=AAAA
@@ -31233,6 +31239,7 @@
 ||thinking3d.ac.uk^$dnstype=AAAA
 ||thinkingtaiwan.com^$dnstype=AAAA
 ||thinkofliving.com^$dnstype=AAAA
+||thinkorswim.com^$dnstype=AAAA
 ||thinkquarterly.co.uk^$dnstype=AAAA
 ||thinkquarterly.com^$dnstype=AAAA
 ||thinkwales.ac.uk^$dnstype=AAAA
