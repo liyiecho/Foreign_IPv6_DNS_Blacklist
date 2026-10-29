@@ -17610,6 +17610,7 @@
 ||ivacy.com^$dnstype=AAAA
 ||iverycd.com^$dnstype=AAAA
 ||ivi.ru^$dnstype=AAAA
+||ivi.tv^$dnstype=AAAA
 ||ivicdn.tv^$dnstype=AAAA
 ||ivintageporn.com^$dnstype=AAAA
 ||ivonblog.com^$dnstype=AAAA
