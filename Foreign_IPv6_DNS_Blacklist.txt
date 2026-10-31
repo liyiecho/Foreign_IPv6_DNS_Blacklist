@@ -132,6 +132,7 @@
 ||18comic-god.xyz^$dnstype=AAAA
 ||18comic.cc^$dnstype=AAAA
 ||18comic.company^$dnstype=AAAA
+||18comic.ink^$dnstype=AAAA
 ||18comic.org^$dnstype=AAAA
 ||18comic.vip^$dnstype=AAAA
 ||18commic.com^$dnstype=AAAA
@@ -2227,6 +2228,7 @@
 ||anthemgame.com^$dnstype=AAAA
 ||anthemthegame.com^$dnstype=AAAA
 ||anthonycalzadilla.com^$dnstype=AAAA
+||anthropic.auth0.com^$dnstype=AAAA
 ||anthropic.com^$dnstype=AAAA
 ||anthropic.team^$dnstype=AAAA
 ||anthropology.ac.uk^$dnstype=AAAA
@@ -4584,6 +4586,7 @@
 ||bingparachute.com^$dnstype=AAAA
 ||bingsandbox.com^$dnstype=AAAA
 ||bingsettingssearch.trafficmanager.net^$dnstype=AAAA
+||bingstatic.com^$dnstype=AAAA
 ||bingvisualsearch.com^$dnstype=AAAA
 ||bingworld.com^$dnstype=AAAA
 ||bingx.com^$dnstype=AAAA
@@ -5802,6 +5805,7 @@
 ||bsixbrookehousesixthformcollege.ac.uk^$dnstype=AAAA
 ||bsixcollege.ac.uk^$dnstype=AAAA
 ||bsky.app^$dnstype=AAAA
+||bsky.chat^$dnstype=AAAA
 ||bsky.network^$dnstype=AAAA
 ||bsky.social^$dnstype=AAAA
 ||bsls.ac.uk^$dnstype=AAAA
@@ -13682,6 +13686,7 @@
 ||githubassets.com^$dnstype=AAAA
 ||githubcopilot.com^$dnstype=AAAA
 ||githubhackathon.com^$dnstype=AAAA
+||githubhelp.com^$dnstype=AAAA
 ||githubnext.com^$dnstype=AAAA
 ||githubpreview.dev^$dnstype=AAAA
 ||githubstatus.com^$dnstype=AAAA
@@ -21736,6 +21741,7 @@
 ||msfteducation.ca^$dnstype=AAAA
 ||msftncsi.com^$dnstype=AAAA
 ||msftnet.org^$dnstype=AAAA
+||msftstatic.com^$dnstype=AAAA
 ||msgamesresearch.com^$dnstype=AAAA
 ||msgamestudios.com^$dnstype=AAAA
 ||msguancha.com^$dnstype=AAAA
@@ -31439,9 +31445,12 @@
 ||tiktokeu-cdn.com^$dnstype=AAAA
 ||tiktokglobalshopv.com^$dnstype=AAAA
 ||tiktokminis.us^$dnstype=AAAA
+||tiktokshop.com^$dnstype=AAAA
+||tiktokstaticb.com^$dnstype=AAAA
 ||tiktokv.com^$dnstype=AAAA
 ||tiktokv.eu^$dnstype=AAAA
 ||tiktokv.us^$dnstype=AAAA
+||tiktokvapp.com^$dnstype=AAAA
 ||tiktokw.eu^$dnstype=AAAA
 ||tiktokw.us^$dnstype=AAAA
 ||tilda.cc^$dnstype=AAAA
