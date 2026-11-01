@@ -2330,6 +2330,7 @@
 ||api.recaptcha.net^$dnstype=AAAA
 ||api.shuaiapi.com^$dnstype=AAAA
 ||api.steampowered.com^$dnstype=AAAA
+||api.themoviedb.org^$dnstype=AAAA
 ||api.viu.now.com^$dnstype=AAAA
 ||api.waqi.info^$dnstype=AAAA
 ||apiary.io^$dnstype=AAAA
@@ -31724,6 +31725,7 @@
 ||torproject.org^$dnstype=AAAA
 ||torrentgalaxy.to^$dnstype=AAAA
 ||torrentkitty.tv^$dnstype=AAAA
+||torrentleech.org^$dnstype=AAAA
 ||torrentleen.com^$dnstype=AAAA
 ||torrentmac.net^$dnstype=AAAA
 ||torrentprivacy.com^$dnstype=AAAA
@@ -36515,6 +36517,7 @@
 ||youtubekids.com^$dnstype=AAAA
 ||youtubemobilesupport.com^$dnstype=AAAA
 ||youversion.com^$dnstype=AAAA
+||youversionapi.com^$dnstype=AAAA
 ||youwin.com^$dnstype=AAAA
 ||youwuss.com^$dnstype=AAAA
 ||youx.xxx^$dnstype=AAAA
