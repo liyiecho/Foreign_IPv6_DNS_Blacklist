@@ -4966,6 +4966,7 @@
 ||bmi.ir^$dnstype=AAAA
 ||bmia.org^$dnstype=AAAA
 ||bml.info^$dnstype=AAAA
+||bmonkeys.net^$dnstype=AAAA
 ||bms.ac.uk^$dnstype=AAAA
 ||bmth-poole-cad.ac.uk^$dnstype=AAAA
 ||bmth.ac.uk^$dnstype=AAAA
@@ -5408,6 +5409,7 @@
 ||bokep.net^$dnstype=AAAA
 ||bokepseks.org^$dnstype=AAAA
 ||bokepvidz.com^$dnstype=AAAA
+||boldgrid.com^$dnstype=AAAA
 ||bolehvpn.net^$dnstype=AAAA
 ||bollywoodlife.com^$dnstype=AAAA
 ||bolt.ac.uk^$dnstype=AAAA
@@ -7493,6 +7495,7 @@
 ||cloudsync-prod.s3.amazonaws.com^$dnstype=AAAA
 ||cloudvolumes.com^$dnstype=AAAA
 ||cloudworks.ac.uk^$dnstype=AAAA
+||cloudwp.dev^$dnstype=AAAA
 ||cloudyzgirl.com^$dnstype=AAAA
 ||cloupia.com^$dnstype=AAAA
 ||cloupia.net^$dnstype=AAAA
@@ -29956,6 +29959,7 @@
 ||steammobile.akamaized.net^$dnstype=AAAA
 ||steamofporn.com^$dnstype=AAAA
 ||steamos.cloud^$dnstype=AAAA
+||steampeek.hu^$dnstype=AAAA
 ||steampipe-kr.akamaized.net^$dnstype=AAAA
 ||steampipe-partner.akamaized.net^$dnstype=AAAA
 ||steampipe.akamaized.net^$dnstype=AAAA
@@ -33799,6 +33803,7 @@
 ||vodafone.de^$dnstype=AAAA
 ||vodafone.it^$dnstype=AAAA
 ||vodafone.nl^$dnstype=AAAA
+||vodafoneziggo.nl^$dnstype=AAAA
 ||voi.id^$dnstype=AAAA
 ||voicettank.org^$dnstype=AAAA
 ||voila.ac.uk^$dnstype=AAAA
@@ -34370,7 +34375,9 @@
 ||webex.de^$dnstype=AAAA
 ||webex.es^$dnstype=AAAA
 ||webex.fr^$dnstype=AAAA
+||webflow-ext.com^$dnstype=AAAA
 ||webflow.com^$dnstype=AAAA
+||webflow.io^$dnstype=AAAA
 ||webfreer.com^$dnstype=AAAA
 ||webgata.net^$dnstype=AAAA
 ||webgirlsonline.net^$dnstype=AAAA
@@ -34401,6 +34408,7 @@
 ||webs-tv.net^$dnstype=AAAA
 ||websdr.org^$dnstype=AAAA
 ||webshare.io^$dnstype=AAAA
+||website-files.com^$dnstype=AAAA
 ||website.new^$dnstype=AAAA
 ||websitepulse.com^$dnstype=AAAA
 ||websnapr.com^$dnstype=AAAA
@@ -36767,6 +36775,7 @@
 ||zi5.me^$dnstype=AAAA
 ||zibacity.com^$dnstype=AAAA
 ||ziddu.com^$dnstype=AAAA
+||ziggo.nl^$dnstype=AAAA
 ||ziglang.org^$dnstype=AAAA
 ||zigzag.kr^$dnstype=AAAA
 ||zillionk.com^$dnstype=AAAA
