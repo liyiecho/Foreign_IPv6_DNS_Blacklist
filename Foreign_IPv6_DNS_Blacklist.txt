@@ -4191,6 +4191,7 @@
 ||beget.cloud^$dnstype=AAAA
 ||beget.com^$dnstype=AAAA
 ||beget.de^$dnstype=AAAA
+||beget.email^$dnstype=AAAA
 ||beget.hosting^$dnstype=AAAA
 ||beget.pro^$dnstype=AAAA
 ||beget.ru^$dnstype=AAAA
