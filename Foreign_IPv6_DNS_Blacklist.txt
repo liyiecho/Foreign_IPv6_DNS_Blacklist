@@ -19235,6 +19235,9 @@
 ||liliav.com^$dnstype=AAAA
 ||lilith-soft.com^$dnstype=AAAA
 ||limavady.ac.uk^$dnstype=AAAA
+||limbuscompany.global^$dnstype=AAAA
+||limbuscompanyapi.com^$dnstype=AAAA
+||limbuscompanycdn.org^$dnstype=AAAA
 ||lime.ac.uk^$dnstype=AAAA
 ||limedia.tw^$dnstype=AAAA
 ||limelight.com^$dnstype=AAAA
@@ -26063,6 +26066,7 @@
 ||projectcircuitbreaker.com^$dnstype=AAAA
 ||projecteuclid.org^$dnstype=AAAA
 ||projectjav.com^$dnstype=AAAA
+||projectmoon.studio^$dnstype=AAAA
 ||projectmurphy.net^$dnstype=AAAA
 ||projectpoint.com^$dnstype=AAAA
 ||projectpoint.net^$dnstype=AAAA
@@ -28960,6 +28964,7 @@
 ||skillswestyorks.ac.uk^$dnstype=AAAA
 ||skimtube.com^$dnstype=AAAA
 ||skinstrip.net^$dnstype=AAAA
+||skinswap.com^$dnstype=AAAA
 ||skintone.google^$dnstype=AAAA
 ||skk.moe^$dnstype=AAAA
 ||skokka.com^$dnstype=AAAA
