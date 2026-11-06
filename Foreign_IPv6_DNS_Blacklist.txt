@@ -20329,7 +20329,6 @@
 ||maturewomenanal.com^$dnstype=AAAA
 ||maturexxxvideos.cc^$dnstype=AAAA
 ||mau.ac.uk^$dnstype=AAAA
-||maven.neoforged.net^$dnstype=AAAA
 ||maven.org^$dnstype=AAAA
 ||max-tcs.ru^$dnstype=AAAA
 ||max.com^$dnstype=AAAA
