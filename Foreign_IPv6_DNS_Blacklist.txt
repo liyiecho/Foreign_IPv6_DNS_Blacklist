@@ -8696,6 +8696,7 @@
 ||database.asahi.com^$dnstype=AAAA
 ||datacenters.google^$dnstype=AAAA
 ||datacloudmy.com^$dnstype=AAAA
+||datadoghq.com^$dnstype=AAAA
 ||dataframeworks.com^$dnstype=AAAA
 ||datafuturesalphapilot.ac.uk^$dnstype=AAAA
 ||datagrid.ac.uk^$dnstype=AAAA
@@ -14483,6 +14484,7 @@
 ||grimsbytec.ac.uk^$dnstype=AAAA
 ||grindr.com^$dnstype=AAAA
 ||grok.com^$dnstype=AAAA
+||grokbot.com^$dnstype=AAAA
 ||grokipedia.com^$dnstype=AAAA
 ||grooby.com^$dnstype=AAAA
 ||groq.com^$dnstype=AAAA
@@ -15958,6 +15960,7 @@
 ||htnewbooks.com^$dnstype=AAAA
 ||htp.ac.uk^$dnstype=AAAA
 ||hts.ac.uk^$dnstype=AAAA
+||http-intake.logs.us5.datadoghq.com^$dnstype=AAAA
 ||httpfacebook.com^$dnstype=AAAA
 ||https443.net^$dnstype=AAAA
 ||https443.org^$dnstype=AAAA
@@ -23756,6 +23759,7 @@
 ||nzchinese.net.nz^$dnstype=AAAA
 ||o-courier.ru^$dnstype=AAAA
 ||o-uchi.ru^$dnstype=AAAA
+||o1158394.ingest.us.sentry.io^$dnstype=AAAA
 ||o2action.co.kr^$dnstype=AAAA
 ||o3.ru^$dnstype=AAAA
 ||o365weve-dev.com^$dnstype=AAAA
@@ -26029,6 +26033,7 @@
 ||prodforza.blob.core.windows.net^$dnstype=AAAA
 ||prodrive-japan.com^$dnstype=AAAA
 ||product.co.jp^$dnstype=AAAA
+||production-copilot-host-westus.webpubsub.azure.com^$dnstype=AAAA
 ||production-openaicom-storage.azureedge.net^$dnstype=AAAA
 ||productionresultssa0.blob.core.windows.net^$dnstype=AAAA
 ||productionresultssa1.blob.core.windows.net^$dnstype=AAAA
