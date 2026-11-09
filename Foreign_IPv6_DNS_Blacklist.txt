@@ -35470,7 +35470,6 @@
 ||xm.com^$dnstype=AAAA
 ||xmail.ru^$dnstype=AAAA
 ||xmalay.com^$dnstype=AAAA
-||xmart.tw^$dnstype=AAAA
 ||xmas.ac.uk^$dnstype=AAAA
 ||xmat.ac.uk^$dnstype=AAAA
 ||xmature.su^$dnstype=AAAA
