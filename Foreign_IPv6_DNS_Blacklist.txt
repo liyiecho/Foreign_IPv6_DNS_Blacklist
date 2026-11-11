@@ -14386,6 +14386,8 @@
 ||graduateoutcomes.ac.uk^$dnstype=AAAA
 ||graduateswales.ac.uk^$dnstype=AAAA
 ||graduatewales.ac.uk^$dnstype=AAAA
+||grafana.com^$dnstype=AAAA
+||grafana.net^$dnstype=AAAA
 ||grafolio.com^$dnstype=AAAA
 ||graias.com^$dnstype=AAAA
 ||graiasmovies.com^$dnstype=AAAA
@@ -26441,6 +26443,7 @@
 ||queens.ac.uk^$dnstype=AAAA
 ||queensu.ac.uk^$dnstype=AAAA
 ||quercus.ac.uk^$dnstype=AAAA
+||questionablequesting.com^$dnstype=AAAA
 ||questvisual.com^$dnstype=AAAA
 ||quicinc.com^$dnstype=AAAA
 ||quickbook.com.br^$dnstype=AAAA
@@ -29502,6 +29505,7 @@
 ||soylentnews.org^$dnstype=AAAA
 ||sp.cool^$dnstype=AAAA
 ||spa.ac.uk^$dnstype=AAAA
+||spacebattles.com^$dnstype=AAAA
 ||spaceexplored.com^$dnstype=AAAA
 ||spaceforce.mil^$dnstype=AAAA
 ||spacely.com.au^$dnstype=AAAA
