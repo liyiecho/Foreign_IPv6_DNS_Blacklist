@@ -465,6 +465,7 @@
 ||51luoben.com^$dnstype=AAAA
 ||51luoli.info^$dnstype=AAAA
 ||51mh.app^$dnstype=AAAA
+||51papaya.com^$dnstype=AAAA
 ||51pincha.cc^$dnstype=AAAA
 ||51tuqiang.com^$dnstype=AAAA
 ||520aa.tv^$dnstype=AAAA
